@@ -18,9 +18,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## URL contract
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Ceremony pages live at `/{slug}` — `/2026`, `/1930-2nd`, and so on. Those slugs are a public contract (search, shares, bookmarks) and **must not change** after they are published. Years that hosted two ceremonies never occupy the bare `/YYYY` path.
 
 ## Learn More
 

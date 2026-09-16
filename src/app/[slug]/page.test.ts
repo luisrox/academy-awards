@@ -16,7 +16,7 @@ vi.mock("next/navigation", () => ({
   useRouter: () => ({ push: vi.fn() }),
 }));
 
-import CeremonyPage, { generateStaticParams } from "./page";
+import CeremonyPage, { generateMetadata, generateStaticParams } from "./page";
 
 beforeEach(() => {
   mockNotFound.mockClear();
@@ -47,5 +47,25 @@ describe("ceremony detail route", () => {
       CeremonyPage({ params: Promise.resolve({ slug: "not-a-ceremony" }) }),
     ).rejects.toThrow("NEXT_NOT_FOUND");
     expect(mockNotFound).toHaveBeenCalled();
+  });
+
+  it("generateMetadata of the 98th edition produces the expected title", async () => {
+    const metadata = await generateMetadata({
+      params: Promise.resolve({ slug: "2026" }),
+    });
+    expect(metadata.title).toBe("2026 Oscar Winners \u2014 98th Academy Awards");
+    expect(String(metadata.description)).toMatch(/One Battle after Another/);
+  });
+
+  it("generateMetadata for /1930 matches the canonical 1930-2nd edition", async () => {
+    const fromBare = await generateMetadata({
+      params: Promise.resolve({ slug: "1930" }),
+    });
+    const fromCanonical = await generateMetadata({
+      params: Promise.resolve({ slug: "1930-2nd" }),
+    });
+    expect(fromBare.title).toEqual(fromCanonical.title);
+    expect(fromBare.alternates?.canonical).toBe("/1930-2nd");
+    expect(fromCanonical.alternates?.canonical).toBe("/1930-2nd");
   });
 });

@@ -5,6 +5,7 @@ import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { YearGrid } from "@/components/YearGrid";
 import { getGridEntries } from "@/lib/ceremony-data";
+import { siteUrl } from "@/lib/seo";
 import "./globals.css";
 
 const playfair = Playfair_Display({
@@ -20,8 +21,21 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Oscars Winners",
+  metadataBase: new URL(siteUrl()),
+  title: {
+    default: "Oscars Winners",
+    template: "%s",
+  },
   description: "Every Academy Awards ceremony, in two clicks.",
+  alternates: { canonical: "/" },
+  robots: { index: true, follow: true },
+  openGraph: {
+    type: "website",
+    siteName: "Oscars Winners",
+    title: "Oscars Winners",
+    description: "Every Academy Awards ceremony, in two clicks.",
+    url: "/",
+  },
 };
 
 export default function RootLayout({

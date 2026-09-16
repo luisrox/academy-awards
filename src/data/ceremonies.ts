@@ -8,6 +8,10 @@ import type { Ceremony } from "@/lib/types";
  *  - 1930 hosted two ceremonies (2nd in April, 3rd in November), so the
  *    ceremony year alone cannot identify an edition.
  *  - No ceremony was held in 1933; the 6th jumped to March 1934.
+ *
+ * Public URL contract (spec.md 12): `/{slug}` is a published identifier.
+ * Once a ceremony is live, its slug must not change. Ambiguous years never
+ * occupy the bare /YYYY path; they use /YYYY-{ordinal} (e.g. /1930-2nd).
  */
 const CEREMONY_DATES: string[] = [
   "1929-05-16", // 1st
@@ -160,8 +164,9 @@ function buildCeremonies(): Ceremony[] {
       ceremonyYear,
       ceremonyDate,
       filmYearLabel: STRADDLED_FILM_YEARS[ordinal] ?? String(ceremonyYear - 1),
-      // Only the 1930 pair needs disambiguating, and both get a suffix so
-      // neither silently claims the bare /1930 route.
+      // Public contract: this slug is the permanent URL. Do not rename a
+      // published edition; ambiguous years are always suffixed so neither
+      // silently claims the bare /YYYY route.
       slug: isAmbiguousYear
         ? `${ceremonyYear}-${ordinalSuffix(ordinal)}`
         : String(ceremonyYear),
