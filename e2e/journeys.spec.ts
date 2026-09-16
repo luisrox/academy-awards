@@ -1,0 +1,113 @@
+import { test, expect } from "@playwright/test";
+import { ceremonyCard, overlay } from "./helpers";
+
+/** Visible duration of each headline winner while hovering, spec.md 6.1. */
+const HEADLINE_ROTATION_MS = 1600;
+
+test.describe("spec.md 11.5 journeys", () => {
+  test("E1: hover on a year card rotates headline winners", async ({ page }) => {
+    await page.emulateMedia({ reducedMotion: "no-preference" });
+    await page.goto("/");
+    const card = ceremonyCard(page, "2026");
+    await card.hover();
+    await expect(card.getByText("Best Picture")).toBeVisible();
+    await expect(card.getByText("One Battle after Another")).toBeVisible();
+    await expect(card.getByText("Paul Thomas Anderson")).toBeVisible({
+      timeout: HEADLINE_ROTATION_MS + 1200,
+    });
+  });
+
+  test("E2: click opens the overlay at /{slug}", async ({ page }) => {
+    await page.goto("/");
+    await ceremonyCard(page, "2026").click();
+    await expect(page).toHaveURL(/\/2026$/);
+    await expect(overlay(page)).toBeVisible();
+    await expect(page.getByRole("heading", { level: 1, name: "2026" })).toBeVisible();
+  });
+
+  test("E3: arrows navigate editions and the URL follows", async ({ page }) => {
+    await page.goto("/2026");
+    await expect(overlay(page)).toBeVisible();
+    await page.getByRole("button", { name: "Previous ceremony" }).click();
+    await expect(page).toHaveURL(/\/2025$/);
+    await expect(page.getByRole("heading", { level: 1, name: "2025" })).toBeVisible();
+    await page.getByRole("button", { name: "Next ceremony" }).click();
+    await expect(page).toHaveURL(/\/2026$/);
+    await expect(page.getByRole("heading", { level: 1, name: "2026" })).toBeVisible();
+  });
+
+  test("E4: Escape closes the overlay and returns to /", async ({ page }) => {
+    await page.goto("/2026");
+    await expect(overlay(page)).toBeVisible();
+    await page.keyboard.press("Escape");
+    await expect(page).toHaveURL(/\/$/);
+    await expect(overlay(page)).toHaveCount(0);
+  });
+
+  test("E5: the browser back button walks the whole sequence", async ({ page }) => {
+    await page.goto("/");
+    await ceremonyCard(page, "2026").click();
+    await expect(page).toHaveURL(/\/2026$/);
+    await page.getByRole("button", { name: "Previous ceremony" }).click();
+    await expect(page).toHaveURL(/\/2025$/);
+    await page.goBack();
+    await expect(page).toHaveURL(/\/2026$/);
+    await expect(overlay(page)).toBeVisible();
+    await page.goBack();
+    await expect(page).toHaveURL(/\/$/);
+    await expect(overlay(page)).toHaveCount(0);
+  });
+
+  test("E6: a direct visit to /1994 renders the full page", async ({ page }) => {
+    await page.goto("/1994");
+    await expect(overlay(page)).toBeVisible();
+    await expect(page.getByRole("heading", { level: 1, name: "1994" })).toBeVisible();
+    await expect(
+      overlay(page).getByText("66th Ceremony", { exact: true }),
+    ).toBeVisible();
+    await expect(page.getByText("Schindler's List").first()).toBeVisible();
+    await expect(ceremonyCard(page, "1994")).toBeVisible();
+  });
+
+  test("E7: an invalid slug shows the not-found page", async ({ page }) => {
+    const response = await page.goto("/not-a-ceremony");
+    expect(response?.status()).toBe(404);
+    await expect(
+      page.getByRole("heading", { name: /not in the record/i }),
+    ).toBeVisible();
+  });
+
+  test("E8: jumping by decade scrolls to that section", async ({ page }) => {
+    await page.goto("/");
+    await page
+      .getByRole("navigation", { name: "Decades" })
+      .getByRole("link", { name: "1920s" })
+      .click();
+    await expect(page).toHaveURL(/#decade-1920s/);
+    await expect(
+      page.locator("#decade-1920s").getByRole("heading", { name: "1920s" }),
+    ).toBeInViewport();
+    await expect(ceremonyCard(page, "1929")).toBeVisible();
+  });
+
+  test.skip("E9: searching Parasite goes to the right edition", async () => {
+    // Search lands in paso 27; this scenario stays skipped until then.
+  });
+
+  test("E11: grid and overlay are usable with the keyboard only", async ({
+    page,
+  }) => {
+    await page.goto("/");
+    const card = ceremonyCard(page, "2026");
+    await card.focus();
+    await page.keyboard.press("Enter");
+    await expect(page).toHaveURL(/\/2026$/);
+    await expect(overlay(page)).toBeVisible();
+    await expect(overlay(page)).toBeFocused();
+    await page.keyboard.press("Tab");
+    await expect(overlay(page).locator(":focus")).toHaveCount(1);
+    await page.keyboard.press("Escape");
+    await expect(page).toHaveURL(/\/$/);
+    await expect(card).toBeFocused();
+  });
+});

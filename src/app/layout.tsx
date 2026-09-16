@@ -10,14 +10,18 @@ import "./globals.css";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
-  display: "swap",
+  display: "optional",
+  preload: false,
   variable: "--font-playfair",
+  weight: ["400", "600"],
 });
 
 const inter = Inter({
   subsets: ["latin"],
-  display: "swap",
+  display: "optional",
+  preload: false,
   variable: "--font-inter",
+  weight: ["400"],
 });
 
 export const metadata: Metadata = {
@@ -49,10 +53,10 @@ export default function RootLayout({
       <body className="deco-grain flex min-h-screen flex-col bg-ink font-sans text-muted antialiased">
         <SiteHeader />
         <DecadeNav />
-        <div className="relative flex-1">
+        <main className="relative flex-1">
           <YearGrid entries={entries} />
           {children}
-        </div>
+        </main>
         <SiteFooter />
       </body>
     </html>

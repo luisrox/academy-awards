@@ -73,19 +73,13 @@ export function YearCard({ entry }: YearCardProps) {
       href={`/${entry.slug}`}
       scroll={false}
       className="block no-underline"
-      aria-label={`${entry.label}, ${entry.subtitle}`}
       onMouseEnter={rotation.onMouseEnter}
       onMouseLeave={rotation.onMouseLeave}
     >
-      <DecoFrame className="flex min-h-[8.5rem] flex-col justify-center bg-surface px-5 py-6">
+      <DecoFrame className="flex min-h-[11.5rem] flex-col justify-center bg-surface px-5 py-6">
         <p className="font-display text-4xl font-semibold tracking-tight text-gold sm:text-5xl">
           {entry.label}
         </p>
-        {!rotation.hovering && !rotation.reducedMotion ? (
-          <p className="mt-2 font-sans text-xs tracking-wide text-muted">
-            {entry.subtitle}
-          </p>
-        ) : null}
         {rotation.reducedMotion ? (
           <ul className="mt-3 flex flex-col gap-2">
             {entry.headline.map((winner) => (
@@ -94,21 +88,28 @@ export function YearCard({ entry }: YearCardProps) {
               </li>
             ))}
           </ul>
-        ) : null}
-        <AnimatePresence mode="wait">
-          {rotation.current ? (
-            <motion.div
-              key={rotation.current.category}
-              className="mt-3"
-              initial={{ opacity: 0, y: 8 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -8 }}
-              transition={{ duration: 0.28 }}
-            >
-              <WinnerLines winner={rotation.current} />
-            </motion.div>
-          ) : null}
-        </AnimatePresence>
+        ) : (
+          <div className="mt-3 min-h-[4.75rem]">
+            {!rotation.hovering ? (
+              <p className="font-sans text-xs tracking-wide text-muted">
+                {entry.subtitle}
+              </p>
+            ) : null}
+            <AnimatePresence mode="wait">
+              {rotation.current ? (
+                <motion.div
+                  key={rotation.current.category}
+                  initial={{ opacity: 0, y: 8 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -8 }}
+                  transition={{ duration: 0.28 }}
+                >
+                  <WinnerLines winner={rotation.current} />
+                </motion.div>
+              ) : null}
+            </AnimatePresence>
+          </div>
+        )}
       </DecoFrame>
     </Link>
   );

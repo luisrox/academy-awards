@@ -10,7 +10,7 @@ export function SiteFooter() {
         Ceremony records are compiled from the{" "}
         <a
           href="https://awardsdatabase.oscars.org"
-          className="text-gold underline-offset-2 hover:text-gold-light hover:underline"
+          className="text-gold underline underline-offset-2 hover:text-gold-light"
         >
           Academy Awards Database
         </a>{" "}
@@ -21,7 +21,7 @@ export function SiteFooter() {
         Visit{" "}
         <a
           href="https://www.themoviedb.org"
-          className="text-gold underline-offset-2 hover:text-gold-light hover:underline"
+          className="text-gold underline underline-offset-2 hover:text-gold-light"
         >
           themoviedb.org
         </a>
