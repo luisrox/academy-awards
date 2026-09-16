@@ -5,7 +5,9 @@ import {
   CATEGORY_GROUPS,
   groupOrder,
   normalizeCategoryName,
+  parseFilmYear,
   resolveCategoryId,
+  resolveCategoryLabel,
 } from "./categories";
 
 const SPEC_ORDER: { id: CategoryGroup; label: string }[] = [
@@ -150,6 +152,12 @@ describe("CATEGORIES", () => {
     );
     expect(new Set(pairs).size).toBe(pairs.length);
   });
+
+  it("can resolve a label for every canonical id", () => {
+    for (const category of CATEGORIES) {
+      expect(resolveCategoryLabel(category.id, 2025)).toBeTruthy();
+    }
+  });
 });
 
 describe("resolveCategoryId", () => {
@@ -179,5 +187,105 @@ describe("resolveCategoryId", () => {
 
   it("returns undefined for an unknown name", () => {
     expect(resolveCategoryId("Best Invented Category")).toBeUndefined();
+  });
+});
+
+describe("parseFilmYear", () => {
+  it("returns the closing year of a straddled label", () => {
+    expect(parseFilmYear("1927/28")).toBe(1928);
+    expect(parseFilmYear("1932/33")).toBe(1933);
+  });
+
+  it("returns a modern four-digit year unchanged", () => {
+    expect(parseFilmYear("2025")).toBe(2025);
+  });
+});
+
+describe("resolveCategoryLabel", () => {
+  it.each([
+    // cinematography: 1957 unified blip, then Color until 1966
+    ["best-cinematography", 1956, "Best Cinematography (Color)"],
+    ["best-cinematography", 1957, "Best Cinematography"],
+    ["best-cinematography", 1958, "Best Cinematography (Color)"],
+    ["best-cinematography", 1966, "Best Cinematography (Color)"],
+    ["best-cinematography", 1967, "Best Cinematography"],
+    ["best-cinematography", 1968, "Best Cinematography"],
+    ["best-cinematography-bw", 1955, "Best Cinematography (Black and White)"],
+    ["best-cinematography-bw", 1966, "Best Cinematography (Black and White)"],
+    // production design / art direction
+    ["best-production-design", 1956, "Best Art Direction (Color)"],
+    ["best-production-design", 1957, "Best Art Direction"],
+    ["best-production-design", 1958, "Best Art Direction"],
+    ["best-production-design", 1959, "Best Art Direction (Color)"],
+    ["best-production-design", 1966, "Best Art Direction (Color)"],
+    ["best-production-design", 1967, "Best Art Direction"],
+    ["best-production-design", 2011, "Best Art Direction"],
+    ["best-production-design", 2012, "Best Production Design"],
+    ["best-production-design", 2013, "Best Production Design"],
+    ["best-production-design-bw", 1960, "Best Art Direction (Black and White)"],
+    // costume
+    ["best-costume-design", 1956, "Best Costume Design (Color)"],
+    ["best-costume-design", 1958, "Best Costume Design"],
+    ["best-costume-design", 1959, "Best Costume Design (Color)"],
+    ["best-costume-design", 1966, "Best Costume Design (Color)"],
+    ["best-costume-design", 1967, "Best Costume Design"],
+    ["best-costume-design", 1968, "Best Costume Design"],
+    ["best-costume-design-bw", 1955, "Best Costume Design (Black and White)"],
+    // international
+    ["best-international-feature", 2017, "Best Foreign Language Film"],
+    ["best-international-feature", 2018, "Best Foreign Language Film"],
+    ["best-international-feature", 2019, "Best International Feature Film"],
+    // makeup
+    ["best-makeup-hairstyling", 2010, "Best Makeup"],
+    ["best-makeup-hairstyling", 2011, "Best Makeup"],
+    ["best-makeup-hairstyling", 2012, "Best Makeup and Hairstyling"],
+    // visual effects (corrected vs spec 5.3)
+    ["best-visual-effects", 1962, "Best Special Effects"],
+    ["best-visual-effects", 1963, "Best Special Effects"],
+    ["best-visual-effects", 1964, "Best Special Visual Effects"],
+    ["best-visual-effects", 1971, "Best Special Visual Effects"],
+    ["best-visual-effects", 1972, "Best Visual Effects"],
+    // sound
+    ["best-sound", 1956, "Best Sound Recording"],
+    ["best-sound", 1957, "Best Sound Recording"],
+    ["best-sound", 1958, "Best Sound"],
+    ["best-sound", 2002, "Best Sound"],
+    ["best-sound", 2003, "Best Sound Mixing"],
+    ["best-sound", 2019, "Best Sound Mixing"],
+    ["best-sound", 2020, "Best Sound"],
+    // sound editing
+    ["best-sound-editing", 1975, "Best Sound Effects"],
+    ["best-sound-editing", 1976, "Best Sound Effects"],
+    ["best-sound-editing", 1977, "Best Sound Effects Editing"],
+    ["best-sound-editing", 1999, "Best Sound Effects Editing"],
+    ["best-sound-editing", 2000, "Best Sound Editing"],
+    // documentary
+    ["best-documentary-feature", 2020, "Best Documentary Feature"],
+    ["best-documentary-feature", 2021, "Best Documentary Feature"],
+    ["best-documentary-feature", 2022, "Best Documentary Feature Film"],
+    // live action short
+    ["best-live-action-short", 1955, "Best Live Action Short Film (One Reel)"],
+    ["best-live-action-short", 1956, "Best Live Action Short Film (One Reel)"],
+    ["best-live-action-short", 1957, "Best Live Action Short Film"],
+    ["best-live-action-short-two-reel", 1952, "Best Live Action Short Film (Two-Reel)"],
+    ["best-score-musical-adaptation", 1965, "Best Score (Musical or Adaptation)"],
+  ] as const)("%s in %s is %s", (id, year, label) => {
+    expect(resolveCategoryLabel(id, year)).toBe(label);
+  });
+
+  it("returns the base label when a category has no era rule", () => {
+    expect(resolveCategoryLabel("best-director", 1928)).toBe("Best Director");
+    expect(resolveCategoryLabel("best-director", 2025)).toBe("Best Director");
+    expect(resolveCategoryLabel("best-picture", 1928)).toBe("Best Picture");
+    expect(resolveCategoryLabel("best-actor", 2025)).toBe("Best Actor");
+  });
+
+  it("keeps the Color suffix on 1955 costume and drops it by 2023", () => {
+    expect(resolveCategoryLabel("best-costume-design", 1955)).toBe(
+      "Best Costume Design (Color)",
+    );
+    expect(resolveCategoryLabel("best-costume-design", 2023)).toBe(
+      "Best Costume Design",
+    );
   });
 });

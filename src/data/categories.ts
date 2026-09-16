@@ -407,6 +407,173 @@ export const CATEGORIES: CategoryDefinition[] = [
   },
 ];
 
+/**
+ * Display names used when a category has no era-specific rule.
+ *
+ * Two deliberate exceptions, where findability beats historical fidelity:
+ * - best-picture is always "Best Picture", never "Outstanding Picture",
+ *   "Outstanding Production", or "Best Motion Picture".
+ * - Acting categories stay "Best Actor" / "Best Supporting Actress", not the
+ *   official "Actor in a Leading Role" wording.
+ */
+const CATEGORY_BASE_LABELS: Record<string, string> = {
+  "best-picture": "Best Picture",
+  "best-director": "Best Director",
+  "best-actor": "Best Actor",
+  "best-actress": "Best Actress",
+  "best-supporting-actor": "Best Supporting Actor",
+  "best-supporting-actress": "Best Supporting Actress",
+  "best-original-screenplay": "Best Original Screenplay",
+  "best-adapted-screenplay": "Best Adapted Screenplay",
+  "best-original-story": "Best Original Story",
+  "best-animated-feature": "Best Animated Feature",
+  "best-international-feature": "Best International Feature Film",
+  "best-documentary-feature": "Best Documentary Feature Film",
+  "best-cinematography": "Best Cinematography",
+  "best-cinematography-bw": "Best Cinematography (Black and White)",
+  "best-film-editing": "Best Film Editing",
+  "best-production-design": "Best Production Design",
+  "best-production-design-bw": "Best Art Direction (Black and White)",
+  "best-costume-design": "Best Costume Design",
+  "best-costume-design-bw": "Best Costume Design (Black and White)",
+  "best-makeup-hairstyling": "Best Makeup and Hairstyling",
+  "best-visual-effects": "Best Visual Effects",
+  "best-sound": "Best Sound",
+  "best-sound-editing": "Best Sound Editing",
+  "best-casting": "Best Casting",
+  "best-original-score": "Best Original Score",
+  "best-score-musical-adaptation": "Best Score (Musical or Adaptation)",
+  "best-original-song": "Best Original Song",
+  "best-animated-short": "Best Animated Short",
+  "best-live-action-short": "Best Live Action Short Film",
+  "best-live-action-short-two-reel": "Best Live Action Short Film (Two-Reel)",
+  "best-live-action-short-color": "Best Live Action Short Film (Color)",
+  "best-documentary-short": "Best Documentary Short",
+  "best-assistant-director": "Best Assistant Director",
+  "best-dance-direction": "Best Dance Direction",
+  "unique-artistic-production": "Unique and Artistic Production",
+};
+
+type EraLabelRule = {
+  /** Inclusive film-year upper bound. Omit for the open-ended latest name. */
+  through?: number;
+  label: string;
+};
+
+/**
+ * Era-accurate labels, keyed by canonical id. First matching rule wins.
+ *
+ * Verified against awardsdatabase.oscars.org Exact Award Category on
+ * 2026-09-16 (editions 28–40, 44–52, 71–81, 84–85, 91–96). Discrepancies
+ * vs spec.md 5.3 are corrected here, not in the resolver:
+ * - Sound Mixing begins with film year 2003 (76th), not 2008.
+ * - Special Effects is still the name in 1963; 1964–1971 is Special Visual
+ *   Effects; Visual Effects from 1972.
+ * - Cinematography was unified (no Color/B&W split) in 1957 only; art
+ *   direction and costume design were unified in 1957–1958, then split
+ *   again until 1966.
+ */
+const CATEGORY_LABEL_RULES: Record<string, EraLabelRule[]> = {
+  "best-cinematography": [
+    { through: 1956, label: "Best Cinematography (Color)" },
+    { through: 1957, label: "Best Cinematography" },
+    { through: 1966, label: "Best Cinematography (Color)" },
+    { label: "Best Cinematography" },
+  ],
+  "best-cinematography-bw": [
+    { label: "Best Cinematography (Black and White)" },
+  ],
+  "best-production-design": [
+    { through: 1956, label: "Best Art Direction (Color)" },
+    { through: 1958, label: "Best Art Direction" },
+    { through: 1966, label: "Best Art Direction (Color)" },
+    { through: 2011, label: "Best Art Direction" },
+    { label: "Best Production Design" },
+  ],
+  "best-production-design-bw": [
+    { label: "Best Art Direction (Black and White)" },
+  ],
+  "best-costume-design": [
+    { through: 1956, label: "Best Costume Design (Color)" },
+    { through: 1958, label: "Best Costume Design" },
+    { through: 1966, label: "Best Costume Design (Color)" },
+    { label: "Best Costume Design" },
+  ],
+  "best-costume-design-bw": [
+    { label: "Best Costume Design (Black and White)" },
+  ],
+  "best-international-feature": [
+    { through: 2018, label: "Best Foreign Language Film" },
+    { label: "Best International Feature Film" },
+  ],
+  "best-makeup-hairstyling": [
+    { through: 2011, label: "Best Makeup" },
+    { label: "Best Makeup and Hairstyling" },
+  ],
+  "best-visual-effects": [
+    { through: 1963, label: "Best Special Effects" },
+    { through: 1971, label: "Best Special Visual Effects" },
+    { label: "Best Visual Effects" },
+  ],
+  "best-sound": [
+    { through: 1957, label: "Best Sound Recording" },
+    { through: 2002, label: "Best Sound" },
+    { through: 2019, label: "Best Sound Mixing" },
+    { label: "Best Sound" },
+  ],
+  "best-sound-editing": [
+    { through: 1976, label: "Best Sound Effects" },
+    { through: 1999, label: "Best Sound Effects Editing" },
+    { label: "Best Sound Editing" },
+  ],
+  "best-documentary-feature": [
+    { through: 2021, label: "Best Documentary Feature" },
+    { label: "Best Documentary Feature Film" },
+  ],
+  "best-live-action-short": [
+    { through: 1956, label: "Best Live Action Short Film (One Reel)" },
+    { label: "Best Live Action Short Film" },
+  ],
+  "best-live-action-short-two-reel": [
+    { label: "Best Live Action Short Film (Two-Reel)" },
+  ],
+  "best-score-musical-adaptation": [
+    { label: "Best Score (Musical or Adaptation)" },
+  ],
+};
+
+export function parseFilmYear(filmYearLabel: string): number {
+  const trimmed = filmYearLabel.trim();
+  const straddled = /^(\d{4})\/(\d{2})$/.exec(trimmed);
+  if (straddled) {
+    return Number(`${straddled[1].slice(0, 2)}${straddled[2]}`);
+  }
+  const year = Number(trimmed);
+  if (!Number.isInteger(year)) {
+    throw new Error(`Invalid film year label: ${filmYearLabel}`);
+  }
+  return year;
+}
+
+export function resolveCategoryLabel(
+  categoryId: string,
+  filmYear: number,
+): string {
+  const rules = CATEGORY_LABEL_RULES[categoryId];
+  if (rules) {
+    const match = rules.find(
+      (rule) => rule.through === undefined || filmYear <= rule.through,
+    );
+    if (match) return match.label;
+  }
+
+  const base = CATEGORY_BASE_LABELS[categoryId];
+  if (!base) {
+    throw new Error(`Unknown category id: ${categoryId}`);
+  }
+  return base;
+}
+
 export function normalizeCategoryName(rawName: string): string {
   return rawName
     .toUpperCase()
