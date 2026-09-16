@@ -6,7 +6,7 @@
     "dev": "next dev",
     "data:build": "tsx scripts/normalize.ts",
     "data:check": "tsx scripts/data-check.ts",
-    "build": "npm run data:check && next build",
+    "build": "npm run data:check && next build && tsx scripts/check-prerender.ts",
     "start": "next start",
     "lint": "eslint",
     "test": "vitest run",

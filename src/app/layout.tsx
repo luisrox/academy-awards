@@ -35,7 +35,7 @@ export default function RootLayout({
       <body className="deco-grain flex min-h-screen flex-col bg-ink font-sans text-muted antialiased">
         <SiteHeader />
         <DecadeNav />
-        <div className="flex-1">
+        <div className="relative flex-1">
           <YearGrid entries={entries} />
           {children}
         </div>
