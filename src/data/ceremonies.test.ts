@@ -1,6 +1,8 @@
 import { describe, expect, it } from "vitest";
 import {
   adjacentCeremonies,
+  ambiguousBareYearSlugs,
+  ambiguousYearRedirect,
   CEREMONIES,
   ceremonyByFilmYear,
   ceremonyByOrdinal,
@@ -9,7 +11,9 @@ import {
   ceremonySubtitle,
   decadeBuckets,
   ordinalSuffix,
+  siblingCeremonies,
 } from "./ceremonies";
+import type { Ceremony } from "@/lib/types";
 
 describe("ordinalSuffix", () => {
   it.each([
@@ -110,6 +114,56 @@ describe("ceremony lookups", () => {
     expect(adjacentCeremonies("2026").previous?.slug).toBe("2025");
     expect(adjacentCeremonies("missing").previous).toBeUndefined();
     expect(adjacentCeremonies("missing").next).toBeUndefined();
+  });
+});
+
+function synthetic(overrides: Partial<Ceremony> & Pick<Ceremony, "slug" | "ordinal" | "ceremonyYear">): Ceremony {
+  return {
+    ceremonyDate: "2000-01-01",
+    filmYearLabel: "1999",
+    decade: "2000s",
+    ...overrides,
+  };
+}
+
+describe("ambiguous years", () => {
+  it("redirects /1930 to the first of the two 1930 editions", () => {
+    expect(ambiguousYearRedirect("1930")).toBe("1930-2nd");
+    expect(ambiguousBareYearSlugs()).toEqual(["1930"]);
+    expect(siblingCeremonies("1930-2nd").map((c) => c.slug)).toEqual(["1930-3rd"]);
+    expect(ambiguousYearRedirect("1994")).toBeUndefined();
+    expect(siblingCeremonies("1994")).toEqual([]);
+  });
+
+  it("derives the same rule from a synthetic table with another duplicated year", () => {
+    const table: Ceremony[] = [
+      synthetic({
+        ordinal: 2,
+        ceremonyYear: 1988,
+        slug: "1988-late",
+        ceremonyDate: "1988-11-01",
+      }),
+      synthetic({
+        ordinal: 1,
+        ceremonyYear: 1988,
+        slug: "1988-early",
+        ceremonyDate: "1988-04-01",
+      }),
+      synthetic({
+        ordinal: 3,
+        ceremonyYear: 1989,
+        slug: "1989",
+        ceremonyDate: "1989-03-01",
+      }),
+    ];
+
+    expect(ambiguousYearRedirect("1988", table)).toBe("1988-early");
+    expect(ambiguousBareYearSlugs(table)).toEqual(["1988"]);
+    expect(siblingCeremonies("1988-early", table).map((c) => c.slug)).toEqual([
+      "1988-late",
+    ]);
+    expect(ambiguousYearRedirect("1989", table)).toBeUndefined();
+    expect(siblingCeremonies("1989", table)).toEqual([]);
   });
 });
 

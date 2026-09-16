@@ -207,6 +207,66 @@ export function adjacentCeremonies(slug: string): {
   };
 }
 
+function groupByYear(ceremonies: Ceremony[]): Map<number, Ceremony[]> {
+  const groups = new Map<number, Ceremony[]>();
+  for (const ceremony of ceremonies) {
+    const list = groups.get(ceremony.ceremonyYear) ?? [];
+    list.push(ceremony);
+    groups.set(ceremony.ceremonyYear, list);
+  }
+  return groups;
+}
+
+function editionsInYear(year: number, ceremonies: Ceremony[]): Ceremony[] {
+  return [...(groupByYear(ceremonies).get(year) ?? [])].sort(
+    (a, b) => a.ordinal - b.ordinal,
+  );
+}
+
+/**
+ * Bare years that hosted more than one ceremony and therefore must not
+ * occupy /YYYY. Derived from the table, not from a 1930 special case.
+ */
+export function ambiguousBareYearSlugs(
+  ceremonies: Ceremony[] = CEREMONIES,
+): string[] {
+  const slugs: string[] = [];
+  for (const [year, editions] of groupByYear(ceremonies)) {
+    if (editions.length < 2) continue;
+    const bare = String(year);
+    if (editions.some((ceremony) => ceremony.slug === bare)) continue;
+    slugs.push(bare);
+  }
+  return slugs;
+}
+
+/**
+ * If `slug` is a bare year with two or more editions, the canonical slug
+ * of the earliest (lowest ordinal). Otherwise undefined.
+ */
+export function ambiguousYearRedirect(
+  slug: string,
+  ceremonies: Ceremony[] = CEREMONIES,
+): string | undefined {
+  if (!/^\d{4}$/.test(slug)) return undefined;
+  const editions = editionsInYear(Number(slug), ceremonies);
+  if (editions.length < 2) return undefined;
+  if (editions.some((ceremony) => ceremony.slug === slug)) return undefined;
+  return editions[0].slug;
+}
+
+/** Other editions held in the same calendar year, if any. */
+export function siblingCeremonies(
+  slug: string,
+  ceremonies: Ceremony[] = CEREMONIES,
+): Ceremony[] {
+  const current = ceremonies.find((ceremony) => ceremony.slug === slug);
+  if (!current) return [];
+  return editionsInYear(current.ceremonyYear, ceremonies).filter(
+    (ceremony) => ceremony.slug !== slug,
+  );
+}
+
 export function ceremonySubtitle(ceremony: Ceremony): string {
   return `${ordinalSuffix(ceremony.ordinal)} Ceremony \u2014 Films of ${ceremony.filmYearLabel}`;
 }

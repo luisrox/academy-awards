@@ -1,11 +1,13 @@
 "use client";
 
 import { useCallback, useEffect, useState, type ReactNode } from "react";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import {
   adjacentCeremonies,
   ceremonyDateLabel,
   ordinalSuffix,
+  siblingCeremonies,
 } from "@/data/ceremonies";
 import { useOverlay } from "@/hooks/useOverlay";
 import type {
@@ -117,6 +119,30 @@ function Chevron({ direction }: { direction: "previous" | "next" }) {
         <path d="M15 5l-7 7 7 7" />
       )}
     </svg>
+  );
+}
+
+function AmbiguousYearNotice({ slug }: { slug: string }) {
+  const siblings = siblingCeremonies(slug);
+  if (siblings.length === 0) return null;
+
+  return (
+    <p
+      role="status"
+      className="mt-4 max-w-md font-sans text-sm leading-relaxed text-muted"
+    >
+      {siblings[0].ceremonyYear} hosted {siblings.length + 1} ceremonies.{" "}
+      {siblings.map((sibling) => (
+        <Link
+          key={sibling.slug}
+          href={`/${sibling.slug}`}
+          scroll={false}
+          className="text-gold hover:text-gold-light"
+        >
+          See the {ordinalSuffix(sibling.ordinal)} Ceremony ({ceremonyDateLabel(sibling)})
+        </Link>
+      ))}
+    </p>
   );
 }
 
@@ -263,6 +289,7 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
             >
               {ceremonyDateLabel(ceremony)}
             </time>
+            <AmbiguousYearNotice slug={ceremony.slug} />
           </div>
           <div
             data-poster-slot

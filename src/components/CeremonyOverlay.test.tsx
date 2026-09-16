@@ -1,4 +1,5 @@
 /** @vitest-environment jsdom */
+import type { ReactNode } from "react";
 import { cleanup, fireEvent, render, screen, within } from "@testing-library/react";
 import { afterEach, describe, expect, it, vi } from "vitest";
 import "@testing-library/jest-dom/vitest";
@@ -11,6 +12,26 @@ const { mockPush } = vi.hoisted(() => ({ mockPush: vi.fn() }));
 
 vi.mock("next/navigation", () => ({
   useRouter: () => ({ push: mockPush }),
+}));
+
+vi.mock("next/link", () => ({
+  default: function MockLink({
+    href,
+    children,
+    scroll,
+    ...props
+  }: {
+    href: string;
+    children: ReactNode;
+    scroll?: boolean;
+    className?: string;
+  }) {
+    return (
+      <a href={href} data-scroll={scroll === false ? "false" : undefined} {...props}>
+        {children}
+      </a>
+    );
+  },
 }));
 
 afterEach(() => {
@@ -296,5 +317,23 @@ describe("CeremonyOverlay", () => {
     render(<CeremonyOverlay detail={fixture({ ceremony: LATEST_CEREMONY })} />);
     fireEvent.keyDown(document, { key: "ArrowRight" });
     expect(mockPush).not.toHaveBeenCalled();
+  });
+
+  it("shows an ambiguous-year notice on 1930-2nd with a link to 1930-3rd", () => {
+    const ceremony = ceremonyBySlug("1930-2nd");
+    if (!ceremony) throw new Error("missing 1930-2nd");
+    render(<CeremonyOverlay detail={fixture({ ceremony })} />);
+
+    const notice = screen.getByRole("status");
+    expect(notice).toHaveTextContent(/1930 hosted 2 ceremonies/i);
+    const other = screen.getByRole("link", { name: /3rd Ceremony/i });
+    expect(other).toHaveAttribute("href", "/1930-3rd");
+  });
+
+  it("does not show an ambiguous-year notice on an unambiguous year", () => {
+    const ceremony = ceremonyBySlug("1994");
+    if (!ceremony) throw new Error("missing 1994");
+    render(<CeremonyOverlay detail={fixture({ ceremony })} />);
+    expect(screen.queryByRole("status")).not.toBeInTheDocument();
   });
 });
