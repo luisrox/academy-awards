@@ -1,13 +1,24 @@
 /** @vitest-environment jsdom */
-import { cleanup, render, screen, within } from "@testing-library/react";
-import { afterEach, describe, expect, it } from "vitest";
+import { cleanup, fireEvent, render, screen, within } from "@testing-library/react";
+import { afterEach, describe, expect, it, vi } from "vitest";
 import "@testing-library/jest-dom/vitest";
 import { ceremonyDateLabel } from "@/data/ceremonies";
 import { getCeremonyDetail } from "@/lib/ceremony-data";
 import type { CeremonyDetail } from "@/lib/types";
 import { CeremonyOverlay } from "./CeremonyOverlay";
 
-afterEach(cleanup);
+const { mockPush } = vi.hoisted(() => ({ mockPush: vi.fn() }));
+
+vi.mock("next/navigation", () => ({
+  useRouter: () => ({ push: mockPush }),
+}));
+
+afterEach(() => {
+  cleanup();
+  mockPush.mockClear();
+  document.body.style.overflow = "";
+  document.documentElement.style.overflow = "";
+});
 
 function fixture(overrides: Partial<CeremonyDetail> = {}): CeremonyDetail {
   return {
@@ -199,5 +210,41 @@ describe("CeremonyOverlay", () => {
     expect(links.map((link) => link.getAttribute("href"))).toEqual(
       detail.groups.map((group) => `#group-${group.id}`),
     );
+  });
+
+  it("exposes dialog semantics for a modal overlay", () => {
+    render(<CeremonyOverlay detail={fixture()} />);
+    const dialog = screen.getByRole("dialog");
+    expect(dialog).toHaveAttribute("aria-modal", "true");
+    expect(dialog).toHaveAttribute("aria-labelledby", "ceremony-heading");
+  });
+
+  it("closes to the grid on Escape", () => {
+    render(<CeremonyOverlay detail={fixture()} />);
+    fireEvent.keyDown(document, { key: "Escape" });
+    expect(mockPush).toHaveBeenCalledWith("/", { scroll: false });
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+  });
+
+  it("does not close when clicking the content", () => {
+    render(<CeremonyOverlay detail={fixture()} />);
+    fireEvent.mouseDown(screen.getByRole("heading", { level: 1 }));
+    expect(mockPush).not.toHaveBeenCalled();
+    expect(screen.getByRole("dialog")).toBeInTheDocument();
+  });
+
+  it("closes when clicking the backdrop and restores focus to the origin card", () => {
+    render(
+      <>
+        <button type="button" id="year-card-1929">
+          1929, 1st Ceremony
+        </button>
+        <CeremonyOverlay detail={fixture()} />
+      </>,
+    );
+    fireEvent.mouseDown(screen.getByRole("dialog"));
+    expect(mockPush).toHaveBeenCalledWith("/", { scroll: false });
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+    expect(screen.getByRole("button", { name: /1929/ })).toHaveFocus();
   });
 });

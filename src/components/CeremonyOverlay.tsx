@@ -1,4 +1,9 @@
+"use client";
+
+import { useCallback, useState } from "react";
+import { useRouter } from "next/navigation";
 import { ceremonyDateLabel, ordinalSuffix } from "@/data/ceremonies";
+import { useOverlay } from "@/hooks/useOverlay";
 import type {
   CeremonyCategory,
   CeremonyDetail,
@@ -87,18 +92,39 @@ function CategoryBlock({ category }: { category: CeremonyCategory }) {
 }
 
 /**
- * Full ceremony detail. Renders as an overlay on the year grid; focus trap
- * and Esc handling arrive in the next step.
+ * Full ceremony detail as an accessible modal over the year grid.
+ * The route itself stays a prerendered page; this shell handles Esc,
+ * click-outside, focus, and scroll lock (spec.md 7.2).
  */
 export function CeremonyOverlay({ detail }: CeremonyOverlayProps) {
   const { ceremony, groups } = detail;
+  const router = useRouter();
+  const [open, setOpen] = useState(true);
+  const onClose = useCallback(() => {
+    setOpen(false);
+    router.push("/", { scroll: false });
+  }, [router]);
+  const { overlayRef, contentRef } = useOverlay({
+    isOpen: open,
+    onClose,
+    returnFocus: `#year-card-${ceremony.slug}`,
+  });
+
+  if (!open) return null;
 
   return (
-    <article
-      className="absolute inset-0 z-30 overflow-y-auto bg-surface"
+    <div
+      ref={overlayRef}
+      role="dialog"
+      aria-modal="true"
       aria-labelledby="ceremony-heading"
+      tabIndex={-1}
+      className="fixed inset-0 z-40 flex justify-center bg-ink/80 md:p-8"
     >
-      <div className="mx-auto flex max-w-6xl gap-10 px-6 py-10">
+      <div
+        ref={contentRef}
+        className="flex h-full max-h-full w-full max-w-6xl gap-10 overflow-y-auto bg-surface px-6 py-10"
+      >
         <nav
           aria-label="Category groups"
           className="sticky top-4 hidden h-fit w-44 shrink-0 lg:block"
@@ -164,6 +190,6 @@ export function CeremonyOverlay({ detail }: CeremonyOverlayProps) {
           ))}
         </div>
       </div>
-    </article>
+    </div>
   );
 }

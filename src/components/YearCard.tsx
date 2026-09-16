@@ -35,6 +35,7 @@ export function YearCard({ entry }: YearCardProps) {
 
   return (
     <Link
+      id={`year-card-${entry.slug}`}
       href={`/${entry.slug}`}
       scroll={false}
       className="block no-underline"

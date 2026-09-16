@@ -3,6 +3,7 @@ import { CEREMONIES } from "@/data/ceremonies";
 
 vi.mock("next/navigation", () => ({
   notFound: vi.fn(),
+  useRouter: () => ({ push: vi.fn() }),
 }));
 
 import { generateStaticParams } from "./page";
