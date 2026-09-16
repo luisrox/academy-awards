@@ -1,103 +1,78 @@
-import Image from "next/image";
+import { DecoFrame } from "@/components/deco/DecoFrame";
+import { RayDivider } from "@/components/deco/RayDivider";
+import { PALETTE } from "@/lib/palette";
 
-export default function Home() {
+const SWATCHES: { name: string; hex: string; sample: string }[] = [
+  { name: "ink", hex: PALETTE.ink, sample: "bg-ink" },
+  { name: "surface", hex: PALETTE.surface, sample: "bg-surface" },
+  { name: "gold", hex: PALETTE.gold, sample: "bg-gold" },
+  { name: "gold-light", hex: PALETTE.goldLight, sample: "bg-gold-light" },
+  { name: "muted", hex: PALETTE.muted, sample: "bg-muted" },
+];
+
+/** Temporary specimen. Replaced by the ceremony grid in step 15. */
+export default function DesignSpecimenPage() {
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+    <main className="mx-auto flex min-h-screen max-w-3xl flex-col gap-12 px-6 py-16">
+      <header className="flex flex-col gap-3">
+        <p className="font-sans text-xs tracking-[0.35em] text-gold uppercase">
+          Design tokens
+        </p>
+        <h1 className="font-display text-5xl font-semibold tracking-tight text-gold">
+          Oscars Winners
+        </h1>
+        <p className="max-w-xl text-sm leading-relaxed text-muted">
+          Art Deco specimen: type, palette, geometric frame, ray divider, and
+          focus. No Academy statuette — the motif is public-domain geometry.
+        </p>
+      </header>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
+      <RayDivider />
+
+      <section className="flex flex-col gap-4">
+        <h2 className="font-display text-sm tracking-[0.2em] text-gold uppercase">
+          Hierarchy
+        </h2>
+        <p className="font-display text-6xl font-semibold text-gold">2026</p>
+        <p className="font-display text-3xl text-gold-light">
+          One Battle after Another
+        </p>
+        <p className="text-sm text-muted">Sinners — nominee, never competing</p>
+      </section>
+
+      <DecoFrame className="bg-surface p-8">
+        <p className="font-display text-xl text-gold-light">Geometric frame</p>
+        <p className="mt-2 text-sm leading-relaxed text-muted">
+          One-pixel gold rule, inset echo, stepped corners. Grain sits on the
+          page, not in this box.
+        </p>
         <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="#focus-target"
+          className="mt-6 inline-block font-sans text-sm text-gold underline-offset-4 hover:text-gold-light hover:underline"
         >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
+          Tab here to see the focus ring
         </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      </DecoFrame>
+
+      <section id="focus-target" className="flex flex-col gap-4">
+        <h2 className="font-display text-sm tracking-[0.2em] text-gold uppercase">
+          Palette
+        </h2>
+        <ul className="grid grid-cols-2 gap-3 sm:grid-cols-5">
+          {SWATCHES.map((swatch) => (
+            <li key={swatch.name} className="flex flex-col gap-2">
+              <div
+                className={`deco-frame h-16 ${swatch.sample}`}
+                aria-hidden="true"
+              />
+              <p className="font-sans text-xs tracking-wide text-muted">
+                {swatch.name}
+              </p>
+              <p className="font-sans text-xs text-gold">{swatch.hex}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    </main>
   );
 }
