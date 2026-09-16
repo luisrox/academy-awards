@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useRef } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import Link from "next/link";
 import { DecoFrame } from "@/components/deco/DecoFrame";
@@ -26,15 +27,48 @@ function WinnerLines({ winner }: { winner: HeadlineWinner }) {
   );
 }
 
+function canHover(): boolean {
+  return (
+    typeof window !== "undefined" &&
+    typeof window.matchMedia === "function" &&
+    window.matchMedia("(hover: hover)").matches
+  );
+}
+
 /**
- * Resting year tile; on hover, rotates headline winners. The interval lives
- * only while the pointer is over this card (spec.md 6.2).
+ * Resting year tile. On hover-capable pointers, rotates headline winners
+ * while the pointer is over the card. On touch, visible cards rotate via
+ * IntersectionObserver — only in-view cards mount a timer (spec.md 6.2 / 7.3).
  */
 export function YearCard({ entry }: YearCardProps) {
   const rotation = useHeadlineRotation(entry.headline);
+  const { start, stop, reducedMotion } = rotation;
+  const rootRef = useRef<HTMLAnchorElement>(null);
+
+  useEffect(() => {
+    if (reducedMotion || canHover()) return;
+    if (typeof IntersectionObserver === "undefined") return;
+    const node = rootRef.current;
+    if (!node) return;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (!entry) return;
+        if (entry.isIntersecting) start();
+        else stop();
+      },
+      { threshold: 0.5 },
+    );
+    observer.observe(node);
+    return () => {
+      observer.disconnect();
+      stop();
+    };
+  }, [reducedMotion, start, stop]);
 
   return (
     <Link
+      ref={rootRef}
       id={`year-card-${entry.slug}`}
       href={`/${entry.slug}`}
       scroll={false}

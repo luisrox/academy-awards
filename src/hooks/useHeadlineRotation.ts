@@ -19,6 +19,8 @@ export type HeadlineRotation = {
   current: HeadlineWinner | undefined;
   onMouseEnter: () => void;
   onMouseLeave: () => void;
+  start: () => void;
+  stop: () => void;
 };
 
 /**
@@ -71,5 +73,7 @@ export function useHeadlineRotation(
     current: hovering ? winners[index] : undefined,
     onMouseEnter,
     onMouseLeave,
+    start: onMouseEnter,
+    stop: onMouseLeave,
   };
 }

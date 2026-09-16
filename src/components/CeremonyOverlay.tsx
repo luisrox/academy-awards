@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useState, type ReactNode } from "react";
+import { useCallback, useEffect, useRef, useState, type ReactNode, type TouchEvent } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import {
@@ -24,6 +24,8 @@ type CeremonyChromeProps = {
   slug: string;
   children: ReactNode;
 };
+
+const SWIPE_MIN_PX = 48;
 
 function formatNames(names: string[]): string {
   return names.join(", ");
@@ -99,6 +101,29 @@ function CategoryBlock({ category }: { category: CeremonyCategory }) {
         </div>
       ) : null}
     </section>
+  );
+}
+
+function GroupLinks({
+  groups,
+  className = "",
+}: {
+  groups: CeremonyDetailData["groups"];
+  className?: string;
+}) {
+  return (
+    <ul className={`flex flex-col gap-2 ${className}`.trim()}>
+      {groups.map((group) => (
+        <li key={group.id}>
+          <a
+            href={`#group-${group.id}`}
+            className="font-sans text-sm tracking-wide text-gold hover:text-gold-light"
+          >
+            {group.label}
+          </a>
+        </li>
+      ))}
+    </ul>
   );
 }
 
@@ -197,6 +222,28 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
     onClose,
     returnFocus: `#year-card-${slug}`,
   });
+  const swipeOrigin = useRef<{ x: number; y: number } | null>(null);
+
+  const onTouchStart = useCallback((event: TouchEvent<HTMLDivElement>) => {
+    const touch = event.changedTouches[0];
+    if (!touch) return;
+    swipeOrigin.current = { x: touch.clientX, y: touch.clientY };
+  }, []);
+
+  const onTouchEnd = useCallback(
+    (event: TouchEvent<HTMLDivElement>) => {
+      const origin = swipeOrigin.current;
+      swipeOrigin.current = null;
+      const touch = event.changedTouches[0];
+      if (!origin || !touch) return;
+      const dx = touch.clientX - origin.x;
+      const dy = touch.clientY - origin.y;
+      if (Math.abs(dx) < SWIPE_MIN_PX || Math.abs(dx) <= Math.abs(dy)) return;
+      if (dx < 0 && next) goTo(next.slug);
+      if (dx > 0 && previous) goTo(previous.slug);
+    },
+    [goTo, next, previous],
+  );
 
   useEffect(() => {
     if (!open) return;
@@ -227,11 +274,13 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
       aria-modal="true"
       aria-labelledby="ceremony-heading"
       tabIndex={-1}
-      className="fixed inset-0 z-40 flex justify-center bg-ink/80 md:p-8"
+      className="fixed inset-0 z-40 flex justify-center bg-ink md:bg-ink/80 md:p-8"
     >
       <div
         ref={contentRef}
-        className="flex h-full max-h-full w-full max-w-6xl gap-10 overflow-y-auto bg-surface px-6 py-10"
+        onTouchStart={onTouchStart}
+        onTouchEnd={onTouchEnd}
+        className="flex h-full max-h-full w-full max-w-none gap-10 overflow-y-auto bg-surface px-6 py-10 md:max-w-6xl"
       >
         <EditionArrow
           direction="previous"
@@ -255,20 +304,15 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
         aria-label="Category groups"
         className="sticky top-4 hidden h-fit w-44 shrink-0 lg:block"
       >
-        <ul className="flex flex-col gap-2">
-          {groups.map((group) => (
-            <li key={group.id}>
-              <a
-                href={`#group-${group.id}`}
-                className="font-sans text-sm tracking-wide text-gold hover:text-gold-light"
-              >
-                {group.label}
-              </a>
-            </li>
-          ))}
-        </ul>
+        <GroupLinks groups={groups} />
       </nav>
       <div className="min-w-0 flex-1">
+        <details className="deco-frame mb-8 bg-ink px-4 py-3 lg:hidden">
+          <summary className="cursor-pointer font-sans text-sm tracking-wide text-gold">
+            Category groups
+          </summary>
+          <GroupLinks groups={groups} className="mt-3" />
+        </details>
         <header className="mb-12 flex flex-col gap-8 md:flex-row md:items-start md:justify-between">
           <div>
             <p className="font-sans text-sm tracking-[0.25em] text-gold uppercase">

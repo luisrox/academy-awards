@@ -78,6 +78,7 @@ describe("DecadeNav with the grid", () => {
       </>,
     );
     const nav = screen.getByRole("navigation", { name: "Decades" });
+    expect(nav.querySelector("ul")?.className).toMatch(/overflow-x-auto/);
     const jumps = nav.querySelectorAll("a");
     expect(jumps.length).toBe(decades.length);
     for (const jump of jumps) {

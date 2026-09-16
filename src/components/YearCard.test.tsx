@@ -7,26 +7,35 @@ import { HEADLINE_ROTATION_MS } from "@/hooks/useHeadlineRotation";
 import type { GridEntry, HeadlineWinner } from "@/lib/types";
 import { YearCard } from "./YearCard";
 
-vi.mock("next/link", () => ({
-  default: function MockLink({
-    href,
-    children,
-    scroll,
-    ...props
-  }: {
-    href: string;
-    children: ReactNode;
-    scroll?: boolean;
-    className?: string;
-    "aria-label"?: string;
-  }) {
-    return (
-      <a href={href} data-scroll={scroll === false ? "false" : undefined} {...props}>
-        {children}
-      </a>
-    );
-  },
-}));
+vi.mock("next/link", async () => {
+  const { forwardRef } = await import("react");
+  return {
+    default: forwardRef<
+      HTMLAnchorElement,
+      {
+        href: string;
+        children: ReactNode;
+        scroll?: boolean;
+        className?: string;
+        "aria-label"?: string;
+        id?: string;
+        onMouseEnter?: () => void;
+        onMouseLeave?: () => void;
+      }
+    >(function MockLink({ href, children, scroll, ...props }, ref) {
+      return (
+        <a
+          ref={ref}
+          href={href}
+          data-scroll={scroll === false ? "false" : undefined}
+          {...props}
+        >
+          {children}
+        </a>
+      );
+    }),
+  };
+});
 
 vi.mock("motion/react", () => ({
   AnimatePresence: ({ children }: { children: ReactNode }) => children,
@@ -183,5 +192,139 @@ describe("YearCard hover rotation", () => {
     });
     expect(screen.getByText("Frank Borzage")).toBeInTheDocument();
     expect(screen.queryByText("Wings")).not.toBeInTheDocument();
+  });
+});
+
+type MockObserver = {
+  callback: IntersectionObserverCallback;
+  elements: Set<Element>;
+  observe: (el: Element) => void;
+  unobserve: (el: Element) => void;
+  disconnect: () => void;
+};
+
+const observers: MockObserver[] = [];
+
+function stubTouchMedia(options: { reducedMotion?: boolean } = {}) {
+  vi.stubGlobal("matchMedia", (query: string) => ({
+    matches: query.includes("prefers-reduced-motion")
+      ? Boolean(options.reducedMotion)
+      : false,
+    media: query,
+    addEventListener: vi.fn(),
+    removeEventListener: vi.fn(),
+    addListener: vi.fn(),
+    dispatchEvent: vi.fn(),
+  }));
+}
+
+function installIntersectionObserver() {
+  observers.length = 0;
+  vi.stubGlobal(
+    "IntersectionObserver",
+    class {
+      callback: IntersectionObserverCallback;
+      elements = new Set<Element>();
+      constructor(callback: IntersectionObserverCallback) {
+        this.callback = callback;
+        observers.push(this);
+      }
+      observe(el: Element) {
+        this.elements.add(el);
+      }
+      unobserve(el: Element) {
+        this.elements.delete(el);
+      }
+      disconnect() {
+        this.elements.clear();
+      }
+      takeRecords() {
+        return [];
+      }
+      root = null;
+      rootMargin = "";
+      thresholds = [0];
+    },
+  );
+}
+
+function intersect(target: Element, isIntersecting: boolean) {
+  for (const observer of observers) {
+    if (!observer.elements.has(target)) continue;
+    observer.callback(
+      [
+        {
+          isIntersecting,
+          target,
+          boundingClientRect: {} as DOMRectReadOnly,
+          intersectionRatio: isIntersecting ? 1 : 0,
+          intersectionRect: {} as DOMRectReadOnly,
+          rootBounds: null,
+          time: 0,
+        },
+      ],
+      observer as unknown as IntersectionObserver,
+    );
+  }
+}
+
+describe("YearCard viewport rotation on touch", () => {
+  it("mounts a timer when the card enters the viewport and destroys it on leave", () => {
+    stubTouchMedia();
+    installIntersectionObserver();
+    vi.useFakeTimers();
+    render(<YearCard entry={entry()} />);
+    const link = screen.getByRole("link");
+    expect(vi.getTimerCount()).toBe(0);
+
+    act(() => {
+      intersect(link, true);
+    });
+    expect(vi.getTimerCount()).toBe(1);
+    expect(screen.getByText("One Battle after Another")).toBeInTheDocument();
+
+    act(() => {
+      intersect(link, false);
+    });
+    expect(vi.getTimerCount()).toBe(0);
+    expect(
+      screen.getByText("98th Ceremony — Films of 2025"),
+    ).toBeInTheDocument();
+  });
+
+  it("keeps timers only on the cards that are visible", () => {
+    stubTouchMedia();
+    installIntersectionObserver();
+    vi.useFakeTimers();
+    render(
+      <>
+        <YearCard entry={entry({ slug: "2026", label: "2026" })} />
+        <YearCard entry={entry({ slug: "2025", label: "2025" })} />
+        <YearCard entry={entry({ slug: "2024", label: "2024" })} />
+      </>,
+    );
+    const links = screen.getAllByRole("link");
+    act(() => {
+      intersect(links[0], true);
+      intersect(links[1], true);
+    });
+    expect(vi.getTimerCount()).toBe(2);
+
+    act(() => {
+      intersect(links[0], false);
+    });
+    expect(vi.getTimerCount()).toBe(1);
+  });
+
+  it("mounts no timer under reduced motion even when visible", () => {
+    stubTouchMedia({ reducedMotion: true });
+    installIntersectionObserver();
+    vi.useFakeTimers();
+    render(<YearCard entry={entry()} />);
+    act(() => {
+      intersect(screen.getByRole("link"), true);
+    });
+    expect(vi.getTimerCount()).toBe(0);
+    expect(observers).toHaveLength(0);
   });
 });

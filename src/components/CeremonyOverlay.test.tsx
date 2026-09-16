@@ -269,6 +269,33 @@ describe("CeremonyOverlay", () => {
     expect(screen.getByRole("button", { name: /1929/ })).toHaveFocus();
   });
 
+  it("renders a collapsed group index for the mobile overlay", () => {
+    render(<CeremonyOverlay detail={fixture()} />);
+    const disclosure = document.querySelector("details");
+    expect(disclosure).toBeTruthy();
+    expect(disclosure).not.toHaveAttribute("open");
+    expect(disclosure?.querySelector("summary")).toHaveTextContent(
+      "Category groups",
+    );
+  });
+
+  it("navigates to the next ceremony on a horizontal swipe", () => {
+    const ceremony = ceremonyBySlug("2024");
+    if (!ceremony) throw new Error("missing 2024");
+    render(<CeremonyOverlay detail={fixture({ ceremony })} />);
+    const panel = screen.getByRole("dialog").querySelector("div");
+    if (!panel) throw new Error("missing overlay panel");
+
+    fireEvent.touchStart(panel, {
+      changedTouches: [{ clientX: 200, clientY: 80 }],
+    });
+    fireEvent.touchEnd(panel, {
+      changedTouches: [{ clientX: 80, clientY: 80 }],
+    });
+    expect(mockPush).toHaveBeenCalledWith("/2025", { scroll: false });
+    expect(screen.getByRole("dialog")).toBeInTheDocument();
+  });
+
   it("keeps the next arrow in the DOM, disabled, on the 98th ceremony", () => {
     render(<CeremonyOverlay detail={fixture({ ceremony: LATEST_CEREMONY })} />);
     const next = screen.getByRole("button", { name: "Next ceremony" });
