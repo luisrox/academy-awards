@@ -9,11 +9,8 @@ import {
 } from "@/lib/schemas";
 import { buildCeremonyDetails, buildGridEntries } from "./lib/build-details";
 import { DATA_DIR, fetchCached, writeJson } from "./lib/cache";
-import { loadHistoricalRecords } from "./lib/load-historical";
+import { HISTORICAL_URL, loadHistoricalRecords } from "./lib/load-historical";
 import { dataWarnings } from "./data-check";
-
-const HISTORICAL_URL =
-  "https://raw.githubusercontent.com/delventhalz/json-nominations/main/oscar-nominations.json";
 
 /**
  * Rebuild data/ from the historical feed. Network is used only on a cache miss

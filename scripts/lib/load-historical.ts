@@ -12,6 +12,9 @@ import {
 } from "@/lib/schemas";
 import type { Movie } from "@/lib/types";
 
+export const HISTORICAL_URL =
+  "https://raw.githubusercontent.com/delventhalz/json-nominations/main/oscar-nominations.json";
+
 export type NominationRecord = {
   ordinal: number;
   categoryId: string;
