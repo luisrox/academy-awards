@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import {
+  adjacentCeremonies,
   CEREMONIES,
   ceremonyByFilmYear,
   ceremonyByOrdinal,
@@ -98,6 +99,17 @@ describe("ceremony lookups", () => {
     expect(ceremonyByFilmYear("2025")?.ordinal).toBe(98);
     expect(ceremonyByFilmYear("1933")).toBeUndefined();
     expect(ceremonyByFilmYear("nope")).toBeUndefined();
+  });
+
+  it("adjacentCeremonies walks chronological neighbors and stops at the ends", () => {
+    expect(adjacentCeremonies("1929").previous).toBeUndefined();
+    expect(adjacentCeremonies("1929").next?.slug).toBe("1930-2nd");
+    expect(adjacentCeremonies("1930-2nd").previous?.slug).toBe("1929");
+    expect(adjacentCeremonies("1930-2nd").next?.slug).toBe("1930-3rd");
+    expect(adjacentCeremonies("2026").next).toBeUndefined();
+    expect(adjacentCeremonies("2026").previous?.slug).toBe("2025");
+    expect(adjacentCeremonies("missing").previous).toBeUndefined();
+    expect(adjacentCeremonies("missing").next).toBeUndefined();
   });
 });
 

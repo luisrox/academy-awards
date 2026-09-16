@@ -2,7 +2,7 @@
 import { cleanup, fireEvent, render, screen, within } from "@testing-library/react";
 import { afterEach, describe, expect, it, vi } from "vitest";
 import "@testing-library/jest-dom/vitest";
-import { ceremonyDateLabel } from "@/data/ceremonies";
+import { ceremonyBySlug, ceremonyDateLabel, LATEST_CEREMONY } from "@/data/ceremonies";
 import { getCeremonyDetail } from "@/lib/ceremony-data";
 import type { CeremonyDetail } from "@/lib/types";
 import { CeremonyOverlay } from "./CeremonyOverlay";
@@ -246,5 +246,55 @@ describe("CeremonyOverlay", () => {
     expect(mockPush).toHaveBeenCalledWith("/", { scroll: false });
     expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
     expect(screen.getByRole("button", { name: /1929/ })).toHaveFocus();
+  });
+
+  it("keeps the next arrow in the DOM, disabled, on the 98th ceremony", () => {
+    render(<CeremonyOverlay detail={fixture({ ceremony: LATEST_CEREMONY })} />);
+    const next = screen.getByRole("button", { name: "Next ceremony" });
+    const previous = screen.getByRole("button", { name: "Previous ceremony" });
+    expect(next).toBeDisabled();
+    expect(previous).toBeEnabled();
+  });
+
+  it("keeps the previous arrow in the DOM, disabled, on the 1st ceremony", () => {
+    render(<CeremonyOverlay detail={fixture()} />);
+    const previous = screen.getByRole("button", { name: "Previous ceremony" });
+    const next = screen.getByRole("button", { name: "Next ceremony" });
+    expect(previous).toBeDisabled();
+    expect(next).toBeEnabled();
+  });
+
+  it("navigates with arrow keys the same way as the buttons and keeps the overlay open", () => {
+    const ceremony = ceremonyBySlug("2024");
+    if (!ceremony) throw new Error("missing 2024");
+    render(<CeremonyOverlay detail={fixture({ ceremony })} />);
+
+    fireEvent.keyDown(document, { key: "ArrowRight" });
+    expect(mockPush).toHaveBeenCalledWith("/2025", { scroll: false });
+    expect(mockPush).not.toHaveBeenCalledWith("/", { scroll: false });
+    expect(screen.getByRole("dialog")).toBeInTheDocument();
+    expect(document.body.style.overflow).toBe("hidden");
+
+    mockPush.mockClear();
+    fireEvent.keyDown(document, { key: "ArrowLeft" });
+    expect(mockPush).toHaveBeenCalledWith("/2023", { scroll: false });
+    expect(screen.getByRole("dialog")).toBeInTheDocument();
+
+    mockPush.mockClear();
+    fireEvent.click(screen.getByRole("button", { name: "Next ceremony" }));
+    expect(mockPush).toHaveBeenCalledWith("/2025", { scroll: false });
+    expect(screen.getByRole("dialog")).toBeInTheDocument();
+  });
+
+  it("does not navigate past the first ceremony with ArrowLeft", () => {
+    render(<CeremonyOverlay detail={fixture()} />);
+    fireEvent.keyDown(document, { key: "ArrowLeft" });
+    expect(mockPush).not.toHaveBeenCalled();
+  });
+
+  it("does not navigate past the 98th ceremony with ArrowRight", () => {
+    render(<CeremonyOverlay detail={fixture({ ceremony: LATEST_CEREMONY })} />);
+    fireEvent.keyDown(document, { key: "ArrowRight" });
+    expect(mockPush).not.toHaveBeenCalled();
   });
 });

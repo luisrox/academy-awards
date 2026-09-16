@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { CeremonyOverlay } from "@/components/CeremonyOverlay";
+import { CeremonyDetail } from "@/components/CeremonyOverlay";
 import { getAllSlugs, getCeremonyDetail } from "@/lib/ceremony-data";
 
 export function generateStaticParams() {
@@ -16,5 +16,5 @@ export default async function CeremonyPage({
   const { slug } = await params;
   const detail = getCeremonyDetail(slug);
   if (!detail) notFound();
-  return <CeremonyOverlay detail={detail} />;
+  return <CeremonyDetail detail={detail} />;
 }

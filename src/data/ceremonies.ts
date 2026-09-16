@@ -194,6 +194,19 @@ export function ceremonyByFilmYear(filmYear: string): Ceremony | undefined {
   return BY_FILM_YEAR.get(filmYear.trim());
 }
 
+/** Chronological neighbors. The 1st has no previous; the 98th has no next. */
+export function adjacentCeremonies(slug: string): {
+  previous: Ceremony | undefined;
+  next: Ceremony | undefined;
+} {
+  const current = ceremonyBySlug(slug);
+  if (!current) return { previous: undefined, next: undefined };
+  return {
+    previous: ceremonyByOrdinal(current.ordinal - 1),
+    next: ceremonyByOrdinal(current.ordinal + 1),
+  };
+}
+
 export function ceremonySubtitle(ceremony: Ceremony): string {
   return `${ordinalSuffix(ceremony.ordinal)} Ceremony \u2014 Films of ${ceremony.filmYearLabel}`;
 }

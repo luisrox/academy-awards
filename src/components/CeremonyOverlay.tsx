@@ -1,17 +1,26 @@
 "use client";
 
-import { useCallback, useState } from "react";
+import { useCallback, useEffect, useState, type ReactNode } from "react";
 import { useRouter } from "next/navigation";
-import { ceremonyDateLabel, ordinalSuffix } from "@/data/ceremonies";
+import {
+  adjacentCeremonies,
+  ceremonyDateLabel,
+  ordinalSuffix,
+} from "@/data/ceremonies";
 import { useOverlay } from "@/hooks/useOverlay";
 import type {
   CeremonyCategory,
-  CeremonyDetail,
+  CeremonyDetail as CeremonyDetailData,
   Entry,
 } from "@/lib/types";
 
 type CeremonyOverlayProps = {
-  detail: CeremonyDetail;
+  detail: CeremonyDetailData;
+};
+
+type CeremonyChromeProps = {
+  slug: string;
+  children: ReactNode;
 };
 
 function formatNames(names: string[]): string {
@@ -91,24 +100,97 @@ function CategoryBlock({ category }: { category: CeremonyCategory }) {
   );
 }
 
+function Chevron({ direction }: { direction: "previous" | "next" }) {
+  const isNext = direction === "next";
+  return (
+    <svg
+      aria-hidden="true"
+      viewBox="0 0 24 24"
+      className="h-6 w-6"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.5"
+    >
+      {isNext ? (
+        <path d="M9 5l7 7-7 7" />
+      ) : (
+        <path d="M15 5l-7 7 7 7" />
+      )}
+    </svg>
+  );
+}
+
+function EditionArrow({
+  direction,
+  slug,
+  onNavigate,
+}: {
+  direction: "previous" | "next";
+  slug: string | undefined;
+  onNavigate: (slug: string) => void;
+}) {
+  const disabled = !slug;
+  const label = direction === "previous" ? "Previous ceremony" : "Next ceremony";
+  const sideClass = direction === "previous" ? "left-3 md:left-6" : "right-3 md:right-6";
+
+  return (
+    <button
+      type="button"
+      aria-label={label}
+      disabled={disabled}
+      onClick={() => {
+        if (slug) onNavigate(slug);
+      }}
+      className={`fixed top-1/2 z-50 -translate-y-1/2 deco-frame bg-surface p-3 text-gold hover:text-gold-light disabled:cursor-not-allowed disabled:opacity-40 ${sideClass}`}
+    >
+      <Chevron direction={direction} />
+    </button>
+  );
+}
+
 /**
- * Full ceremony detail as an accessible modal over the year grid.
- * The route itself stays a prerendered page; this shell handles Esc,
- * click-outside, focus, and scroll lock (spec.md 7.2).
+ * Persistent overlay chrome. Lives in the [slug] layout so prev/next
+ * navigation does not remount the dialog or drop the focus trap.
  */
-export function CeremonyOverlay({ detail }: CeremonyOverlayProps) {
-  const { ceremony, groups } = detail;
+export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
   const router = useRouter();
   const [open, setOpen] = useState(true);
+  const { previous, next } = adjacentCeremonies(slug);
   const onClose = useCallback(() => {
     setOpen(false);
     router.push("/", { scroll: false });
   }, [router]);
+  const goTo = useCallback(
+    (target: string) => {
+      router.push(`/${target}`, { scroll: false });
+    },
+    [router],
+  );
   const { overlayRef, contentRef } = useOverlay({
     isOpen: open,
     onClose,
-    returnFocus: `#year-card-${ceremony.slug}`,
+    returnFocus: `#year-card-${slug}`,
   });
+
+  useEffect(() => {
+    if (!open) return;
+
+    function onKeyDown(event: KeyboardEvent) {
+      if (event.metaKey || event.ctrlKey || event.altKey) return;
+      if (event.key === "ArrowLeft") {
+        event.preventDefault();
+        if (previous) goTo(previous.slug);
+        return;
+      }
+      if (event.key === "ArrowRight") {
+        event.preventDefault();
+        if (next) goTo(next.slug);
+      }
+    }
+
+    document.addEventListener("keydown", onKeyDown);
+    return () => document.removeEventListener("keydown", onKeyDown);
+  }, [open, previous, next, goTo]);
 
   if (!open) return null;
 
@@ -125,71 +207,101 @@ export function CeremonyOverlay({ detail }: CeremonyOverlayProps) {
         ref={contentRef}
         className="flex h-full max-h-full w-full max-w-6xl gap-10 overflow-y-auto bg-surface px-6 py-10"
       >
-        <nav
-          aria-label="Category groups"
-          className="sticky top-4 hidden h-fit w-44 shrink-0 lg:block"
-        >
-          <ul className="flex flex-col gap-2">
-            {groups.map((group) => (
-              <li key={group.id}>
-                <a
-                  href={`#group-${group.id}`}
-                  className="font-sans text-sm tracking-wide text-gold hover:text-gold-light"
-                >
-                  {group.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </nav>
-        <div className="min-w-0 flex-1">
-          <header className="mb-12 flex flex-col gap-8 md:flex-row md:items-start md:justify-between">
-            <div>
-              <p className="font-sans text-sm tracking-[0.25em] text-gold uppercase">
-                {ordinalSuffix(ceremony.ordinal)} Ceremony
-              </p>
-              <h1
-                id="ceremony-heading"
-                className="mt-2 font-display text-6xl tracking-tight text-gold md:text-8xl"
-              >
-                {ceremony.ceremonyYear}
-              </h1>
-              <p className="mt-3 font-sans text-muted">
-                Films of {ceremony.filmYearLabel}
-              </p>
-              <time
-                dateTime={ceremony.ceremonyDate}
-                className="mt-1 block font-sans text-muted"
-              >
-                {ceremonyDateLabel(ceremony)}
-              </time>
-            </div>
-            <div
-              data-poster-slot
-              aria-hidden="true"
-              className="deco-frame aspect-[2/3] w-36 shrink-0 bg-ink"
-            />
-          </header>
-          {groups.map((group) => (
-            <section
-              key={group.id}
-              id={`group-${group.id}`}
-              className="scroll-mt-8 border-t border-gold/20 py-10"
-              aria-labelledby={`group-label-${group.id}`}
-            >
-              <h2
-                id={`group-label-${group.id}`}
-                className="font-display text-sm tracking-[0.3em] text-gold uppercase"
-              >
-                {group.label}
-              </h2>
-              {group.categories.map((category) => (
-                <CategoryBlock key={category.id} category={category} />
-              ))}
-            </section>
-          ))}
-        </div>
+        <EditionArrow
+          direction="previous"
+          slug={previous?.slug}
+          onNavigate={goTo}
+        />
+        <EditionArrow direction="next" slug={next?.slug} onNavigate={goTo} />
+        {children}
       </div>
     </div>
+  );
+}
+
+/** Ceremony body: header, group index, and categories. */
+export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
+  const { ceremony, groups } = detail;
+
+  return (
+    <>
+      <nav
+        aria-label="Category groups"
+        className="sticky top-4 hidden h-fit w-44 shrink-0 lg:block"
+      >
+        <ul className="flex flex-col gap-2">
+          {groups.map((group) => (
+            <li key={group.id}>
+              <a
+                href={`#group-${group.id}`}
+                className="font-sans text-sm tracking-wide text-gold hover:text-gold-light"
+              >
+                {group.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+      <div className="min-w-0 flex-1">
+        <header className="mb-12 flex flex-col gap-8 md:flex-row md:items-start md:justify-between">
+          <div>
+            <p className="font-sans text-sm tracking-[0.25em] text-gold uppercase">
+              {ordinalSuffix(ceremony.ordinal)} Ceremony
+            </p>
+            <h1
+              id="ceremony-heading"
+              className="mt-2 font-display text-6xl tracking-tight text-gold md:text-8xl"
+            >
+              {ceremony.ceremonyYear}
+            </h1>
+            <p className="mt-3 font-sans text-muted">
+              Films of {ceremony.filmYearLabel}
+            </p>
+            <time
+              dateTime={ceremony.ceremonyDate}
+              className="mt-1 block font-sans text-muted"
+            >
+              {ceremonyDateLabel(ceremony)}
+            </time>
+          </div>
+          <div
+            data-poster-slot
+            aria-hidden="true"
+            className="deco-frame aspect-[2/3] w-36 shrink-0 bg-ink"
+          />
+        </header>
+        {groups.map((group) => (
+          <section
+            key={group.id}
+            id={`group-${group.id}`}
+            className="scroll-mt-8 border-t border-gold/20 py-10"
+            aria-labelledby={`group-label-${group.id}`}
+          >
+            <h2
+              id={`group-label-${group.id}`}
+              className="font-display text-sm tracking-[0.3em] text-gold uppercase"
+            >
+              {group.label}
+            </h2>
+            {group.categories.map((category) => (
+              <CategoryBlock key={category.id} category={category} />
+            ))}
+          </section>
+        ))}
+      </div>
+    </>
+  );
+}
+
+/**
+ * Full ceremony detail as an accessible modal over the year grid.
+ * The route itself stays a prerendered page; this shell handles Esc,
+ * click-outside, focus, and scroll lock (spec.md 7.2).
+ */
+export function CeremonyOverlay({ detail }: CeremonyOverlayProps) {
+  return (
+    <CeremonyChrome slug={detail.ceremony.slug}>
+      <CeremonyDetail detail={detail} />
+    </CeremonyChrome>
   );
 }
