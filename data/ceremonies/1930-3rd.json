@@ -1,0 +1,656 @@
+{
+  "ceremony": {
+    "ordinal": 3,
+    "ceremonyYear": 1930,
+    "ceremonyDate": "1930-11-05",
+    "filmYearLabel": "1929/30",
+    "slug": "1930-3rd",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "All Quiet on the Western Front"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 143,
+                  "imdbId": "tt0020629"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Big House"
+              ],
+              "movies": [
+                {
+                  "title": "The Big House",
+                  "tmdbId": 47250,
+                  "imdbId": "tt0020686"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Disraeli"
+              ],
+              "movies": [
+                {
+                  "title": "Disraeli",
+                  "tmdbId": 84274,
+                  "imdbId": "tt0019823"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Divorcee"
+              ],
+              "movies": [
+                {
+                  "title": "The Divorcee",
+                  "tmdbId": 80708,
+                  "imdbId": "tt0020827"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Love Parade"
+              ],
+              "movies": [
+                {
+                  "title": "The Love Parade",
+                  "tmdbId": 51759,
+                  "imdbId": "tt0020112"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Lewis Milestone"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 143,
+                  "imdbId": "tt0020629"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Clarence Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Anna Christie",
+                  "tmdbId": 42812,
+                  "imdbId": "tt0020641"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clarence Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Romance",
+                  "tmdbId": 77412,
+                  "imdbId": "tt0021310"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Z. Leonard"
+              ],
+              "movies": [
+                {
+                  "title": "The Divorcee",
+                  "tmdbId": 80708,
+                  "imdbId": "tt0020827"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernst Lubitsch"
+              ],
+              "movies": [
+                {
+                  "title": "The Love Parade",
+                  "tmdbId": 51759,
+                  "imdbId": "tt0020112"
+                }
+              ]
+            },
+            {
+              "names": [
+                "King Vidor"
+              ],
+              "movies": [
+                {
+                  "title": "Hallelujah",
+                  "tmdbId": 72856,
+                  "imdbId": "tt0019959"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "George Arliss"
+              ],
+              "movies": [
+                {
+                  "title": "Disraeli",
+                  "tmdbId": 84274,
+                  "imdbId": "tt0019823"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Arliss"
+              ],
+              "movies": [
+                {
+                  "title": "The Green Goddess",
+                  "tmdbId": 113430,
+                  "imdbId": "tt0020938"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wallace Beery"
+              ],
+              "movies": [
+                {
+                  "title": "The Big House",
+                  "tmdbId": 47250,
+                  "imdbId": "tt0020686"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maurice Chevalier"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Pond",
+                  "tmdbId": 111754,
+                  "imdbId": "tt0020690"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maurice Chevalier"
+              ],
+              "movies": [
+                {
+                  "title": "The Love Parade",
+                  "tmdbId": 51759,
+                  "imdbId": "tt0020112"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ronald Colman"
+              ],
+              "movies": [
+                {
+                  "title": "Bulldog Drummond",
+                  "tmdbId": 81829,
+                  "imdbId": "tt0019735"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ronald Colman"
+              ],
+              "movies": [
+                {
+                  "title": "Condemned",
+                  "tmdbId": 104208,
+                  "imdbId": "tt0019785"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lawrence Tibbett"
+              ],
+              "movies": [
+                {
+                  "title": "The Rogue Song",
+                  "tmdbId": 114063,
+                  "imdbId": "tt0021307"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Norma Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "The Divorcee",
+                  "tmdbId": 80708,
+                  "imdbId": "tt0020827"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nancy Carroll"
+              ],
+              "movies": [
+                {
+                  "title": "The Devil's Holiday",
+                  "tmdbId": 104215,
+                  "imdbId": "tt0020823"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth Chatterton"
+              ],
+              "movies": [
+                {
+                  "title": "Sarah and Son",
+                  "tmdbId": 104216,
+                  "imdbId": "tt0021335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greta Garbo"
+              ],
+              "movies": [
+                {
+                  "title": "Anna Christie",
+                  "tmdbId": 42812,
+                  "imdbId": "tt0020641"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greta Garbo"
+              ],
+              "movies": [
+                {
+                  "title": "Romance",
+                  "tmdbId": 77412,
+                  "imdbId": "tt0021310"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norma Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Their Own Desire",
+                  "tmdbId": 99767,
+                  "imdbId": "tt0020488"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gloria Swanson"
+              ],
+              "movies": [
+                {
+                  "title": "The Trespasser",
+                  "tmdbId": 53796,
+                  "imdbId": "tt0020514"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Frances Marion"
+              ],
+              "movies": [
+                {
+                  "title": "The Big House",
+                  "tmdbId": 47250,
+                  "imdbId": "tt0020686"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Abbott",
+                "Maxwell Anderson",
+                "Del Andrews"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 143,
+                  "imdbId": "tt0020629"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julien Josephson"
+              ],
+              "movies": [
+                {
+                  "title": "Disraeli",
+                  "tmdbId": 84274,
+                  "imdbId": "tt0019823"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Meehan"
+              ],
+              "movies": [
+                {
+                  "title": "The Divorcee",
+                  "tmdbId": 80708,
+                  "imdbId": "tt0020827"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard Estabrook"
+              ],
+              "movies": [
+                {
+                  "title": "Street of Chance",
+                  "tmdbId": 169326,
+                  "imdbId": "tt0021420"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Joseph T. Rucker",
+                "Willard Van der Veer"
+              ],
+              "movies": [
+                {
+                  "title": "With Byrd at the South Pole",
+                  "tmdbId": 101383,
+                  "imdbId": "tt0020594"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Edeson"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 143,
+                  "imdbId": "tt0020629"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William H. Daniels"
+              ],
+              "movies": [
+                {
+                  "title": "Anna Christie",
+                  "tmdbId": 42812,
+                  "imdbId": "tt0020641"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Gaudio",
+                "Harry Perry"
+              ],
+              "movies": [
+                {
+                  "title": "Hell's Angels",
+                  "tmdbId": 22301,
+                  "imdbId": "tt0020960"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Milner"
+              ],
+              "movies": [
+                {
+                  "title": "The Love Parade",
+                  "tmdbId": 51759,
+                  "imdbId": "tt0020112"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Herman Rosse"
+              ],
+              "movies": [
+                {
+                  "title": "King of Jazz",
+                  "tmdbId": 108213,
+                  "imdbId": "tt0021025"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Cameron Menzies"
+              ],
+              "movies": [
+                {
+                  "title": "Bulldog Drummond",
+                  "tmdbId": 81829,
+                  "imdbId": "tt0019735"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier"
+              ],
+              "movies": [
+                {
+                  "title": "The Love Parade",
+                  "tmdbId": 51759,
+                  "imdbId": "tt0020112"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Okey"
+              ],
+              "movies": [
+                {
+                  "title": "Sally",
+                  "tmdbId": 134914,
+                  "imdbId": "tt0020358"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier"
+              ],
+              "movies": [
+                {
+                  "title": "The Vagabond King",
+                  "tmdbId": 173668,
+                  "imdbId": "tt0021511"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "The Big House",
+                  "tmdbId": 47250,
+                  "imdbId": "tt0020686"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Tribby"
+              ],
+              "movies": [
+                {
+                  "title": "The Case of Sergeant Grischa",
+                  "tmdbId": 173715,
+                  "imdbId": "tt0020744"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franklin Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "The Love Parade",
+                  "tmdbId": 51759,
+                  "imdbId": "tt0020112"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oscar Lagerstrom"
+              ],
+              "movies": [
+                {
+                  "title": "Raffles",
+                  "tmdbId": 104439,
+                  "imdbId": "tt0021281"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Groves"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of the Flame",
+                  "tmdbId": 173713,
+                  "imdbId": "tt0021404"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

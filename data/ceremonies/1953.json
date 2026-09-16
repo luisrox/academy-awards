@@ -1,0 +1,1783 @@
+{
+  "ceremony": {
+    "ordinal": 25,
+    "ceremonyYear": 1953,
+    "ceremonyDate": "1953-03-19",
+    "filmYearLabel": "1952",
+    "slug": "1953",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Greatest Show on Earth"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Show on Earth",
+                  "tmdbId": 27191,
+                  "imdbId": "tt0044672"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "High Noon"
+              ],
+              "movies": [
+                {
+                  "title": "High Noon",
+                  "tmdbId": 288,
+                  "imdbId": "tt0044706"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ivanhoe"
+              ],
+              "movies": [
+                {
+                  "title": "Ivanhoe",
+                  "tmdbId": 26175,
+                  "imdbId": "tt0044760"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moulin Rouge"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge",
+                  "tmdbId": 10910,
+                  "imdbId": "tt0044926"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Quiet Man"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet Man",
+                  "tmdbId": 3109,
+                  "imdbId": "tt0045061"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "John Ford"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet Man",
+                  "tmdbId": 3109,
+                  "imdbId": "tt0045061"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cecil B. DeMille"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Show on Earth",
+                  "tmdbId": 27191,
+                  "imdbId": "tt0044672"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge",
+                  "tmdbId": 10910,
+                  "imdbId": "tt0044926"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph L. Mankiewicz"
+              ],
+              "movies": [
+                {
+                  "title": "5 Fingers",
+                  "tmdbId": 59087,
+                  "imdbId": "tt0044314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Zinnemann"
+              ],
+              "movies": [
+                {
+                  "title": "High Noon",
+                  "tmdbId": 288,
+                  "imdbId": "tt0044706"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Gary Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "High Noon",
+                  "tmdbId": 288,
+                  "imdbId": "tt0044706"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marlon Brando"
+              ],
+              "movies": [
+                {
+                  "title": "Viva Zapata!",
+                  "tmdbId": 1810,
+                  "imdbId": "tt0045296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kirk Douglas"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad and the Beautiful",
+                  "tmdbId": 32499,
+                  "imdbId": "tt0044391"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jose Ferrer"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge",
+                  "tmdbId": 10910,
+                  "imdbId": "tt0044926"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alec Guinness"
+              ],
+              "movies": [
+                {
+                  "title": "The Lavender Hill Mob",
+                  "tmdbId": 32961,
+                  "imdbId": "tt0044829"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Shirley Booth"
+              ],
+              "movies": [
+                {
+                  "title": "Come Back, Little Sheba",
+                  "tmdbId": 84214,
+                  "imdbId": "tt0044509"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joan Crawford"
+              ],
+              "movies": [
+                {
+                  "title": "Sudden Fear",
+                  "tmdbId": 19171,
+                  "imdbId": "tt0045205"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "The Star",
+                  "tmdbId": 85783,
+                  "imdbId": "tt0045186"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julie Harris"
+              ],
+              "movies": [
+                {
+                  "title": "The Member of the Wedding",
+                  "tmdbId": 93775,
+                  "imdbId": "tt0044896"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Hayward"
+              ],
+              "movies": [
+                {
+                  "title": "With a Song in My Heart",
+                  "tmdbId": 65787,
+                  "imdbId": "tt0045333"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Anthony Quinn"
+              ],
+              "movies": [
+                {
+                  "title": "Viva Zapata!",
+                  "tmdbId": 1810,
+                  "imdbId": "tt0045296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Burton"
+              ],
+              "movies": [
+                {
+                  "title": "My Cousin Rachel",
+                  "tmdbId": 94529,
+                  "imdbId": "tt0044937"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Hunnicutt"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Sky",
+                  "tmdbId": 43367,
+                  "imdbId": "tt0044419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor McLaglen"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet Man",
+                  "tmdbId": 3109,
+                  "imdbId": "tt0045061"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Palance"
+              ],
+              "movies": [
+                {
+                  "title": "Sudden Fear",
+                  "tmdbId": 19171,
+                  "imdbId": "tt0045205"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Gloria Grahame"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad and the Beautiful",
+                  "tmdbId": 32499,
+                  "imdbId": "tt0044391"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jean Hagen"
+              ],
+              "movies": [
+                {
+                  "title": "Singin' in the Rain",
+                  "tmdbId": 872,
+                  "imdbId": "tt0045152"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colette Marchand"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge",
+                  "tmdbId": 10910,
+                  "imdbId": "tt0044926"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terry Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Come Back, Little Sheba",
+                  "tmdbId": 84214,
+                  "imdbId": "tt0044509"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thelma Ritter"
+              ],
+              "movies": [
+                {
+                  "title": "With a Song in My Heart",
+                  "tmdbId": 65787,
+                  "imdbId": "tt0045333"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "T.E.B. Clarke"
+              ],
+              "movies": [
+                {
+                  "title": "The Lavender Hill Mob",
+                  "tmdbId": 32961,
+                  "imdbId": "tt0044829"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sydney Boehm"
+              ],
+              "movies": [
+                {
+                  "title": "The Atomic City",
+                  "tmdbId": 86769,
+                  "imdbId": "tt0044382"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terence Rattigan"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound Barrier",
+                  "tmdbId": 51619,
+                  "imdbId": "tt0044446"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth Gordon",
+                "Garson Kanin"
+              ],
+              "movies": [
+                {
+                  "title": "Pat and Mike",
+                  "tmdbId": 33575,
+                  "imdbId": "tt0045012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Steinbeck"
+              ],
+              "movies": [
+                {
+                  "title": "Viva Zapata!",
+                  "tmdbId": 1810,
+                  "imdbId": "tt0045296"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Charles Schnee"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad and the Beautiful",
+                  "tmdbId": 32499,
+                  "imdbId": "tt0044391"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "5 Fingers",
+                  "tmdbId": 59087,
+                  "imdbId": "tt0044314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carl Foreman"
+              ],
+              "movies": [
+                {
+                  "title": "High Noon",
+                  "tmdbId": 288,
+                  "imdbId": "tt0044706"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger MacDougall",
+                "John Dighton",
+                "Alexander Mackendrick"
+              ],
+              "movies": [
+                {
+                  "title": "The Man in the White Suit",
+                  "tmdbId": 32568,
+                  "imdbId": "tt0044876"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank S. Nugent"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet Man",
+                  "tmdbId": 3109,
+                  "imdbId": "tt0045061"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Frank Cavett",
+                "Frederic M. Frank",
+                "Theodore St. John"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Show on Earth",
+                  "tmdbId": 27191,
+                  "imdbId": "tt0044672"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leo McCarey"
+              ],
+              "movies": [
+                {
+                  "title": "My Son John",
+                  "tmdbId": 52991,
+                  "imdbId": "tt0044941"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Goldsmith",
+                "Jack Leonard"
+              ],
+              "movies": [
+                {
+                  "title": "The Narrow Margin",
+                  "tmdbId": 31713,
+                  "imdbId": "tt0044954"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Guy Trosper"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of St. Louis",
+                  "tmdbId": 43188,
+                  "imdbId": "tt0045049"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edna",
+                "Edward Anhalt"
+              ],
+              "movies": [
+                {
+                  "title": "The Sniper",
+                  "tmdbId": 25551,
+                  "imdbId": "tt0045161"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Forbidden Games"
+              ],
+              "movies": [
+                {
+                  "title": "Forbidden Games",
+                  "tmdbId": 5000,
+                  "imdbId": "tt0043686"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Sea Around Us"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Around Us",
+                  "tmdbId": 104989,
+                  "imdbId": "tt0044009"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Hoaxters"
+              ],
+              "movies": [
+                {
+                  "title": "The Hoaxters",
+                  "tmdbId": 149256,
+                  "imdbId": "tt0044713"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Navajo"
+              ],
+              "movies": [
+                {
+                  "title": "Navajo",
+                  "tmdbId": 149258,
+                  "imdbId": "tt0044955"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Winton Hoch",
+                "Archie Stout"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet Man",
+                  "tmdbId": 3109,
+                  "imdbId": "tt0045061"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "Hans Christian Andersen",
+                  "tmdbId": 16618,
+                  "imdbId": "tt0044685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "F. A. Young"
+              ],
+              "movies": [
+                {
+                  "title": "Ivanhoe",
+                  "tmdbId": 26175,
+                  "imdbId": "tt0044760"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George J. Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "Million Dollar Mermaid",
+                  "tmdbId": 43189,
+                  "imdbId": "tt0044903"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "The Snows of Kilimanjaro",
+                  "tmdbId": 4460,
+                  "imdbId": "tt0045162"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Robert Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad and the Beautiful",
+                  "tmdbId": 32499,
+                  "imdbId": "tt0044391"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Russell Harlan"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Sky",
+                  "tmdbId": 43367,
+                  "imdbId": "tt0044419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph LaShelle"
+              ],
+              "movies": [
+                {
+                  "title": "My Cousin Rachel",
+                  "tmdbId": 94529,
+                  "imdbId": "tt0044937"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Virgil Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Navajo",
+                  "tmdbId": 149258,
+                  "imdbId": "tt0044955"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Sudden Fear",
+                  "tmdbId": 19171,
+                  "imdbId": "tt0045205"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Elmo Williams",
+                "Harry Gerstad"
+              ],
+              "movies": [
+                {
+                  "title": "High Noon",
+                  "tmdbId": 288,
+                  "imdbId": "tt0044706"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warren Low"
+              ],
+              "movies": [
+                {
+                  "title": "Come Back, Little Sheba",
+                  "tmdbId": 84214,
+                  "imdbId": "tt0044509"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Austin"
+              ],
+              "movies": [
+                {
+                  "title": "Flat Top",
+                  "tmdbId": 71243,
+                  "imdbId": "tt0044621"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne Bauchens"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Show on Earth",
+                  "tmdbId": 27191,
+                  "imdbId": "tt0044672"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Kemplen"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge",
+                  "tmdbId": 10910,
+                  "imdbId": "tt0044926"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Marcel Vertes",
+                "Paul Sheriff"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge",
+                  "tmdbId": 10910,
+                  "imdbId": "tt0044926"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Day",
+                "Clave",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "Hans Christian Andersen",
+                  "tmdbId": 16618,
+                  "imdbId": "tt0044685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Paul Groesse",
+                "Arthur Krams",
+                "Edwin B. Willis"
+              ],
+              "movies": [
+                {
+                  "title": "The Merry Widow",
+                  "tmdbId": 185197,
+                  "imdbId": "tt0044900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Hotaling",
+                "John McCarthy Jr.",
+                "Charles S. Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet Man",
+                  "tmdbId": 3109,
+                  "imdbId": "tt0045061"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "John DeCuir",
+                "Paul S. Fox",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "The Snows of Kilimanjaro",
+                  "tmdbId": 4460,
+                  "imdbId": "tt0045162"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Edward Carfagno",
+                "Cedric Gibbons",
+                "Keogh Gleason",
+                "Edwin B. Willis"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad and the Beautiful",
+                  "tmdbId": 32499,
+                  "imdbId": "tt0044391"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hal Pereira",
+                "Roland Anderson",
+                "Emile Kuri"
+              ],
+              "movies": [
+                {
+                  "title": "Carrie",
+                  "tmdbId": 43358,
+                  "imdbId": "tt0044486"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "John DeCuir",
+                "Walter M. Scott"
+              ],
+              "movies": [
+                {
+                  "title": "My Cousin Rachel",
+                  "tmdbId": 94529,
+                  "imdbId": "tt0044937"
+                }
+              ]
+            },
+            {
+              "names": [
+                "So Matsuyama",
+                "H. Matsumoto"
+              ],
+              "movies": [
+                {
+                  "title": "Rashomon",
+                  "tmdbId": 548,
+                  "imdbId": "tt0042876"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Leland Fuller",
+                "Claude Carpenter",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "Viva Zapata!",
+                  "tmdbId": 1810,
+                  "imdbId": "tt0045296"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Marcel Vertes"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge",
+                  "tmdbId": 10910,
+                  "imdbId": "tt0044926"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edith Head",
+                "Dorothy Jeakins",
+                "Miles White"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Show on Earth",
+                  "tmdbId": 27191,
+                  "imdbId": "tt0044672"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Antoni Clave",
+                "Mary Wills",
+                "Barbara Karinska"
+              ],
+              "movies": [
+                {
+                  "title": "Hans Christian Andersen",
+                  "tmdbId": 16618,
+                  "imdbId": "tt0044685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Helen Rose",
+                "Gile Steele"
+              ],
+              "movies": [
+                {
+                  "title": "The Merry Widow",
+                  "tmdbId": 185197,
+                  "imdbId": "tt0044900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lemaire"
+              ],
+              "movies": [
+                {
+                  "title": "With a Song in My Heart",
+                  "tmdbId": 65787,
+                  "imdbId": "tt0045333"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Helen Rose"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad and the Beautiful",
+                  "tmdbId": 32499,
+                  "imdbId": "tt0044391"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Affair in Trinidad",
+                  "tmdbId": 61430,
+                  "imdbId": "tt0044331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "Carrie",
+                  "tmdbId": 43358,
+                  "imdbId": "tt0044486"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles LeMaire",
+                "Dorothy Jeakins"
+              ],
+              "movies": [
+                {
+                  "title": "My Cousin Rachel",
+                  "tmdbId": 94529,
+                  "imdbId": "tt0044937"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sheila O'Brien"
+              ],
+              "movies": [
+                {
+                  "title": "Sudden Fear",
+                  "tmdbId": 19171,
+                  "imdbId": "tt0045205"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Metro Goldwyn Mayer Studio"
+              ],
+              "movies": [
+                {
+                  "title": "Plymouth Adventure",
+                  "tmdbId": 90968,
+                  "imdbId": "tt0045039"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "London Films Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound Barrier",
+                  "tmdbId": 51619,
+                  "imdbId": "tt0044446"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Pinewood Studios Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "The Card",
+                  "tmdbId": 43369,
+                  "imdbId": "tt0045056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "Hans Christian Andersen",
+                  "tmdbId": 16618,
+                  "imdbId": "tt0044685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel J. Bloomberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet Man",
+                  "tmdbId": 3109,
+                  "imdbId": "tt0045061"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "With a Song in My Heart",
+                  "tmdbId": 65787,
+                  "imdbId": "tt0045333"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "High Noon",
+                  "tmdbId": 288,
+                  "imdbId": "tt0044706"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "Ivanhoe",
+                  "tmdbId": 26175,
+                  "imdbId": "tt0044760"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "The Miracle of Our Lady of Fatima",
+                  "tmdbId": 49616,
+                  "imdbId": "tt0044905"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herschel Burke Gilbert"
+              ],
+              "movies": [
+                {
+                  "title": "The Thief",
+                  "tmdbId": 38417,
+                  "imdbId": "tt0045230"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "Viva Zapata!",
+                  "tmdbId": 1810,
+                  "imdbId": "tt0045296"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "With a Song in My Heart",
+                  "tmdbId": 65787,
+                  "imdbId": "tt0045333"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Scharf"
+              ],
+              "movies": [
+                {
+                  "title": "Hans Christian Andersen",
+                  "tmdbId": 16618,
+                  "imdbId": "tt0044685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf",
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "The Jazz Singer",
+                  "tmdbId": 216925,
+                  "imdbId": "tt0044765"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gian-Carlo Menotti"
+              ],
+              "movies": [
+                {
+                  "title": "The Medium",
+                  "tmdbId": 194290,
+                  "imdbId": "tt0043794"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lennie Hayton"
+              ],
+              "movies": [
+                {
+                  "title": "Singin' in the Rain",
+                  "tmdbId": 872,
+                  "imdbId": "tt0045152"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "High Noon (Do Not Forsake Me",
+                "Oh My Darlin')"
+              ],
+              "movies": [
+                {
+                  "title": "High Noon",
+                  "tmdbId": 288,
+                  "imdbId": "tt0044706"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Am I in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Son of Paleface",
+                  "tmdbId": 30801,
+                  "imdbId": "tt0045177"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Because You're Mine"
+              ],
+              "movies": [
+                {
+                  "title": "Because You're Mine",
+                  "tmdbId": 184802,
+                  "imdbId": "tt0044402"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thumbelina"
+              ],
+              "movies": [
+                {
+                  "title": "Hans Christian Andersen",
+                  "tmdbId": 16618,
+                  "imdbId": "tt0044685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Zing a Little Zong"
+              ],
+              "movies": [
+                {
+                  "title": "Just for You",
+                  "tmdbId": 46014,
+                  "imdbId": "tt0044782"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Johann Mouse"
+              ],
+              "movies": [
+                {
+                  "title": "Johann Mouse",
+                  "tmdbId": 68986,
+                  "imdbId": "tt0045937"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Little Johnny Jet"
+              ],
+              "movies": [
+                {
+                  "title": "Little Johnny Jet",
+                  "tmdbId": 84899,
+                  "imdbId": "tt0046005"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Madeline"
+              ],
+              "movies": [
+                {
+                  "title": "Madeline",
+                  "tmdbId": 242994,
+                  "imdbId": "tt0044865"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pink and Blue Blues"
+              ],
+              "movies": [
+                {
+                  "title": "Pink and Blue Blues",
+                  "tmdbId": 242995,
+                  "imdbId": "tt0045033"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Romance of Transportation in Canada"
+              ],
+              "movies": [
+                {
+                  "title": "The Romance of Transportation in Canada",
+                  "tmdbId": 242996,
+                  "imdbId": "tt0045100"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Light in the Window: The Art of Vermeer"
+              ],
+              "movies": [
+                {
+                  "title": "Light in the Window: The Art of Vermeer",
+                  "tmdbId": 242989,
+                  "imdbId": "tt0044836"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Athletes of the Saddle"
+              ],
+              "movies": [
+                {
+                  "title": "Athletes of the Saddle",
+                  "tmdbId": 242990,
+                  "imdbId": "tt0044381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Desert Killer"
+              ],
+              "movies": [
+                {
+                  "title": "Desert Killer",
+                  "tmdbId": 179207,
+                  "imdbId": "tt0044539"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Neighbours"
+              ],
+              "movies": [
+                {
+                  "title": "Neighbours",
+                  "tmdbId": 51406,
+                  "imdbId": "tt0044958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Royal Scotland"
+              ],
+              "movies": [
+                {
+                  "title": "Royal Scotland",
+                  "tmdbId": 242991,
+                  "imdbId": "tt0045108"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Water Birds"
+              ],
+              "movies": [
+                {
+                  "title": "Water Birds",
+                  "tmdbId": 179184,
+                  "imdbId": "tt0045314"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bridge of Time"
+              ],
+              "movies": [
+                {
+                  "title": "Bridge of Time",
+                  "tmdbId": 242984,
+                  "imdbId": "tt0044447"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Devil Take Us"
+              ],
+              "movies": [
+                {
+                  "title": "Devil Take Us",
+                  "tmdbId": 242985,
+                  "imdbId": "tt0044548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thar She Blows!"
+              ],
+              "movies": [
+                {
+                  "title": "Thar She Blows!",
+                  "tmdbId": 242988,
+                  "imdbId": "tt0045228"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Neighbours"
+              ],
+              "movies": [
+                {
+                  "title": "Neighbours",
+                  "tmdbId": 51406,
+                  "imdbId": "tt0044958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Devil Take Us"
+              ],
+              "movies": [
+                {
+                  "title": "Devil Take Us",
+                  "tmdbId": 242985,
+                  "imdbId": "tt0044548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Garden Spider"
+              ],
+              "movies": [
+                {
+                  "title": "The Garden Spider",
+                  "tmdbId": 242997,
+                  "imdbId": "tt0044590"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Man Alive!"
+              ],
+              "movies": [
+                {
+                  "title": "Man Alive!",
+                  "tmdbId": 243000,
+                  "imdbId": "tt0044870"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

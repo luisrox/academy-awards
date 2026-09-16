@@ -1,0 +1,1650 @@
+{
+  "ceremony": {
+    "ordinal": 68,
+    "ceremonyYear": 1996,
+    "ceremonyDate": "1996-03-25",
+    "filmYearLabel": "1995",
+    "slug": "1996",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Braveheart"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Apollo 13"
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Babe"
+              ],
+              "movies": [
+                {
+                  "title": "Babe",
+                  "tmdbId": 9598,
+                  "imdbId": "tt0112431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Postman"
+              ],
+              "movies": [
+                {
+                  "title": "The Postman",
+                  "tmdbId": 11010,
+                  "imdbId": "tt0110877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sense and Sensibility"
+              ],
+              "movies": [
+                {
+                  "title": "Sense and Sensibility",
+                  "tmdbId": 4584,
+                  "imdbId": "tt0114388"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Mel Gibson"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mike Figgis"
+              ],
+              "movies": [
+                {
+                  "title": "Leaving Las Vegas",
+                  "tmdbId": 451,
+                  "imdbId": "tt0113627"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chris Noonan"
+              ],
+              "movies": [
+                {
+                  "title": "Babe",
+                  "tmdbId": 9598,
+                  "imdbId": "tt0112431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Radford"
+              ],
+              "movies": [
+                {
+                  "title": "The Postman",
+                  "tmdbId": 11010,
+                  "imdbId": "tt0110877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tim Robbins"
+              ],
+              "movies": [
+                {
+                  "title": "Dead Man Walking",
+                  "tmdbId": 687,
+                  "imdbId": "tt0112818"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Nicolas Cage"
+              ],
+              "movies": [
+                {
+                  "title": "Leaving Las Vegas",
+                  "tmdbId": 451,
+                  "imdbId": "tt0113627"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Dreyfuss"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Holland's Opus",
+                  "tmdbId": 2054,
+                  "imdbId": "tt0113862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Nixon",
+                  "tmdbId": 10858,
+                  "imdbId": "tt0113987"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sean Penn"
+              ],
+              "movies": [
+                {
+                  "title": "Dead Man Walking",
+                  "tmdbId": 687,
+                  "imdbId": "tt0112818"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Massimo Troisi"
+              ],
+              "movies": [
+                {
+                  "title": "The Postman",
+                  "tmdbId": 11010,
+                  "imdbId": "tt0110877"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Susan Sarandon"
+              ],
+              "movies": [
+                {
+                  "title": "Dead Man Walking",
+                  "tmdbId": 687,
+                  "imdbId": "tt0112818"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elisabeth Shue"
+              ],
+              "movies": [
+                {
+                  "title": "Leaving Las Vegas",
+                  "tmdbId": 451,
+                  "imdbId": "tt0113627"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sharon Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Casino",
+                  "tmdbId": 524,
+                  "imdbId": "tt0112641"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridges of Madison County",
+                  "tmdbId": 688,
+                  "imdbId": "tt0112579"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emma Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "Sense and Sensibility",
+                  "tmdbId": 4584,
+                  "imdbId": "tt0114388"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Kevin Spacey"
+              ],
+              "movies": [
+                {
+                  "title": "The Usual Suspects",
+                  "tmdbId": 629,
+                  "imdbId": "tt0114814"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Cromwell"
+              ],
+              "movies": [
+                {
+                  "title": "Babe",
+                  "tmdbId": 9598,
+                  "imdbId": "tt0112431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ed Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brad Pitt"
+              ],
+              "movies": [
+                {
+                  "title": "Twelve Monkeys",
+                  "tmdbId": 63,
+                  "imdbId": "tt0114746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tim Roth"
+              ],
+              "movies": [
+                {
+                  "title": "Rob Roy",
+                  "tmdbId": 11780,
+                  "imdbId": "tt0114287"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Mira Sorvino"
+              ],
+              "movies": [
+                {
+                  "title": "Mighty Aphrodite",
+                  "tmdbId": 11448,
+                  "imdbId": "tt0113819"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joan Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Nixon",
+                  "tmdbId": 10858,
+                  "imdbId": "tt0113987"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kathleen Quinlan"
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mare Winningham"
+              ],
+              "movies": [
+                {
+                  "title": "Georgia",
+                  "tmdbId": 97406,
+                  "imdbId": "tt0113158"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kate Winslet"
+              ],
+              "movies": [
+                {
+                  "title": "Sense and Sensibility",
+                  "tmdbId": 4584,
+                  "imdbId": "tt0114388"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Christopher McQuarrie"
+              ],
+              "movies": [
+                {
+                  "title": "The Usual Suspects",
+                  "tmdbId": 629,
+                  "imdbId": "tt0114814"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Randall Wallace"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Mighty Aphrodite",
+                  "tmdbId": 11448,
+                  "imdbId": "tt0113819"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Stone",
+                "Stephen J. Rivele",
+                "Christopher Wilkinson"
+              ],
+              "movies": [
+                {
+                  "title": "Nixon",
+                  "tmdbId": 10858,
+                  "imdbId": "tt0113987"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joss Whedon",
+                "Andrew Stanton",
+                "Joel Cohen",
+                "Alec Sokolow",
+                "John Lasseter",
+                "Pete Docter",
+                "Joe Ranft"
+              ],
+              "movies": [
+                {
+                  "title": "Toy Story",
+                  "tmdbId": 862,
+                  "imdbId": "tt0114709"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Emma Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "Sense and Sensibility",
+                  "tmdbId": 4584,
+                  "imdbId": "tt0114388"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Al Reinert",
+                "William Broyles Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Miller",
+                "Chris Noonan"
+              ],
+              "movies": [
+                {
+                  "title": "Babe",
+                  "tmdbId": 9598,
+                  "imdbId": "tt0112431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Figgis"
+              ],
+              "movies": [
+                {
+                  "title": "Leaving Las Vegas",
+                  "tmdbId": 451,
+                  "imdbId": "tt0113627"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Radford",
+                "Anna Pavignano",
+                "Furio Scarpelli",
+                "Giacomo Scarpelli",
+                "Massimo Troisi"
+              ],
+              "movies": [
+                {
+                  "title": "The Postman",
+                  "tmdbId": 11010,
+                  "imdbId": "tt0110877"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Antonia's Line"
+              ],
+              "movies": [
+                {
+                  "title": "Antonia's Line",
+                  "tmdbId": 880,
+                  "imdbId": "tt0112379"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All Things Fair"
+              ],
+              "movies": [
+                {
+                  "title": "All Things Fair",
+                  "tmdbId": 27098,
+                  "imdbId": "tt0113720"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dust of Life"
+              ],
+              "movies": [
+                {
+                  "title": "Dust of Life",
+                  "tmdbId": 124617,
+                  "imdbId": "tt0110880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Quartet"
+              ],
+              "movies": [
+                {
+                  "title": "The Quartet",
+                  "tmdbId": 67617,
+                  "imdbId": "tt0114212"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Star Maker"
+              ],
+              "movies": [
+                {
+                  "title": "The Star Maker",
+                  "tmdbId": 37975,
+                  "imdbId": "tt0114808"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Anne Frank Remembered"
+              ],
+              "movies": [
+                {
+                  "title": "Anne Frank Remembered",
+                  "tmdbId": 51352,
+                  "imdbId": "tt0112373"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Battle Over Citizen Kane"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle Over Citizen Kane",
+                  "tmdbId": 278484,
+                  "imdbId": "tt0115634"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hank Aaron: Chasing the Dream"
+              ],
+              "movies": [
+                {
+                  "title": "Hank Aaron: Chasing the Dream",
+                  "tmdbId": 149409,
+                  "imdbId": "tt0113254"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Small Wonders"
+              ],
+              "movies": [
+                {
+                  "title": "Small Wonders",
+                  "tmdbId": 124632,
+                  "imdbId": "tt0117669"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Troublesome Creek: A Midwestern"
+              ],
+              "movies": [
+                {
+                  "title": "Troublesome Creek: A Midwestern",
+                  "tmdbId": 124643,
+                  "imdbId": "tt1614420"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "John Toll"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Emmanuel Lubezki"
+              ],
+              "movies": [
+                {
+                  "title": "A Little Princess",
+                  "tmdbId": 19101,
+                  "imdbId": "tt0113670"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lu Yue"
+              ],
+              "movies": [
+                {
+                  "title": "Shanghai Triad",
+                  "tmdbId": 37557,
+                  "imdbId": "tt0115012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Coulter"
+              ],
+              "movies": [
+                {
+                  "title": "Sense and Sensibility",
+                  "tmdbId": 4584,
+                  "imdbId": "tt0114388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Goldblatt"
+              ],
+              "movies": [
+                {
+                  "title": "Batman Forever",
+                  "tmdbId": 414,
+                  "imdbId": "tt0112462"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Mike Hill",
+                "Daniel P. Hanley"
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chris Lebenzon"
+              ],
+              "movies": [
+                {
+                  "title": "Crimson Tide",
+                  "tmdbId": 8963,
+                  "imdbId": "tt0112740"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marcus D'Arcy",
+                "Jay Friedkin"
+              ],
+              "movies": [
+                {
+                  "title": "Babe",
+                  "tmdbId": 9598,
+                  "imdbId": "tt0112431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Francis-Brice"
+              ],
+              "movies": [
+                {
+                  "title": "Seven",
+                  "tmdbId": 475009,
+                  "imdbId": "tt0286071"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Rosenblum"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Eugenio Zanetti"
+              ],
+              "movies": [
+                {
+                  "title": "Restoration",
+                  "tmdbId": 35196,
+                  "imdbId": "tt0114272"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bo Welch",
+                "Cheryl Carasik"
+              ],
+              "movies": [
+                {
+                  "title": "A Little Princess",
+                  "tmdbId": 19101,
+                  "imdbId": "tt0113670"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Corenblith",
+                "Merideth Boswell"
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Ford",
+                "Kerrie Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Babe",
+                  "tmdbId": 9598,
+                  "imdbId": "tt0112431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Burrough"
+              ],
+              "movies": [
+                {
+                  "title": "Richard III",
+                  "tmdbId": 31174,
+                  "imdbId": "tt0114279"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "James Acheson"
+              ],
+              "movies": [
+                {
+                  "title": "Restoration",
+                  "tmdbId": 35196,
+                  "imdbId": "tt0114272"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Knode"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jenny Beavan",
+                "John Bright"
+              ],
+              "movies": [
+                {
+                  "title": "Sense and Sensibility",
+                  "tmdbId": 4584,
+                  "imdbId": "tt0114388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julie Weiss"
+              ],
+              "movies": [
+                {
+                  "title": "Twelve Monkeys",
+                  "tmdbId": 63,
+                  "imdbId": "tt0114746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shuna Harwood"
+              ],
+              "movies": [
+                {
+                  "title": "Richard III",
+                  "tmdbId": 31174,
+                  "imdbId": "tt0114279"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Peter Frampton",
+                "Paul Pattison",
+                "Lois Burwell"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Greg Cannom",
+                "Bpb Laden",
+                "Colleen Callaghan"
+              ],
+              "movies": [
+                {
+                  "title": "Roommates",
+                  "tmdbId": 161495,
+                  "imdbId": "tt0114296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ken Diaz",
+                "Mark Sanchez"
+              ],
+              "movies": [
+                {
+                  "title": "My Family",
+                  "tmdbId": 38722,
+                  "imdbId": "tt0113896"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Scott E. Anderson",
+                "Charles Gibson",
+                "Neal Scanlan",
+                "John Cox"
+              ],
+              "movies": [
+                {
+                  "title": "Babe",
+                  "tmdbId": 9598,
+                  "imdbId": "tt0112431"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Legato",
+                "Michael Kanfer",
+                "Leslie Ekker",
+                "Matt Sweeney"
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Rick Dior",
+                "Steve Pederson",
+                "Scott Millan",
+                "David MacMillan"
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Frank A. Montano",
+                "Michael Herbick",
+                "Petur Hiddal"
+              ],
+              "movies": [
+                {
+                  "title": "Batman Forever",
+                  "tmdbId": 414,
+                  "imdbId": "tt0112462"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Scott Millan",
+                "Anna Behlmer",
+                "Brian Simmons"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Rick Kline",
+                "Gregory H. Watkins",
+                "William B. Kaplan"
+              ],
+              "movies": [
+                {
+                  "title": "Crimson Tide",
+                  "tmdbId": 8963,
+                  "imdbId": "tt0112740"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Maslow",
+                "Gregg Landaker",
+                "Keith A. Wester"
+              ],
+              "movies": [
+                {
+                  "title": "Waterworld",
+                  "tmdbId": 9804,
+                  "imdbId": "tt0114898"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Lon Bender",
+                "Per Hallberg"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Leveque",
+                "Bruce Stambler"
+              ],
+              "movies": [
+                {
+                  "title": "Batman Forever",
+                  "tmdbId": 414,
+                  "imdbId": "tt0112462"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Watters"
+              ],
+              "movies": [
+                {
+                  "title": "Crimson Tide",
+                  "tmdbId": 8963,
+                  "imdbId": "tt0112740"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Luis Bacalov"
+              ],
+              "movies": [
+                {
+                  "title": "The Postman",
+                  "tmdbId": 11010,
+                  "imdbId": "tt0110877"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Patrick Doyle"
+              ],
+              "movies": [
+                {
+                  "title": "Sense and Sensibility",
+                  "tmdbId": 4584,
+                  "imdbId": "tt0114388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Horner"
+              ],
+              "movies": [
+                {
+                  "title": "Apollo 13",
+                  "tmdbId": 568,
+                  "imdbId": "tt0112384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Horner"
+              ],
+              "movies": [
+                {
+                  "title": "Braveheart",
+                  "tmdbId": 197,
+                  "imdbId": "tt0112573"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Nixon",
+                  "tmdbId": 10858,
+                  "imdbId": "tt0113987"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Alan Menken",
+                "Stephen Schwartz"
+              ],
+              "movies": [
+                {
+                  "title": "Pocahontas",
+                  "tmdbId": 10530,
+                  "imdbId": "tt0114148"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Sabrina",
+                  "tmdbId": 11860,
+                  "imdbId": "tt0114319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marc Shaiman"
+              ],
+              "movies": [
+                {
+                  "title": "The American President",
+                  "tmdbId": 9087,
+                  "imdbId": "tt0112346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Toy Story",
+                  "tmdbId": 862,
+                  "imdbId": "tt0114709"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Unstrung Heroes",
+                  "tmdbId": 52856,
+                  "imdbId": "tt0114798"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Colors of the Wind"
+              ],
+              "movies": [
+                {
+                  "title": "Pocahontas",
+                  "tmdbId": 10530,
+                  "imdbId": "tt0114148"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dead Man Walkin'"
+              ],
+              "movies": [
+                {
+                  "title": "Dead Man Walking",
+                  "tmdbId": 687,
+                  "imdbId": "tt0112818"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Have You Ever Really Loved a Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Don Juan DeMarco",
+                  "tmdbId": 1909,
+                  "imdbId": "tt0112883"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moonlight"
+              ],
+              "movies": [
+                {
+                  "title": "Sabrina",
+                  "tmdbId": 11860,
+                  "imdbId": "tt0114319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "You've Got a Friend in Me"
+              ],
+              "movies": [
+                {
+                  "title": "Toy Story",
+                  "tmdbId": 862,
+                  "imdbId": "tt0114709"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "A Close Shave"
+              ],
+              "movies": [
+                {
+                  "title": "A Close Shave",
+                  "tmdbId": 532,
+                  "imdbId": "tt0112691"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Chicken from Outer Space"
+              ],
+              "movies": [
+                {
+                  "title": "The Chicken from Outer Space",
+                  "tmdbId": 214163,
+                  "imdbId": "tt0112661"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Neon Genesis Evangelion: The End of Evangelion"
+              ],
+              "movies": [
+                {
+                  "title": "Neon Genesis Evangelion: The End of Evangelion",
+                  "tmdbId": 18491,
+                  "imdbId": "tt0169858"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gagarin"
+              ],
+              "movies": [
+                {
+                  "title": "Gagarin",
+                  "tmdbId": 214157,
+                  "imdbId": "tt0113138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Runaway Brain"
+              ],
+              "movies": [
+                {
+                  "title": "Runaway Brain",
+                  "tmdbId": 67166,
+                  "imdbId": "tt0114308"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Lieberman in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Lieberman in Love",
+                  "tmdbId": 244887,
+                  "imdbId": "tt0113653"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brooms"
+              ],
+              "movies": [
+                {
+                  "title": "Brooms",
+                  "tmdbId": 244890,
+                  "imdbId": "tt0112584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Duke of Groove"
+              ],
+              "movies": [
+                {
+                  "title": "Duke of Groove",
+                  "tmdbId": 194763,
+                  "imdbId": "tt0112910"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Little Surprises"
+              ],
+              "movies": [
+                {
+                  "title": "Little Surprises",
+                  "tmdbId": 244891,
+                  "imdbId": "tt0113671"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tuesday Morning Ride"
+              ],
+              "movies": [
+                {
+                  "title": "Tuesday Morning Ride",
+                  "tmdbId": 244893,
+                  "imdbId": "tt0114742"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "One Survivor Remembers"
+              ],
+              "movies": [
+                {
+                  "title": "One Survivor Remembers",
+                  "tmdbId": 57130,
+                  "imdbId": "tt0114044"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jim Dine: A Self-Portrait on the Walls"
+              ],
+              "movies": [
+                {
+                  "title": "Jim Dine: A Self-Portrait on the Walls",
+                  "tmdbId": 244894,
+                  "imdbId": "tt0113473"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Living Sea"
+              ],
+              "movies": [
+                {
+                  "title": "The Living Sea",
+                  "tmdbId": 17704,
+                  "imdbId": "tt0113676"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Never Give Up: The 20th Century Odyssey of Herbert Zipper"
+              ],
+              "movies": [
+                {
+                  "title": "Never Give Up: The 20th Century Odyssey of Herbert Zipper",
+                  "tmdbId": 244895,
+                  "imdbId": "tt0113963"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Shadow of Hate"
+              ],
+              "movies": [
+                {
+                  "title": "The Shadow of Hate",
+                  "tmdbId": 244897,
+                  "imdbId": "tt0114405"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

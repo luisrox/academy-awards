@@ -49,6 +49,15 @@ describe("loadHistoricalRecords", () => {
     );
   });
 
+  it("drops null tmdb_id and imdb_id instead of copying them", () => {
+    const [record] = loadHistoricalRecords([
+      source({
+        movies: [{ title: "Oppenheimer", tmdb_id: null, imdb_id: null }],
+      }),
+    ]);
+    expect(record.movies).toEqual([{ title: "Oppenheimer" }]);
+  });
+
   it("renames tmdb_id and imdb_id to camelCase", () => {
     const [record] = loadHistoricalRecords([source()]);
     expect(record.movies).toEqual([

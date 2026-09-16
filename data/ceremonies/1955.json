@@ -1,0 +1,1761 @@
+{
+  "ceremony": {
+    "ordinal": 27,
+    "ceremonyYear": 1955,
+    "ceremonyDate": "1955-03-30",
+    "filmYearLabel": "1954",
+    "slug": "1955",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "On the Waterfront"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Caine Mutiny"
+              ],
+              "movies": [
+                {
+                  "title": "The Caine Mutiny",
+                  "tmdbId": 10178,
+                  "imdbId": "tt0046816"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Country Girl"
+              ],
+              "movies": [
+                {
+                  "title": "The Country Girl",
+                  "tmdbId": 2438,
+                  "imdbId": "tt0046874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Seven Brides for Seven Brothers"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Brides for Seven Brothers",
+                  "tmdbId": 16563,
+                  "imdbId": "tt0047472"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Three Coins in the Fountain"
+              ],
+              "movies": [
+                {
+                  "title": "Three Coins in the Fountain",
+                  "tmdbId": 41503,
+                  "imdbId": "tt0047580"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Elia Kazan"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfred Hitchcock"
+              ],
+              "movies": [
+                {
+                  "title": "Rear Window",
+                  "tmdbId": 567,
+                  "imdbId": "tt0047396"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Seaton"
+              ],
+              "movies": [
+                {
+                  "title": "The Country Girl",
+                  "tmdbId": 2438,
+                  "imdbId": "tt0046874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Wellman"
+              ],
+              "movies": [
+                {
+                  "title": "The High and the Mighty",
+                  "tmdbId": 17761,
+                  "imdbId": "tt0047086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "Sabrina",
+                  "tmdbId": 6620,
+                  "imdbId": "tt0047437"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Marlon Brando"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Humphrey Bogart"
+              ],
+              "movies": [
+                {
+                  "title": "The Caine Mutiny",
+                  "tmdbId": 10178,
+                  "imdbId": "tt0046816"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bing Crosby"
+              ],
+              "movies": [
+                {
+                  "title": "The Country Girl",
+                  "tmdbId": 2438,
+                  "imdbId": "tt0046874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Mason"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 3111,
+                  "imdbId": "tt0047522"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan O'Herlihy"
+              ],
+              "movies": [
+                {
+                  "title": "Robinson Crusoe",
+                  "tmdbId": 54979,
+                  "imdbId": "tt0044386"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Grace Kelly"
+              ],
+              "movies": [
+                {
+                  "title": "The Country Girl",
+                  "tmdbId": 2438,
+                  "imdbId": "tt0046874"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dorothy Dandridge"
+              ],
+              "movies": [
+                {
+                  "title": "Carmen Jones",
+                  "tmdbId": 51044,
+                  "imdbId": "tt0046828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judy Garland"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 3111,
+                  "imdbId": "tt0047522"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Audrey Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "Sabrina",
+                  "tmdbId": 6620,
+                  "imdbId": "tt0047437"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Wyman"
+              ],
+              "movies": [
+                {
+                  "title": "Magnificent Obsession",
+                  "tmdbId": 13457,
+                  "imdbId": "tt0047203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Edmond O'Brien"
+              ],
+              "movies": [
+                {
+                  "title": "The Barefoot Contessa",
+                  "tmdbId": 34689,
+                  "imdbId": "tt0046754"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lee J. Cobb"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karl Malden"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rod Steiger"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Tully"
+              ],
+              "movies": [
+                {
+                  "title": "The Caine Mutiny",
+                  "tmdbId": 10178,
+                  "imdbId": "tt0046816"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Eva Marie Saint"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nina Foch"
+              ],
+              "movies": [
+                {
+                  "title": "Executive Suite",
+                  "tmdbId": 43336,
+                  "imdbId": "tt0046963"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Katy Jurado"
+              ],
+              "movies": [
+                {
+                  "title": "Broken Lance",
+                  "tmdbId": 42328,
+                  "imdbId": "tt0046808"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jan Sterling"
+              ],
+              "movies": [
+                {
+                  "title": "The High and the Mighty",
+                  "tmdbId": 17761,
+                  "imdbId": "tt0047086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claire Trevor"
+              ],
+              "movies": [
+                {
+                  "title": "The High and the Mighty",
+                  "tmdbId": 17761,
+                  "imdbId": "tt0047086"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Budd Schulberg"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph L. Mankiewicz"
+              ],
+              "movies": [
+                {
+                  "title": "The Barefoot Contessa",
+                  "tmdbId": 34689,
+                  "imdbId": "tt0046754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Rose"
+              ],
+              "movies": [
+                {
+                  "title": "Genevieve",
+                  "tmdbId": 43346,
+                  "imdbId": "tt0045808"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Valentine Davies",
+                "Oscar Brodney"
+              ],
+              "movies": [
+                {
+                  "title": "The Glenn Miller Story",
+                  "tmdbId": 17729,
+                  "imdbId": "tt0047030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Panama",
+                "Melvin Frank"
+              ],
+              "movies": [
+                {
+                  "title": "Knock On Wood",
+                  "tmdbId": 55859,
+                  "imdbId": "tt0047152"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "George Seaton"
+              ],
+              "movies": [
+                {
+                  "title": "The Country Girl",
+                  "tmdbId": 2438,
+                  "imdbId": "tt0046874"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stanley Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "The Caine Mutiny",
+                  "tmdbId": 10178,
+                  "imdbId": "tt0046816"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Michael Hayes"
+              ],
+              "movies": [
+                {
+                  "title": "Rear Window",
+                  "tmdbId": 567,
+                  "imdbId": "tt0047396"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Wilder",
+                "Samuel Taylor",
+                "Ernest Lehman"
+              ],
+              "movies": [
+                {
+                  "title": "Sabrina",
+                  "tmdbId": 6620,
+                  "imdbId": "tt0047437"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Hackett",
+                "Frances Goodrich",
+                "Dorothy Kingsley"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Brides for Seven Brothers",
+                  "tmdbId": 16563,
+                  "imdbId": "tt0047472"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Philip Yordan"
+              ],
+              "movies": [
+                {
+                  "title": "Broken Lance",
+                  "tmdbId": 42328,
+                  "imdbId": "tt0046808"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ettore Maria Margadonna"
+              ],
+              "movies": [
+                {
+                  "title": "Bread, Love and Dreams",
+                  "tmdbId": 56402,
+                  "imdbId": "tt0046159"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francois Boyer"
+              ],
+              "movies": [
+                {
+                  "title": "Forbidden Games",
+                  "tmdbId": 5000,
+                  "imdbId": "tt0043686"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jed Harris",
+                "Tom Reed"
+              ],
+              "movies": [
+                {
+                  "title": "Night People",
+                  "tmdbId": 76372,
+                  "imdbId": "tt0047279"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lamar Trotti"
+              ],
+              "movies": [
+                {
+                  "title": "There's No Business Like Show Business",
+                  "tmdbId": 21468,
+                  "imdbId": "tt0047574"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Gate of Hell"
+              ],
+              "movies": [
+                {
+                  "title": "Gate of Hell",
+                  "tmdbId": 43349,
+                  "imdbId": "tt0045935"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Vanishing Prairie"
+              ],
+              "movies": [
+                {
+                  "title": "The Vanishing Prairie",
+                  "tmdbId": 114499,
+                  "imdbId": "tt0047642"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Stratford Adventure"
+              ],
+              "movies": [
+                {
+                  "title": "The Stratford Adventure",
+                  "tmdbId": 149261,
+                  "imdbId": "tt0047530"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Milton R. Krasner"
+              ],
+              "movies": [
+                {
+                  "title": "Three Coins in the Fountain",
+                  "tmdbId": 41503,
+                  "imdbId": "tt0047580"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "The Egyptian",
+                  "tmdbId": 24973,
+                  "imdbId": "tt0046949"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Burks"
+              ],
+              "movies": [
+                {
+                  "title": "Rear Window",
+                  "tmdbId": 567,
+                  "imdbId": "tt0047396"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Brides for Seven Brothers",
+                  "tmdbId": 16563,
+                  "imdbId": "tt0047472"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William V. Skall"
+              ],
+              "movies": [
+                {
+                  "title": "The Silver Chalice",
+                  "tmdbId": 65212,
+                  "imdbId": "tt0047494"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Boris Kaufman"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John F. Warren"
+              ],
+              "movies": [
+                {
+                  "title": "The Country Girl",
+                  "tmdbId": 2438,
+                  "imdbId": "tt0046874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "Executive Suite",
+                  "tmdbId": 43336,
+                  "imdbId": "tt0046963"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Seitz"
+              ],
+              "movies": [
+                {
+                  "title": "Rogue Cop",
+                  "tmdbId": 30036,
+                  "imdbId": "tt0047424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Sabrina",
+                  "tmdbId": 6620,
+                  "imdbId": "tt0047437"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Gene Milford"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elmo Williams"
+              ],
+              "movies": [
+                {
+                  "title": "20,000 Leagues Under the Sea",
+                  "tmdbId": 173,
+                  "imdbId": "tt0046672"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Lyon",
+                "Henry Batista"
+              ],
+              "movies": [
+                {
+                  "title": "The Caine Mutiny",
+                  "tmdbId": 10178,
+                  "imdbId": "tt0046816"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Dawson"
+              ],
+              "movies": [
+                {
+                  "title": "The High and the Mighty",
+                  "tmdbId": 17761,
+                  "imdbId": "tt0047086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph E. Winters"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Brides for Seven Brothers",
+                  "tmdbId": 16563,
+                  "imdbId": "tt0047472"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "John Meehan",
+                "Emile Kuri"
+              ],
+              "movies": [
+                {
+                  "title": "20,000 Leagues Under the Sea",
+                  "tmdbId": 173,
+                  "imdbId": "tt0046672"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "E. Preston Ames",
+                "Edwin B. Willis",
+                "Keogh Gleason"
+              ],
+              "movies": [
+                {
+                  "title": "Brigadoon",
+                  "tmdbId": 18283,
+                  "imdbId": "tt0046807"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Leland Fuller",
+                "Walter M. Scott",
+                "Paul S. Fox"
+              ],
+              "movies": [
+                {
+                  "title": "Désirée",
+                  "tmdbId": 43333,
+                  "imdbId": "tt0046903"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Roland Anderson",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Red Garters",
+                  "tmdbId": 156566,
+                  "imdbId": "tt0047400"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Malcolm Bert",
+                "Gene Allen",
+                "Irene Sharaff",
+                "George James Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 3111,
+                  "imdbId": "tt0047522"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Richard Day"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hal Pereira",
+                "Roland Anderson",
+                "Samuel M. Comer",
+                "Grace Gregory"
+              ],
+              "movies": [
+                {
+                  "title": "The Country Girl",
+                  "tmdbId": 2438,
+                  "imdbId": "tt0046874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Edward Carfagno",
+                "Edwin B. Willis",
+                "Emile Kuri"
+              ],
+              "movies": [
+                {
+                  "title": "Executive Suite",
+                  "tmdbId": 43336,
+                  "imdbId": "tt0046963"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Ophuls"
+              ],
+              "movies": [
+                {
+                  "title": "Le Plaisir",
+                  "tmdbId": 43360,
+                  "imdbId": "tt0045034"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Walter Tyler",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Sabrina",
+                  "tmdbId": 6620,
+                  "imdbId": "tt0047437"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Sanzo Wada"
+              ],
+              "movies": [
+                {
+                  "title": "Gate of Hell",
+                  "tmdbId": 43349,
+                  "imdbId": "tt0045935"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "Brigadoon",
+                  "tmdbId": 18283,
+                  "imdbId": "tt0046807"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles LeMaire",
+                "Rene Hubert"
+              ],
+              "movies": [
+                {
+                  "title": "Désirée",
+                  "tmdbId": 43333,
+                  "imdbId": "tt0046903"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Louis",
+                "Mary Ann Nyberg",
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 3111,
+                  "imdbId": "tt0047522"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles LeMaire",
+                "William Travilla",
+                "Miles White"
+              ],
+              "movies": [
+                {
+                  "title": "There's No Business Like Show Business",
+                  "tmdbId": 21468,
+                  "imdbId": "tt0047574"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "Sabrina",
+                  "tmdbId": 6620,
+                  "imdbId": "tt0047437"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Georges Annenkov",
+                "Rosine Delamare"
+              ],
+              "movies": [
+                {
+                  "title": "The Earrings of Madame de...",
+                  "tmdbId": 27030,
+                  "imdbId": "tt0046022"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Helen Rose"
+              ],
+              "movies": [
+                {
+                  "title": "Executive Suite",
+                  "tmdbId": 43336,
+                  "imdbId": "tt0046963"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "It Should Happen to You",
+                  "tmdbId": 20127,
+                  "imdbId": "tt0047123"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christian Dior"
+              ],
+              "movies": [
+                {
+                  "title": "Indiscretion of an American Wife",
+                  "tmdbId": 74585,
+                  "imdbId": "tt0046366"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Walt Disney Studios"
+              ],
+              "movies": [
+                {
+                  "title": "20,000 Leagues Under the Sea",
+                  "tmdbId": 173,
+                  "imdbId": "tt0046672"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "20th Century Fox Studio"
+              ],
+              "movies": [
+                {
+                  "title": "Hell and High Water",
+                  "tmdbId": 23097,
+                  "imdbId": "tt0047073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warner Bros. Studio"
+              ],
+              "movies": [
+                {
+                  "title": "Them!",
+                  "tmdbId": 11071,
+                  "imdbId": "tt0047573"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Leslie I. Carey"
+              ],
+              "movies": [
+                {
+                  "title": "The Glenn Miller Story",
+                  "tmdbId": 17729,
+                  "imdbId": "tt0047030"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Wesley C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Brigadoon",
+                  "tmdbId": 18283,
+                  "imdbId": "tt0046807"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John P. Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "The Caine Mutiny",
+                  "tmdbId": 10178,
+                  "imdbId": "tt0046816"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "Rear Window",
+                  "tmdbId": 567,
+                  "imdbId": "tt0047396"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "Susan Slept Here",
+                  "tmdbId": 50356,
+                  "imdbId": "tt0047550"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "The High and the Mighty",
+                  "tmdbId": 17761,
+                  "imdbId": "tt0047086"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "The Caine Mutiny",
+                  "tmdbId": 10178,
+                  "imdbId": "tt0046816"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Larry Adler"
+              ],
+              "movies": [
+                {
+                  "title": "Genevieve",
+                  "tmdbId": 43346,
+                  "imdbId": "tt0045808"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "On the Waterfront",
+                  "tmdbId": 654,
+                  "imdbId": "tt0047296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "The Silver Chalice",
+                  "tmdbId": 65212,
+                  "imdbId": "tt0047494"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Adolph Deutsch",
+                "Saul Chaplin"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Brides for Seven Brothers",
+                  "tmdbId": 16563,
+                  "imdbId": "tt0047472"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Herschel Burke Gilbert"
+              ],
+              "movies": [
+                {
+                  "title": "Carmen Jones",
+                  "tmdbId": 51044,
+                  "imdbId": "tt0046828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Gershenson",
+                "Henry Mancini"
+              ],
+              "movies": [
+                {
+                  "title": "The Glenn Miller Story",
+                  "tmdbId": 17729,
+                  "imdbId": "tt0047030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 3111,
+                  "imdbId": "tt0047522"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman",
+                "Lionel Newman"
+              ],
+              "movies": [
+                {
+                  "title": "There's No Business Like Show Business",
+                  "tmdbId": 21468,
+                  "imdbId": "tt0047574"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Three Coins in the Fountain"
+              ],
+              "movies": [
+                {
+                  "title": "Three Coins in the Fountain",
+                  "tmdbId": 41503,
+                  "imdbId": "tt0047580"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Count Your Blessings Instead of Sheep"
+              ],
+              "movies": [
+                {
+                  "title": "White Christmas",
+                  "tmdbId": 13368,
+                  "imdbId": "tt0047673"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The High",
+                "the Mighty"
+              ],
+              "movies": [
+                {
+                  "title": "The High and the Mighty",
+                  "tmdbId": 17761,
+                  "imdbId": "tt0047086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hold My Hand"
+              ],
+              "movies": [
+                {
+                  "title": "Susan Slept Here",
+                  "tmdbId": 50356,
+                  "imdbId": "tt0047550"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Man That Got Away"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 3111,
+                  "imdbId": "tt0047522"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "When Magoo Flew"
+              ],
+              "movies": [
+                {
+                  "title": "When Magoo Flew",
+                  "tmdbId": 205712,
+                  "imdbId": "tt0047672"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Crazy Mixed Up Pup"
+              ],
+              "movies": [
+                {
+                  "title": "Crazy Mixed Up Pup",
+                  "tmdbId": 204675,
+                  "imdbId": "tt0047959"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pigs Is Pigs"
+              ],
+              "movies": [
+                {
+                  "title": "Pigs Is Pigs",
+                  "tmdbId": 56011,
+                  "imdbId": "tt0047353"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Claws"
+              ],
+              "movies": [
+                {
+                  "title": "Sandy Claws",
+                  "tmdbId": 168018,
+                  "imdbId": "tt0048581"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Touché, Pussy Cat!"
+              ],
+              "movies": [
+                {
+                  "title": "Touché, Pussy Cat!",
+                  "tmdbId": 93653,
+                  "imdbId": "tt0047600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "This Mechanical Age"
+              ],
+              "movies": [
+                {
+                  "title": "This Mechanical Age",
+                  "tmdbId": 243020,
+                  "imdbId": "tt0047578"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The First Piano Quartette"
+              ],
+              "movies": [
+                {
+                  "title": "The First Piano Quartette",
+                  "tmdbId": 243021,
+                  "imdbId": "tt0046981"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Strauss Fantasy"
+              ],
+              "movies": [
+                {
+                  "title": "The Strauss Fantasy",
+                  "tmdbId": 243022,
+                  "imdbId": "tt0047531"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "A Time Out of War"
+              ],
+              "movies": [
+                {
+                  "title": "A Time Out of War",
+                  "tmdbId": 163370,
+                  "imdbId": "tt0047587"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Beauty and the Bull"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Bull",
+                  "tmdbId": 243016,
+                  "imdbId": "tt0046760"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jet Carrier"
+              ],
+              "movies": [
+                {
+                  "title": "Jet Carrier",
+                  "tmdbId": 243017,
+                  "imdbId": "tt0047131"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Siam"
+              ],
+              "movies": [
+                {
+                  "title": "Siam",
+                  "tmdbId": 243019,
+                  "imdbId": "tt0047485"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Thursday's Children"
+              ],
+              "movies": [
+                {
+                  "title": "Thursday's Children",
+                  "tmdbId": 243023,
+                  "imdbId": "tt0047585"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jet Carrier"
+              ],
+              "movies": [
+                {
+                  "title": "Jet Carrier",
+                  "tmdbId": 243017,
+                  "imdbId": "tt0047131"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rembrandt: A Self-Portrait"
+              ],
+              "movies": [
+                {
+                  "title": "Rembrandt: A Self-Portrait",
+                  "tmdbId": 243024,
+                  "imdbId": "tt0047404"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

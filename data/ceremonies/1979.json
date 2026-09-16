@@ -1,0 +1,1477 @@
+{
+  "ceremony": {
+    "ordinal": 51,
+    "ceremonyYear": 1979,
+    "ceremonyDate": "1979-04-09",
+    "filmYearLabel": "1978",
+    "slug": "1979",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Deer Hunter"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Coming Home"
+              ],
+              "movies": [
+                {
+                  "title": "Coming Home",
+                  "tmdbId": 31657,
+                  "imdbId": "tt0077362"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Heaven Can Wait"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Midnight Express"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Express",
+                  "tmdbId": 11327,
+                  "imdbId": "tt0077928"
+                }
+              ]
+            },
+            {
+              "names": [
+                "An Unmarried Woman"
+              ],
+              "movies": [
+                {
+                  "title": "An Unmarried Woman",
+                  "tmdbId": 38731,
+                  "imdbId": "tt0078444"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Michael Cimino"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hal Ashby"
+              ],
+              "movies": [
+                {
+                  "title": "Coming Home",
+                  "tmdbId": 31657,
+                  "imdbId": "tt0077362"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warren Beatty",
+                "Buck Henry"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Interiors",
+                  "tmdbId": 15867,
+                  "imdbId": "tt0077742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Parker"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Express",
+                  "tmdbId": 11327,
+                  "imdbId": "tt0077928"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Jon Voight"
+              ],
+              "movies": [
+                {
+                  "title": "Coming Home",
+                  "tmdbId": 31657,
+                  "imdbId": "tt0077362"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warren Beatty"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Busey"
+              ],
+              "movies": [
+                {
+                  "title": "The Buddy Holly Story",
+                  "tmdbId": 24153,
+                  "imdbId": "tt0077280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert De Niro"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "The Boys from Brazil",
+                  "tmdbId": 16241,
+                  "imdbId": "tt0077269"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jane Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "Coming Home",
+                  "tmdbId": 31657,
+                  "imdbId": "tt0077362"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ingrid Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Autumn Sonata",
+                  "tmdbId": 12761,
+                  "imdbId": "tt0077711"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ellen Burstyn"
+              ],
+              "movies": [
+                {
+                  "title": "Same Time, Next Year",
+                  "tmdbId": 37672,
+                  "imdbId": "tt0078199"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jill Clayburgh"
+              ],
+              "movies": [
+                {
+                  "title": "An Unmarried Woman",
+                  "tmdbId": 38731,
+                  "imdbId": "tt0078444"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geraldine Page"
+              ],
+              "movies": [
+                {
+                  "title": "Interiors",
+                  "tmdbId": 15867,
+                  "imdbId": "tt0077742"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Christopher Walken"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bruce Dern"
+              ],
+              "movies": [
+                {
+                  "title": "Coming Home",
+                  "tmdbId": 31657,
+                  "imdbId": "tt0077362"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Farnsworth"
+              ],
+              "movies": [
+                {
+                  "title": "Comes a Horseman",
+                  "tmdbId": 42201,
+                  "imdbId": "tt0077360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Hurt"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Express",
+                  "tmdbId": 11327,
+                  "imdbId": "tt0077928"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Warden"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Maggie Smith"
+              ],
+              "movies": [
+                {
+                  "title": "California Suite",
+                  "tmdbId": 26686,
+                  "imdbId": "tt0077289"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dyan Cannon"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Penelope Milford"
+              ],
+              "movies": [
+                {
+                  "title": "Coming Home",
+                  "tmdbId": 31657,
+                  "imdbId": "tt0077362"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maureen Stapleton"
+              ],
+              "movies": [
+                {
+                  "title": "Interiors",
+                  "tmdbId": 15867,
+                  "imdbId": "tt0077742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Robert C. Jones",
+                "Waldo Salt",
+                "Nancy Dowd"
+              ],
+              "movies": [
+                {
+                  "title": "Coming Home",
+                  "tmdbId": 31657,
+                  "imdbId": "tt0077362"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ingmar Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Autumn Sonata",
+                  "tmdbId": 12761,
+                  "imdbId": "tt0077711"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Cimino",
+                "Deric Washburn",
+                "Louis Garfinkle",
+                "Quinn K. Redeker"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Interiors",
+                  "tmdbId": 15867,
+                  "imdbId": "tt0077742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Mazursky"
+              ],
+              "movies": [
+                {
+                  "title": "An Unmarried Woman",
+                  "tmdbId": 38731,
+                  "imdbId": "tt0078444"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Oliver Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Express",
+                  "tmdbId": 11327,
+                  "imdbId": "tt0077928"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Bloodbrothers",
+                  "tmdbId": 114096,
+                  "imdbId": "tt0078878"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Neil Simon"
+              ],
+              "movies": [
+                {
+                  "title": "California Suite",
+                  "tmdbId": 26686,
+                  "imdbId": "tt0077289"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elaine May",
+                "Warren Beatty"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard Slade"
+              ],
+              "movies": [
+                {
+                  "title": "Same Time, Next Year",
+                  "tmdbId": 37672,
+                  "imdbId": "tt0078199"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Get Out Your Handkerchiefs"
+              ],
+              "movies": [
+                {
+                  "title": "Get Out Your Handkerchiefs",
+                  "tmdbId": 4267,
+                  "imdbId": "tt0078122"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Glass Cell"
+              ],
+              "movies": [
+                {
+                  "title": "The Glass Cell",
+                  "tmdbId": 4049,
+                  "imdbId": "tt0077615"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hungarians"
+              ],
+              "movies": [
+                {
+                  "title": "Hungarians",
+                  "tmdbId": 202779,
+                  "imdbId": "tt0077891"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The New Monsters"
+              ],
+              "movies": [
+                {
+                  "title": "The New Monsters",
+                  "tmdbId": 45004,
+                  "imdbId": "tt0078012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "White Bim Black Ear"
+              ],
+              "movies": [
+                {
+                  "title": "White Bim Black Ear",
+                  "tmdbId": 63899,
+                  "imdbId": "tt0077222"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Scared Straight!"
+              ],
+              "movies": [
+                {
+                  "title": "Scared Straight!",
+                  "tmdbId": 92215,
+                  "imdbId": "tt0078205"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mysterious Castles of Clay"
+              ],
+              "movies": [
+                {
+                  "title": "Mysterious Castles of Clay",
+                  "tmdbId": 149353,
+                  "imdbId": "tt0077966"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raoni"
+              ],
+              "movies": [
+                {
+                  "title": "Raoni",
+                  "tmdbId": 149352,
+                  "imdbId": "tt0078140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Lovers' Wind"
+              ],
+              "movies": [
+                {
+                  "title": "The Lovers' Wind",
+                  "tmdbId": 136714,
+                  "imdbId": "tt0080087"
+                }
+              ]
+            },
+            {
+              "names": [
+                "With Babies and Banners: Story of the Women's Emergency Brigade"
+              ],
+              "movies": [
+                {
+                  "title": "With Babies and Banners: Story of the Women's Emergency Brigade",
+                  "tmdbId": 136715,
+                  "imdbId": "tt0078501"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Nestor Almendros"
+              ],
+              "movies": [
+                {
+                  "title": "Days of Heaven",
+                  "tmdbId": 16642,
+                  "imdbId": "tt0077405"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Vilmos Zsigmond"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Fraker"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "Same Time, Next Year",
+                  "tmdbId": 37672,
+                  "imdbId": "tt0078199"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oswald Morris"
+              ],
+              "movies": [
+                {
+                  "title": "The Wiz",
+                  "tmdbId": 24961,
+                  "imdbId": "tt0078504"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Peter Zinner"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stuart Baird"
+              ],
+              "movies": [
+                {
+                  "title": "Superman",
+                  "tmdbId": 1924,
+                  "imdbId": "tt0078346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerry Hambling"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Express",
+                  "tmdbId": 11327,
+                  "imdbId": "tt0077928"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert E. Swink"
+              ],
+              "movies": [
+                {
+                  "title": "The Boys from Brazil",
+                  "tmdbId": 16241,
+                  "imdbId": "tt0077269"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Don Zimmerman"
+              ],
+              "movies": [
+                {
+                  "title": "Coming Home",
+                  "tmdbId": 31657,
+                  "imdbId": "tt0077362"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Paul Sylbert",
+                "Edwin O'Donovan",
+                "George Gaine"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dean Tavoularis",
+                "Angelo Graham",
+                "George R. Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "The Brink's Job",
+                  "tmdbId": 24429,
+                  "imdbId": "tt0077275"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Brenner",
+                "Marvin March"
+              ],
+              "movies": [
+                {
+                  "title": "California Suite",
+                  "tmdbId": 26686,
+                  "imdbId": "tt0077289"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mel Bourne",
+                "Daniel Robert"
+              ],
+              "movies": [
+                {
+                  "title": "Interiors",
+                  "tmdbId": 15867,
+                  "imdbId": "tt0077742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Walton",
+                "Philip Rosenberg",
+                "Edward Stewart",
+                "Robert Drumheller"
+              ],
+              "movies": [
+                {
+                  "title": "The Wiz",
+                  "tmdbId": 24961,
+                  "imdbId": "tt0078504"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Anthony Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Death on the Nile",
+                  "tmdbId": 4192,
+                  "imdbId": "tt0077413"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Renie Conley"
+              ],
+              "movies": [
+                {
+                  "title": "Caravans",
+                  "tmdbId": 41317,
+                  "imdbId": "tt0077296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patricia Norris"
+              ],
+              "movies": [
+                {
+                  "title": "Days of Heaven",
+                  "tmdbId": 16642,
+                  "imdbId": "tt0077405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Zastupnevich"
+              ],
+              "movies": [
+                {
+                  "title": "The Swarm",
+                  "tmdbId": 46878,
+                  "imdbId": "tt0078350"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Walton"
+              ],
+              "movies": [
+                {
+                  "title": "The Wiz",
+                  "tmdbId": 24961,
+                  "imdbId": "tt0078504"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Les Bowie",
+                "Colin Chilvers",
+                "Denys Coop",
+                "Roy Field",
+                "Derek Meddings",
+                "Zoran Perisic"
+              ],
+              "movies": [
+                {
+                  "title": "Superman",
+                  "tmdbId": 1924,
+                  "imdbId": "tt0078346"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Richard Portman",
+                "William McCaughey",
+                "Aaron Rochin",
+                "Darin Knight"
+              ],
+              "movies": [
+                {
+                  "title": "The Deer Hunter",
+                  "tmdbId": 11778,
+                  "imdbId": "tt0077416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tex Rudloff",
+                "Joel Fein",
+                "Curly Thirlwell",
+                "Willie D. Burton"
+              ],
+              "movies": [
+                {
+                  "title": "The Buddy Holly Story",
+                  "tmdbId": 24153,
+                  "imdbId": "tt0077280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Wilkinson",
+                "Robert W. Glass Jr.",
+                "John T. Reitz",
+                "Barry Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "Days of Heaven",
+                  "tmdbId": 16642,
+                  "imdbId": "tt0077405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Knudson",
+                "Robert Glass",
+                "Don MacDougall",
+                "Jack Solomon"
+              ],
+              "movies": [
+                {
+                  "title": "Hooper",
+                  "tmdbId": 16214,
+                  "imdbId": "tt0077696"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon K. McCallum",
+                "Graham V. Hartstone",
+                "Nicolas Le Messurier",
+                "Roy Charman"
+              ],
+              "movies": [
+                {
+                  "title": "Superman",
+                  "tmdbId": 1924,
+                  "imdbId": "tt0078346"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Giorgio Moroder"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Express",
+                  "tmdbId": 11327,
+                  "imdbId": "tt0077928"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "The Boys from Brazil",
+                  "tmdbId": 16241,
+                  "imdbId": "tt0077269"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ennio Morricone"
+              ],
+              "movies": [
+                {
+                  "title": "Days of Heaven",
+                  "tmdbId": 16642,
+                  "imdbId": "tt0077405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dave Grusin"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 12185,
+                  "imdbId": "tt0077663"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Superman",
+                  "tmdbId": 1924,
+                  "imdbId": "tt0078346"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Joe Renzetti"
+              ],
+              "movies": [
+                {
+                  "title": "The Buddy Holly Story",
+                  "tmdbId": 24153,
+                  "imdbId": "tt0077280"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Quincy Jones"
+              ],
+              "movies": [
+                {
+                  "title": "The Wiz",
+                  "tmdbId": 24961,
+                  "imdbId": "tt0078504"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "Pretty Baby",
+                  "tmdbId": 26973,
+                  "imdbId": "tt0078111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Last Dance"
+              ],
+              "movies": [
+                {
+                  "title": "Thank God It's Friday",
+                  "tmdbId": 42212,
+                  "imdbId": "tt0078382"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hopelessly Devoted to You"
+              ],
+              "movies": [
+                {
+                  "title": "Grease",
+                  "tmdbId": 621,
+                  "imdbId": "tt0077631"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Last Time I Felt Like This"
+              ],
+              "movies": [
+                {
+                  "title": "Same Time, Next Year",
+                  "tmdbId": 37672,
+                  "imdbId": "tt0078199"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ready to Take a Chance Again"
+              ],
+              "movies": [
+                {
+                  "title": "Foul Play",
+                  "tmdbId": 15659,
+                  "imdbId": "tt0077578"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When You're Loved"
+              ],
+              "movies": [
+                {
+                  "title": "The Magic of Lassie",
+                  "tmdbId": 88203,
+                  "imdbId": "tt0077890"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Special Delivery"
+              ],
+              "movies": [
+                {
+                  "title": "Special Delivery",
+                  "tmdbId": 48346,
+                  "imdbId": "tt0206312"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Oh My Darling"
+              ],
+              "movies": [
+                {
+                  "title": "Oh My Darling",
+                  "tmdbId": 218777,
+                  "imdbId": "tt0078017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rip Van Winkle"
+              ],
+              "movies": [
+                {
+                  "title": "Rip Van Winkle",
+                  "tmdbId": 186868,
+                  "imdbId": "tt0078168"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Teenage Father"
+              ],
+              "movies": [
+                {
+                  "title": "Teenage Father",
+                  "tmdbId": 243616,
+                  "imdbId": "tt0078372"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Different Approach"
+              ],
+              "movies": [
+                {
+                  "title": "A Different Approach",
+                  "tmdbId": 243617,
+                  "imdbId": "tt0077434"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mandy's Grandmother"
+              ],
+              "movies": [
+                {
+                  "title": "Mandy's Grandmother",
+                  "tmdbId": 243620,
+                  "imdbId": "tt0077901"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Strange Fruit"
+              ],
+              "movies": [
+                {
+                  "title": "Strange Fruit",
+                  "tmdbId": 243622,
+                  "imdbId": "tt0078329"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Flight of the Gossamer Condor"
+              ],
+              "movies": [
+                {
+                  "title": "The Flight of the Gossamer Condor",
+                  "tmdbId": 243623,
+                  "imdbId": "tt0077564"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Divided Trail: A Native American Odyssey"
+              ],
+              "movies": [
+                {
+                  "title": "The Divided Trail: A Native American Odyssey",
+                  "tmdbId": 243624,
+                  "imdbId": "tt0077442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "An Encounter with Faces"
+              ],
+              "movies": [
+                {
+                  "title": "An Encounter with Faces",
+                  "tmdbId": 243625,
+                  "imdbId": "tt0077502"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Goodnight Miss Ann"
+              ],
+              "movies": [
+                {
+                  "title": "Goodnight Miss Ann",
+                  "tmdbId": 243626,
+                  "imdbId": "tt0077624"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Squires of San Quentin"
+              ],
+              "movies": [
+                {
+                  "title": "Squires of San Quentin",
+                  "tmdbId": 243627,
+                  "imdbId": "tt0078314"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1742 @@
+{
+  "ceremony": {
+    "ordinal": 87,
+    "ceremonyYear": 2015,
+    "ceremonyDate": "2015-02-22",
+    "filmYearLabel": "2014",
+    "slug": "2015",
+    "decade": "2010s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Birdman or: (The Unexpected Virtue of Ignorance)"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "American Sniper"
+              ],
+              "movies": [
+                {
+                  "title": "American Sniper",
+                  "tmdbId": 190859,
+                  "imdbId": "tt2179136"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boyhood"
+              ],
+              "movies": [
+                {
+                  "title": "Boyhood",
+                  "tmdbId": 85350,
+                  "imdbId": "tt1065073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Grand Budapest Hotel"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Imitation Game"
+              ],
+              "movies": [
+                {
+                  "title": "The Imitation Game",
+                  "tmdbId": 205596,
+                  "imdbId": "tt2084970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Selma"
+              ],
+              "movies": [
+                {
+                  "title": "Selma",
+                  "tmdbId": 273895,
+                  "imdbId": "tt1020072"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Theory of Everything"
+              ],
+              "movies": [
+                {
+                  "title": "The Theory of Everything",
+                  "tmdbId": 266856,
+                  "imdbId": "tt2980516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Whiplash"
+              ],
+              "movies": [
+                {
+                  "title": "Whiplash",
+                  "tmdbId": 244786,
+                  "imdbId": "tt2582802"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Alejandro Gonzalez Inarritu"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Linklater"
+              ],
+              "movies": [
+                {
+                  "title": "Boyhood",
+                  "tmdbId": 85350,
+                  "imdbId": "tt1065073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wes Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bennett Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Foxcatcher",
+                  "tmdbId": 87492,
+                  "imdbId": "tt1100089"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morten Tyldum"
+              ],
+              "movies": [
+                {
+                  "title": "The Imitation Game",
+                  "tmdbId": 205596,
+                  "imdbId": "tt2084970"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Eddie Redmayne"
+              ],
+              "movies": [
+                {
+                  "title": "The Theory of Everything",
+                  "tmdbId": 266856,
+                  "imdbId": "tt2980516"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Steve Carell"
+              ],
+              "movies": [
+                {
+                  "title": "Foxcatcher",
+                  "tmdbId": 87492,
+                  "imdbId": "tt1100089"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bradley Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "American Sniper",
+                  "tmdbId": 190859,
+                  "imdbId": "tt2179136"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Benedict Cumberbatch"
+              ],
+              "movies": [
+                {
+                  "title": "The Imitation Game",
+                  "tmdbId": 205596,
+                  "imdbId": "tt2084970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Keaton"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Julianne Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Still Alice",
+                  "tmdbId": 284293,
+                  "imdbId": "tt3316960"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marion Cotillard"
+              ],
+              "movies": [
+                {
+                  "title": "Two Days, One Night",
+                  "tmdbId": 221902,
+                  "imdbId": "tt2737050"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Felicity Jones"
+              ],
+              "movies": [
+                {
+                  "title": "The Theory of Everything",
+                  "tmdbId": 266856,
+                  "imdbId": "tt2980516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rosamund Pike"
+              ],
+              "movies": [
+                {
+                  "title": "Gone Girl",
+                  "tmdbId": 210577,
+                  "imdbId": "tt2267998"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Reese Witherspoon"
+              ],
+              "movies": [
+                {
+                  "title": "Wild",
+                  "tmdbId": 228970,
+                  "imdbId": "tt2305051"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "J. K. Simmons"
+              ],
+              "movies": [
+                {
+                  "title": "Whiplash",
+                  "tmdbId": 244786,
+                  "imdbId": "tt2582802"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Duvall"
+              ],
+              "movies": [
+                {
+                  "title": "The Judge",
+                  "tmdbId": 205587,
+                  "imdbId": "tt1872194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ethan Hawke"
+              ],
+              "movies": [
+                {
+                  "title": "Boyhood",
+                  "tmdbId": 85350,
+                  "imdbId": "tt1065073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Norton"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Ruffalo"
+              ],
+              "movies": [
+                {
+                  "title": "Foxcatcher",
+                  "tmdbId": 87492,
+                  "imdbId": "tt1100089"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Patricia Arquette"
+              ],
+              "movies": [
+                {
+                  "title": "Boyhood",
+                  "tmdbId": 85350,
+                  "imdbId": "tt1065073"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Laura Dern"
+              ],
+              "movies": [
+                {
+                  "title": "Wild",
+                  "tmdbId": 228970,
+                  "imdbId": "tt2305051"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Keira Knightley"
+              ],
+              "movies": [
+                {
+                  "title": "The Imitation Game",
+                  "tmdbId": 205596,
+                  "imdbId": "tt2084970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emma Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Into the Woods",
+                  "tmdbId": 224141,
+                  "imdbId": "tt2180411"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alejandro Gonzalez Inarritu",
+                "Nicolas Giacobone",
+                "Alexander Dinelaris Jr.",
+                "Armando Bo"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hugo Guinness",
+                "Wes Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Linklater"
+              ],
+              "movies": [
+                {
+                  "title": "Boyhood",
+                  "tmdbId": 85350,
+                  "imdbId": "tt1065073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "E. Max Frye",
+                "Dan Futterman"
+              ],
+              "movies": [
+                {
+                  "title": "Foxcatcher",
+                  "tmdbId": 87492,
+                  "imdbId": "tt1100089"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan Gilroy"
+              ],
+              "movies": [
+                {
+                  "title": "Nightcrawler",
+                  "tmdbId": 242582,
+                  "imdbId": "tt2872718"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Graham Moore"
+              ],
+              "movies": [
+                {
+                  "title": "The Imitation Game",
+                  "tmdbId": 205596,
+                  "imdbId": "tt2084970"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jason Hall"
+              ],
+              "movies": [
+                {
+                  "title": "American Sniper",
+                  "tmdbId": 190859,
+                  "imdbId": "tt2179136"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Thomas Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Inherent Vice",
+                  "tmdbId": 171274,
+                  "imdbId": "tt1791528"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony McCarten"
+              ],
+              "movies": [
+                {
+                  "title": "The Theory of Everything",
+                  "tmdbId": 266856,
+                  "imdbId": "tt2980516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Damien Chazelle"
+              ],
+              "movies": [
+                {
+                  "title": "Whiplash",
+                  "tmdbId": 244786,
+                  "imdbId": "tt2582802"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Big Hero 6"
+              ],
+              "movies": [
+                {
+                  "title": "Big Hero 6",
+                  "tmdbId": 177572,
+                  "imdbId": "tt2245084"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "How to Train Your Dragon 2"
+              ],
+              "movies": [
+                {
+                  "title": "How to Train Your Dragon 2",
+                  "tmdbId": 82702,
+                  "imdbId": "tt1646971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Boxtrolls"
+              ],
+              "movies": [
+                {
+                  "title": "The Boxtrolls",
+                  "tmdbId": 170687,
+                  "imdbId": "tt0787474"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Song of the Sea"
+              ],
+              "movies": [
+                {
+                  "title": "Song of the Sea",
+                  "tmdbId": 110416,
+                  "imdbId": "tt1865505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Tale of The Princess Kaguya"
+              ],
+              "movies": [
+                {
+                  "title": "The Tale of The Princess Kaguya",
+                  "tmdbId": 149871,
+                  "imdbId": "tt2576852"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Ida"
+              ],
+              "movies": [
+                {
+                  "title": "Ida",
+                  "tmdbId": 209274,
+                  "imdbId": "tt2718492"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leviathan"
+              ],
+              "movies": [
+                {
+                  "title": "Leviathan",
+                  "tmdbId": 265180,
+                  "imdbId": "tt2802154"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tangerines"
+              ],
+              "movies": [
+                {
+                  "title": "Tangerines",
+                  "tmdbId": 238628,
+                  "imdbId": "tt2991224"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Timbuktu"
+              ],
+              "movies": [
+                {
+                  "title": "Timbuktu",
+                  "tmdbId": 265228,
+                  "imdbId": "tt3409392"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wild Tales"
+              ],
+              "movies": [
+                {
+                  "title": "Wild Tales",
+                  "tmdbId": 265195,
+                  "imdbId": "tt3011894"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Citizenfour"
+              ],
+              "movies": [
+                {
+                  "title": "Citizenfour",
+                  "tmdbId": 293310,
+                  "imdbId": "tt4044364"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Last Days in Vietnam"
+              ],
+              "movies": [
+                {
+                  "title": "Last Days in Vietnam",
+                  "tmdbId": 250761,
+                  "imdbId": "tt3279124"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Finding Vivian Maier"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Vivian Maier",
+                  "tmdbId": 169607,
+                  "imdbId": "tt2714900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Salt of the Earth"
+              ],
+              "movies": [
+                {
+                  "title": "The Salt of the Earth",
+                  "tmdbId": 265297,
+                  "imdbId": "tt3674140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Virunga"
+              ],
+              "movies": [
+                {
+                  "title": "Virunga",
+                  "tmdbId": 263614,
+                  "imdbId": "tt3455224"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Emmanuel Lubezki"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Yeoman"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lukasz Zal",
+                "Ryszard Lenczewski"
+              ],
+              "movies": [
+                {
+                  "title": "Ida",
+                  "tmdbId": 209274,
+                  "imdbId": "tt2718492"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dick Pope"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Turner",
+                  "tmdbId": 245700,
+                  "imdbId": "tt2473794"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "Unbroken",
+                  "tmdbId": 227306,
+                  "imdbId": "tt1809398"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Tom Cross"
+              ],
+              "movies": [
+                {
+                  "title": "Whiplash",
+                  "tmdbId": 244786,
+                  "imdbId": "tt2582802"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joel Cox",
+                "Gary D. Roach"
+              ],
+              "movies": [
+                {
+                  "title": "American Sniper",
+                  "tmdbId": 190859,
+                  "imdbId": "tt2179136"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandra Adair"
+              ],
+              "movies": [
+                {
+                  "title": "Boyhood",
+                  "tmdbId": 85350,
+                  "imdbId": "tt1065073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barney Pilling"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Goldenberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Imitation Game",
+                  "tmdbId": 205596,
+                  "imdbId": "tt2084970"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Adam Stockhausen",
+                "Anna Pinnock"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Maria Djurkovic",
+                "Tatiana Macdonald"
+              ],
+              "movies": [
+                {
+                  "title": "The Imitation Game",
+                  "tmdbId": 205596,
+                  "imdbId": "tt2084970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Crowley",
+                "Gary Fettis"
+              ],
+              "movies": [
+                {
+                  "title": "Interstellar",
+                  "tmdbId": 157336,
+                  "imdbId": "tt0816692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Gassner",
+                "Anna Pinnock"
+              ],
+              "movies": [
+                {
+                  "title": "Into the Woods",
+                  "tmdbId": 224141,
+                  "imdbId": "tt2180411"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Suzie Davies",
+                "Charlotte Watts"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Turner",
+                  "tmdbId": 245700,
+                  "imdbId": "tt2473794"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Milena Canonero"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mark Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "Inherent Vice",
+                  "tmdbId": 171274,
+                  "imdbId": "tt1791528"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Into the Woods",
+                  "tmdbId": 224141,
+                  "imdbId": "tt2180411"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anna B. Sheppard"
+              ],
+              "movies": [
+                {
+                  "title": "Maleficent",
+                  "tmdbId": 102651,
+                  "imdbId": "tt1587310"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacqueline Durran"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Turner",
+                  "tmdbId": 245700,
+                  "imdbId": "tt2473794"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Frances Hannon",
+                "Mark Coulier"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bill Corso",
+                "Dennis Liddiard"
+              ],
+              "movies": [
+                {
+                  "title": "Foxcatcher",
+                  "tmdbId": 87492,
+                  "imdbId": "tt1100089"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elizabeth Yianni-Georgiou",
+                "David White"
+              ],
+              "movies": [
+                {
+                  "title": "Guardians of the Galaxy",
+                  "tmdbId": 118340,
+                  "imdbId": "tt2015381"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Paul Franklin",
+                "Andrew Lockley",
+                "Ian Hunter",
+                "Scott R. Fisher"
+              ],
+              "movies": [
+                {
+                  "title": "Interstellar",
+                  "tmdbId": 157336,
+                  "imdbId": "tt0816692"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dan DeLeeuw",
+                "Russell Earl",
+                "Bryan Grill",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "Captain America: The Winter Soldier",
+                  "tmdbId": 100402,
+                  "imdbId": "tt1843866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Letteri",
+                "Dan Lemmon",
+                "Daniel Barrett",
+                "Erik Winquist"
+              ],
+              "movies": [
+                {
+                  "title": "Dawn of the Planet of the Apes",
+                  "tmdbId": 119450,
+                  "imdbId": "tt2103281"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephane Ceretti",
+                "Nicolas Aithadi",
+                "Jonathan Fawkner",
+                "Paul Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Guardians of the Galaxy",
+                  "tmdbId": 118340,
+                  "imdbId": "tt2015381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Stammers",
+                "Lou Pecora",
+                "Tim Crosbie",
+                "Cameron Waldbauer"
+              ],
+              "movies": [
+                {
+                  "title": "X-Men: Days of Future Past",
+                  "tmdbId": 127585,
+                  "imdbId": "tt1877832"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Craig Mann",
+                "Ben Wilkins",
+                "Thomas Curley"
+              ],
+              "movies": [
+                {
+                  "title": "Whiplash",
+                  "tmdbId": 244786,
+                  "imdbId": "tt2582802"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Reitz",
+                "Gregg Rudloff",
+                "Walt Martin"
+              ],
+              "movies": [
+                {
+                  "title": "American Sniper",
+                  "tmdbId": 190859,
+                  "imdbId": "tt2179136"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary A. Rizzo",
+                "Gregg Landaker",
+                "Mark Weingarten"
+              ],
+              "movies": [
+                {
+                  "title": "Interstellar",
+                  "tmdbId": 157336,
+                  "imdbId": "tt0816692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Taylor",
+                "Frank A. Montano",
+                "David Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Unbroken",
+                  "tmdbId": 227306,
+                  "imdbId": "tt1809398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Taylor",
+                "Frank A. Montano",
+                "Thomas Varga"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Alan Robert Murray",
+                "Bub Asman"
+              ],
+              "movies": [
+                {
+                  "title": "American Sniper",
+                  "tmdbId": 190859,
+                  "imdbId": "tt2179136"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Martin Hernandez",
+                "Aaron Glascock"
+              ],
+              "movies": [
+                {
+                  "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "tmdbId": 194662,
+                  "imdbId": "tt2562232"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brent Burge",
+                "Jason Canovas"
+              ],
+              "movies": [
+                {
+                  "title": "The Hobbit: The Battle of the Five Armies",
+                  "tmdbId": 122917,
+                  "imdbId": "tt2310332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard King"
+              ],
+              "movies": [
+                {
+                  "title": "Interstellar",
+                  "tmdbId": 157336,
+                  "imdbId": "tt0816692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Becky Sullivan",
+                "Andrew DeCristofaro"
+              ],
+              "movies": [
+                {
+                  "title": "Unbroken",
+                  "tmdbId": 227306,
+                  "imdbId": "tt1809398"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Alexandre Desplat"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Budapest Hotel",
+                  "tmdbId": 120467,
+                  "imdbId": "tt2278388"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alexandre Desplat"
+              ],
+              "movies": [
+                {
+                  "title": "The Imitation Game",
+                  "tmdbId": 205596,
+                  "imdbId": "tt2084970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "Interstellar",
+                  "tmdbId": 157336,
+                  "imdbId": "tt0816692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Yershon"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Turner",
+                  "tmdbId": 245700,
+                  "imdbId": "tt2473794"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Johann Johannsson"
+              ],
+              "movies": [
+                {
+                  "title": "The Theory of Everything",
+                  "tmdbId": 266856,
+                  "imdbId": "tt2980516"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Glory"
+              ],
+              "movies": [
+                {
+                  "title": "Selma",
+                  "tmdbId": 273895,
+                  "imdbId": "tt1020072"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Everything is Awesome"
+              ],
+              "movies": [
+                {
+                  "title": "The Lego Movie",
+                  "tmdbId": 137106,
+                  "imdbId": "tt1490017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Grateful"
+              ],
+              "movies": [
+                {
+                  "title": "Beyond the Lights",
+                  "tmdbId": 241771,
+                  "imdbId": "tt3125324"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'm Not Gonna Miss You"
+              ],
+              "movies": [
+                {
+                  "title": "Glen Campbell: I'll Be Me",
+                  "tmdbId": 285689,
+                  "imdbId": "tt2049586"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lost Stars"
+              ],
+              "movies": [
+                {
+                  "title": "Begin Again",
+                  "tmdbId": 198277,
+                  "imdbId": "tt1980929"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Feast"
+              ],
+              "movies": [
+                {
+                  "title": "Feast",
+                  "tmdbId": 293299,
+                  "imdbId": "tt3689498"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Bigger Picture"
+              ],
+              "movies": [
+                {
+                  "title": "The Bigger Picture",
+                  "tmdbId": 307695,
+                  "imdbId": "tt3610188"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Dam Keeper"
+              ],
+              "movies": [
+                {
+                  "title": "The Dam Keeper",
+                  "tmdbId": 254273,
+                  "imdbId": "tt3326262"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Me and My Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Me and My Moulton",
+                  "tmdbId": 289024,
+                  "imdbId": "tt3946086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Single Life"
+              ],
+              "movies": [
+                {
+                  "title": "A Single Life",
+                  "tmdbId": 289280,
+                  "imdbId": "tt3838700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Phone Call"
+              ],
+              "movies": [
+                {
+                  "title": "The Phone Call",
+                  "tmdbId": 220809,
+                  "imdbId": "tt3071532"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Boogaloo and Graham"
+              ],
+              "movies": [
+                {
+                  "title": "Boogaloo and Graham",
+                  "tmdbId": 307686,
+                  "imdbId": "tt3612232"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Butter Lamp"
+              ],
+              "movies": [
+                {
+                  "title": "Butter Lamp",
+                  "tmdbId": 199342,
+                  "imdbId": "tt2922078"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Parvaneh"
+              ],
+              "movies": [
+                {
+                  "title": "Parvaneh",
+                  "tmdbId": 307692,
+                  "imdbId": "tt3008010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aya"
+              ],
+              "movies": [
+                {
+                  "title": "Aya",
+                  "tmdbId": 323644,
+                  "imdbId": "tt3813480"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Crisis Hotline: Veterans Press 1"
+              ],
+              "movies": [
+                {
+                  "title": "Crisis Hotline: Veterans Press 1",
+                  "tmdbId": 248808,
+                  "imdbId": "tt3449252"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joanna"
+              ],
+              "movies": [
+                {
+                  "title": "Joanna",
+                  "tmdbId": 300176,
+                  "imdbId": "tt2976354"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Our Curse"
+              ],
+              "movies": [
+                {
+                  "title": "Our Curse",
+                  "tmdbId": 274805,
+                  "imdbId": "tt3069992"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Reaper"
+              ],
+              "movies": [
+                {
+                  "title": "The Reaper",
+                  "tmdbId": 259868,
+                  "imdbId": "tt3438472"
+                }
+              ]
+            },
+            {
+              "names": [
+                "White Earth"
+              ],
+              "movies": [
+                {
+                  "title": "White Earth",
+                  "tmdbId": 259520,
+                  "imdbId": "tt3044564"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

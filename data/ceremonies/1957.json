@@ -1,0 +1,1818 @@
+{
+  "ceremony": {
+    "ordinal": 29,
+    "ceremonyYear": 1957,
+    "ceremonyDate": "1957-03-27",
+    "filmYearLabel": "1956",
+    "slug": "1957",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Around the World in Eighty Days"
+              ],
+              "movies": [
+                {
+                  "title": "Around the World in Eighty Days",
+                  "tmdbId": 2897,
+                  "imdbId": "tt0048960"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Friendly Persuasion"
+              ],
+              "movies": [
+                {
+                  "title": "Friendly Persuasion",
+                  "tmdbId": 43258,
+                  "imdbId": "tt0049233"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Giant"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The King and I"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Ten Commandments"
+              ],
+              "movies": [
+                {
+                  "title": "The Ten Commandments",
+                  "tmdbId": 6844,
+                  "imdbId": "tt0049833"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "George Stevens"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Around the World in Eighty Days",
+                  "tmdbId": 2897,
+                  "imdbId": "tt0048960"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Lang"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            },
+            {
+              "names": [
+                "King Vidor"
+              ],
+              "movies": [
+                {
+                  "title": "War and Peace",
+                  "tmdbId": 11706,
+                  "imdbId": "tt0049934"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "Friendly Persuasion",
+                  "tmdbId": 43258,
+                  "imdbId": "tt0049233"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Yul Brynner"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Dean"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kirk Douglas"
+              ],
+              "movies": [
+                {
+                  "title": "Lust for Life",
+                  "tmdbId": 29592,
+                  "imdbId": "tt0049456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rock Hudson"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Richard III",
+                  "tmdbId": 43323,
+                  "imdbId": "tt0049674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Ingrid Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Anastasia",
+                  "tmdbId": 38171,
+                  "imdbId": "tt0048947"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carroll Baker"
+              ],
+              "movies": [
+                {
+                  "title": "Baby Doll",
+                  "tmdbId": 40478,
+                  "imdbId": "tt0048973"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "The Rainmaker",
+                  "tmdbId": 43542,
+                  "imdbId": "tt0049653"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nancy Kelly"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad Seed",
+                  "tmdbId": 42196,
+                  "imdbId": "tt0048977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Deborah Kerr"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Anthony Quinn"
+              ],
+              "movies": [
+                {
+                  "title": "Lust for Life",
+                  "tmdbId": 29592,
+                  "imdbId": "tt0049456"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don Murray"
+              ],
+              "movies": [
+                {
+                  "title": "Bus Stop",
+                  "tmdbId": 24010,
+                  "imdbId": "tt0049038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Perkins"
+              ],
+              "movies": [
+                {
+                  "title": "Friendly Persuasion",
+                  "tmdbId": 43258,
+                  "imdbId": "tt0049233"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mickey Rooney"
+              ],
+              "movies": [
+                {
+                  "title": "The Bold and the Brave",
+                  "tmdbId": 191227,
+                  "imdbId": "tt0049022"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Stack"
+              ],
+              "movies": [
+                {
+                  "title": "Written on the Wind",
+                  "tmdbId": 69605,
+                  "imdbId": "tt0049966"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Dorothy Malone"
+              ],
+              "movies": [
+                {
+                  "title": "Written on the Wind",
+                  "tmdbId": 69605,
+                  "imdbId": "tt0049966"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mildred Dunnock"
+              ],
+              "movies": [
+                {
+                  "title": "Baby Doll",
+                  "tmdbId": 40478,
+                  "imdbId": "tt0048973"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eileen Heckart"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad Seed",
+                  "tmdbId": 42196,
+                  "imdbId": "tt0048977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mercedes McCambridge"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patty McCormack"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad Seed",
+                  "tmdbId": 42196,
+                  "imdbId": "tt0048977"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Albert Lamorisse"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Balloon",
+                  "tmdbId": 15265,
+                  "imdbId": "tt0048980"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Lewin"
+              ],
+              "movies": [
+                {
+                  "title": "The Bold and the Brave",
+                  "tmdbId": 191227,
+                  "imdbId": "tt0049022"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andrew L. Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Julie",
+                  "tmdbId": 45726,
+                  "imdbId": "tt0049388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Federico Fellini",
+                "Tullio Pinelli"
+              ],
+              "movies": [
+                {
+                  "title": "La Strada",
+                  "tmdbId": 405,
+                  "imdbId": "tt0047528"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Rose"
+              ],
+              "movies": [
+                {
+                  "title": "The Ladykillers",
+                  "tmdbId": 5506,
+                  "imdbId": "tt0048281"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "John Farrow",
+                "S.J. Perelman",
+                "James Poe"
+              ],
+              "movies": [
+                {
+                  "title": "Around the World in Eighty Days",
+                  "tmdbId": 2897,
+                  "imdbId": "tt0048960"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tennessee Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Baby Doll",
+                  "tmdbId": 40478,
+                  "imdbId": "tt0048973"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "Friendly Persuasion",
+                  "tmdbId": 43258,
+                  "imdbId": "tt0049233"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ivan Moffat",
+                "Fred Guiol"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Corwin"
+              ],
+              "movies": [
+                {
+                  "title": "Lust for Life",
+                  "tmdbId": 29592,
+                  "imdbId": "tt0049456"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Robert Rich (Dalton Trumbo)"
+              ],
+              "movies": [
+                {
+                  "title": "The Brave One",
+                  "tmdbId": 107443,
+                  "imdbId": "tt0049030"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leo Katcher"
+              ],
+              "movies": [
+                {
+                  "title": "The Eddy Duchin Story",
+                  "tmdbId": 43199,
+                  "imdbId": "tt0049170"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Bernds",
+                "Elwood Ullman"
+              ],
+              "movies": [
+                {
+                  "title": "High Society",
+                  "tmdbId": 193435,
+                  "imdbId": "tt0048166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean-Paul Sartre"
+              ],
+              "movies": [
+                {
+                  "title": "The Proud and the Beautiful",
+                  "tmdbId": 65283,
+                  "imdbId": "tt0046149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cesare Zavattini"
+              ],
+              "movies": [
+                {
+                  "title": "Umberto D.",
+                  "tmdbId": 833,
+                  "imdbId": "tt0045274"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "La Strada"
+              ],
+              "movies": [
+                {
+                  "title": "La Strada",
+                  "tmdbId": 405,
+                  "imdbId": "tt0047528"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Captain from Kopenick"
+              ],
+              "movies": [
+                {
+                  "title": "The Captain from Kopenick",
+                  "tmdbId": 10626,
+                  "imdbId": "tt0049293"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gervaise"
+              ],
+              "movies": [
+                {
+                  "title": "Gervaise",
+                  "tmdbId": 52726,
+                  "imdbId": "tt0049259"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Burmese Harp"
+              ],
+              "movies": [
+                {
+                  "title": "The Burmese Harp",
+                  "tmdbId": 33319,
+                  "imdbId": "tt0049012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Qivitoq"
+              ],
+              "movies": [
+                {
+                  "title": "Qivitoq",
+                  "tmdbId": 72519,
+                  "imdbId": "tt0048523"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Silent World"
+              ],
+              "movies": [
+                {
+                  "title": "The Silent World",
+                  "tmdbId": 60234,
+                  "imdbId": "tt0049518"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Where Mountains Float"
+              ],
+              "movies": [
+                {
+                  "title": "Where Mountains Float",
+                  "tmdbId": 149265,
+                  "imdbId": "tt0049349"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Naked Eye"
+              ],
+              "movies": [
+                {
+                  "title": "The Naked Eye",
+                  "tmdbId": 149267,
+                  "imdbId": "tt0049538"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Lionel Lindon"
+              ],
+              "movies": [
+                {
+                  "title": "Around the World in Eighty Days",
+                  "tmdbId": 2897,
+                  "imdbId": "tt0048960"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "The Eddy Duchin Story",
+                  "tmdbId": 43199,
+                  "imdbId": "tt0049170"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loyal Griggs"
+              ],
+              "movies": [
+                {
+                  "title": "The Ten Commandments",
+                  "tmdbId": 6844,
+                  "imdbId": "tt0049833"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Cardiff"
+              ],
+              "movies": [
+                {
+                  "title": "War and Peace",
+                  "tmdbId": 11706,
+                  "imdbId": "tt0049934"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Joseph Ruttenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Somebody Up There Likes Me",
+                  "tmdbId": 28000,
+                  "imdbId": "tt0049778"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Boris Kaufman"
+              ],
+              "movies": [
+                {
+                  "title": "Baby Doll",
+                  "tmdbId": 40478,
+                  "imdbId": "tt0048973"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold Rosson"
+              ],
+              "movies": [
+                {
+                  "title": "The Bad Seed",
+                  "tmdbId": 42196,
+                  "imdbId": "tt0048977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Burnett Guffey"
+              ],
+              "movies": [
+                {
+                  "title": "The Harder They Fall",
+                  "tmdbId": 28528,
+                  "imdbId": "tt0049291"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Strenge"
+              ],
+              "movies": [
+                {
+                  "title": "Stagecoach To Fury",
+                  "tmdbId": 194820,
+                  "imdbId": "tt0049791"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Gene Ruggiero",
+                "Paul Weatherwax"
+              ],
+              "movies": [
+                {
+                  "title": "Around the World in Eighty Days",
+                  "tmdbId": 2897,
+                  "imdbId": "tt0048960"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Merrill G. White"
+              ],
+              "movies": [
+                {
+                  "title": "The Brave One",
+                  "tmdbId": 107443,
+                  "imdbId": "tt0049030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Hornbeck",
+                "Philip W. Anderson",
+                "Fred Bohanan"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Akst"
+              ],
+              "movies": [
+                {
+                  "title": "Somebody Up There Likes Me",
+                  "tmdbId": 28000,
+                  "imdbId": "tt0049778"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne Bauchens"
+              ],
+              "movies": [
+                {
+                  "title": "The Ten Commandments",
+                  "tmdbId": 6844,
+                  "imdbId": "tt0049833"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Lyle Wheeler",
+                "John DeCuir",
+                "Walter M. Scott",
+                "Paul S. Fox"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James W. Sullivan",
+                "Ken Adam",
+                "Ross J. Dowd"
+              ],
+              "movies": [
+                {
+                  "title": "Around the World in Eighty Days",
+                  "tmdbId": 2897,
+                  "imdbId": "tt0048960"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boris Leven",
+                "Ralph S. Hurst"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Hans Peters",
+                "E. Preston Ames",
+                "Edwin B. Willis",
+                "F. Keogh Gleason"
+              ],
+              "movies": [
+                {
+                  "title": "Lust for Life",
+                  "tmdbId": 29592,
+                  "imdbId": "tt0049456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Walter H. Tyler",
+                "Albert Nozaki",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "The Ten Commandments",
+                  "tmdbId": 6844,
+                  "imdbId": "tt0049833"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Malcolm F. Brown",
+                "Edwin B. Willis",
+                "F. Keogh Gleason"
+              ],
+              "movies": [
+                {
+                  "title": "Somebody Up There Likes Me",
+                  "tmdbId": 28000,
+                  "imdbId": "tt0049778"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hal Pereira",
+                "A. Earl Hedrick",
+                "Samuel M. Comer",
+                "Frank R. McKelvy"
+              ],
+              "movies": [
+                {
+                  "title": "The Proud and Profane",
+                  "tmdbId": 60525,
+                  "imdbId": "tt0049640"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Takashi Matsuyama"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Samurai",
+                  "tmdbId": 346,
+                  "imdbId": "tt0047478"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ross Bellah",
+                "William R. Kiernan",
+                "Louis Diage"
+              ],
+              "movies": [
+                {
+                  "title": "The Solid Gold Cadillac",
+                  "tmdbId": 78331,
+                  "imdbId": "tt0049777"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Jack Martin Smith",
+                "Walter M. Scott",
+                "Stuart A. Reiss"
+              ],
+              "movies": [
+                {
+                  "title": "Teenage Rebel",
+                  "tmdbId": 94257,
+                  "imdbId": "tt0049831"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Miles White"
+              ],
+              "movies": [
+                {
+                  "title": "Around the World in Eighty Days",
+                  "tmdbId": 2897,
+                  "imdbId": "tt0048960"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moss Mabry",
+                "Marjorie Best"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head",
+                "Ralph Jester",
+                "John Jensen",
+                "Dorothy Jeakins",
+                "Arnold Friberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Ten Commandments",
+                  "tmdbId": 6844,
+                  "imdbId": "tt0049833"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maria De Matteis"
+              ],
+              "movies": [
+                {
+                  "title": "War and Peace",
+                  "tmdbId": 11706,
+                  "imdbId": "tt0049934"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "The Solid Gold Cadillac",
+                  "tmdbId": 78331,
+                  "imdbId": "tt0049777"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Helen Rose"
+              ],
+              "movies": [
+                {
+                  "title": "The Power and the Prize",
+                  "tmdbId": 193562,
+                  "imdbId": "tt0049635"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "The Proud and Profane",
+                  "tmdbId": 60525,
+                  "imdbId": "tt0049640"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kohei Ezaki"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Samurai",
+                  "tmdbId": 346,
+                  "imdbId": "tt0047478"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles LeMaire",
+                "Mary Wills"
+              ],
+              "movies": [
+                {
+                  "title": "Teenage Rebel",
+                  "tmdbId": 94257,
+                  "imdbId": "tt0049831"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "John P. Fulton"
+              ],
+              "movies": [
+                {
+                  "title": "The Ten Commandments",
+                  "tmdbId": 6844,
+                  "imdbId": "tt0049833"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Irving G. Ries",
+                "Wesley C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Forbidden Planet",
+                  "tmdbId": 830,
+                  "imdbId": "tt0049223"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Carlton W. Faulkner"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Buddy Meyers"
+              ],
+              "movies": [
+                {
+                  "title": "The Brave One",
+                  "tmdbId": 107443,
+                  "imdbId": "tt0049030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John P. Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "The Eddy Duchin Story",
+                  "tmdbId": 43199,
+                  "imdbId": "tt0049170"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon R. Glennan",
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "Friendly Persuasion",
+                  "tmdbId": 43258,
+                  "imdbId": "tt0049233"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "The Ten Commandments",
+                  "tmdbId": 6844,
+                  "imdbId": "tt0049833"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Around the World in Eighty Days",
+                  "tmdbId": 2897,
+                  "imdbId": "tt0048960"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Anastasia",
+                  "tmdbId": 38171,
+                  "imdbId": "tt0048947"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugo Friedhofer"
+              ],
+              "movies": [
+                {
+                  "title": "Between Heaven and Hell",
+                  "tmdbId": 84567,
+                  "imdbId": "tt0049004"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "Giant",
+                  "tmdbId": 1712,
+                  "imdbId": "tt0049261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "The Rainmaker",
+                  "tmdbId": 43542,
+                  "imdbId": "tt0049653"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Alfred Newman",
+                "Ken Darby"
+              ],
+              "movies": [
+                {
+                  "title": "The King and I",
+                  "tmdbId": 16520,
+                  "imdbId": "tt0049408"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lionel Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Things in Life Are Free",
+                  "tmdbId": 121899,
+                  "imdbId": "tt0049002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morris Stoloff",
+                "George Duning"
+              ],
+              "movies": [
+                {
+                  "title": "The Eddy Duchin Story",
+                  "tmdbId": 43199,
+                  "imdbId": "tt0049170"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Johnny Green",
+                "Saul Chaplin"
+              ],
+              "movies": [
+                {
+                  "title": "High Society",
+                  "tmdbId": 193435,
+                  "imdbId": "tt0048166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Stoll",
+                "Johnny Green"
+              ],
+              "movies": [
+                {
+                  "title": "Meet Me in Las Vegas",
+                  "tmdbId": 131504,
+                  "imdbId": "tt0049490"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Whatever Will Be",
+                "Will Be (Qué Será",
+                "Será)"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Knew Too Much",
+                  "tmdbId": 574,
+                  "imdbId": "tt0049470"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Friendly Persuasion (Thee I Love)"
+              ],
+              "movies": [
+                {
+                  "title": "Friendly Persuasion",
+                  "tmdbId": 43258,
+                  "imdbId": "tt0049233"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julie"
+              ],
+              "movies": [
+                {
+                  "title": "Julie",
+                  "tmdbId": 45726,
+                  "imdbId": "tt0049388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "True Love"
+              ],
+              "movies": [
+                {
+                  "title": "High Society",
+                  "tmdbId": 193435,
+                  "imdbId": "tt0048166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Written on the Wind"
+              ],
+              "movies": [
+                {
+                  "title": "Written on the Wind",
+                  "tmdbId": 69605,
+                  "imdbId": "tt0049966"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Mister Magoo's Puddle Jumper"
+              ],
+              "movies": [
+                {
+                  "title": "Mister Magoo's Puddle Jumper",
+                  "tmdbId": 243043,
+                  "imdbId": "tt0049510"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gerald McBoing! Boing! on Planet Moo"
+              ],
+              "movies": [
+                {
+                  "title": "Gerald McBoing! Boing! on Planet Moo",
+                  "tmdbId": 215789,
+                  "imdbId": "tt0049258"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Jaywalker"
+              ],
+              "movies": [
+                {
+                  "title": "The Jaywalker",
+                  "tmdbId": 243044,
+                  "imdbId": "tt0049380"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Crashing the Water Barrier"
+              ],
+              "movies": [
+                {
+                  "title": "Crashing the Water Barrier",
+                  "tmdbId": 243038,
+                  "imdbId": "tt0049102"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I Never Forget a Face"
+              ],
+              "movies": [
+                {
+                  "title": "I Never Forget a Face",
+                  "tmdbId": 243039,
+                  "imdbId": "tt0049352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Time Stood Still"
+              ],
+              "movies": [
+                {
+                  "title": "Time Stood Still",
+                  "tmdbId": 243042,
+                  "imdbId": "tt0049855"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "The Bespoke Overcoat"
+              ],
+              "movies": [
+                {
+                  "title": "The Bespoke Overcoat",
+                  "tmdbId": 203901,
+                  "imdbId": "tt0049000"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cow Dog"
+              ],
+              "movies": [
+                {
+                  "title": "Cow Dog",
+                  "tmdbId": 243034,
+                  "imdbId": "tt0049099"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Dark Wave"
+              ],
+              "movies": [
+                {
+                  "title": "The Dark Wave",
+                  "tmdbId": 243035,
+                  "imdbId": "tt0049124"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Samoa"
+              ],
+              "movies": [
+                {
+                  "title": "Samoa",
+                  "tmdbId": 243037,
+                  "imdbId": "tt0049709"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The True Story of the Civil War"
+              ],
+              "movies": [
+                {
+                  "title": "The True Story of the Civil War",
+                  "tmdbId": 243045,
+                  "imdbId": "tt0049885"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A City Decides"
+              ],
+              "movies": [
+                {
+                  "title": "A City Decides",
+                  "tmdbId": 243046,
+                  "imdbId": "tt0049081"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Dark Wave"
+              ],
+              "movies": [
+                {
+                  "title": "The Dark Wave",
+                  "tmdbId": 243035,
+                  "imdbId": "tt0049124"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The House Without a Name"
+              ],
+              "movies": [
+                {
+                  "title": "The House Without a Name",
+                  "tmdbId": 243047,
+                  "imdbId": "tt0049338"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Man in Space"
+              ],
+              "movies": [
+                {
+                  "title": "Man in Space",
+                  "tmdbId": 205188,
+                  "imdbId": "tt0049473"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1726 @@
+{
+  "ceremony": {
+    "ordinal": 84,
+    "ceremonyYear": 2012,
+    "ceremonyDate": "2012-02-26",
+    "filmYearLabel": "2011",
+    "slug": "2012",
+    "decade": "2010s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Artist"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Descendants"
+              ],
+              "movies": [
+                {
+                  "title": "The Descendants",
+                  "tmdbId": 65057,
+                  "imdbId": "tt1033575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Extremely Loud & Incredibly Close"
+              ],
+              "movies": [
+                {
+                  "title": "Extremely Loud & Incredibly Close",
+                  "tmdbId": 64685,
+                  "imdbId": "tt0477302"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Help"
+              ],
+              "movies": [
+                {
+                  "title": "The Help",
+                  "tmdbId": 50014,
+                  "imdbId": "tt1454029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugo"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Midnight in Paris"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight in Paris",
+                  "tmdbId": 59436,
+                  "imdbId": "tt1605783"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moneyball"
+              ],
+              "movies": [
+                {
+                  "title": "Moneyball",
+                  "tmdbId": 60308,
+                  "imdbId": "tt1210166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Tree of Life"
+              ],
+              "movies": [
+                {
+                  "title": "The Tree of Life",
+                  "tmdbId": 8967,
+                  "imdbId": "tt0478304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "War Horse"
+              ],
+              "movies": [
+                {
+                  "title": "War Horse",
+                  "tmdbId": 57212,
+                  "imdbId": "tt1568911"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Michel Hazanavicius"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight in Paris",
+                  "tmdbId": 59436,
+                  "imdbId": "tt1605783"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terrence Malick"
+              ],
+              "movies": [
+                {
+                  "title": "The Tree of Life",
+                  "tmdbId": 8967,
+                  "imdbId": "tt0478304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Payne"
+              ],
+              "movies": [
+                {
+                  "title": "The Descendants",
+                  "tmdbId": 65057,
+                  "imdbId": "tt1033575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Jean Dujardin"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Demian Bichir"
+              ],
+              "movies": [
+                {
+                  "title": "A Better Life",
+                  "tmdbId": 55720,
+                  "imdbId": "tt1554091"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Clooney"
+              ],
+              "movies": [
+                {
+                  "title": "The Descendants",
+                  "tmdbId": 65057,
+                  "imdbId": "tt1033575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Oldman"
+              ],
+              "movies": [
+                {
+                  "title": "Tinker Tailor Soldier Spy",
+                  "tmdbId": 49517,
+                  "imdbId": "tt1340800"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brad Pitt"
+              ],
+              "movies": [
+                {
+                  "title": "Moneyball",
+                  "tmdbId": 60308,
+                  "imdbId": "tt1210166"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "The Iron Lady",
+                  "tmdbId": 71688,
+                  "imdbId": "tt1007029"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Glenn Close"
+              ],
+              "movies": [
+                {
+                  "title": "Albert Nobbs",
+                  "tmdbId": 73873,
+                  "imdbId": "tt1602098"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Viola Davis"
+              ],
+              "movies": [
+                {
+                  "title": "The Help",
+                  "tmdbId": 50014,
+                  "imdbId": "tt1454029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rooney Mara"
+              ],
+              "movies": [
+                {
+                  "title": "The Girl with the Dragon Tattoo",
+                  "tmdbId": 65754,
+                  "imdbId": "tt1568346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michele Williams"
+              ],
+              "movies": [
+                {
+                  "title": "My Week with Marilyn",
+                  "tmdbId": 75900,
+                  "imdbId": "tt1655420"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Christopher Plummer"
+              ],
+              "movies": [
+                {
+                  "title": "Beginners",
+                  "tmdbId": 55347,
+                  "imdbId": "tt1532503"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kenneth Branagh"
+              ],
+              "movies": [
+                {
+                  "title": "My Week with Marilyn",
+                  "tmdbId": 75900,
+                  "imdbId": "tt1655420"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonah Hill"
+              ],
+              "movies": [
+                {
+                  "title": "Moneyball",
+                  "tmdbId": 60308,
+                  "imdbId": "tt1210166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nick Nolte"
+              ],
+              "movies": [
+                {
+                  "title": "Warrior",
+                  "tmdbId": 59440,
+                  "imdbId": "tt1291584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max von Sydow"
+              ],
+              "movies": [
+                {
+                  "title": "Extremely Loud & Incredibly Close",
+                  "tmdbId": 64685,
+                  "imdbId": "tt0477302"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Octavia Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "The Help",
+                  "tmdbId": 50014,
+                  "imdbId": "tt1454029"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Berenice Bejo"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jessica Chastain"
+              ],
+              "movies": [
+                {
+                  "title": "The Help",
+                  "tmdbId": 50014,
+                  "imdbId": "tt1454029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melissa McCarthy"
+              ],
+              "movies": [
+                {
+                  "title": "Bridesmaids",
+                  "tmdbId": 55721,
+                  "imdbId": "tt1478338"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janet McTeer"
+              ],
+              "movies": [
+                {
+                  "title": "Albert Nobbs",
+                  "tmdbId": 73873,
+                  "imdbId": "tt1602098"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight in Paris",
+                  "tmdbId": 59436,
+                  "imdbId": "tt1605783"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michel Hazanavicius"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kristen Wiig",
+                "Annie Mumolo"
+              ],
+              "movies": [
+                {
+                  "title": "Bridesmaids",
+                  "tmdbId": 55721,
+                  "imdbId": "tt1478338"
+                }
+              ]
+            },
+            {
+              "names": [
+                "J. C. Chandor"
+              ],
+              "movies": [
+                {
+                  "title": "Margin Call",
+                  "tmdbId": 50839,
+                  "imdbId": "tt1615147"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Asghar Farhadi"
+              ],
+              "movies": [
+                {
+                  "title": "A Separation",
+                  "tmdbId": 60243,
+                  "imdbId": "tt1832382"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alexander Payne",
+                "Nat Faxon",
+                "Jim Rash"
+              ],
+              "movies": [
+                {
+                  "title": "The Descendants",
+                  "tmdbId": 65057,
+                  "imdbId": "tt1033575"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Logan"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Clooney",
+                "Grant Heslov",
+                "Beau Willimon"
+              ],
+              "movies": [
+                {
+                  "title": "The Ides of March",
+                  "tmdbId": 10316,
+                  "imdbId": "tt1124035"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Zaillian",
+                "Aaron Sorkin",
+                "Stan Chervin"
+              ],
+              "movies": [
+                {
+                  "title": "Moneyball",
+                  "tmdbId": 60308,
+                  "imdbId": "tt1210166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bridget O'Connor",
+                "Peter Straughan"
+              ],
+              "movies": [
+                {
+                  "title": "Tinker Tailor Soldier Spy",
+                  "tmdbId": 49517,
+                  "imdbId": "tt1340800"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Rango"
+              ],
+              "movies": [
+                {
+                  "title": "Rango",
+                  "tmdbId": 44896,
+                  "imdbId": "tt1192628"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Cat in Paris"
+              ],
+              "movies": [
+                {
+                  "title": "A Cat in Paris",
+                  "tmdbId": 52264,
+                  "imdbId": "tt1673702"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chico & Rita"
+              ],
+              "movies": [
+                {
+                  "title": "Chico & Rita",
+                  "tmdbId": 63498,
+                  "imdbId": "tt1235830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kung Fu Panda 2"
+              ],
+              "movies": [
+                {
+                  "title": "Kung Fu Panda 2",
+                  "tmdbId": 49444,
+                  "imdbId": "tt1302011"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Puss in Boots"
+              ],
+              "movies": [
+                {
+                  "title": "Puss in Boots",
+                  "tmdbId": 417859,
+                  "imdbId": "tt0448694"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "A Separation"
+              ],
+              "movies": [
+                {
+                  "title": "A Separation",
+                  "tmdbId": 60243,
+                  "imdbId": "tt1832382"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bullhead"
+              ],
+              "movies": [
+                {
+                  "title": "Bullhead",
+                  "tmdbId": 63310,
+                  "imdbId": "tt1821593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Footnote"
+              ],
+              "movies": [
+                {
+                  "title": "Footnote",
+                  "tmdbId": 72551,
+                  "imdbId": "tt1445520"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In Darkness"
+              ],
+              "movies": [
+                {
+                  "title": "In Darkness",
+                  "tmdbId": 73686,
+                  "imdbId": "tt1417075"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Monsieur Lazhar"
+              ],
+              "movies": [
+                {
+                  "title": "Monsieur Lazhar",
+                  "tmdbId": 78480,
+                  "imdbId": "tt2011971"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Undefeated"
+              ],
+              "movies": [
+                {
+                  "title": "Undefeated",
+                  "tmdbId": 82620,
+                  "imdbId": "tt1860355"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hell and Back Again"
+              ],
+              "movies": [
+                {
+                  "title": "Hell and Back Again",
+                  "tmdbId": 74310,
+                  "imdbId": "tt1748043"
+                }
+              ]
+            },
+            {
+              "names": [
+                "If a Tree Falls: A Story of the Earth Liberation Front"
+              ],
+              "movies": [
+                {
+                  "title": "If a Tree Falls: A Story of the Earth Liberation Front",
+                  "tmdbId": 79042,
+                  "imdbId": "tt1787725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paradise Lost 3: Purgatory"
+              ],
+              "movies": [
+                {
+                  "title": "Paradise Lost 3: Purgatory",
+                  "tmdbId": 83660,
+                  "imdbId": "tt2028530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pina"
+              ],
+              "movies": [
+                {
+                  "title": "Pina",
+                  "tmdbId": 57276,
+                  "imdbId": "tt1440266"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Guillaume Schiffman"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeff Cronenweth"
+              ],
+              "movies": [
+                {
+                  "title": "The Girl with the Dragon Tattoo",
+                  "tmdbId": 65754,
+                  "imdbId": "tt1568346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emmanuel Lubezki"
+              ],
+              "movies": [
+                {
+                  "title": "The Tree of Life",
+                  "tmdbId": 8967,
+                  "imdbId": "tt0478304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janusz Kaminski"
+              ],
+              "movies": [
+                {
+                  "title": "War Horse",
+                  "tmdbId": 57212,
+                  "imdbId": "tt1568911"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Angus Wall",
+                "Kirk Baxter"
+              ],
+              "movies": [
+                {
+                  "title": "The Girl with the Dragon Tattoo",
+                  "tmdbId": 65754,
+                  "imdbId": "tt1568346"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anne-Sophie Bion",
+                "Michel Hazanavicius"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin Tent"
+              ],
+              "movies": [
+                {
+                  "title": "The Descendants",
+                  "tmdbId": 65057,
+                  "imdbId": "tt1033575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thelma Schoonmaker"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Tellefsen"
+              ],
+              "movies": [
+                {
+                  "title": "Moneyball",
+                  "tmdbId": 60308,
+                  "imdbId": "tt1210166"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Dante Ferretti",
+                "Francesca Lo Schiavo"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Laurence Bennett",
+                "Robert Gould"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Craig",
+                "Stephenie McMillan"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Deathly Hallows: Part 2",
+                  "tmdbId": 12445,
+                  "imdbId": "tt1201607"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne Seibel",
+                "Helene Dubreuil"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight in Paris",
+                  "tmdbId": 59436,
+                  "imdbId": "tt1605783"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rick Carter",
+                "Lee Sandales"
+              ],
+              "movies": [
+                {
+                  "title": "War Horse",
+                  "tmdbId": 57212,
+                  "imdbId": "tt1568911"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Mark Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lisy Christl"
+              ],
+              "movies": [
+                {
+                  "title": "Anonymous",
+                  "tmdbId": 61891,
+                  "imdbId": "tt1521197"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael O'Connor"
+              ],
+              "movies": [
+                {
+                  "title": "Jane Eyre",
+                  "tmdbId": 38684,
+                  "imdbId": "tt1229822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arianne Phillips"
+              ],
+              "movies": [
+                {
+                  "title": "W.E.",
+                  "tmdbId": 80591,
+                  "imdbId": "tt1536048"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Mark Coulier",
+                "J. Roy Helland"
+              ],
+              "movies": [
+                {
+                  "title": "The Iron Lady",
+                  "tmdbId": 71688,
+                  "imdbId": "tt1007029"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Martial Corneville",
+                "Lynn Johnston",
+                "Matthew W. Mungle"
+              ],
+              "movies": [
+                {
+                  "title": "Albert Nobbs",
+                  "tmdbId": 73873,
+                  "imdbId": "tt1602098"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nick Dudman",
+                "Amanda Knight",
+                "Lisa Tomblin"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Deathly Hallows: Part 2",
+                  "tmdbId": 12445,
+                  "imdbId": "tt1201607"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Rob Legato",
+                "Joss Williams",
+                "Ben Grossmann",
+                "Alex Henning"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tim Burke",
+                "David Vickery",
+                "Greg Butler",
+                "John Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Deathly Hallows: Part 2",
+                  "tmdbId": 12445,
+                  "imdbId": "tt1201607"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Erik Nash",
+                "John Rosengrant",
+                "Danny Gordon Taylor",
+                "Swen Gillberg"
+              ],
+              "movies": [
+                {
+                  "title": "Real Steel",
+                  "tmdbId": 39254,
+                  "imdbId": "tt0433035"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Letteri",
+                "Dan Lemmon",
+                "R. Christopher White",
+                "Daniel Barrett"
+              ],
+              "movies": [
+                {
+                  "title": "Rise of the Planet of the Apes",
+                  "tmdbId": 61791,
+                  "imdbId": "tt1318514"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scott Farrar",
+                "Scott Benza",
+                "Matthew E. Butler",
+                "John Frazier"
+              ],
+              "movies": [
+                {
+                  "title": "Transformers: Dark of the Moon",
+                  "tmdbId": 38356,
+                  "imdbId": "tt1399103"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Tom Fleischman",
+                "John Midgley"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Parker",
+                "Michael Semanick",
+                "Ren Klyce",
+                "Bo Persson"
+              ],
+              "movies": [
+                {
+                  "title": "The Girl with the Dragon Tattoo",
+                  "tmdbId": 65754,
+                  "imdbId": "tt1568346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Deb Adair",
+                "Ron Bochar",
+                "Dave Giammarco",
+                "Ed Novick"
+              ],
+              "movies": [
+                {
+                  "title": "Moneyball",
+                  "tmdbId": 60308,
+                  "imdbId": "tt1210166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greg P. Russell",
+                "Gary Simmers",
+                "Jeffrey J. Haboush",
+                "Peter J. Devlin"
+              ],
+              "movies": [
+                {
+                  "title": "Transformers: Dark of the Moon",
+                  "tmdbId": 38356,
+                  "imdbId": "tt1399103"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Andy Nelson",
+                "Tom Johnson",
+                "Stuart Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "War Horse",
+                  "tmdbId": 57212,
+                  "imdbId": "tt1568911"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Eugene Gearty",
+                "Philip Stockton"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lon Bender",
+                "Victor Ray Ennis"
+              ],
+              "movies": [
+                {
+                  "title": "Drive",
+                  "tmdbId": 64690,
+                  "imdbId": "tt0780504"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ren Klyce"
+              ],
+              "movies": [
+                {
+                  "title": "The Girl with the Dragon Tattoo",
+                  "tmdbId": 65754,
+                  "imdbId": "tt1568346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Erik Aadahl",
+                "Ethan Van der Ryn"
+              ],
+              "movies": [
+                {
+                  "title": "Transformers: Dark of the Moon",
+                  "tmdbId": 38356,
+                  "imdbId": "tt1399103"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Hymns",
+                "Gary Rydstrom"
+              ],
+              "movies": [
+                {
+                  "title": "War Horse",
+                  "tmdbId": 57212,
+                  "imdbId": "tt1568911"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Ludovic Bource"
+              ],
+              "movies": [
+                {
+                  "title": "The Artist",
+                  "tmdbId": 74643,
+                  "imdbId": "tt1655442"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Tintin",
+                  "tmdbId": 17578,
+                  "imdbId": "tt0983193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard Shore"
+              ],
+              "movies": [
+                {
+                  "title": "Hugo",
+                  "tmdbId": 44826,
+                  "imdbId": "tt0970179"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alberto Iglesias"
+              ],
+              "movies": [
+                {
+                  "title": "Tinker Tailor Soldier Spy",
+                  "tmdbId": 49517,
+                  "imdbId": "tt1340800"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "War Horse",
+                  "tmdbId": 57212,
+                  "imdbId": "tt1568911"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Man or Muppet"
+              ],
+              "movies": [
+                {
+                  "title": "The Muppets",
+                  "tmdbId": 64328,
+                  "imdbId": "tt1204342"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Real in Rio"
+              ],
+              "movies": [
+                {
+                  "title": "Rio",
+                  "tmdbId": 46195,
+                  "imdbId": "tt1436562"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Fantastic Flying Books of Mr Morris Lessmore"
+              ],
+              "movies": [
+                {
+                  "title": "The Fantastic Flying Books of Mr Morris Lessmore",
+                  "tmdbId": 86412,
+                  "imdbId": "tt1778342"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sunday"
+              ],
+              "movies": [
+                {
+                  "title": "Sunday",
+                  "tmdbId": 91512,
+                  "imdbId": "tt1895334"
+                }
+              ]
+            },
+            {
+              "names": [
+                "La luna"
+              ],
+              "movies": [
+                {
+                  "title": "La luna",
+                  "tmdbId": 83564,
+                  "imdbId": "tt1957945"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Morning Stroll"
+              ],
+              "movies": [
+                {
+                  "title": "A Morning Stroll",
+                  "tmdbId": 91516,
+                  "imdbId": "tt1964446"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wild Life"
+              ],
+              "movies": [
+                {
+                  "title": "Wild Life",
+                  "tmdbId": 91515,
+                  "imdbId": "tt2097943"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Shore"
+              ],
+              "movies": [
+                {
+                  "title": "The Shore",
+                  "tmdbId": 92965,
+                  "imdbId": "tt2201259"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Pentecost"
+              ],
+              "movies": [
+                {
+                  "title": "Pentecost",
+                  "tmdbId": 99581,
+                  "imdbId": "tt1866218"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raju"
+              ],
+              "movies": [
+                {
+                  "title": "Raju",
+                  "tmdbId": 92967,
+                  "imdbId": "tt1819651"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Time Freak"
+              ],
+              "movies": [
+                {
+                  "title": "Time Freak",
+                  "tmdbId": 92968,
+                  "imdbId": "tt1733689"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tuba Atlantic"
+              ],
+              "movies": [
+                {
+                  "title": "Tuba Atlantic",
+                  "tmdbId": 92190,
+                  "imdbId": "tt2061843"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Saving Face"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Face",
+                  "tmdbId": 89191,
+                  "imdbId": "tt2140371"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Barber of Birmingham: Foot Soldier of the Civil Rights Movement"
+              ],
+              "movies": [
+                {
+                  "title": "The Barber of Birmingham: Foot Soldier of the Civil Rights Movement",
+                  "tmdbId": 89194,
+                  "imdbId": "tt1844056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "God is the Bigger Elvis"
+              ],
+              "movies": [
+                {
+                  "title": "God is the Bigger Elvis",
+                  "tmdbId": 103528,
+                  "imdbId": "tt2210633"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Incident in New Baghdad"
+              ],
+              "movies": [
+                {
+                  "title": "Incident in New Baghdad",
+                  "tmdbId": 89196,
+                  "imdbId": "tt1746180"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Tsunami and the Cherry Blossom"
+              ],
+              "movies": [
+                {
+                  "title": "The Tsunami and the Cherry Blossom",
+                  "tmdbId": 84346,
+                  "imdbId": "tt2028578"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

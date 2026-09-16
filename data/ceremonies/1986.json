@@ -1,0 +1,1556 @@
+{
+  "ceremony": {
+    "ordinal": 58,
+    "ceremonyYear": 1986,
+    "ceremonyDate": "1986-03-24",
+    "filmYearLabel": "1985",
+    "slug": "1986",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Out of Africa"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Color Purple"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kiss of the Spider Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Kiss of the Spider Woman",
+                  "tmdbId": 11703,
+                  "imdbId": "tt0089424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Prizzi's Honor"
+              ],
+              "movies": [
+                {
+                  "title": "Prizzi's Honor",
+                  "tmdbId": 2075,
+                  "imdbId": "tt0089841"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Witness"
+              ],
+              "movies": [
+                {
+                  "title": "Witness",
+                  "tmdbId": 9281,
+                  "imdbId": "tt0090329"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Sydney Pollack"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hector Babenco"
+              ],
+              "movies": [
+                {
+                  "title": "Kiss of the Spider Woman",
+                  "tmdbId": 11703,
+                  "imdbId": "tt0089424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "Prizzi's Honor",
+                  "tmdbId": 2075,
+                  "imdbId": "tt0089841"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Akira Kurosawa"
+              ],
+              "movies": [
+                {
+                  "title": "Ran",
+                  "tmdbId": 11645,
+                  "imdbId": "tt0089881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Weir"
+              ],
+              "movies": [
+                {
+                  "title": "Witness",
+                  "tmdbId": 9281,
+                  "imdbId": "tt0090329"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "William Hurt"
+              ],
+              "movies": [
+                {
+                  "title": "Kiss of the Spider Woman",
+                  "tmdbId": 11703,
+                  "imdbId": "tt0089424"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harrison Ford"
+              ],
+              "movies": [
+                {
+                  "title": "Witness",
+                  "tmdbId": 9281,
+                  "imdbId": "tt0090329"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Garner"
+              ],
+              "movies": [
+                {
+                  "title": "Murphy's Romance",
+                  "tmdbId": 34322,
+                  "imdbId": "tt0089643"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Prizzi's Honor",
+                  "tmdbId": 2075,
+                  "imdbId": "tt0089841"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Voight"
+              ],
+              "movies": [
+                {
+                  "title": "Runaway Train",
+                  "tmdbId": 11893,
+                  "imdbId": "tt0089941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Geraldine Page"
+              ],
+              "movies": [
+                {
+                  "title": "The Trip to Bountiful",
+                  "tmdbId": 47908,
+                  "imdbId": "tt0090203"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anne Bancroft"
+              ],
+              "movies": [
+                {
+                  "title": "Agnes of God",
+                  "tmdbId": 24735,
+                  "imdbId": "tt0088683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Whoopi Goldberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jessica Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Sweet Dreams",
+                  "tmdbId": 42045,
+                  "imdbId": "tt0090110"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Don Ameche"
+              ],
+              "movies": [
+                {
+                  "title": "Cocoon",
+                  "tmdbId": 10328,
+                  "imdbId": "tt0088933"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Klaus Maria Brandauer"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Hickey"
+              ],
+              "movies": [
+                {
+                  "title": "Prizzi's Honor",
+                  "tmdbId": 2075,
+                  "imdbId": "tt0089841"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Loggia"
+              ],
+              "movies": [
+                {
+                  "title": "Jagged Edge",
+                  "tmdbId": 12235,
+                  "imdbId": "tt0089360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Runaway Train",
+                  "tmdbId": 11893,
+                  "imdbId": "tt0089941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Anjelica Huston"
+              ],
+              "movies": [
+                {
+                  "title": "Prizzi's Honor",
+                  "tmdbId": 2075,
+                  "imdbId": "tt0089841"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Margaret Avery"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Amy Madigan"
+              ],
+              "movies": [
+                {
+                  "title": "Twice in a Lifetime",
+                  "tmdbId": 123049,
+                  "imdbId": "tt0090223"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meg Tilly"
+              ],
+              "movies": [
+                {
+                  "title": "Agnes of God",
+                  "tmdbId": 24735,
+                  "imdbId": "tt0088683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oprah Winfrey"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "William Kelley",
+                "Earl Wallace",
+                "Pamela Wallace"
+              ],
+              "movies": [
+                {
+                  "title": "Witness",
+                  "tmdbId": 9281,
+                  "imdbId": "tt0090329"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Zemeckis",
+                "Bob Gale"
+              ],
+              "movies": [
+                {
+                  "title": "Back to the Future",
+                  "tmdbId": 105,
+                  "imdbId": "tt0088763"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terry Gilliam",
+                "Tom Stoppard",
+                "Charles McKeown"
+              ],
+              "movies": [
+                {
+                  "title": "Brazil",
+                  "tmdbId": 68,
+                  "imdbId": "tt0088846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luis Puenzo",
+                "Aida Bortnik"
+              ],
+              "movies": [
+                {
+                  "title": "The Official Story",
+                  "tmdbId": 29263,
+                  "imdbId": "tt0089276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "The Purple Rose of Cairo",
+                  "tmdbId": 10849,
+                  "imdbId": "tt0089853"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Kurt Luedtke"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Menno Meyjes"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Schrader"
+              ],
+              "movies": [
+                {
+                  "title": "Kiss of the Spider Woman",
+                  "tmdbId": 11703,
+                  "imdbId": "tt0089424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Condon",
+                "Janet Roach"
+              ],
+              "movies": [
+                {
+                  "title": "Prizzi's Honor",
+                  "tmdbId": 2075,
+                  "imdbId": "tt0089841"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Horton Foote"
+              ],
+              "movies": [
+                {
+                  "title": "The Trip to Bountiful",
+                  "tmdbId": 47908,
+                  "imdbId": "tt0090203"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Official Story"
+              ],
+              "movies": [
+                {
+                  "title": "The Official Story",
+                  "tmdbId": 29263,
+                  "imdbId": "tt0089276"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Angry Harvest"
+              ],
+              "movies": [
+                {
+                  "title": "Angry Harvest",
+                  "tmdbId": 42032,
+                  "imdbId": "tt0088811"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colonel Redl"
+              ],
+              "movies": [
+                {
+                  "title": "Colonel Redl",
+                  "tmdbId": 29471,
+                  "imdbId": "tt0089716"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Three Men and a Cradle"
+              ],
+              "movies": [
+                {
+                  "title": "Three Men and a Cradle",
+                  "tmdbId": 4180,
+                  "imdbId": "tt0090206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When Father Was Away on Business"
+              ],
+              "movies": [
+                {
+                  "title": "When Father Was Away on Business",
+                  "tmdbId": 21042,
+                  "imdbId": "tt0089748"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Broken Rainbow"
+              ],
+              "movies": [
+                {
+                  "title": "Broken Rainbow",
+                  "tmdbId": 44889,
+                  "imdbId": "tt0088857"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Mothers of Plaza de Mayo"
+              ],
+              "movies": [
+                {
+                  "title": "The Mothers of Plaza de Mayo",
+                  "tmdbId": 149377,
+                  "imdbId": "tt0089460"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Soldiers in Hiding"
+              ],
+              "movies": [
+                {
+                  "title": "Soldiers in Hiding",
+                  "tmdbId": 104753,
+                  "imdbId": "tt0090043"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Statue of Liberty"
+              ],
+              "movies": [
+                {
+                  "title": "The Statue of Liberty",
+                  "tmdbId": 51594,
+                  "imdbId": "tt0092011"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Unfinished Business"
+              ],
+              "movies": [
+                {
+                  "title": "Unfinished Business",
+                  "tmdbId": 149380,
+                  "imdbId": "tt0092136"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "David Watkin"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Allen Daviau"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Fraker"
+              ],
+              "movies": [
+                {
+                  "title": "Murphy's Romance",
+                  "tmdbId": 34322,
+                  "imdbId": "tt0089643"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Takao Saito",
+                "Masaharu Ueda",
+                "Asakazu Nakai"
+              ],
+              "movies": [
+                {
+                  "title": "Ran",
+                  "tmdbId": 11645,
+                  "imdbId": "tt0089881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Seale"
+              ],
+              "movies": [
+                {
+                  "title": "Witness",
+                  "tmdbId": 9281,
+                  "imdbId": "tt0090329"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Thom Noble"
+              ],
+              "movies": [
+                {
+                  "title": "Witness",
+                  "tmdbId": 9281,
+                  "imdbId": "tt0090329"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Bloom"
+              ],
+              "movies": [
+                {
+                  "title": "A Chorus Line",
+                  "tmdbId": 1816,
+                  "imdbId": "tt0088915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fredric Steinkamp",
+                "William Steinkamp",
+                "Pembroke Herring",
+                "Sheldon Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rudi Fehr",
+                "Kaja Fehr"
+              ],
+              "movies": [
+                {
+                  "title": "Prizzi's Honor",
+                  "tmdbId": 2075,
+                  "imdbId": "tt0089841"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Runaway Train",
+                  "tmdbId": 11893,
+                  "imdbId": "tt0089941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Stephen Grimes",
+                "Josie Macavin"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Norman Garwood",
+                "Maggie Gray"
+              ],
+              "movies": [
+                {
+                  "title": "Brazil",
+                  "tmdbId": 68,
+                  "imdbId": "tt0088846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "J. Michael Riva",
+                "Bo Welch",
+                "Linda DeScenna"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yoshiro Muraki",
+                "Shinobu Muraki"
+              ],
+              "movies": [
+                {
+                  "title": "Ran",
+                  "tmdbId": 11645,
+                  "imdbId": "tt0089881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stan Jolley",
+                "John Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Witness",
+                  "tmdbId": 9281,
+                  "imdbId": "tt0090329"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Emi Wada"
+              ],
+              "movies": [
+                {
+                  "title": "Ran",
+                  "tmdbId": 11645,
+                  "imdbId": "tt0089881"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Aggie Guerard Rodgers"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Wolsky"
+              ],
+              "movies": [
+                {
+                  "title": "The Journey of Natty Gann",
+                  "tmdbId": 35144,
+                  "imdbId": "tt0089385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milena Canonero"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donfeld"
+              ],
+              "movies": [
+                {
+                  "title": "Prizzi's Honor",
+                  "tmdbId": 2075,
+                  "imdbId": "tt0089841"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Michael Westmore",
+                "Zoltan Elek"
+              ],
+              "movies": [
+                {
+                  "title": "Mask",
+                  "tmdbId": 11177,
+                  "imdbId": "tt0089560"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ken Chase"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carl Fullerton"
+              ],
+              "movies": [
+                {
+                  "title": "Remo Williams: The Adventure Begins",
+                  "tmdbId": 10553,
+                  "imdbId": "tt0089901"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Ken Ralston",
+                "Ralph McQuarrie",
+                "Scott Farrar",
+                "David Berry"
+              ],
+              "movies": [
+                {
+                  "title": "Cocoon",
+                  "tmdbId": 10328,
+                  "imdbId": "tt0088933"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Will Vinton",
+                "Ian Wingrove",
+                "Zoran Perisic",
+                "Michael Lloyd"
+              ],
+              "movies": [
+                {
+                  "title": "Return to Oz",
+                  "tmdbId": 13155,
+                  "imdbId": "tt0089908"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Muren",
+                "Kit West",
+                "John Ellis",
+                "David W. Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Young Sherlock Holmes",
+                  "tmdbId": 11904,
+                  "imdbId": "tt0090357"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Chris Jenkins",
+                "Gary Alexander",
+                "Larry Stensvold",
+                "Peter Handford"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bill Varney",
+                "B. Tennyson Sebastian II",
+                "Robert Thirlwell",
+                "William B. Kaplan"
+              ],
+              "movies": [
+                {
+                  "title": "Back to the Future",
+                  "tmdbId": 105,
+                  "imdbId": "tt0088763"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Michael Minkler",
+                "Gerry Humphreys",
+                "Christopher Newman"
+              ],
+              "movies": [
+                {
+                  "title": "A Chorus Line",
+                  "tmdbId": 1816,
+                  "imdbId": "tt0088915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Les Fresholtz",
+                "Dick Alexander",
+                "Vern Poore",
+                "Bud Alper"
+              ],
+              "movies": [
+                {
+                  "title": "Ladyhawke",
+                  "tmdbId": 526,
+                  "imdbId": "tt0089457"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Rick Kline",
+                "Kevin O'Connell",
+                "David M. Ronne"
+              ],
+              "movies": [
+                {
+                  "title": "Silverado",
+                  "tmdbId": 11509,
+                  "imdbId": "tt0090022"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Charles Campbell",
+                "Robert Rutledge"
+              ],
+              "movies": [
+                {
+                  "title": "Back to the Future",
+                  "tmdbId": 105,
+                  "imdbId": "tt0088763"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bob Henderson",
+                "Alan Robert Murray"
+              ],
+              "movies": [
+                {
+                  "title": "Ladyhawke",
+                  "tmdbId": 526,
+                  "imdbId": "tt0089457"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederick Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Rambo: First Blood Part II",
+                  "tmdbId": 1369,
+                  "imdbId": "tt0089880"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Barry"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Africa",
+                  "tmdbId": 606,
+                  "imdbId": "tt0089755"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Georges Delerue"
+              ],
+              "movies": [
+                {
+                  "title": "Agnes of God",
+                  "tmdbId": 24735,
+                  "imdbId": "tt0088683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quincy Jones",
+                "Jeremy Lubbock",
+                "Rod Temperton",
+                "Caiphus Semenya",
+                "Andrae Crouch",
+                "Chris Boardman",
+                "Jorge Calandrelli",
+                "Joel Rosenbaum",
+                "Fred Steiner",
+                "Jack Hayes",
+                "Jerry Hey",
+                "Randy Kerber"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bruce Broughton"
+              ],
+              "movies": [
+                {
+                  "title": "Silverado",
+                  "tmdbId": 11509,
+                  "imdbId": "tt0090022"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maurice Jarre"
+              ],
+              "movies": [
+                {
+                  "title": "Witness",
+                  "tmdbId": 9281,
+                  "imdbId": "tt0090329"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Say You",
+                "Say Me"
+              ],
+              "movies": [
+                {
+                  "title": "White Nights",
+                  "tmdbId": 16082,
+                  "imdbId": "tt0090319"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Miss Celie's Blues (Sister)"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 873,
+                  "imdbId": "tt0088939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Power of Love"
+              ],
+              "movies": [
+                {
+                  "title": "Back to the Future",
+                  "tmdbId": 105,
+                  "imdbId": "tt0088763"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Separate Lives"
+              ],
+              "movies": [
+                {
+                  "title": "White Nights",
+                  "tmdbId": 16082,
+                  "imdbId": "tt0090319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Surprise Surprise"
+              ],
+              "movies": [
+                {
+                  "title": "A Chorus Line",
+                  "tmdbId": 1816,
+                  "imdbId": "tt0088915"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Anna & Bella"
+              ],
+              "movies": [
+                {
+                  "title": "Anna & Bella",
+                  "tmdbId": 128956,
+                  "imdbId": "tt0088725"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Big Snit"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Snit",
+                  "tmdbId": 48504,
+                  "imdbId": "tt0088805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Second Class Mail"
+              ],
+              "movies": [
+                {
+                  "title": "Second Class Mail",
+                  "tmdbId": 210824,
+                  "imdbId": "tt0089980"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Molly's Pilgrim"
+              ],
+              "movies": [
+                {
+                  "title": "Molly's Pilgrim",
+                  "tmdbId": 244664,
+                  "imdbId": "tt0089612"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Graffiti"
+              ],
+              "movies": [
+                {
+                  "title": "Graffiti",
+                  "tmdbId": 244669,
+                  "imdbId": "tt0089225"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rainbow War"
+              ],
+              "movies": [
+                {
+                  "title": "Rainbow War",
+                  "tmdbId": 213614,
+                  "imdbId": "tt0089878"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Witness to War: Dr. Charlie Clements"
+              ],
+              "movies": [
+                {
+                  "title": "Witness to War: Dr. Charlie Clements",
+                  "tmdbId": 244670,
+                  "imdbId": "tt0090330"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Courage to Care"
+              ],
+              "movies": [
+                {
+                  "title": "The Courage to Care",
+                  "tmdbId": 244671,
+                  "imdbId": "tt0088957"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Keats and His Nightingale: A Blind Date"
+              ],
+              "movies": [
+                {
+                  "title": "Keats and His Nightingale: A Blind Date",
+                  "tmdbId": 244672,
+                  "imdbId": "tt0089408"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Making Overtures: The Story of a Community Orchestra"
+              ],
+              "movies": [
+                {
+                  "title": "Making Overtures: The Story of a Community Orchestra",
+                  "tmdbId": 244673,
+                  "imdbId": "tt0089535"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wizard of the Strings"
+              ],
+              "movies": [
+                {
+                  "title": "The Wizard of the Strings",
+                  "tmdbId": 244674,
+                  "imdbId": "tt0090332"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

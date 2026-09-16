@@ -25,8 +25,8 @@ const historicalFeedSchema = z.array(historicalRecordSchema);
 
 function toMovie(raw: HistoricalMovie): Movie {
   const movie: Movie = { title: raw.title };
-  if (raw.tmdb_id !== undefined) movie.tmdbId = raw.tmdb_id;
-  if (raw.imdb_id !== undefined) movie.imdbId = raw.imdb_id;
+  if (raw.tmdb_id != null) movie.tmdbId = raw.tmdb_id;
+  if (raw.imdb_id != null) movie.imdbId = raw.imdb_id;
   return movie;
 }
 

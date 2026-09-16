@@ -1,0 +1,1540 @@
+{
+  "ceremony": {
+    "ordinal": 64,
+    "ceremonyYear": 1992,
+    "ceremonyDate": "1992-03-30",
+    "filmYearLabel": "1991",
+    "slug": "1992",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Silence of the Lambs"
+              ],
+              "movies": [
+                {
+                  "title": "The Silence of the Lambs",
+                  "tmdbId": 274,
+                  "imdbId": "tt0102926"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Beauty and the Beast"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beast",
+                  "tmdbId": 10020,
+                  "imdbId": "tt0101414"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bugsy"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "JFK"
+              ],
+              "movies": [
+                {
+                  "title": "JFK",
+                  "tmdbId": 820,
+                  "imdbId": "tt0102138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Prince of Tides"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Tides",
+                  "tmdbId": 10333,
+                  "imdbId": "tt0102713"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Jonathan Demme"
+              ],
+              "movies": [
+                {
+                  "title": "The Silence of the Lambs",
+                  "tmdbId": 274,
+                  "imdbId": "tt0102926"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Barry Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ridley Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Thelma & Louise",
+                  "tmdbId": 1541,
+                  "imdbId": "tt0103074"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Singleton"
+              ],
+              "movies": [
+                {
+                  "title": "Boyz n the Hood",
+                  "tmdbId": 650,
+                  "imdbId": "tt0101507"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Stone"
+              ],
+              "movies": [
+                {
+                  "title": "JFK",
+                  "tmdbId": 820,
+                  "imdbId": "tt0102138"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Anthony Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "The Silence of the Lambs",
+                  "tmdbId": 274,
+                  "imdbId": "tt0102926"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warren Beatty"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert De Niro"
+              ],
+              "movies": [
+                {
+                  "title": "Cape Fear",
+                  "tmdbId": 1598,
+                  "imdbId": "tt0101540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nick Nolte"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Tides",
+                  "tmdbId": 10333,
+                  "imdbId": "tt0102713"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robin Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Fisher King",
+                  "tmdbId": 177,
+                  "imdbId": "tt0101889"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jodie Foster"
+              ],
+              "movies": [
+                {
+                  "title": "The Silence of the Lambs",
+                  "tmdbId": 274,
+                  "imdbId": "tt0102926"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Geena Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Thelma & Louise",
+                  "tmdbId": 1541,
+                  "imdbId": "tt0103074"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laura Dern"
+              ],
+              "movies": [
+                {
+                  "title": "Rambling Rose",
+                  "tmdbId": 32221,
+                  "imdbId": "tt0102753"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bette Midler"
+              ],
+              "movies": [
+                {
+                  "title": "For the Boys",
+                  "tmdbId": 25221,
+                  "imdbId": "tt0101902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Sarandon"
+              ],
+              "movies": [
+                {
+                  "title": "Thelma & Louise",
+                  "tmdbId": 1541,
+                  "imdbId": "tt0103074"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Jack Palance"
+              ],
+              "movies": [
+                {
+                  "title": "City Slickers",
+                  "tmdbId": 1406,
+                  "imdbId": "tt0101587"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tommy Lee Jones"
+              ],
+              "movies": [
+                {
+                  "title": "JFK",
+                  "tmdbId": 820,
+                  "imdbId": "tt0102138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harvey Keitel"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Kingsley"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Lerner"
+              ],
+              "movies": [
+                {
+                  "title": "Barton Fink",
+                  "tmdbId": 290,
+                  "imdbId": "tt0101410"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Mercedes Ruehl"
+              ],
+              "movies": [
+                {
+                  "title": "The Fisher King",
+                  "tmdbId": 177,
+                  "imdbId": "tt0101889"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Diane Ladd"
+              ],
+              "movies": [
+                {
+                  "title": "Rambling Rose",
+                  "tmdbId": 32221,
+                  "imdbId": "tt0102753"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Juliette Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Cape Fear",
+                  "tmdbId": 1598,
+                  "imdbId": "tt0101540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kate Nelligan"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Tides",
+                  "tmdbId": 10333,
+                  "imdbId": "tt0102713"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jessica Tandy"
+              ],
+              "movies": [
+                {
+                  "title": "Fried Green Tomatoes",
+                  "tmdbId": 1633,
+                  "imdbId": "tt0101921"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Callie Khouri"
+              ],
+              "movies": [
+                {
+                  "title": "Thelma & Louise",
+                  "tmdbId": 1541,
+                  "imdbId": "tt0103074"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Singleton"
+              ],
+              "movies": [
+                {
+                  "title": "Boyz n the Hood",
+                  "tmdbId": 650,
+                  "imdbId": "tt0101507"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Toback"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard LaGravenese"
+              ],
+              "movies": [
+                {
+                  "title": "The Fisher King",
+                  "tmdbId": 177,
+                  "imdbId": "tt0101889"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lawrence Kasdan",
+                "Meg Kasdan"
+              ],
+              "movies": [
+                {
+                  "title": "Grand Canyon",
+                  "tmdbId": 13697,
+                  "imdbId": "tt0101969"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ted Tally"
+              ],
+              "movies": [
+                {
+                  "title": "The Silence of the Lambs",
+                  "tmdbId": 274,
+                  "imdbId": "tt0102926"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Agnieszka Holland"
+              ],
+              "movies": [
+                {
+                  "title": "Europa Europa",
+                  "tmdbId": 8996,
+                  "imdbId": "tt0099776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fannie Flagg",
+                "Carol Sobieski"
+              ],
+              "movies": [
+                {
+                  "title": "Fried Green Tomatoes",
+                  "tmdbId": 1633,
+                  "imdbId": "tt0101921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Stone",
+                "Zachary Sklar"
+              ],
+              "movies": [
+                {
+                  "title": "JFK",
+                  "tmdbId": 820,
+                  "imdbId": "tt0102138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pat Conroy",
+                "Becky Johnston"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Tides",
+                  "tmdbId": 10333,
+                  "imdbId": "tt0102713"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Mediterraneo"
+              ],
+              "movies": [
+                {
+                  "title": "Mediterraneo",
+                  "tmdbId": 38251,
+                  "imdbId": "tt0102426"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Children of Nature"
+              ],
+              "movies": [
+                {
+                  "title": "Children of Nature",
+                  "tmdbId": 26880,
+                  "imdbId": "tt0101526"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Elementary School"
+              ],
+              "movies": [
+                {
+                  "title": "The Elementary School",
+                  "tmdbId": 18141,
+                  "imdbId": "tt0102571"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Ox"
+              ],
+              "movies": [
+                {
+                  "title": "The Ox",
+                  "tmdbId": 125882,
+                  "imdbId": "tt0102619"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raise the Red Lantern"
+              ],
+              "movies": [
+                {
+                  "title": "Raise the Red Lantern",
+                  "tmdbId": 10404,
+                  "imdbId": "tt0101640"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "In the Shadow of the Stars"
+              ],
+              "movies": [
+                {
+                  "title": "In the Shadow of the Stars",
+                  "tmdbId": 114525,
+                  "imdbId": "tt0102114"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Death on the Job"
+              ],
+              "movies": [
+                {
+                  "title": "Death on the Job",
+                  "tmdbId": 149397,
+                  "imdbId": "tt0101693"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Doing Time: Life Inside the Big House"
+              ],
+              "movies": [
+                {
+                  "title": "Doing Time: Life Inside the Big House",
+                  "tmdbId": 149398,
+                  "imdbId": "tt0101749"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Restless Conscience: Resistance to Hitler Within Germany 1933-1945"
+              ],
+              "movies": [
+                {
+                  "title": "The Restless Conscience: Resistance to Hitler Within Germany 1933-1945",
+                  "tmdbId": 136649,
+                  "imdbId": "tt0102778"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wild by Law"
+              ],
+              "movies": [
+                {
+                  "title": "Wild by Law",
+                  "tmdbId": 136648,
+                  "imdbId": "tt0103260"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "JFK",
+                  "tmdbId": 820,
+                  "imdbId": "tt0102138"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adam Greenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Terminator 2: Judgment Day",
+                  "tmdbId": 280,
+                  "imdbId": "tt0103064"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adrian Biddle"
+              ],
+              "movies": [
+                {
+                  "title": "Thelma & Louise",
+                  "tmdbId": 1541,
+                  "imdbId": "tt0103074"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Allen Daviau"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Goldblatt"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Tides",
+                  "tmdbId": 10333,
+                  "imdbId": "tt0102713"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Joe Hutshing",
+                "Pietro Scalia"
+              ],
+              "movies": [
+                {
+                  "title": "JFK",
+                  "tmdbId": 820,
+                  "imdbId": "tt0102138"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Conrad Buff",
+                "Mark Goldblatt",
+                "Richard A. Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Terminator 2: Judgment Day",
+                  "tmdbId": 280,
+                  "imdbId": "tt0103064"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Craig McKay"
+              ],
+              "movies": [
+                {
+                  "title": "The Silence of the Lambs",
+                  "tmdbId": 274,
+                  "imdbId": "tt0102926"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerry Hambling"
+              ],
+              "movies": [
+                {
+                  "title": "The Commitments",
+                  "tmdbId": 11663,
+                  "imdbId": "tt0101605"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thom Noble"
+              ],
+              "movies": [
+                {
+                  "title": "Thelma & Louise",
+                  "tmdbId": 1541,
+                  "imdbId": "tt0103074"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Dennis Gassner",
+                "Nancy Haigh"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dennis Gassner",
+                "Nancy Haigh"
+              ],
+              "movies": [
+                {
+                  "title": "Barton Fink",
+                  "tmdbId": 290,
+                  "imdbId": "tt0101410"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mel Bourne",
+                "Cindy Carr"
+              ],
+              "movies": [
+                {
+                  "title": "The Fisher King",
+                  "tmdbId": 177,
+                  "imdbId": "tt0101889"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Garwood",
+                "Garrett Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Hook",
+                  "tmdbId": 879,
+                  "imdbId": "tt0102057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Sylbert",
+                "Caryl Heller"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Tides",
+                  "tmdbId": 10333,
+                  "imdbId": "tt0102713"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Albert Wolsky"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anthony Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Hook",
+                  "tmdbId": 879,
+                  "imdbId": "tt0102057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Corinne Jorry"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Bovary",
+                  "tmdbId": 2528,
+                  "imdbId": "tt0102368"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Hornung"
+              ],
+              "movies": [
+                {
+                  "title": "Barton Fink",
+                  "tmdbId": 290,
+                  "imdbId": "tt0101410"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth Myers"
+              ],
+              "movies": [
+                {
+                  "title": "The Addams Family",
+                  "tmdbId": 2907,
+                  "imdbId": "tt0101272"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Stan Winston",
+                "Jeff Dawn"
+              ],
+              "movies": [
+                {
+                  "title": "Terminator 2: Judgment Day",
+                  "tmdbId": 280,
+                  "imdbId": "tt0103064"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Christina Smith",
+                "Monty Westmore",
+                "Greg Cannom"
+              ],
+              "movies": [
+                {
+                  "title": "Hook",
+                  "tmdbId": 879,
+                  "imdbId": "tt0102057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael M. Mills",
+                "Edward French",
+                "Richard Snell"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek VI: The Undiscovered Country",
+                  "tmdbId": 174,
+                  "imdbId": "tt0102975"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Dennis Muren",
+                "Stan Winston",
+                "Gene Warren Jr.",
+                "Robert Skotak"
+              ],
+              "movies": [
+                {
+                  "title": "Terminator 2: Judgment Day",
+                  "tmdbId": 280,
+                  "imdbId": "tt0103064"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eric Brevig",
+                "Harley Jessup",
+                "Mark Sullivan",
+                "Michael Lantieri"
+              ],
+              "movies": [
+                {
+                  "title": "Hook",
+                  "tmdbId": 879,
+                  "imdbId": "tt0102057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mikael Salomon",
+                "Allen Hall",
+                "Clay Pinney",
+                "Scott Farrar"
+              ],
+              "movies": [
+                {
+                  "title": "Backdraft",
+                  "tmdbId": 2924,
+                  "imdbId": "tt0101393"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Tom Johnson",
+                "Gary Rydstrom",
+                "Gary Summers",
+                "Lee Orloff"
+              ],
+              "movies": [
+                {
+                  "title": "Terminator 2: Judgment Day",
+                  "tmdbId": 280,
+                  "imdbId": "tt0103064"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gary Summers",
+                "Randy Thom",
+                "Gary Rydstrom",
+                "Glenn Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Backdraft",
+                  "tmdbId": 2924,
+                  "imdbId": "tt0101393"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terry Porter",
+                "Mel Metcalfe",
+                "David J. Hudson",
+                "Doc Kane"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beast",
+                  "tmdbId": 10020,
+                  "imdbId": "tt0101414"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Minkler",
+                "Gregg Landaker",
+                "Tod A. Maitland"
+              ],
+              "movies": [
+                {
+                  "title": "JFK",
+                  "tmdbId": 820,
+                  "imdbId": "tt0102138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Fleischman",
+                "Christopher Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Silence of the Lambs",
+                  "tmdbId": 274,
+                  "imdbId": "tt0102926"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Gloria Borders"
+              ],
+              "movies": [
+                {
+                  "title": "Terminator 2: Judgment Day",
+                  "tmdbId": 280,
+                  "imdbId": "tt0103064"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Richard Hymns"
+              ],
+              "movies": [
+                {
+                  "title": "Backdraft",
+                  "tmdbId": 2924,
+                  "imdbId": "tt0101393"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Watters",
+                "F. Hudson Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek VI: The Undiscovered Country",
+                  "tmdbId": 174,
+                  "imdbId": "tt0102975"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Alan Menken"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beast",
+                  "tmdbId": 10020,
+                  "imdbId": "tt0101414"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ennio Morricone"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy",
+                  "tmdbId": 10337,
+                  "imdbId": "tt0101516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Fenton"
+              ],
+              "movies": [
+                {
+                  "title": "The Fisher King",
+                  "tmdbId": 177,
+                  "imdbId": "tt0101889"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Newton Howard"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Tides",
+                  "tmdbId": 10333,
+                  "imdbId": "tt0102713"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "JFK",
+                  "tmdbId": 820,
+                  "imdbId": "tt0102138"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Beauty",
+                "the Beast"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beast",
+                  "tmdbId": 10020,
+                  "imdbId": "tt0101414"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Be Our Guest"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beast",
+                  "tmdbId": 10020,
+                  "imdbId": "tt0101414"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Belle"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beast",
+                  "tmdbId": 10020,
+                  "imdbId": "tt0101414"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When You're Alone"
+              ],
+              "movies": [
+                {
+                  "title": "Hook",
+                  "tmdbId": 879,
+                  "imdbId": "tt0102057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "(Everything I Do) I Do It For You"
+              ],
+              "movies": [
+                {
+                  "title": "Robin Hood: Prince of Thieves",
+                  "tmdbId": 8367,
+                  "imdbId": "tt0102798"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Manipulation"
+              ],
+              "movies": [
+                {
+                  "title": "Manipulation",
+                  "tmdbId": 47207,
+                  "imdbId": "tt0102392"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blackfly"
+              ],
+              "movies": [
+                {
+                  "title": "Blackfly",
+                  "tmdbId": 48608,
+                  "imdbId": "tt0101468"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Strings"
+              ],
+              "movies": [
+                {
+                  "title": "Strings",
+                  "tmdbId": 209690,
+                  "imdbId": "tt0102997"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Session Man"
+              ],
+              "movies": [
+                {
+                  "title": "Session Man",
+                  "tmdbId": 244729,
+                  "imdbId": "tt0108086"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Birch Street Gym"
+              ],
+              "movies": [
+                {
+                  "title": "Birch Street Gym",
+                  "tmdbId": 244730,
+                  "imdbId": "tt0101456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Last Breeze of Summer"
+              ],
+              "movies": [
+                {
+                  "title": "Last Breeze of Summer",
+                  "tmdbId": 244731,
+                  "imdbId": "tt0102268"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Deadly Deception: General Electric, Nuclear Weapons and Our Environment"
+              ],
+              "movies": [
+                {
+                  "title": "Deadly Deception: General Electric, Nuclear Weapons and Our Environment",
+                  "tmdbId": 244733,
+                  "imdbId": "tt0101683"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Little Vicious"
+              ],
+              "movies": [
+                {
+                  "title": "A Little Vicious",
+                  "tmdbId": 244735,
+                  "imdbId": "tt0102320"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Mark of the Maker"
+              ],
+              "movies": [
+                {
+                  "title": "The Mark of the Maker",
+                  "tmdbId": 244737,
+                  "imdbId": "tt0102406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Birdnesters of Thailand"
+              ],
+              "movies": [
+                {
+                  "title": "Birdnesters of Thailand",
+                  "tmdbId": 244734,
+                  "imdbId": "tt0101457"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Memorial: Letters from American Soldiers"
+              ],
+              "movies": [
+                {
+                  "title": "Memorial: Letters from American Soldiers",
+                  "tmdbId": 244738,
+                  "imdbId": "tt0102430"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

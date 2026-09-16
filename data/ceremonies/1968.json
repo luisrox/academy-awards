@@ -1,0 +1,1535 @@
+{
+  "ceremony": {
+    "ordinal": 40,
+    "ceremonyYear": 1968,
+    "ceremonyDate": "1968-04-10",
+    "filmYearLabel": "1967",
+    "slug": "1968",
+    "decade": "1960s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "In the Heat of the Night"
+              ],
+              "movies": [
+                {
+                  "title": "In the Heat of the Night",
+                  "tmdbId": 10633,
+                  "imdbId": "tt0061811"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bonnie and Clyde"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Doctor Dolittle"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Graduate"
+              ],
+              "movies": [
+                {
+                  "title": "The Graduate",
+                  "tmdbId": 37247,
+                  "imdbId": "tt0061722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Guess Who's Coming to Dinner"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Mike Nichols"
+              ],
+              "movies": [
+                {
+                  "title": "The Graduate",
+                  "tmdbId": 37247,
+                  "imdbId": "tt0061722"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "In Cold Blood",
+                  "tmdbId": 18900,
+                  "imdbId": "tt0061809"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Jewison"
+              ],
+              "movies": [
+                {
+                  "title": "In the Heat of the Night",
+                  "tmdbId": 10633,
+                  "imdbId": "tt0061811"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Kramer"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Penn"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Rod Steiger"
+              ],
+              "movies": [
+                {
+                  "title": "In the Heat of the Night",
+                  "tmdbId": 10633,
+                  "imdbId": "tt0061811"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warren Beatty"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dustin Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "The Graduate",
+                  "tmdbId": 37247,
+                  "imdbId": "tt0061722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Cool Hand Luke",
+                  "tmdbId": 903,
+                  "imdbId": "tt0061512"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anne Bancroft"
+              ],
+              "movies": [
+                {
+                  "title": "The Graduate",
+                  "tmdbId": 37247,
+                  "imdbId": "tt0061722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Faye Dunaway"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Evans"
+              ],
+              "movies": [
+                {
+                  "title": "The Whisperers",
+                  "tmdbId": 70635,
+                  "imdbId": "tt0061180"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Audrey Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "Wait Until Dark",
+                  "tmdbId": 11206,
+                  "imdbId": "tt0062467"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "George Kennedy"
+              ],
+              "movies": [
+                {
+                  "title": "Cool Hand Luke",
+                  "tmdbId": 903,
+                  "imdbId": "tt0061512"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Cassavetes"
+              ],
+              "movies": [
+                {
+                  "title": "The Dirty Dozen",
+                  "tmdbId": 1654,
+                  "imdbId": "tt0061578"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Hackman"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cecil Kellaway"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            },
+            {
+              "names": [
+                "MIchael J. Pollard"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Estelle Parsons"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carol Channing"
+              ],
+              "movies": [
+                {
+                  "title": "Thoroughly Modern Millie",
+                  "tmdbId": 32489,
+                  "imdbId": "tt0062362"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mildred Natwick"
+              ],
+              "movies": [
+                {
+                  "title": "Barefoot in the Park",
+                  "tmdbId": 17887,
+                  "imdbId": "tt0061385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Beah Richards"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Katharine Ross"
+              ],
+              "movies": [
+                {
+                  "title": "The Graduate",
+                  "tmdbId": 37247,
+                  "imdbId": "tt0061722"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "William Rose"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Newman",
+                "Robert Benton"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Kaufman",
+                "Norman Lear"
+              ],
+              "movies": [
+                {
+                  "title": "Divorce American Style",
+                  "tmdbId": 102057,
+                  "imdbId": "tt0061581"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jorge Semprun"
+              ],
+              "movies": [
+                {
+                  "title": "The War Is Over",
+                  "tmdbId": 4781,
+                  "imdbId": "tt0060481"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic Raphael"
+              ],
+              "movies": [
+                {
+                  "title": "Two for the Road",
+                  "tmdbId": 5767,
+                  "imdbId": "tt0062407"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Stirling Silliphant"
+              ],
+              "movies": [
+                {
+                  "title": "In the Heat of the Night",
+                  "tmdbId": 10633,
+                  "imdbId": "tt0061811"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Donn Pearce",
+                "Frank Pierson"
+              ],
+              "movies": [
+                {
+                  "title": "Cool Hand Luke",
+                  "tmdbId": 903,
+                  "imdbId": "tt0061512"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Buck Henry",
+                "Calder Willingham"
+              ],
+              "movies": [
+                {
+                  "title": "The Graduate",
+                  "tmdbId": 37247,
+                  "imdbId": "tt0061722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "In Cold Blood",
+                  "tmdbId": 18900,
+                  "imdbId": "tt0061809"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Strick",
+                "Fred Haines"
+              ],
+              "movies": [
+                {
+                  "title": "Ulysses",
+                  "tmdbId": 119183,
+                  "imdbId": "tt0062414"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Closely Watched Trains"
+              ],
+              "movies": [
+                {
+                  "title": "Closely Watched Trains",
+                  "tmdbId": 789,
+                  "imdbId": "tt0060802"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bewitched Love"
+              ],
+              "movies": [
+                {
+                  "title": "Bewitched Love",
+                  "tmdbId": 202771,
+                  "imdbId": "tt0061350"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Even Met Happy Gypsies"
+              ],
+              "movies": [
+                {
+                  "title": "I Even Met Happy Gypsies",
+                  "tmdbId": 59088,
+                  "imdbId": "tt0062277"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Live for Life"
+              ],
+              "movies": [
+                {
+                  "title": "Live for Life",
+                  "tmdbId": 76295,
+                  "imdbId": "tt0062452"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Portrait of Chieko"
+              ],
+              "movies": [
+                {
+                  "title": "Portrait of Chieko",
+                  "tmdbId": 202773,
+                  "imdbId": "tt0061471"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Anderson Platoon"
+              ],
+              "movies": [
+                {
+                  "title": "The Anderson Platoon",
+                  "tmdbId": 66569,
+                  "imdbId": "tt0062244"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Festival"
+              ],
+              "movies": [
+                {
+                  "title": "Festival",
+                  "tmdbId": 16247,
+                  "imdbId": "tt0061658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harvest"
+              ],
+              "movies": [
+                {
+                  "title": "Harvest",
+                  "tmdbId": 149302,
+                  "imdbId": "tt0061750"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A King's Story"
+              ],
+              "movies": [
+                {
+                  "title": "A King's Story",
+                  "tmdbId": 149304,
+                  "imdbId": "tt0059359"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Time for Burning"
+              ],
+              "movies": [
+                {
+                  "title": "A Time for Burning",
+                  "tmdbId": 149306,
+                  "imdbId": "tt0062372"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Burnett Guffey"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard H. Kline"
+              ],
+              "movies": [
+                {
+                  "title": "Camelot",
+                  "tmdbId": 18978,
+                  "imdbId": "tt0061439"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "The Graduate",
+                  "tmdbId": 37247,
+                  "imdbId": "tt0061722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Conrad Hall"
+              ],
+              "movies": [
+                {
+                  "title": "In Cold Blood",
+                  "tmdbId": 18900,
+                  "imdbId": "tt0061809"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Hal Ashby"
+              ],
+              "movies": [
+                {
+                  "title": "In the Heat of the Night",
+                  "tmdbId": 10633,
+                  "imdbId": "tt0061811"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank P. Keller"
+              ],
+              "movies": [
+                {
+                  "title": "Beach Red",
+                  "tmdbId": 39519,
+                  "imdbId": "tt0061389"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Luciano"
+              ],
+              "movies": [
+                {
+                  "title": "The Dirty Dozen",
+                  "tmdbId": 1654,
+                  "imdbId": "tt0061578"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Samuel E. Beetley",
+                "Marjorie Fowler"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert C. Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "John Truscott",
+                "Edward Carrere",
+                "John W. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Camelot",
+                  "tmdbId": 18978,
+                  "imdbId": "tt0061439"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mario Chiari",
+                "Jack Martin Smith",
+                "Ed Graves",
+                "Walter M. Scott",
+                "Stuart A. Reiss"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Clatworthy",
+                "Frank Tuttle"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Renzo Mongiardino",
+                "John DeCuir",
+                "Elven Webb",
+                "Giuseppe Mariani",
+                "Dario Simoni",
+                "Luigi Gervasi"
+              ],
+              "movies": [
+                {
+                  "title": "The Taming of the Shrew",
+                  "tmdbId": 25560,
+                  "imdbId": "tt0061407"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Golitzen",
+                "George C. Webb",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "Thoroughly Modern Millie",
+                  "tmdbId": 32489,
+                  "imdbId": "tt0062362"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "John Truscott"
+              ],
+              "movies": [
+                {
+                  "title": "Camelot",
+                  "tmdbId": 18978,
+                  "imdbId": "tt0061439"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Theadora Van Runkle"
+              ],
+              "movies": [
+                {
+                  "title": "Bonnie and Clyde",
+                  "tmdbId": 475,
+                  "imdbId": "tt0061418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "The Happiest Millionaire",
+                  "tmdbId": 25445,
+                  "imdbId": "tt0061749"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Danilo Donati",
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "The Taming of the Shrew",
+                  "tmdbId": 25560,
+                  "imdbId": "tt0061407"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Thoroughly Modern Millie",
+                  "tmdbId": 32489,
+                  "imdbId": "tt0062362"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "L.B. Abbot"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Howard A. Johnson Jr.",
+                "Albert Whitlock"
+              ],
+              "movies": [
+                {
+                  "title": "Tobruk",
+                  "tmdbId": 25385,
+                  "imdbId": "tt0062377"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Samuel Goldwyn Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "In the Heat of the Night",
+                  "tmdbId": 10633,
+                  "imdbId": "tt0061811"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warner Bros.-Seven Arts Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "Camelot",
+                  "tmdbId": 18978,
+                  "imdbId": "tt0061439"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Metro-Goldwyn-Mayer Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "The Dirty Dozen",
+                  "tmdbId": 1654,
+                  "imdbId": "tt0061578"
+                }
+              ]
+            },
+            {
+              "names": [
+                "20th Century-Fox Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Universal City Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "Thoroughly Modern Millie",
+                  "tmdbId": 32489,
+                  "imdbId": "tt0062362"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects",
+          "winners": [
+            {
+              "names": [
+                "John Poyner"
+              ],
+              "movies": [
+                {
+                  "title": "The Dirty Dozen",
+                  "tmdbId": 1654,
+                  "imdbId": "tt0061578"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Richard"
+              ],
+              "movies": [
+                {
+                  "title": "In the Heat of the Night",
+                  "tmdbId": 10633,
+                  "imdbId": "tt0061811"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "Thoroughly Modern Millie",
+                  "tmdbId": 32489,
+                  "imdbId": "tt0062362"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lalo Schifrin"
+              ],
+              "movies": [
+                {
+                  "title": "Cool Hand Luke",
+                  "tmdbId": 903,
+                  "imdbId": "tt0061512"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leslie Bricusse"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Rodney Bennett"
+              ],
+              "movies": [
+                {
+                  "title": "Far from the Madding Crowd",
+                  "tmdbId": 3469,
+                  "imdbId": "tt0061648"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quincy Jones"
+              ],
+              "movies": [
+                {
+                  "title": "In Cold Blood",
+                  "tmdbId": 18900,
+                  "imdbId": "tt0061809"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Alfred Newman",
+                "Ken Darby"
+              ],
+              "movies": [
+                {
+                  "title": "Camelot",
+                  "tmdbId": 18978,
+                  "imdbId": "tt0061439"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lionel Newman",
+                "Alexander Courage"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank De Vol"
+              ],
+              "movies": [
+                {
+                  "title": "Guess Who's Coming to Dinner",
+                  "tmdbId": 1879,
+                  "imdbId": "tt0061735"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andre Previn",
+                "Joseph Gershenson"
+              ],
+              "movies": [
+                {
+                  "title": "Thoroughly Modern Millie",
+                  "tmdbId": 32489,
+                  "imdbId": "tt0062362"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Valley of the Dolls",
+                  "tmdbId": 3055,
+                  "imdbId": "tt0062430"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Talk to the Animals"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Dolittle",
+                  "tmdbId": 16081,
+                  "imdbId": "tt0061584"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Bare Necessities"
+              ],
+              "movies": [
+                {
+                  "title": "The Jungle Book",
+                  "tmdbId": 9325,
+                  "imdbId": "tt0061852"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Eyes of Love"
+              ],
+              "movies": [
+                {
+                  "title": "Banning",
+                  "tmdbId": 84511,
+                  "imdbId": "tt0061383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Look of Love"
+              ],
+              "movies": [
+                {
+                  "title": "Casino Royale",
+                  "tmdbId": 12208,
+                  "imdbId": "tt0061452"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thoroughly Modern Millie"
+              ],
+              "movies": [
+                {
+                  "title": "Thoroughly Modern Millie",
+                  "tmdbId": 32489,
+                  "imdbId": "tt0062362"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Box"
+              ],
+              "movies": [
+                {
+                  "title": "The Box",
+                  "tmdbId": 205704,
+                  "imdbId": "tt0061421"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hypothèse Beta"
+              ],
+              "movies": [
+                {
+                  "title": "Hypothèse Beta",
+                  "tmdbId": 243310,
+                  "imdbId": "tt0061798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "What on Earth!"
+              ],
+              "movies": [
+                {
+                  "title": "What on Earth!",
+                  "tmdbId": 243312,
+                  "imdbId": "tt0062353"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "A Place to Stand"
+              ],
+              "movies": [
+                {
+                  "title": "A Place to Stand",
+                  "tmdbId": 243307,
+                  "imdbId": "tt0062131"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paddle to the Sea"
+              ],
+              "movies": [
+                {
+                  "title": "Paddle to the Sea",
+                  "tmdbId": 46796,
+                  "imdbId": "tt0060810"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sky Over Holland"
+              ],
+              "movies": [
+                {
+                  "title": "Sky Over Holland",
+                  "tmdbId": 98023,
+                  "imdbId": "tt0062278"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stop Look and Listen"
+              ],
+              "movies": [
+                {
+                  "title": "Stop Look and Listen",
+                  "tmdbId": 243309,
+                  "imdbId": "tt0062307"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Redwoods"
+              ],
+              "movies": [
+                {
+                  "title": "The Redwoods",
+                  "tmdbId": 243314,
+                  "imdbId": "tt0062184"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Monument to the Dream"
+              ],
+              "movies": [
+                {
+                  "title": "Monument to the Dream",
+                  "tmdbId": 243315,
+                  "imdbId": "tt0061990"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Place to Stand"
+              ],
+              "movies": [
+                {
+                  "title": "A Place to Stand",
+                  "tmdbId": 243307,
+                  "imdbId": "tt0062131"
+                }
+              ]
+            },
+            {
+              "names": [
+                "See You at the Pillar"
+              ],
+              "movies": [
+                {
+                  "title": "See You at the Pillar",
+                  "tmdbId": 243316,
+                  "imdbId": "tt0062246"
+                }
+              ]
+            },
+            {
+              "names": [
+                "While I Run This Race"
+              ],
+              "movies": [
+                {
+                  "title": "While I Run This Race",
+                  "tmdbId": 243317,
+                  "imdbId": "tt0062489"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

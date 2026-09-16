@@ -1,0 +1,1595 @@
+{
+  "ceremony": {
+    "ordinal": 55,
+    "ceremonyYear": 1983,
+    "ceremonyDate": "1983-04-11",
+    "filmYearLabel": "1982",
+    "slug": "1983",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Gandhi"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "E.T. the Extra-Terrestrial"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Missing"
+              ],
+              "movies": [
+                {
+                  "title": "Missing",
+                  "tmdbId": 15600,
+                  "imdbId": "tt0084335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tootsie"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Verdict"
+              ],
+              "movies": [
+                {
+                  "title": "The Verdict",
+                  "tmdbId": 24226,
+                  "imdbId": "tt0084855"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Richard Attenborough"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Wolfgang Petersen"
+              ],
+              "movies": [
+                {
+                  "title": "Das Boot",
+                  "tmdbId": 387,
+                  "imdbId": "tt0082096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sydney Pollack"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Lumet"
+              ],
+              "movies": [
+                {
+                  "title": "The Verdict",
+                  "tmdbId": 24226,
+                  "imdbId": "tt0084855"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Ben Kingsley"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dustin Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Lemmon"
+              ],
+              "movies": [
+                {
+                  "title": "Missing",
+                  "tmdbId": 15600,
+                  "imdbId": "tt0084335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Verdict",
+                  "tmdbId": 24226,
+                  "imdbId": "tt0084855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter O'Toole"
+              ],
+              "movies": [
+                {
+                  "title": "My Favorite Year",
+                  "tmdbId": 31044,
+                  "imdbId": "tt0084370"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Sophie's Choice",
+                  "tmdbId": 15764,
+                  "imdbId": "tt0084707"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Julie Andrews"
+              ],
+              "movies": [
+                {
+                  "title": "Victor/Victoria",
+                  "tmdbId": 12614,
+                  "imdbId": "tt0084865"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jessica Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Frances",
+                  "tmdbId": 3526,
+                  "imdbId": "tt0083967"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sissy Spacek"
+              ],
+              "movies": [
+                {
+                  "title": "Missing",
+                  "tmdbId": 15600,
+                  "imdbId": "tt0084335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Debra Winger"
+              ],
+              "movies": [
+                {
+                  "title": "An Officer and a Gentleman",
+                  "tmdbId": 2623,
+                  "imdbId": "tt0084434"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Louis Gossett Jr."
+              ],
+              "movies": [
+                {
+                  "title": "An Officer and a Gentleman",
+                  "tmdbId": 2623,
+                  "imdbId": "tt0084434"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Durning"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Little Whorehouse in Texas",
+                  "tmdbId": 16363,
+                  "imdbId": "tt0083642"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Lithgow"
+              ],
+              "movies": [
+                {
+                  "title": "The World According to Garp",
+                  "tmdbId": 11307,
+                  "imdbId": "tt0084917"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Mason"
+              ],
+              "movies": [
+                {
+                  "title": "The Verdict",
+                  "tmdbId": 24226,
+                  "imdbId": "tt0084855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Preston"
+              ],
+              "movies": [
+                {
+                  "title": "Victor/Victoria",
+                  "tmdbId": 12614,
+                  "imdbId": "tt0084865"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Jessica Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Glenn Close"
+              ],
+              "movies": [
+                {
+                  "title": "The World According to Garp",
+                  "tmdbId": 11307,
+                  "imdbId": "tt0084917"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Teri Garr"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kim Stanley"
+              ],
+              "movies": [
+                {
+                  "title": "Frances",
+                  "tmdbId": 3526,
+                  "imdbId": "tt0083967"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lesley Ann Warren"
+              ],
+              "movies": [
+                {
+                  "title": "Victor/Victoria",
+                  "tmdbId": 12614,
+                  "imdbId": "tt0084865"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "John Briley"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Barry Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Diner",
+                  "tmdbId": 13776,
+                  "imdbId": "tt0083833"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melissa Mathison"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Day Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "An Officer and a Gentleman",
+                  "tmdbId": 2623,
+                  "imdbId": "tt0084434"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Larry Gelbart",
+                "Murray Schisgal",
+                "Don McGuire"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Costa-Gavras",
+                "Donald E. Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "Missing",
+                  "tmdbId": 15600,
+                  "imdbId": "tt0084335"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Wolfgang Petersen"
+              ],
+              "movies": [
+                {
+                  "title": "Das Boot",
+                  "tmdbId": 387,
+                  "imdbId": "tt0082096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan J. Pakula"
+              ],
+              "movies": [
+                {
+                  "title": "Sophie's Choice",
+                  "tmdbId": 15764,
+                  "imdbId": "tt0084707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Mamet"
+              ],
+              "movies": [
+                {
+                  "title": "The Verdict",
+                  "tmdbId": 24226,
+                  "imdbId": "tt0084855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Blake Edwards"
+              ],
+              "movies": [
+                {
+                  "title": "Victor/Victoria",
+                  "tmdbId": 12614,
+                  "imdbId": "tt0084865"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "To Begin Again"
+              ],
+              "movies": [
+                {
+                  "title": "To Begin Again",
+                  "tmdbId": 81346,
+                  "imdbId": "tt0084874"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alsino and the Condor"
+              ],
+              "movies": [
+                {
+                  "title": "Alsino and the Condor",
+                  "tmdbId": 192721,
+                  "imdbId": "tt0083543"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Coup de Torchon"
+              ],
+              "movies": [
+                {
+                  "title": "Coup de Torchon",
+                  "tmdbId": 35797,
+                  "imdbId": "tt0082206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Flight of the Eagle"
+              ],
+              "movies": [
+                {
+                  "title": "The Flight of the Eagle",
+                  "tmdbId": 72785,
+                  "imdbId": "tt0084136"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Private Life"
+              ],
+              "movies": [
+                {
+                  "title": "Private Life",
+                  "tmdbId": 202783,
+                  "imdbId": "tt0083732"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Just Another Missing Kid"
+              ],
+              "movies": [
+                {
+                  "title": "Just Another Missing Kid",
+                  "tmdbId": 114517,
+                  "imdbId": "tt0084185"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Portrait of Giselle"
+              ],
+              "movies": [
+                {
+                  "title": "A Portrait of Giselle",
+                  "tmdbId": 149368,
+                  "imdbId": "tt0084524"
+                }
+              ]
+            },
+            {
+              "names": [
+                "After the Axe"
+              ],
+              "movies": [
+                {
+                  "title": "After the Axe",
+                  "tmdbId": 136674,
+                  "imdbId": "tt0083525"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben's Mill"
+              ],
+              "movies": [
+                {
+                  "title": "Ben's Mill",
+                  "tmdbId": 149372,
+                  "imdbId": "tt0083638"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In Our Water"
+              ],
+              "movies": [
+                {
+                  "title": "In Our Water",
+                  "tmdbId": 149370,
+                  "imdbId": "tt0084127"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Billy Williams",
+                "Ronnie Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jost Vacano"
+              ],
+              "movies": [
+                {
+                  "title": "Das Boot",
+                  "tmdbId": 387,
+                  "imdbId": "tt0082096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Allen Daviau"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nestor Almendros"
+              ],
+              "movies": [
+                {
+                  "title": "Sophie's Choice",
+                  "tmdbId": 15764,
+                  "imdbId": "tt0084707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Owen Roizman"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "John Bloom"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hannes Nikel"
+              ],
+              "movies": [
+                {
+                  "title": "Das Boot",
+                  "tmdbId": 387,
+                  "imdbId": "tt0082096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carol Littleton"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Zinner"
+              ],
+              "movies": [
+                {
+                  "title": "An Officer and a Gentleman",
+                  "tmdbId": 2623,
+                  "imdbId": "tt0084434"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fredric Steinkamp",
+                "William Steinkamp"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Stuart Craig",
+                "Robert W. Laing",
+                "Michael Seaton"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dale Hennesy",
+                "Marvin March"
+              ],
+              "movies": [
+                {
+                  "title": "Annie",
+                  "tmdbId": 15739,
+                  "imdbId": "tt0083564"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lawrence G. Paull",
+                "David L. Snyder",
+                "Linda DeScenna"
+              ],
+              "movies": [
+                {
+                  "title": "Blade Runner",
+                  "tmdbId": 78,
+                  "imdbId": "tt0083658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franco Zeffirelli",
+                "Gianni Quaranta"
+              ],
+              "movies": [
+                {
+                  "title": "La traviata",
+                  "tmdbId": 48561,
+                  "imdbId": "tt0084821"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rodger Maus",
+                "Tim Hutchinson",
+                "William Craig Smith",
+                "Harry Cordwell"
+              ],
+              "movies": [
+                {
+                  "title": "Victor/Victoria",
+                  "tmdbId": 12614,
+                  "imdbId": "tt0084865"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Bhanu Athaiya",
+                "John Mollo"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Piero Tosi"
+              ],
+              "movies": [
+                {
+                  "title": "La traviata",
+                  "tmdbId": 48561,
+                  "imdbId": "tt0084821"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Wolsky"
+              ],
+              "movies": [
+                {
+                  "title": "Sophie's Choice",
+                  "tmdbId": 15764,
+                  "imdbId": "tt0084707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elois Jenssen",
+                "Rosanna Norton"
+              ],
+              "movies": [
+                {
+                  "title": "Tron",
+                  "tmdbId": 97,
+                  "imdbId": "tt0084827"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patricia Norris"
+              ],
+              "movies": [
+                {
+                  "title": "Victor/Victoria",
+                  "tmdbId": 12614,
+                  "imdbId": "tt0084865"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Sarah Monzani",
+                "Michele Burke"
+              ],
+              "movies": [
+                {
+                  "title": "Quest for Fire",
+                  "tmdbId": 62204,
+                  "imdbId": "tt0082484"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Carlo Rambaldi",
+                "Dennis Muren",
+                "Kenneth F. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Douglas Trumbull",
+                "Richard Yuricich",
+                "David Dryer"
+              ],
+              "movies": [
+                {
+                  "title": "Blade Runner",
+                  "tmdbId": 78,
+                  "imdbId": "tt0083658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Edlund",
+                "Michael Wood",
+                "Bruce Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Poltergeist",
+                  "tmdbId": 609,
+                  "imdbId": "tt0084516"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Robert Knudson",
+                "Robert Glass",
+                "Don Digirolamo",
+                "Gene Cantamessa"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Milan Bor",
+                "Trevor Pyke",
+                "Mike Le Mare"
+              ],
+              "movies": [
+                {
+                  "title": "Das Boot",
+                  "tmdbId": 387,
+                  "imdbId": "tt0082096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerry Humphreys",
+                "Robin O'Donoghue",
+                "Jonathan Bates",
+                "Simon Kaye"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Piantadosi",
+                "Les Fresholtz",
+                "Dick Alexander",
+                "Les Lazarowitz"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Minkler",
+                "Bob Minkler",
+                "Lee Minkler",
+                "James LaRue"
+              ],
+              "movies": [
+                {
+                  "title": "Tron",
+                  "tmdbId": 97,
+                  "imdbId": "tt0084827"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Charles Campbell",
+                "Ben Burtt"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mike Le-Mare"
+              ],
+              "movies": [
+                {
+                  "title": "Das Boot",
+                  "tmdbId": 387,
+                  "imdbId": "tt0082096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Hunter Flick",
+                "Richard Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Poltergeist",
+                  "tmdbId": 609,
+                  "imdbId": "tt0084516"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "E.T. the Extra-Terrestrial",
+                  "tmdbId": 601,
+                  "imdbId": "tt0083866"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ravi Shankar",
+                "George Fenton"
+              ],
+              "movies": [
+                {
+                  "title": "Gandhi",
+                  "tmdbId": 783,
+                  "imdbId": "tt0083987"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nitzsche"
+              ],
+              "movies": [
+                {
+                  "title": "An Officer and a Gentleman",
+                  "tmdbId": 2623,
+                  "imdbId": "tt0084434"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Poltergeist",
+                  "tmdbId": 609,
+                  "imdbId": "tt0084516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marvin Hamlisch"
+              ],
+              "movies": [
+                {
+                  "title": "Sophie's Choice",
+                  "tmdbId": 15764,
+                  "imdbId": "tt0084707"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Henry Mancini",
+                "Leslie Bricusse"
+              ],
+              "movies": [
+                {
+                  "title": "Victor/Victoria",
+                  "tmdbId": 12614,
+                  "imdbId": "tt0084865"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ralph Burns"
+              ],
+              "movies": [
+                {
+                  "title": "Annie",
+                  "tmdbId": 15739,
+                  "imdbId": "tt0083564"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Waits"
+              ],
+              "movies": [
+                {
+                  "title": "One from the Heart",
+                  "tmdbId": 41291,
+                  "imdbId": "tt0084445"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Up Where We Belong"
+              ],
+              "movies": [
+                {
+                  "title": "An Officer and a Gentleman",
+                  "tmdbId": 2623,
+                  "imdbId": "tt0084434"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eye of the Tiger"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky III",
+                  "tmdbId": 1371,
+                  "imdbId": "tt0084602"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How Do You Keep the Music Playing?"
+              ],
+              "movies": [
+                {
+                  "title": "Best Friends",
+                  "tmdbId": 45840,
+                  "imdbId": "tt0083641"
+                }
+              ]
+            },
+            {
+              "names": [
+                "If We Were in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Yes, Giorgio",
+                  "tmdbId": 88451,
+                  "imdbId": "tt0084931"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It Might Be You"
+              ],
+              "movies": [
+                {
+                  "title": "Tootsie",
+                  "tmdbId": 9576,
+                  "imdbId": "tt0084805"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Tango"
+              ],
+              "movies": [
+                {
+                  "title": "Tango",
+                  "tmdbId": 48496,
+                  "imdbId": "tt0084764"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Great Cognito"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Cognito",
+                  "tmdbId": 210963,
+                  "imdbId": "tt0084023"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Snowman"
+              ],
+              "movies": [
+                {
+                  "title": "The Snowman",
+                  "tmdbId": 13396,
+                  "imdbId": "tt0084701"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "A Shocking Accident"
+              ],
+              "movies": [
+                {
+                  "title": "A Shocking Accident",
+                  "tmdbId": 244404,
+                  "imdbId": "tt0084672"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ballet Robotique"
+              ],
+              "movies": [
+                {
+                  "title": "Ballet Robotique",
+                  "tmdbId": 244405,
+                  "imdbId": "tt0083615"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Silence"
+              ],
+              "movies": [
+                {
+                  "title": "The Silence",
+                  "tmdbId": 244407,
+                  "imdbId": "tt0084683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Split Cherry Tree"
+              ],
+              "movies": [
+                {
+                  "title": "Split Cherry Tree",
+                  "tmdbId": 244408,
+                  "imdbId": "tt0084713"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sredni Vashtar"
+              ],
+              "movies": [
+                {
+                  "title": "Sredni Vashtar",
+                  "tmdbId": 244412,
+                  "imdbId": "tt0084722"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "If You Love This Planet"
+              ],
+              "movies": [
+                {
+                  "title": "If You Love This Planet",
+                  "tmdbId": 244415,
+                  "imdbId": "tt0084118"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gods of Metal"
+              ],
+              "movies": [
+                {
+                  "title": "Gods of Metal",
+                  "tmdbId": 244424,
+                  "imdbId": "tt0084009"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Klan: A Legacy of Hate in America"
+              ],
+              "movies": [
+                {
+                  "title": "The Klan: A Legacy of Hate in America",
+                  "tmdbId": 244428,
+                  "imdbId": "tt0084213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "To Live or Let Die"
+              ],
+              "movies": [
+                {
+                  "title": "To Live or Let Die",
+                  "tmdbId": 244434,
+                  "imdbId": "tt0084798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Traveling Hopefully"
+              ],
+              "movies": [
+                {
+                  "title": "Traveling Hopefully",
+                  "tmdbId": 244435,
+                  "imdbId": "tt0084820"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

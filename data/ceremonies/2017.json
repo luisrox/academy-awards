@@ -1,0 +1,1754 @@
+{
+  "ceremony": {
+    "ordinal": 89,
+    "ceremonyYear": 2017,
+    "ceremonyDate": "2017-02-26",
+    "filmYearLabel": "2016",
+    "slug": "2017",
+    "decade": "2010s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Moonlight"
+              ],
+              "movies": [
+                {
+                  "title": "Moonlight",
+                  "tmdbId": 376867,
+                  "imdbId": "tt4975722"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arrival"
+              ],
+              "movies": [
+                {
+                  "title": "Arrival",
+                  "tmdbId": 329865,
+                  "imdbId": "tt2543164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fences"
+              ],
+              "movies": [
+                {
+                  "title": "Fences",
+                  "tmdbId": 393457,
+                  "imdbId": "tt2671706"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hacksaw Ridge"
+              ],
+              "movies": [
+                {
+                  "title": "Hacksaw Ridge",
+                  "tmdbId": 324786,
+                  "imdbId": "tt2119532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hell or High Water"
+              ],
+              "movies": [
+                {
+                  "title": "Hell or High Water",
+                  "tmdbId": 338766,
+                  "imdbId": "tt2582782"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hidden Figures"
+              ],
+              "movies": [
+                {
+                  "title": "Hidden Figures",
+                  "tmdbId": 381284,
+                  "imdbId": "tt4846340"
+                }
+              ]
+            },
+            {
+              "names": [
+                "La La Land"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lion"
+              ],
+              "movies": [
+                {
+                  "title": "Lion",
+                  "tmdbId": 334543,
+                  "imdbId": "tt3741834"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Manchester by the Sea"
+              ],
+              "movies": [
+                {
+                  "title": "Manchester by the Sea",
+                  "tmdbId": 334541,
+                  "imdbId": "tt4034228"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Damien Chazelle"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Denis Villeneuve"
+              ],
+              "movies": [
+                {
+                  "title": "Arrival",
+                  "tmdbId": 329865,
+                  "imdbId": "tt2543164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mel Gibson"
+              ],
+              "movies": [
+                {
+                  "title": "Hacksaw Ridge",
+                  "tmdbId": 324786,
+                  "imdbId": "tt2119532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kenneth Lonergan"
+              ],
+              "movies": [
+                {
+                  "title": "Manchester by the Sea",
+                  "tmdbId": 334541,
+                  "imdbId": "tt4034228"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barry Jenkins"
+              ],
+              "movies": [
+                {
+                  "title": "Moonlight",
+                  "tmdbId": 376867,
+                  "imdbId": "tt4975722"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Casey Affleck"
+              ],
+              "movies": [
+                {
+                  "title": "Manchester by the Sea",
+                  "tmdbId": 334541,
+                  "imdbId": "tt4034228"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Andrew Garfield"
+              ],
+              "movies": [
+                {
+                  "title": "Hacksaw Ridge",
+                  "tmdbId": 324786,
+                  "imdbId": "tt2119532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ryan Gosling"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Viggo Mortensen"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Fantastic",
+                  "tmdbId": 334533,
+                  "imdbId": "tt3553976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "Fences",
+                  "tmdbId": 393457,
+                  "imdbId": "tt2671706"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Emma Stone"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Isabelle Huppert"
+              ],
+              "movies": [
+                {
+                  "title": "Elle",
+                  "tmdbId": 337674,
+                  "imdbId": "tt3716530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth Negga"
+              ],
+              "movies": [
+                {
+                  "title": "Loving",
+                  "tmdbId": 339419,
+                  "imdbId": "tt4669986"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Natalie Portman"
+              ],
+              "movies": [
+                {
+                  "title": "Jackie",
+                  "tmdbId": 376866,
+                  "imdbId": "tt1619029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Florence Foster Jenkins",
+                  "tmdbId": 315664,
+                  "imdbId": "tt4136084"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Mahershala Ali"
+              ],
+              "movies": [
+                {
+                  "title": "Moonlight",
+                  "tmdbId": 376867,
+                  "imdbId": "tt4975722"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jeff Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "Hell or High Water",
+                  "tmdbId": 338766,
+                  "imdbId": "tt2582782"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dev Patel"
+              ],
+              "movies": [
+                {
+                  "title": "Lion",
+                  "tmdbId": 334543,
+                  "imdbId": "tt3741834"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Shannon"
+              ],
+              "movies": [
+                {
+                  "title": "Nocturnal Animals",
+                  "tmdbId": 340666,
+                  "imdbId": "tt4550098"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lucas Hedges"
+              ],
+              "movies": [
+                {
+                  "title": "Manchester by the Sea",
+                  "tmdbId": 334541,
+                  "imdbId": "tt4034228"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Viola Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Fences",
+                  "tmdbId": 393457,
+                  "imdbId": "tt2671706"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Naomie Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Moonlight",
+                  "tmdbId": 376867,
+                  "imdbId": "tt4975722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicole Kidman"
+              ],
+              "movies": [
+                {
+                  "title": "Lion",
+                  "tmdbId": 334543,
+                  "imdbId": "tt3741834"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michelle Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Manchester by the Sea",
+                  "tmdbId": 334541,
+                  "imdbId": "tt4034228"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Octavia Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Hidden Figures",
+                  "tmdbId": 381284,
+                  "imdbId": "tt4846340"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Kenneth Lonergan"
+              ],
+              "movies": [
+                {
+                  "title": "Manchester by the Sea",
+                  "tmdbId": 334541,
+                  "imdbId": "tt4034228"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Damien Chazelle"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yorgos Lanthimos",
+                "Efthimis Filippou"
+              ],
+              "movies": [
+                {
+                  "title": "The Lobster",
+                  "tmdbId": 254320,
+                  "imdbId": "tt3464902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Taylor Sheridan"
+              ],
+              "movies": [
+                {
+                  "title": "Hell or High Water",
+                  "tmdbId": 338766,
+                  "imdbId": "tt2582782"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Mills"
+              ],
+              "movies": [
+                {
+                  "title": "20th Century Women",
+                  "tmdbId": 342737,
+                  "imdbId": "tt4385888"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Barry Jenkins",
+                "Tarell Alvin McCraney"
+              ],
+              "movies": [
+                {
+                  "title": "Moonlight",
+                  "tmdbId": 376867,
+                  "imdbId": "tt4975722"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eric Heisserer"
+              ],
+              "movies": [
+                {
+                  "title": "Arrival",
+                  "tmdbId": 329865,
+                  "imdbId": "tt2543164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "August Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "Fences",
+                  "tmdbId": 393457,
+                  "imdbId": "tt2671706"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Allison Schroeder",
+                "Theodore Melfi"
+              ],
+              "movies": [
+                {
+                  "title": "Hidden Figures",
+                  "tmdbId": 381284,
+                  "imdbId": "tt4846340"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luke Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Lion",
+                  "tmdbId": 334543,
+                  "imdbId": "tt3741834"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Zootopia"
+              ],
+              "movies": [
+                {
+                  "title": "Zootopia",
+                  "tmdbId": 269149,
+                  "imdbId": "tt2948356"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kubo and the Two Strings"
+              ],
+              "movies": [
+                {
+                  "title": "Kubo and the Two Strings",
+                  "tmdbId": 313297,
+                  "imdbId": "tt4302938"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moana"
+              ],
+              "movies": [
+                {
+                  "title": "Moana",
+                  "tmdbId": 277834,
+                  "imdbId": "tt3521164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Life as a Zucchini"
+              ],
+              "movies": [
+                {
+                  "title": "My Life as a Zucchini",
+                  "tmdbId": 393559,
+                  "imdbId": "tt2321405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Red Turtle"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Turtle",
+                  "tmdbId": 337703,
+                  "imdbId": "tt3666024"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Salesman"
+              ],
+              "movies": [
+                {
+                  "title": "The Salesman",
+                  "tmdbId": 375315,
+                  "imdbId": "tt5186714"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Land of Mine"
+              ],
+              "movies": [
+                {
+                  "title": "Land of Mine",
+                  "tmdbId": 335578,
+                  "imdbId": "tt3841424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Man Called Ove"
+              ],
+              "movies": [
+                {
+                  "title": "A Man Called Ove",
+                  "tmdbId": 348678,
+                  "imdbId": "tt4080728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Toni Erdmann"
+              ],
+              "movies": [
+                {
+                  "title": "Toni Erdmann",
+                  "tmdbId": 374475,
+                  "imdbId": "tt4048272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tanna"
+              ],
+              "movies": [
+                {
+                  "title": "Tanna",
+                  "tmdbId": 359151,
+                  "imdbId": "tt4239726"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "O.J.: Made in America"
+              ],
+              "movies": [
+                {
+                  "title": "O.J.: Made in America",
+                  "tmdbId": 377462,
+                  "imdbId": "tt5275892"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fire at Sea"
+              ],
+              "movies": [
+                {
+                  "title": "Fire at Sea",
+                  "tmdbId": 377151,
+                  "imdbId": "tt3652526"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Am Not Your Negro"
+              ],
+              "movies": [
+                {
+                  "title": "I Am Not Your Negro",
+                  "tmdbId": 411019,
+                  "imdbId": "tt5804038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life, Animated"
+              ],
+              "movies": [
+                {
+                  "title": "Life, Animated",
+                  "tmdbId": 376233,
+                  "imdbId": "tt3917210"
+                }
+              ]
+            },
+            {
+              "names": [
+                "13th"
+              ],
+              "movies": [
+                {
+                  "title": "13th",
+                  "tmdbId": 407806,
+                  "imdbId": "tt5895028"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Linus Sandgren"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bradford Young"
+              ],
+              "movies": [
+                {
+                  "title": "Arrival",
+                  "tmdbId": 329865,
+                  "imdbId": "tt2543164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greig Fraser"
+              ],
+              "movies": [
+                {
+                  "title": "Lion",
+                  "tmdbId": 334543,
+                  "imdbId": "tt3741834"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Laxton"
+              ],
+              "movies": [
+                {
+                  "title": "Moonlight",
+                  "tmdbId": 376867,
+                  "imdbId": "tt4975722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rodrigo Prieto"
+              ],
+              "movies": [
+                {
+                  "title": "Silence",
+                  "tmdbId": 68730,
+                  "imdbId": "tt0490215"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "John Gilbert"
+              ],
+              "movies": [
+                {
+                  "title": "Hacksaw Ridge",
+                  "tmdbId": 324786,
+                  "imdbId": "tt2119532"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joe Walker"
+              ],
+              "movies": [
+                {
+                  "title": "Arrival",
+                  "tmdbId": 329865,
+                  "imdbId": "tt2543164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Cross"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jake Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Hell or High Water",
+                  "tmdbId": 338766,
+                  "imdbId": "tt2582782"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nat Sanders",
+                "Joi McMillon"
+              ],
+              "movies": [
+                {
+                  "title": "Moonlight",
+                  "tmdbId": 376867,
+                  "imdbId": "tt4975722"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Sandy Reynolds-Wasco",
+                "David Wasco"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Patrice Vermette",
+                "Paul Hotte"
+              ],
+              "movies": [
+                {
+                  "title": "Arrival",
+                  "tmdbId": 329865,
+                  "imdbId": "tt2543164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Craig",
+                "Anna Pinnock"
+              ],
+              "movies": [
+                {
+                  "title": "Fantastic Beasts and Where to Find Them",
+                  "tmdbId": 259316,
+                  "imdbId": "tt3183660"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jess Gonchor",
+                "Nancy Haigh"
+              ],
+              "movies": [
+                {
+                  "title": "Hail, Caesar!",
+                  "tmdbId": 270487,
+                  "imdbId": "tt0475290"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Guy Hendrix Dyas",
+                "Gene Serdena"
+              ],
+              "movies": [
+                {
+                  "title": "Passengers",
+                  "tmdbId": 274870,
+                  "imdbId": "tt1355644"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Fantastic Beasts and Where to Find Them",
+                  "tmdbId": 259316,
+                  "imdbId": "tt3183660"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joanna Johnston"
+              ],
+              "movies": [
+                {
+                  "title": "Allied",
+                  "tmdbId": 369885,
+                  "imdbId": "tt3640424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Madeline Fontaine"
+              ],
+              "movies": [
+                {
+                  "title": "Jackie",
+                  "tmdbId": 376866,
+                  "imdbId": "tt1619029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Consolata Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "Florence Foster Jenkins",
+                  "tmdbId": 315664,
+                  "imdbId": "tt4136084"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mary Zophres"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Alessandro Bertolazzi",
+                "Giorgio Gregorini",
+                "Christopher Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "Suicide Squad",
+                  "tmdbId": 297761,
+                  "imdbId": "tt1386697"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eva von Bahr",
+                "Love Larson"
+              ],
+              "movies": [
+                {
+                  "title": "A Man Called Ove",
+                  "tmdbId": 348678,
+                  "imdbId": "tt4080728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joel Harlow",
+                "Richard Alonzo"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek Beyond",
+                  "tmdbId": 188927,
+                  "imdbId": "tt2660888"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Robert Legato",
+                "Adam Valdez",
+                "Andrew R. Jones",
+                "Dan Lemmon"
+              ],
+              "movies": [
+                {
+                  "title": "The Jungle Book",
+                  "tmdbId": 278927,
+                  "imdbId": "tt3040964"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Craig Hammack",
+                "Jason Snell",
+                "Jason Billington",
+                "Burt Dalton"
+              ],
+              "movies": [
+                {
+                  "title": "Deepwater Horizon",
+                  "tmdbId": 296524,
+                  "imdbId": "tt1860357"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephane Ceretti",
+                "Richard Bluff",
+                "Vincent Cirelli",
+                "Paul Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Strange",
+                  "tmdbId": 284052,
+                  "imdbId": "tt1211837"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Emerson",
+                "Oliver Jones",
+                "Brian McLean",
+                "Brad Schiff"
+              ],
+              "movies": [
+                {
+                  "title": "Kubo and the Two Strings",
+                  "tmdbId": 313297,
+                  "imdbId": "tt4302938"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Knoll",
+                "Mohen Leo",
+                "Hal Hickel",
+                "Neil Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Rogue One: A Star Wars Story",
+                  "tmdbId": 330459,
+                  "imdbId": "tt3748528"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Kevin O'Connell",
+                "andy Wright",
+                "Robert Mackenzie",
+                "Peter Grace"
+              ],
+              "movies": [
+                {
+                  "title": "Hacksaw Ridge",
+                  "tmdbId": 324786,
+                  "imdbId": "tt2119532"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bernard Gariepy Strobl",
+                "Claude La Haye"
+              ],
+              "movies": [
+                {
+                  "title": "Arrival",
+                  "tmdbId": 329865,
+                  "imdbId": "tt2543164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Ai-Ling Lee",
+                "Steve A. Morrow"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Parker",
+                "Christopher Scarabosio",
+                "Stuart Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "Rogue One: A Star Wars Story",
+                  "tmdbId": 330459,
+                  "imdbId": "tt3748528"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greg P. Russell",
+                "Gary Summers",
+                "Jeffrey J. Haboush",
+                "Mac Ruth"
+              ],
+              "movies": [
+                {
+                  "title": "13 Hours: The Secret Soldiers of Benghazi",
+                  "tmdbId": 300671,
+                  "imdbId": "tt4172430"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Sylvain Bellemare"
+              ],
+              "movies": [
+                {
+                  "title": "Arrival",
+                  "tmdbId": 329865,
+                  "imdbId": "tt2543164"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Mackenzie",
+                "Andy Wright"
+              ],
+              "movies": [
+                {
+                  "title": "Hacksaw Ridge",
+                  "tmdbId": 324786,
+                  "imdbId": "tt2119532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wylie Stateman",
+                "Renee Tondelli"
+              ],
+              "movies": [
+                {
+                  "title": "Deepwater Horizon",
+                  "tmdbId": 296524,
+                  "imdbId": "tt1860357"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ai-Ling Lee",
+                "Mildred Iatrou Morgan"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Robert Murray",
+                "Bub Asman"
+              ],
+              "movies": [
+                {
+                  "title": "Sully",
+                  "tmdbId": 363676,
+                  "imdbId": "tt3263904"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Justin Hurwitz"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mica Levi"
+              ],
+              "movies": [
+                {
+                  "title": "Jackie",
+                  "tmdbId": 376866,
+                  "imdbId": "tt1619029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dustin O'Halloran",
+                "Hauschka"
+              ],
+              "movies": [
+                {
+                  "title": "Lion",
+                  "tmdbId": 334543,
+                  "imdbId": "tt3741834"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicholas Britell"
+              ],
+              "movies": [
+                {
+                  "title": "Moonlight",
+                  "tmdbId": 376867,
+                  "imdbId": "tt4975722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Passengers",
+                  "tmdbId": 274870,
+                  "imdbId": "tt1355644"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "City of Stars"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Audition (The Fools Who Dream)"
+              ],
+              "movies": [
+                {
+                  "title": "La La Land",
+                  "tmdbId": 313369,
+                  "imdbId": "tt3783958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Can't Stop the Feeling"
+              ],
+              "movies": [
+                {
+                  "title": "Trolls",
+                  "tmdbId": 136799,
+                  "imdbId": "tt1679335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Empty Chair"
+              ],
+              "movies": [
+                {
+                  "title": "Jim: The James Foley Story",
+                  "tmdbId": 373441,
+                  "imdbId": "tt5278466"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How Far I'll Go"
+              ],
+              "movies": [
+                {
+                  "title": "Moana",
+                  "tmdbId": 277834,
+                  "imdbId": "tt3521164"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Piper"
+              ],
+              "movies": [
+                {
+                  "title": "Piper",
+                  "tmdbId": 399106,
+                  "imdbId": "tt5613056"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blind Vaysha"
+              ],
+              "movies": [
+                {
+                  "title": "Blind Vaysha",
+                  "tmdbId": 389677,
+                  "imdbId": "tt5559726"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Borrowed Time"
+              ],
+              "movies": [
+                {
+                  "title": "Borrowed Time",
+                  "tmdbId": 421281,
+                  "imdbId": "tt4874696"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pear Cider and Cigarettes"
+              ],
+              "movies": [
+                {
+                  "title": "Pear Cider and Cigarettes",
+                  "tmdbId": 406398,
+                  "imdbId": "tt5358978"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pearl"
+              ],
+              "movies": [
+                {
+                  "title": "Pearl",
+                  "tmdbId": 623098,
+                  "imdbId": "tt5599918"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Sing"
+              ],
+              "movies": [
+                {
+                  "title": "Sing",
+                  "tmdbId": 335797,
+                  "imdbId": "tt3470600"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Enemies Within"
+              ],
+              "movies": [
+                {
+                  "title": "Enemies Within",
+                  "tmdbId": 427413,
+                  "imdbId": "tt5467670"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Railroad Lady"
+              ],
+              "movies": [
+                {
+                  "title": "The Railroad Lady",
+                  "tmdbId": 403252,
+                  "imdbId": "tt4661660"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Silent Nights"
+              ],
+              "movies": [
+                {
+                  "title": "Silent Nights",
+                  "tmdbId": 433583,
+                  "imdbId": "tt6460636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Timecode"
+              ],
+              "movies": [
+                {
+                  "title": "Timecode",
+                  "tmdbId": 398395,
+                  "imdbId": "tt5699202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The White Helmets"
+              ],
+              "movies": [
+                {
+                  "title": "The White Helmets",
+                  "tmdbId": 416211,
+                  "imdbId": "tt6073176"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Extremis"
+              ],
+              "movies": [
+                {
+                  "title": "Extremis",
+                  "tmdbId": 393443,
+                  "imdbId": "tt5538078"
+                }
+              ]
+            },
+            {
+              "names": [
+                "4.1 Miles"
+              ],
+              "movies": [
+                {
+                  "title": "4.1 Miles",
+                  "tmdbId": 422960,
+                  "imdbId": "tt6279726"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Watani: My Homeland"
+              ],
+              "movies": [
+                {
+                  "title": "Watani: My Homeland",
+                  "tmdbId": 428313,
+                  "imdbId": "tt6195494"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe's Violin"
+              ],
+              "movies": [
+                {
+                  "title": "Joe's Violin",
+                  "tmdbId": 393949,
+                  "imdbId": "tt5639178"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

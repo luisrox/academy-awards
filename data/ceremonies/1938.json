@@ -1,0 +1,1662 @@
+{
+  "ceremony": {
+    "ordinal": 10,
+    "ceremonyYear": 1938,
+    "ceremonyDate": "1938-03-10",
+    "filmYearLabel": "1937",
+    "slug": "1938",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Life of Emile Zola"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Awful Truth"
+              ],
+              "movies": [
+                {
+                  "title": "The Awful Truth",
+                  "tmdbId": 14675,
+                  "imdbId": "tt0028597"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Captains Courageous"
+              ],
+              "movies": [
+                {
+                  "title": "Captains Courageous",
+                  "tmdbId": 16515,
+                  "imdbId": "tt0028691"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dead End"
+              ],
+              "movies": [
+                {
+                  "title": "Dead End",
+                  "tmdbId": 27973,
+                  "imdbId": "tt0028773"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Good Earth"
+              ],
+              "movies": [
+                {
+                  "title": "The Good Earth",
+                  "tmdbId": 36652,
+                  "imdbId": "tt0028944"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In Old Chicago"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Chicago",
+                  "tmdbId": 78734,
+                  "imdbId": "tt0029047"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lost Horizon"
+              ],
+              "movies": [
+                {
+                  "title": "Lost Horizon",
+                  "tmdbId": 3598,
+                  "imdbId": "tt0029162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "One Hundred Men and a Girl"
+              ],
+              "movies": [
+                {
+                  "title": "One Hundred Men and a Girl",
+                  "tmdbId": 61647,
+                  "imdbId": "tt0029347"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stage Door"
+              ],
+              "movies": [
+                {
+                  "title": "Stage Door",
+                  "tmdbId": 43864,
+                  "imdbId": "tt0029604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Star is Born"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 22692,
+                  "imdbId": "tt0029606"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Leo McCarey"
+              ],
+              "movies": [
+                {
+                  "title": "The Awful Truth",
+                  "tmdbId": 14675,
+                  "imdbId": "tt0028597"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Dieterle"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Franklin"
+              ],
+              "movies": [
+                {
+                  "title": "The Good Earth",
+                  "tmdbId": 36652,
+                  "imdbId": "tt0028944"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregory La Cava"
+              ],
+              "movies": [
+                {
+                  "title": "Stage Door",
+                  "tmdbId": 43864,
+                  "imdbId": "tt0029604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Wellman"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 22692,
+                  "imdbId": "tt0029606"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "Captains Courageous",
+                  "tmdbId": 16515,
+                  "imdbId": "tt0028691"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Boyer"
+              ],
+              "movies": [
+                {
+                  "title": "Conquest",
+                  "tmdbId": 30630,
+                  "imdbId": "tt0028739"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fredric March"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 22692,
+                  "imdbId": "tt0029606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Montgomery"
+              ],
+              "movies": [
+                {
+                  "title": "Night Must Fall",
+                  "tmdbId": 91727,
+                  "imdbId": "tt0029310"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Muni"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Luise Rainer"
+              ],
+              "movies": [
+                {
+                  "title": "The Good Earth",
+                  "tmdbId": 36652,
+                  "imdbId": "tt0028944"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irene Dunne"
+              ],
+              "movies": [
+                {
+                  "title": "The Awful Truth",
+                  "tmdbId": 14675,
+                  "imdbId": "tt0028597"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greta Garbo"
+              ],
+              "movies": [
+                {
+                  "title": "Camille",
+                  "tmdbId": 43874,
+                  "imdbId": "tt0028683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janet Gaynor"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 22692,
+                  "imdbId": "tt0029606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara Stanwyck"
+              ],
+              "movies": [
+                {
+                  "title": "Stella Dallas",
+                  "tmdbId": 43865,
+                  "imdbId": "tt0029608"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Joseph Schildkraut"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ralph Bellamy"
+              ],
+              "movies": [
+                {
+                  "title": "The Awful Truth",
+                  "tmdbId": 14675,
+                  "imdbId": "tt0028597"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Mitchell"
+              ],
+              "movies": [
+                {
+                  "title": "The Hurricane",
+                  "tmdbId": 77250,
+                  "imdbId": "tt0029030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "H. B. Warner"
+              ],
+              "movies": [
+                {
+                  "title": "Lost Horizon",
+                  "tmdbId": 3598,
+                  "imdbId": "tt0029162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roland Young"
+              ],
+              "movies": [
+                {
+                  "title": "Topper",
+                  "tmdbId": 23101,
+                  "imdbId": "tt0029682"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Alice Brady"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Chicago",
+                  "tmdbId": 78734,
+                  "imdbId": "tt0029047"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Andrea Leeds"
+              ],
+              "movies": [
+                {
+                  "title": "Stage Door",
+                  "tmdbId": 43864,
+                  "imdbId": "tt0029604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne Shirley"
+              ],
+              "movies": [
+                {
+                  "title": "Stella Dallas",
+                  "tmdbId": 43865,
+                  "imdbId": "tt0029608"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claire Trevor"
+              ],
+              "movies": [
+                {
+                  "title": "Dead End",
+                  "tmdbId": 27973,
+                  "imdbId": "tt0028773"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dame May Whitty"
+              ],
+              "movies": [
+                {
+                  "title": "Night Must Fall",
+                  "tmdbId": 91727,
+                  "imdbId": "tt0029310"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Heinz Herald",
+                "Geza Herczeg",
+                "Norman Reilly Raine"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Morris Ryskind",
+                "Anthony Veiller"
+              ],
+              "movies": [
+                {
+                  "title": "Stage Door",
+                  "tmdbId": 43864,
+                  "imdbId": "tt0029604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Campbell",
+                "Dorothy Parker",
+                "Robert Carson"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 22692,
+                  "imdbId": "tt0029606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vina Delmar"
+              ],
+              "movies": [
+                {
+                  "title": "The Awful Truth",
+                  "tmdbId": 14675,
+                  "imdbId": "tt0028597"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Lee Mahin",
+                "Marc Connelly",
+                "Dale Van Every"
+              ],
+              "movies": [
+                {
+                  "title": "Captains Courageous",
+                  "tmdbId": 16515,
+                  "imdbId": "tt0028691"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Robert Carson",
+                "William Wellman"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 22692,
+                  "imdbId": "tt0029606"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Niven Busch"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Chicago",
+                  "tmdbId": 78734,
+                  "imdbId": "tt0029047"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Heinz Herald",
+                "Geza Herczeg"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Kraly"
+              ],
+              "movies": [
+                {
+                  "title": "One Hundred Men and a Girl",
+                  "tmdbId": 61647,
+                  "imdbId": "tt0029347"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Lord"
+              ],
+              "movies": [
+                {
+                  "title": "Black Legion",
+                  "tmdbId": 42683,
+                  "imdbId": "tt0027367"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "W. Howard Greene"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 22692,
+                  "imdbId": "tt0029606"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Karl Freund"
+              ],
+              "movies": [
+                {
+                  "title": "The Good Earth",
+                  "tmdbId": 36652,
+                  "imdbId": "tt0028944"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gregg Toland"
+              ],
+              "movies": [
+                {
+                  "title": "Dead End",
+                  "tmdbId": 27973,
+                  "imdbId": "tt0028773"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Valentine"
+              ],
+              "movies": [
+                {
+                  "title": "Wings Over Honolulu",
+                  "tmdbId": 97226,
+                  "imdbId": "tt0029784"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Gene Havlick",
+                "Gene Milford"
+              ],
+              "movies": [
+                {
+                  "title": "Lost Horizon",
+                  "tmdbId": 3598,
+                  "imdbId": "tt0029162"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bernard W. Burton"
+              ],
+              "movies": [
+                {
+                  "title": "One Hundred Men and a Girl",
+                  "tmdbId": 61647,
+                  "imdbId": "tt0029347"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Clark"
+              ],
+              "movies": [
+                {
+                  "title": "The Awful Truth",
+                  "tmdbId": 14675,
+                  "imdbId": "tt0028597"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmo Veron"
+              ],
+              "movies": [
+                {
+                  "title": "Captains Courageous",
+                  "tmdbId": 16515,
+                  "imdbId": "tt0028691"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Basil Wrangell"
+              ],
+              "movies": [
+                {
+                  "title": "The Good Earth",
+                  "tmdbId": 36652,
+                  "imdbId": "tt0028944"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Stephen Goosson"
+              ],
+              "movies": [
+                {
+                  "title": "Lost Horizon",
+                  "tmdbId": 3598,
+                  "imdbId": "tt0029162"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carroll Clark"
+              ],
+              "movies": [
+                {
+                  "title": "A Damsel in Distress",
+                  "tmdbId": 66473,
+                  "imdbId": "tt0028757"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William S. Darling",
+                "David S. Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Wee Willie Winkie",
+                  "tmdbId": 43869,
+                  "imdbId": "tt0029751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Day"
+              ],
+              "movies": [
+                {
+                  "title": "Dead End",
+                  "tmdbId": 27973,
+                  "imdbId": "tt0028773"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Roland Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Souls at Sea",
+                  "tmdbId": 43419,
+                  "imdbId": "tt0029593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "William Horning"
+              ],
+              "movies": [
+                {
+                  "title": "Conquest",
+                  "tmdbId": 30630,
+                  "imdbId": "tt0028739"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anton Grot"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wiard Ihnen"
+              ],
+              "movies": [
+                {
+                  "title": "Every Day's a Holiday",
+                  "tmdbId": 131773,
+                  "imdbId": "tt0028843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Victor Mackay"
+              ],
+              "movies": [
+                {
+                  "title": "Manhattan Merry-Go-Round",
+                  "tmdbId": 218345,
+                  "imdbId": "tt0029209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Otterson"
+              ],
+              "movies": [
+                {
+                  "title": "You're a Sweetheart",
+                  "tmdbId": 218347,
+                  "imdbId": "tt0029809"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Toluboff"
+              ],
+              "movies": [
+                {
+                  "title": "Vogues of 1938",
+                  "tmdbId": 151914,
+                  "imdbId": "tt0029737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler"
+              ],
+              "movies": [
+                {
+                  "title": "The Prisoner of Zenda",
+                  "tmdbId": 43867,
+                  "imdbId": "tt0029442"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Thomas Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The Hurricane",
+                  "tmdbId": 77250,
+                  "imdbId": "tt0029030"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A.E. Kaye"
+              ],
+              "movies": [
+                {
+                  "title": "The Girl Said No",
+                  "tmdbId": 218351,
+                  "imdbId": "tt0028931"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "Hitting a New High",
+                  "tmdbId": 77870,
+                  "imdbId": "tt0029006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Chicago",
+                  "tmdbId": 78734,
+                  "imdbId": "tt0029047"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "Lost Horizon",
+                  "tmdbId": 3598,
+                  "imdbId": "tt0029162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Maytime",
+                  "tmdbId": 43862,
+                  "imdbId": "tt0029222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Homer G. Tasker"
+              ],
+              "movies": [
+                {
+                  "title": "One Hundred Men and a Girl",
+                  "tmdbId": 61647,
+                  "imdbId": "tt0029347"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Raguse"
+              ],
+              "movies": [
+                {
+                  "title": "Topper",
+                  "tmdbId": 23101,
+                  "imdbId": "tt0029682"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "Wells Fargo",
+                  "tmdbId": 111997,
+                  "imdbId": "tt0029752"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "One Hundred Men and a Girl"
+              ],
+              "movies": [
+                {
+                  "title": "One Hundred Men and a Girl",
+                  "tmdbId": 61647,
+                  "imdbId": "tt0029347"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lost Horizon"
+              ],
+              "movies": [
+                {
+                  "title": "Lost Horizon",
+                  "tmdbId": 3598,
+                  "imdbId": "tt0029162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hurricane"
+              ],
+              "movies": [
+                {
+                  "title": "The Hurricane",
+                  "tmdbId": 77250,
+                  "imdbId": "tt0029030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Something to Sing About"
+              ],
+              "movies": [
+                {
+                  "title": "Something to Sing About",
+                  "tmdbId": 76464,
+                  "imdbId": "tt0029588"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Way Out West"
+              ],
+              "movies": [
+                {
+                  "title": "Way Out West",
+                  "tmdbId": 25599,
+                  "imdbId": "tt0029747"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maytime"
+              ],
+              "movies": [
+                {
+                  "title": "Maytime",
+                  "tmdbId": 43862,
+                  "imdbId": "tt0029222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Souls at Sea"
+              ],
+              "movies": [
+                {
+                  "title": "Souls at Sea",
+                  "tmdbId": 43419,
+                  "imdbId": "tt0029593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Make a Wish"
+              ],
+              "movies": [
+                {
+                  "title": "Make a Wish",
+                  "tmdbId": 218341,
+                  "imdbId": "tt0029193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Portia on Trial"
+              ],
+              "movies": [
+                {
+                  "title": "Portia on Trial",
+                  "tmdbId": 218342,
+                  "imdbId": "tt0029433"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quality Street"
+              ],
+              "movies": [
+                {
+                  "title": "Quality Street",
+                  "tmdbId": 52237,
+                  "imdbId": "tt0029454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Prisoner of Zenda"
+              ],
+              "movies": [
+                {
+                  "title": "The Prisoner of Zenda",
+                  "tmdbId": 43867,
+                  "imdbId": "tt0029442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In Old Chicago"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Chicago",
+                  "tmdbId": 78734,
+                  "imdbId": "tt0029047"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Snow White and the Seven Dwarfs"
+              ],
+              "movies": [
+                {
+                  "title": "Snow White and the Seven Dwarfs",
+                  "tmdbId": 408,
+                  "imdbId": "tt0029583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Life of Emile Zola"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Sweet Leilani"
+              ],
+              "movies": [
+                {
+                  "title": "Waikiki Wedding",
+                  "tmdbId": 74130,
+                  "imdbId": "tt0029742"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Remember Me"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Dodd Takes the Air",
+                  "tmdbId": 218343,
+                  "imdbId": "tt0029267"
+                }
+              ]
+            },
+            {
+              "names": [
+                "That Old Feeling"
+              ],
+              "movies": [
+                {
+                  "title": "Vogues of 1938",
+                  "tmdbId": 151914,
+                  "imdbId": "tt0029737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "They Can't Take That Away From Me"
+              ],
+              "movies": [
+                {
+                  "title": "Shall We Dance",
+                  "tmdbId": 31530,
+                  "imdbId": "tt0029546"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Whispers in the Dark"
+              ],
+              "movies": [
+                {
+                  "title": "Artists & Models",
+                  "tmdbId": 180004,
+                  "imdbId": "tt0028587"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Old Mill"
+              ],
+              "movies": [
+                {
+                  "title": "The Old Mill",
+                  "tmdbId": 72640,
+                  "imdbId": "tt0029339"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Educated Fish"
+              ],
+              "movies": [
+                {
+                  "title": "Educated Fish",
+                  "tmdbId": 205251,
+                  "imdbId": "tt0028819"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Little Match Girl"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Match Girl",
+                  "tmdbId": 219543,
+                  "imdbId": "tt0029151"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "The Private Life of the Gannets"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Life of the Gannets",
+                  "tmdbId": 183187,
+                  "imdbId": "tt0029443"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Night at the Movies"
+              ],
+              "movies": [
+                {
+                  "title": "A Night at the Movies",
+                  "tmdbId": 208527,
+                  "imdbId": "tt0029311"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Romance of Radium"
+              ],
+              "movies": [
+                {
+                  "title": "Romance of Radium",
+                  "tmdbId": 170636,
+                  "imdbId": "tt0029497"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Torture Money"
+              ],
+              "movies": [
+                {
+                  "title": "Torture Money",
+                  "tmdbId": 130503,
+                  "imdbId": "tt0029684"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Deep South"
+              ],
+              "movies": [
+                {
+                  "title": "Deep South",
+                  "tmdbId": 233703,
+                  "imdbId": "tt0028777"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Should Wives Work?"
+              ],
+              "movies": [
+                {
+                  "title": "Should Wives Work?",
+                  "tmdbId": 233704,
+                  "imdbId": "tt0029555"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-color",
+          "label": "Best Live Action Short Film (Color)",
+          "winners": [
+            {
+              "names": [
+                "Penny Wisdom"
+              ],
+              "movies": [
+                {
+                  "title": "Penny Wisdom",
+                  "tmdbId": 233708,
+                  "imdbId": "tt0029385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Man Without a Country"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Without a Country",
+                  "tmdbId": 233710,
+                  "imdbId": "tt0029204"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Popular Science J-7-1"
+              ],
+              "movies": [
+                {
+                  "title": "Popular Science J-7-1",
+                  "tmdbId": 233713,
+                  "imdbId": "tt0029416"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "retired",
+      "label": "Retired Categories",
+      "categories": [
+        {
+          "id": "best-assistant-director",
+          "label": "Best Assistant Director",
+          "winners": [
+            {
+              "names": [
+                "Robert Webb"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Chicago",
+                  "tmdbId": 78734,
+                  "imdbId": "tt0029047"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "C. C. Coleman Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Lost Horizon",
+                  "tmdbId": 3598,
+                  "imdbId": "tt0029162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Russ Saunders"
+              ],
+              "movies": [
+                {
+                  "title": "The Life of Emile Zola",
+                  "tmdbId": 43278,
+                  "imdbId": "tt0029146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric G. Stacey"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 22692,
+                  "imdbId": "tt0029606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Walker"
+              ],
+              "movies": [
+                {
+                  "title": "Souls at Sea",
+                  "tmdbId": 43419,
+                  "imdbId": "tt0029593"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-dance-direction",
+          "label": "Best Dance Direction",
+          "winners": [
+            {
+              "names": [
+                "Hermes Pan"
+              ],
+              "movies": [
+                {
+                  "title": "A Damsel in Distress",
+                  "tmdbId": 66473,
+                  "imdbId": "tt0028757"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Busby Berkeley"
+              ],
+              "movies": [
+                {
+                  "title": "Varsity Show",
+                  "tmdbId": 190024,
+                  "imdbId": "tt0029725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bobby Connolly"
+              ],
+              "movies": [
+                {
+                  "title": "Ready, Willing and Able",
+                  "tmdbId": 190076,
+                  "imdbId": "tt0029467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dave Gould"
+              ],
+              "movies": [
+                {
+                  "title": "A Day at the Races",
+                  "tmdbId": 11939,
+                  "imdbId": "tt0028772"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sammy Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Ali Baba Goes to Town",
+                  "tmdbId": 106515,
+                  "imdbId": "tt0028566"
+                }
+              ]
+            },
+            {
+              "names": [
+                "LeRoy Prinz"
+              ],
+              "movies": [
+                {
+                  "title": "Waikiki Wedding",
+                  "tmdbId": 74130,
+                  "imdbId": "tt0029742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Losee"
+              ],
+              "movies": [
+                {
+                  "title": "Thin Ice",
+                  "tmdbId": 43868,
+                  "imdbId": "tt0029659"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

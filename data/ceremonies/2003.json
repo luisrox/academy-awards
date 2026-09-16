@@ -1,0 +1,1626 @@
+{
+  "ceremony": {
+    "ordinal": 75,
+    "ceremonyYear": 2003,
+    "ceremonyDate": "2003-03-23",
+    "filmYearLabel": "2002",
+    "slug": "2003",
+    "decade": "2000s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Chicago"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gangs of New York"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hours"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Lord of the Rings: The Two Towers"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Two Towers",
+                  "tmdbId": 121,
+                  "imdbId": "tt0167261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Pianist"
+              ],
+              "movies": [
+                {
+                  "title": "The Pianist",
+                  "tmdbId": 423,
+                  "imdbId": "tt0253474"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Roman Polanski"
+              ],
+              "movies": [
+                {
+                  "title": "The Pianist",
+                  "tmdbId": 423,
+                  "imdbId": "tt0253474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Pedro Almodovar"
+              ],
+              "movies": [
+                {
+                  "title": "Talk to Her",
+                  "tmdbId": 64,
+                  "imdbId": "tt0287467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Daldry"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rob Marshall"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Adrien Brody"
+              ],
+              "movies": [
+                {
+                  "title": "The Pianist",
+                  "tmdbId": 423,
+                  "imdbId": "tt0253474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nicolas Cage"
+              ],
+              "movies": [
+                {
+                  "title": "Adaptation.",
+                  "tmdbId": 2757,
+                  "imdbId": "tt0268126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Caine"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet American",
+                  "tmdbId": 8198,
+                  "imdbId": "tt0258068"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Day-Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "About Schmidt",
+                  "tmdbId": 2755,
+                  "imdbId": "tt0257360"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Nicole Kidman"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Salma Hayek"
+              ],
+              "movies": [
+                {
+                  "title": "Frida",
+                  "tmdbId": 1360,
+                  "imdbId": "tt0120679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Diane Lane"
+              ],
+              "movies": [
+                {
+                  "title": "Unfaithful",
+                  "tmdbId": 2251,
+                  "imdbId": "tt0250797"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julianne Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Far from Heaven",
+                  "tmdbId": 10712,
+                  "imdbId": "tt0297884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Renee Zellweger"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Chris Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "Adaptation.",
+                  "tmdbId": 2757,
+                  "imdbId": "tt0268126"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ed Harris"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Perdition",
+                  "tmdbId": 4147,
+                  "imdbId": "tt0257044"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John C. Reilly"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Walken"
+              ],
+              "movies": [
+                {
+                  "title": "Catch Me If You Can",
+                  "tmdbId": 640,
+                  "imdbId": "tt0264464"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Catherine Zeta-Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kathy Bates"
+              ],
+              "movies": [
+                {
+                  "title": "About Schmidt",
+                  "tmdbId": 2755,
+                  "imdbId": "tt0257360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Queen Latifah"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julianne Moore"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Adaptation.",
+                  "tmdbId": 2757,
+                  "imdbId": "tt0268126"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Pedro Almodovar"
+              ],
+              "movies": [
+                {
+                  "title": "Talk to Her",
+                  "tmdbId": 64,
+                  "imdbId": "tt0287467"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Todd Haynes"
+              ],
+              "movies": [
+                {
+                  "title": "Far from Heaven",
+                  "tmdbId": 10712,
+                  "imdbId": "tt0297884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jay Cocks",
+                "Kenneth Lonergan",
+                "Steven Zaillian"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nia Vardalos"
+              ],
+              "movies": [
+                {
+                  "title": "My Big Fat Greek Wedding",
+                  "tmdbId": 8346,
+                  "imdbId": "tt0259446"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carlos Cuarón",
+                "Alfonso Cuaron"
+              ],
+              "movies": [
+                {
+                  "title": "Y Tu Mamá También",
+                  "tmdbId": 1391,
+                  "imdbId": "tt0245574"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ronald Harwood"
+              ],
+              "movies": [
+                {
+                  "title": "The Pianist",
+                  "tmdbId": 423,
+                  "imdbId": "tt0253474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Hedges",
+                "Chris Weitz",
+                "Paul Weitz"
+              ],
+              "movies": [
+                {
+                  "title": "About a Boy",
+                  "tmdbId": 245,
+                  "imdbId": "tt0276751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charlie Kaufman",
+                "Donald Kaufman"
+              ],
+              "movies": [
+                {
+                  "title": "Adaptation.",
+                  "tmdbId": 2757,
+                  "imdbId": "tt0268126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Condon"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Hare"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Spirited Away"
+              ],
+              "movies": [
+                {
+                  "title": "Spirited Away",
+                  "tmdbId": 129,
+                  "imdbId": "tt0245429"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ice Age"
+              ],
+              "movies": [
+                {
+                  "title": "Ice Age",
+                  "tmdbId": 425,
+                  "imdbId": "tt0268380"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lilo & Stitch"
+              ],
+              "movies": [
+                {
+                  "title": "Lilo & Stitch",
+                  "tmdbId": 11544,
+                  "imdbId": "tt0275847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spirit: Stallion of the Cimarron"
+              ],
+              "movies": [
+                {
+                  "title": "Spirit: Stallion of the Cimarron",
+                  "tmdbId": 9023,
+                  "imdbId": "tt0166813"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Treasure Planet"
+              ],
+              "movies": [
+                {
+                  "title": "Treasure Planet",
+                  "tmdbId": 9016,
+                  "imdbId": "tt0133240"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Nowhere in Africa"
+              ],
+              "movies": [
+                {
+                  "title": "Nowhere in Africa",
+                  "tmdbId": 1591,
+                  "imdbId": "tt0161860"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Crime of Padre Amaro"
+              ],
+              "movies": [
+                {
+                  "title": "The Crime of Padre Amaro",
+                  "tmdbId": 542,
+                  "imdbId": "tt0313196"
+                }
+              ]
+            },
+            {
+              "names": [
+                "HERO"
+              ],
+              "movies": [
+                {
+                  "title": "HERO",
+                  "tmdbId": 782713
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Man Without a Past"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Without a Past",
+                  "tmdbId": 7294,
+                  "imdbId": "tt0311519"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Zus & Zo"
+              ],
+              "movies": [
+                {
+                  "title": "Zus & Zo",
+                  "tmdbId": 16539,
+                  "imdbId": "tt0245157"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Bowling for Columbine"
+              ],
+              "movies": [
+                {
+                  "title": "Bowling for Columbine",
+                  "tmdbId": 1430,
+                  "imdbId": "tt0310793"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daughter From Danang"
+              ],
+              "movies": [
+                {
+                  "title": "Daughter From Danang",
+                  "tmdbId": 67232,
+                  "imdbId": "tt0303281"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Prisoner of Paradise"
+              ],
+              "movies": [
+                {
+                  "title": "Prisoner of Paradise",
+                  "tmdbId": 112902,
+                  "imdbId": "tt0316013"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spellbound"
+              ],
+              "movies": [
+                {
+                  "title": "Spellbound",
+                  "tmdbId": 16636,
+                  "imdbId": "tt0334405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Winged Migration"
+              ],
+              "movies": [
+                {
+                  "title": "Winged Migration",
+                  "tmdbId": 11516,
+                  "imdbId": "tt0301727"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Conrad Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Perdition",
+                  "tmdbId": 4147,
+                  "imdbId": "tt0257044"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dion Beebe"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Lachman"
+              ],
+              "movies": [
+                {
+                  "title": "Far from Heaven",
+                  "tmdbId": 10712,
+                  "imdbId": "tt0297884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Ballhaus"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pawel Edelman"
+              ],
+              "movies": [
+                {
+                  "title": "The Pianist",
+                  "tmdbId": 423,
+                  "imdbId": "tt0253474"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Martin Walsh"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Thelma Schoonmaker"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Horton"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Two Towers",
+                  "tmdbId": 121,
+                  "imdbId": "tt0167261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herve de Luze"
+              ],
+              "movies": [
+                {
+                  "title": "The Pianist",
+                  "tmdbId": 423,
+                  "imdbId": "tt0253474"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "John Myhre",
+                "Gordon Sim"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Felipe Fernandez del Paso",
+                "Hania Robledo"
+              ],
+              "movies": [
+                {
+                  "title": "Frida",
+                  "tmdbId": 1360,
+                  "imdbId": "tt0120679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dante Ferretti",
+                "Francesca Lo Schiavo"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Grant Major",
+                "Dan Hennah",
+                "Alan Lee"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Two Towers",
+                  "tmdbId": 121,
+                  "imdbId": "tt0167261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Gassner",
+                "Nancy Haigh"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Perdition",
+                  "tmdbId": 4147,
+                  "imdbId": "tt0257044"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Julie Weiss"
+              ],
+              "movies": [
+                {
+                  "title": "Frida",
+                  "tmdbId": 1360,
+                  "imdbId": "tt0120679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ann Roth"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anna B. Sheppard"
+              ],
+              "movies": [
+                {
+                  "title": "The Pianist",
+                  "tmdbId": 423,
+                  "imdbId": "tt0253474"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "John Jackson",
+                "Beatrice De Alba"
+              ],
+              "movies": [
+                {
+                  "title": "Frida",
+                  "tmdbId": 1360,
+                  "imdbId": "tt0120679"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John M. Elliott Jr.",
+                "Barbara Lorenz"
+              ],
+              "movies": [
+                {
+                  "title": "The Time Machine",
+                  "tmdbId": 2135,
+                  "imdbId": "tt0268695"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Jim Rygiel",
+                "Joe Letteri",
+                "Randall William Cook",
+                "Alex Funke"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Two Towers",
+                  "tmdbId": 121,
+                  "imdbId": "tt0167261"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Dykstra",
+                "Scott Stokdyk",
+                "Anthony LaMolinara",
+                "John Frazier"
+              ],
+              "movies": [
+                {
+                  "title": "Spider-Man",
+                  "tmdbId": 557,
+                  "imdbId": "tt0145487"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rob Coleman",
+                "Pablo Helman",
+                "John Knoll",
+                "Ben Snow"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: Episode II - Attack of the Clones",
+                  "tmdbId": 1894,
+                  "imdbId": "tt0121765"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Michael Minkler",
+                "Dominick Tavella",
+                "David Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Fleischman",
+                "Eugene Gearty",
+                "Ivan Sharrock"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Boyes",
+                "Michael Semanick",
+                "Michael Hedges",
+                "Hammond Peek"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Two Towers",
+                  "tmdbId": 121,
+                  "imdbId": "tt0167261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scott Millan",
+                "Bob Beemer",
+                "John Pritchett"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Perdition",
+                  "tmdbId": 4147,
+                  "imdbId": "tt0257044"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Ed Novick"
+              ],
+              "movies": [
+                {
+                  "title": "Spider-Man",
+                  "tmdbId": 557,
+                  "imdbId": "tt0145487"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Mike Hopkins",
+                "Ethan Van der Ryn"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Two Towers",
+                  "tmdbId": 121,
+                  "imdbId": "tt0167261"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Hymns",
+                "Gary Rydstrom"
+              ],
+              "movies": [
+                {
+                  "title": "Minority Report",
+                  "tmdbId": 180,
+                  "imdbId": "tt0181689"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scott Hecker"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Perdition",
+                  "tmdbId": 4147,
+                  "imdbId": "tt0257044"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Elliot Goldenthal"
+              ],
+              "movies": [
+                {
+                  "title": "Frida",
+                  "tmdbId": 1360,
+                  "imdbId": "tt0120679"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Catch Me If You Can",
+                  "tmdbId": 640,
+                  "imdbId": "tt0264464"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "Far from Heaven",
+                  "tmdbId": 10712,
+                  "imdbId": "tt0297884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip Glass"
+              ],
+              "movies": [
+                {
+                  "title": "The Hours",
+                  "tmdbId": 590,
+                  "imdbId": "tt0274558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Perdition",
+                  "tmdbId": 4147,
+                  "imdbId": "tt0257044"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Lose Yourself"
+              ],
+              "movies": [
+                {
+                  "title": "8 Mile",
+                  "tmdbId": 65,
+                  "imdbId": "tt0298203"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I Move On"
+              ],
+              "movies": [
+                {
+                  "title": "Chicago",
+                  "tmdbId": 1574,
+                  "imdbId": "tt0299658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Burn It Blue"
+              ],
+              "movies": [
+                {
+                  "title": "Frida",
+                  "tmdbId": 1360,
+                  "imdbId": "tt0120679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hands That Built America"
+              ],
+              "movies": [
+                {
+                  "title": "Gangs of New York",
+                  "tmdbId": 3131,
+                  "imdbId": "tt0217505"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Father",
+                "Daughter"
+              ],
+              "movies": [
+                {
+                  "title": "The Wild Thornberrys Movie",
+                  "tmdbId": 14317,
+                  "imdbId": "tt0282120"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The ChubbChubbs!"
+              ],
+              "movies": [
+                {
+                  "title": "The ChubbChubbs!",
+                  "tmdbId": 27042,
+                  "imdbId": "tt0331218"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mount Head"
+              ],
+              "movies": [
+                {
+                  "title": "Mount Head",
+                  "tmdbId": 36072,
+                  "imdbId": "tt0351382"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rocks"
+              ],
+              "movies": [
+                {
+                  "title": "Rocks",
+                  "tmdbId": 37060,
+                  "imdbId": "tt0330801"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Cathedral"
+              ],
+              "movies": [
+                {
+                  "title": "The Cathedral",
+                  "tmdbId": 15990,
+                  "imdbId": "tt0351167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike's New Car"
+              ],
+              "movies": [
+                {
+                  "title": "Mike's New Car",
+                  "tmdbId": 13931,
+                  "imdbId": "tt0323250"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "This Charming Man"
+              ],
+              "movies": [
+                {
+                  "title": "This Charming Man",
+                  "tmdbId": 115479,
+                  "imdbId": "tt0340071"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gridlock"
+              ],
+              "movies": [
+                {
+                  "title": "Gridlock",
+                  "tmdbId": 121966,
+                  "imdbId": "tt0281850"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'll Wait for the Next One..."
+              ],
+              "movies": [
+                {
+                  "title": "I'll Wait for the Next One...",
+                  "tmdbId": 162657,
+                  "imdbId": "tt0325638"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Inja"
+              ],
+              "movies": [
+                {
+                  "title": "Inja",
+                  "tmdbId": 165664,
+                  "imdbId": "tt0303350"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Johnny Flynton"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Flynton",
+                  "tmdbId": 244981,
+                  "imdbId": "tt0329245"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Twin Towers"
+              ],
+              "movies": [
+                {
+                  "title": "Twin Towers",
+                  "tmdbId": 194819,
+                  "imdbId": "tt0344503"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Collector of Bedford Street"
+              ],
+              "movies": [
+                {
+                  "title": "The Collector of Bedford Street",
+                  "tmdbId": 244982,
+                  "imdbId": "tt0325193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mighty Times: The Legacy of Rosa Parks"
+              ],
+              "movies": [
+                {
+                  "title": "Mighty Times: The Legacy of Rosa Parks",
+                  "tmdbId": 244983,
+                  "imdbId": "tt0353737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Why Can't We Be a Family Again?"
+              ],
+              "movies": [
+                {
+                  "title": "Why Can't We Be a Family Again?",
+                  "tmdbId": 244984,
+                  "imdbId": "tt0344563"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

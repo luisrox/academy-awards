@@ -1,0 +1,1509 @@
+{
+  "ceremony": {
+    "ordinal": 47,
+    "ceremonyYear": 1975,
+    "ceremonyDate": "1975-04-08",
+    "filmYearLabel": "1974",
+    "slug": "1975",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Godfather Part II"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chinatown"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Conversation"
+              ],
+              "movies": [
+                {
+                  "title": "The Conversation",
+                  "tmdbId": 592,
+                  "imdbId": "tt0071360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lenny"
+              ],
+              "movies": [
+                {
+                  "title": "Lenny",
+                  "tmdbId": 27094,
+                  "imdbId": "tt0071746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Towering Inferno"
+              ],
+              "movies": [
+                {
+                  "title": "The Towering Inferno",
+                  "tmdbId": 5919,
+                  "imdbId": "tt0072308"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Francis Ford Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Cassavetes"
+              ],
+              "movies": [
+                {
+                  "title": "A Woman Under the Influence",
+                  "tmdbId": 29845,
+                  "imdbId": "tt0072417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bob Fosse"
+              ],
+              "movies": [
+                {
+                  "title": "Lenny",
+                  "tmdbId": 27094,
+                  "imdbId": "tt0071746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roman Polanski"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francois Truffaut"
+              ],
+              "movies": [
+                {
+                  "title": "Day for Night",
+                  "tmdbId": 1675,
+                  "imdbId": "tt0070460"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Art Carney"
+              ],
+              "movies": [
+                {
+                  "title": "Harry and Tonto",
+                  "tmdbId": 42448,
+                  "imdbId": "tt0071598"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Albert Finney"
+              ],
+              "movies": [
+                {
+                  "title": "Murder on the Orient Express",
+                  "tmdbId": 4176,
+                  "imdbId": "tt0071877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dustin Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "Lenny",
+                  "tmdbId": 27094,
+                  "imdbId": "tt0071746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Pacino"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Ellen Burstyn"
+              ],
+              "movies": [
+                {
+                  "title": "Alice Doesn't Live Here Anymore",
+                  "tmdbId": 16153,
+                  "imdbId": "tt0071115"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Diahann Carroll"
+              ],
+              "movies": [
+                {
+                  "title": "Claudine",
+                  "tmdbId": 55909,
+                  "imdbId": "tt0071334"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Faye Dunaway"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Valerie Perrine"
+              ],
+              "movies": [
+                {
+                  "title": "Lenny",
+                  "tmdbId": 27094,
+                  "imdbId": "tt0071746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gena Rowlands"
+              ],
+              "movies": [
+                {
+                  "title": "A Woman Under the Influence",
+                  "tmdbId": 29845,
+                  "imdbId": "tt0072417"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Robert De Niro"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fred Astaire"
+              ],
+              "movies": [
+                {
+                  "title": "The Towering Inferno",
+                  "tmdbId": 5919,
+                  "imdbId": "tt0072308"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeff Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "Thunderbolt and Lightfoot",
+                  "tmdbId": 8348,
+                  "imdbId": "tt0072288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael V. Gazzo"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Strasberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Ingrid Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Murder on the Orient Express",
+                  "tmdbId": 4176,
+                  "imdbId": "tt0071877"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Valentine Cortese"
+              ],
+              "movies": [
+                {
+                  "title": "Day for Night",
+                  "tmdbId": 1675,
+                  "imdbId": "tt0070460"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Madeline Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Blazing Saddles",
+                  "tmdbId": 11072,
+                  "imdbId": "tt0071230"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Diane Ladd"
+              ],
+              "movies": [
+                {
+                  "title": "Alice Doesn't Live Here Anymore",
+                  "tmdbId": 16153,
+                  "imdbId": "tt0071115"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Talia Shire"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Robert Towne"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Getchell"
+              ],
+              "movies": [
+                {
+                  "title": "Alice Doesn't Live Here Anymore",
+                  "tmdbId": 16153,
+                  "imdbId": "tt0071115"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francis Ford Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "The Conversation",
+                  "tmdbId": 592,
+                  "imdbId": "tt0071360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francois Truffaut",
+                "Jean-Louis Richard",
+                "Suzanne Schiffman"
+              ],
+              "movies": [
+                {
+                  "title": "Day for Night",
+                  "tmdbId": 1675,
+                  "imdbId": "tt0070460"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Mazursky",
+                "Josh Greenfeld"
+              ],
+              "movies": [
+                {
+                  "title": "Harry and Tonto",
+                  "tmdbId": 42448,
+                  "imdbId": "tt0071598"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Mario Puzo",
+                "Francis Ford Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mordecai Richler",
+                "Lionel Chetwynd"
+              ],
+              "movies": [
+                {
+                  "title": "The Apprenticeship of Duddy Kravitz",
+                  "tmdbId": 42451,
+                  "imdbId": "tt0071155"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julian Barry"
+              ],
+              "movies": [
+                {
+                  "title": "Lenny",
+                  "tmdbId": 27094,
+                  "imdbId": "tt0071746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Dehn"
+              ],
+              "movies": [
+                {
+                  "title": "Murder on the Orient Express",
+                  "tmdbId": 4176,
+                  "imdbId": "tt0071877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Wilder",
+                "Mel Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Young Frankenstein",
+                  "tmdbId": 3034,
+                  "imdbId": "tt0072431"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Amarcord"
+              ],
+              "movies": [
+                {
+                  "title": "Amarcord",
+                  "tmdbId": 7857,
+                  "imdbId": "tt0071129"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cat's Play"
+              ],
+              "movies": [
+                {
+                  "title": "Cat's Play",
+                  "tmdbId": 42485,
+                  "imdbId": "tt0068891"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Deluge"
+              ],
+              "movies": [
+                {
+                  "title": "The Deluge",
+                  "tmdbId": 36627,
+                  "imdbId": "tt0072021"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lacombe, Lucien"
+              ],
+              "movies": [
+                {
+                  "title": "Lacombe, Lucien",
+                  "tmdbId": 55368,
+                  "imdbId": "tt0071733"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Truce"
+              ],
+              "movies": [
+                {
+                  "title": "The Truce",
+                  "tmdbId": 127449,
+                  "imdbId": "tt0072315"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Hearts and Minds"
+              ],
+              "movies": [
+                {
+                  "title": "Hearts and Minds",
+                  "tmdbId": 42449,
+                  "imdbId": "tt0071604"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Antonia: A Portrait of the Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Antonia: A Portrait of the Woman",
+                  "tmdbId": 149335,
+                  "imdbId": "tt0071151"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Challenge... A Tribute to Modern Art"
+              ],
+              "movies": [
+                {
+                  "title": "The Challenge... A Tribute to Modern Art",
+                  "tmdbId": 149336,
+                  "imdbId": "tt0071299"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The 81st Blow"
+              ],
+              "movies": [
+                {
+                  "title": "The 81st Blow",
+                  "tmdbId": 149337,
+                  "imdbId": "tt0071088"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wild and the Brave"
+              ],
+              "movies": [
+                {
+                  "title": "The Wild and the Brave",
+                  "tmdbId": 149339,
+                  "imdbId": "tt0072333"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Fred J. Koenekamp",
+                "Joseph F. Biroc"
+              ],
+              "movies": [
+                {
+                  "title": "The Towering Inferno",
+                  "tmdbId": 5919,
+                  "imdbId": "tt0072308"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John A. Alonzo"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip Lathrop"
+              ],
+              "movies": [
+                {
+                  "title": "Earthquake",
+                  "tmdbId": 11123,
+                  "imdbId": "tt0071455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bruce Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "Lenny",
+                  "tmdbId": 27094,
+                  "imdbId": "tt0071746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geoffrey Unsworth"
+              ],
+              "movies": [
+                {
+                  "title": "Murder on the Orient Express",
+                  "tmdbId": 4176,
+                  "imdbId": "tt0071877"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Carl Kress",
+                "Harold F. Kress"
+              ],
+              "movies": [
+                {
+                  "title": "The Towering Inferno",
+                  "tmdbId": 5919,
+                  "imdbId": "tt0072308"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John C. Howard",
+                "Danford Greene"
+              ],
+              "movies": [
+                {
+                  "title": "Blazing Saddles",
+                  "tmdbId": 11072,
+                  "imdbId": "tt0071230"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam O'Steen"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dorothy Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Earthquake",
+                  "tmdbId": 11123,
+                  "imdbId": "tt0071455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Luciano"
+              ],
+              "movies": [
+                {
+                  "title": "The Longest Yard",
+                  "tmdbId": 4985,
+                  "imdbId": "tt0071771"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Dean Tavoularis",
+                "Angelo Graham",
+                "George R. Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Sylbert",
+                "W. Stewart Campbell",
+                "Ruby Levitt"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Golitzen",
+                "E. Preston Ames",
+                "Frank McKelvy"
+              ],
+              "movies": [
+                {
+                  "title": "Earthquake",
+                  "tmdbId": 11123,
+                  "imdbId": "tt0071455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Ellenshaw",
+                "John B. Mansbridge",
+                "Walter Tyler",
+                "Al Roelofs",
+                "Hal Gausman"
+              ],
+              "movies": [
+                {
+                  "title": "The Island at the Top of the World",
+                  "tmdbId": 42453,
+                  "imdbId": "tt0071671"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William J. Creber",
+                "Ward Preston",
+                "Raphael Bretton"
+              ],
+              "movies": [
+                {
+                  "title": "The Towering Inferno",
+                  "tmdbId": 5919,
+                  "imdbId": "tt0072308"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Theoni V. Aldredge"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Gatsby",
+                  "tmdbId": 11034,
+                  "imdbId": "tt0071577"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anthea Sylbert"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Furniss"
+              ],
+              "movies": [
+                {
+                  "title": "Daisy Miller",
+                  "tmdbId": 4703,
+                  "imdbId": "tt0071385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theadora Van Runkle"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Walton"
+              ],
+              "movies": [
+                {
+                  "title": "Murder on the Orient Express",
+                  "tmdbId": 4176,
+                  "imdbId": "tt0071877"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Frank Brendel",
+                "Albert Whitlock",
+                "Glenn Robinson"
+              ],
+              "movies": [
+                {
+                  "title": "Earthquake",
+                  "tmdbId": 11123,
+                  "imdbId": "tt0071455"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Ronald Pierce",
+                "Melvin Metcalfe Sr."
+              ],
+              "movies": [
+                {
+                  "title": "Earthquake",
+                  "tmdbId": 11123,
+                  "imdbId": "tt0071455"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Grenzbach",
+                "Larry Jost"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Murch",
+                "Art Rochester"
+              ],
+              "movies": [
+                {
+                  "title": "The Conversation",
+                  "tmdbId": 592,
+                  "imdbId": "tt0071360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theodore Soderberg",
+                "Herman Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "The Towering Inferno",
+                  "tmdbId": 5919,
+                  "imdbId": "tt0072308"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Portman",
+                "Gene Cantamessa"
+              ],
+              "movies": [
+                {
+                  "title": "Young Frankenstein",
+                  "tmdbId": 3034,
+                  "imdbId": "tt0072431"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Nino Rota",
+                "Carmine Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part II",
+                  "tmdbId": 240,
+                  "imdbId": "tt0071562"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Chinatown",
+                  "tmdbId": 829,
+                  "imdbId": "tt0071315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Rodney Bennett"
+              ],
+              "movies": [
+                {
+                  "title": "Murder on the Orient Express",
+                  "tmdbId": 4176,
+                  "imdbId": "tt0071877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "Shanks",
+                  "tmdbId": 29399,
+                  "imdbId": "tt0072149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Towering Inferno",
+                  "tmdbId": 5919,
+                  "imdbId": "tt0072308"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Nelson Riddle"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Gatsby",
+                  "tmdbId": 11034,
+                  "imdbId": "tt0071577"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alan Jay Lerner",
+                "Frederick Loewe",
+                "Angela Morley",
+                "Douglas Gamley"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Prince",
+                  "tmdbId": 37627,
+                  "imdbId": "tt0071762"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Williams",
+                "George Aliceson Tipton"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom of the Paradise",
+                  "tmdbId": 27327,
+                  "imdbId": "tt0071994"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "We May Never Love Like This Again"
+              ],
+              "movies": [
+                {
+                  "title": "The Towering Inferno",
+                  "tmdbId": 5919,
+                  "imdbId": "tt0072308"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Benji's Theme (I Feel Love)"
+              ],
+              "movies": [
+                {
+                  "title": "Benji",
+                  "tmdbId": 23069,
+                  "imdbId": "tt0071206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Blazing Saddles"
+              ],
+              "movies": [
+                {
+                  "title": "Blazing Saddles",
+                  "tmdbId": 11072,
+                  "imdbId": "tt0071230"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wherever Love Takes Me"
+              ],
+              "movies": [
+                {
+                  "title": "Gold",
+                  "tmdbId": 47737,
+                  "imdbId": "tt0071566"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Little Prince"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Prince",
+                  "tmdbId": 37627,
+                  "imdbId": "tt0071762"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Closed Mondays"
+              ],
+              "movies": [
+                {
+                  "title": "Closed Mondays",
+                  "tmdbId": 48277,
+                  "imdbId": "tt0071337"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Family That Dwelt Apart"
+              ],
+              "movies": [
+                {
+                  "title": "The Family That Dwelt Apart",
+                  "tmdbId": 209536,
+                  "imdbId": "tt0071484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hunger"
+              ],
+              "movies": [
+                {
+                  "title": "Hunger",
+                  "tmdbId": 1110862
+                }
+              ]
+            },
+            {
+              "names": [
+                "Voyage to Next"
+              ],
+              "movies": [
+                {
+                  "title": "Voyage to Next",
+                  "tmdbId": 162770,
+                  "imdbId": "tt0072380"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Winnie the Pooh and Tigger Too"
+              ],
+              "movies": [
+                {
+                  "title": "Winnie the Pooh and Tigger Too",
+                  "tmdbId": 72185,
+                  "imdbId": "tt0072410"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "One-Eyed Men Are Kings"
+              ],
+              "movies": [
+                {
+                  "title": "One-Eyed Men Are Kings",
+                  "tmdbId": 243386,
+                  "imdbId": "tt0071943"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Climb"
+              ],
+              "movies": [
+                {
+                  "title": "Climb",
+                  "tmdbId": 243388,
+                  "imdbId": "tt0071335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Concert"
+              ],
+              "movies": [
+                {
+                  "title": "The Concert",
+                  "tmdbId": 243390,
+                  "imdbId": "tt0071355"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Planet Ocean"
+              ],
+              "movies": [
+                {
+                  "title": "Planet Ocean",
+                  "tmdbId": 243392,
+                  "imdbId": "tt0072001"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Violin"
+              ],
+              "movies": [
+                {
+                  "title": "The Violin",
+                  "tmdbId": 243394,
+                  "imdbId": "tt0072370"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Don't"
+              ],
+              "movies": [
+                {
+                  "title": "Don't",
+                  "tmdbId": 243396,
+                  "imdbId": "tt0071430"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "City Out of Wilderness"
+              ],
+              "movies": [
+                {
+                  "title": "City Out of Wilderness",
+                  "tmdbId": 243397,
+                  "imdbId": "tt0071332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Exploratorium"
+              ],
+              "movies": [
+                {
+                  "title": "Exploratorium",
+                  "tmdbId": 243398,
+                  "imdbId": "tt0071480"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Muir's High Sierra"
+              ],
+              "movies": [
+                {
+                  "title": "John Muir's High Sierra",
+                  "tmdbId": 243399,
+                  "imdbId": "tt0071699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Naked Yoga"
+              ],
+              "movies": [
+                {
+                  "title": "Naked Yoga",
+                  "tmdbId": 243400,
+                  "imdbId": "tt0071893"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

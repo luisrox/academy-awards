@@ -1,0 +1,2293 @@
+{
+  "ceremony": {
+    "ordinal": 17,
+    "ceremonyYear": 1945,
+    "ceremonyDate": "1945-03-15",
+    "filmYearLabel": "1944",
+    "slug": "1945",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Going My Way"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Double Indemnity"
+              ],
+              "movies": [
+                {
+                  "title": "Double Indemnity",
+                  "tmdbId": 996,
+                  "imdbId": "tt0036775"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gaslight"
+              ],
+              "movies": [
+                {
+                  "title": "Gaslight",
+                  "tmdbId": 13528,
+                  "imdbId": "tt0036855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Since You Went Away"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Leo McCarey"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "Double Indemnity",
+                  "tmdbId": 996,
+                  "imdbId": "tt0036775"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Otto Preminger"
+              ],
+              "movies": [
+                {
+                  "title": "Laura",
+                  "tmdbId": 1939,
+                  "imdbId": "tt0037008"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Hitchcock"
+              ],
+              "movies": [
+                {
+                  "title": "Lifeboat",
+                  "tmdbId": 13321,
+                  "imdbId": "tt0037017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry King"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Bing Crosby"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Boyer"
+              ],
+              "movies": [
+                {
+                  "title": "Gaslight",
+                  "tmdbId": 13528,
+                  "imdbId": "tt0036855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barry Fitzgerald"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cary Grant"
+              ],
+              "movies": [
+                {
+                  "title": "None But the Lonely Heart",
+                  "tmdbId": 52362,
+                  "imdbId": "tt0037135"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Knox"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Ingrid Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Gaslight",
+                  "tmdbId": 13528,
+                  "imdbId": "tt0036855"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Claudette Colbert"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Skeffington",
+                  "tmdbId": 43307,
+                  "imdbId": "tt0037094"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greer Garson"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Parkington",
+                  "tmdbId": 50066,
+                  "imdbId": "tt0037096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara Stanwyck"
+              ],
+              "movies": [
+                {
+                  "title": "Double Indemnity",
+                  "tmdbId": 996,
+                  "imdbId": "tt0036775"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Barry Fitzgerald"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hume Cronyn"
+              ],
+              "movies": [
+                {
+                  "title": "The Seventh Cross",
+                  "tmdbId": 85574,
+                  "imdbId": "tt0037263"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claude Rains"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Skeffington",
+                  "tmdbId": 43307,
+                  "imdbId": "tt0037094"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clifton Webb"
+              ],
+              "movies": [
+                {
+                  "title": "Laura",
+                  "tmdbId": 1939,
+                  "imdbId": "tt0037008"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Monty Woolley"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Ethel Barrymore"
+              ],
+              "movies": [
+                {
+                  "title": "None But the Lonely Heart",
+                  "tmdbId": 52362,
+                  "imdbId": "tt0037135"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jennifer Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Angela Lansbury"
+              ],
+              "movies": [
+                {
+                  "title": "Gaslight",
+                  "tmdbId": 13528,
+                  "imdbId": "tt0036855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aline MacMahon"
+              ],
+              "movies": [
+                {
+                  "title": "Dragon Seed",
+                  "tmdbId": 123665,
+                  "imdbId": "tt0036777"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Agnes Moorehead"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Parkington",
+                  "tmdbId": 50066,
+                  "imdbId": "tt0037096"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Lamar Trotti"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Preston Sturges"
+              ],
+              "movies": [
+                {
+                  "title": "Hail the Conquering Hero",
+                  "tmdbId": 36498,
+                  "imdbId": "tt0036891"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Preston Sturges"
+              ],
+              "movies": [
+                {
+                  "title": "The Miracle of Morgan’s Creek",
+                  "tmdbId": 42879,
+                  "imdbId": "tt0037077"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Connell",
+                "Gladys Lehman"
+              ],
+              "movies": [
+                {
+                  "title": "Two Girls and a Sailor",
+                  "tmdbId": 80941,
+                  "imdbId": "tt0037408"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerome Cady"
+              ],
+              "movies": [
+                {
+                  "title": "Wing and a Prayer",
+                  "tmdbId": 69847,
+                  "imdbId": "tt0037466"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Frank Butler",
+                "Frank Cavett"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Raymond Chandler",
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "Double Indemnity",
+                  "tmdbId": 996,
+                  "imdbId": "tt0036775"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John L. Balderston",
+                "Walter Reisch",
+                "John Van Druten"
+              ],
+              "movies": [
+                {
+                  "title": "Gaslight",
+                  "tmdbId": 13528,
+                  "imdbId": "tt0036855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jay Dratler",
+                "Samuel Hoffenstein",
+                "Betty Reinhardt"
+              ],
+              "movies": [
+                {
+                  "title": "Laura",
+                  "tmdbId": 1939,
+                  "imdbId": "tt0037008"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irving Brecher",
+                "Fred F. Finklehoffe"
+              ],
+              "movies": [
+                {
+                  "title": "Meet Me in St. Louis",
+                  "tmdbId": 909,
+                  "imdbId": "tt0037059"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Leo McCarey"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Boehm",
+                "Chandler Sprague"
+              ],
+              "movies": [
+                {
+                  "title": "A Guy Named Joe",
+                  "tmdbId": 43306,
+                  "imdbId": "tt0035959"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Steinbeck"
+              ],
+              "movies": [
+                {
+                  "title": "Lifeboat",
+                  "tmdbId": 13321,
+                  "imdbId": "tt0037017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Neumann",
+                "Joseph Than"
+              ],
+              "movies": [
+                {
+                  "title": "None Shall Escape",
+                  "tmdbId": 48989,
+                  "imdbId": "tt0037136"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Doherty",
+                "Jules Schermer"
+              ],
+              "movies": [
+                {
+                  "title": "The Fighting Sullivans",
+                  "tmdbId": 43504,
+                  "imdbId": "tt0037323"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Fighting Lady"
+              ],
+              "movies": [
+                {
+                  "title": "The Fighting Lady",
+                  "tmdbId": 86120,
+                  "imdbId": "tt0036823"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Resisting Enemy Interrogation"
+              ],
+              "movies": [
+                {
+                  "title": "Resisting Enemy Interrogation",
+                  "tmdbId": 114459,
+                  "imdbId": "tt0037215"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rudolph Mate",
+                "Allen M. Davey"
+              ],
+              "movies": [
+                {
+                  "title": "Cover Girl",
+                  "tmdbId": 21622,
+                  "imdbId": "tt0036723"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Cronjager"
+              ],
+              "movies": [
+                {
+                  "title": "Home in Indiana",
+                  "tmdbId": 218105,
+                  "imdbId": "tt0036926"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Rosher"
+              ],
+              "movies": [
+                {
+                  "title": "Kismet",
+                  "tmdbId": 43501,
+                  "imdbId": "tt0036984"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Rennahan"
+              ],
+              "movies": [
+                {
+                  "title": "Lady in the Dark",
+                  "tmdbId": 120801,
+                  "imdbId": "tt0037000"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George J. Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "Meet Me in St. Louis",
+                  "tmdbId": 909,
+                  "imdbId": "tt0037059"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Joseph LaShelle"
+              ],
+              "movies": [
+                {
+                  "title": "Laura",
+                  "tmdbId": 1939,
+                  "imdbId": "tt0037008"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John F. Seitz"
+              ],
+              "movies": [
+                {
+                  "title": "Double Indemnity",
+                  "tmdbId": 996,
+                  "imdbId": "tt0036775"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Wagner"
+              ],
+              "movies": [
+                {
+                  "title": "Dragon Seed",
+                  "tmdbId": 123665,
+                  "imdbId": "tt0036777"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Ruttenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Gaslight",
+                  "tmdbId": 13528,
+                  "imdbId": "tt0036855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lionel Lindon"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Glen MacWilliams"
+              ],
+              "movies": [
+                {
+                  "title": "Lifeboat",
+                  "tmdbId": 13321,
+                  "imdbId": "tt0037017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Cortez",
+                "Lee Garmes"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang"
+              ],
+              "movies": [
+                {
+                  "title": "The Uninvited",
+                  "tmdbId": 16373,
+                  "imdbId": "tt0037415"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George J. Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "The White Cliffs of Dover",
+                  "tmdbId": 52440,
+                  "imdbId": "tt0037462"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Surtees",
+                "Harold Rosson"
+              ],
+              "movies": [
+                {
+                  "title": "Thirty Seconds Over Tokyo",
+                  "tmdbId": 18770,
+                  "imdbId": "tt0037366"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Barbara McLean"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leroy Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Owen Marks"
+              ],
+              "movies": [
+                {
+                  "title": "Janie",
+                  "tmdbId": 215689,
+                  "imdbId": "tt0036970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roland Gross"
+              ],
+              "movies": [
+                {
+                  "title": "None But the Lonely Heart",
+                  "tmdbId": 52362,
+                  "imdbId": "tt0037135"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal C. Kern",
+                "James E. Newcom"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Wiard Ihnen",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John B. Goodman",
+                "Alexander Golitzen",
+                "Russell A. Gausman",
+                "Ira S. Webb"
+              ],
+              "movies": [
+                {
+                  "title": "The Climax",
+                  "tmdbId": 39407,
+                  "imdbId": "tt0036715"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lionel Banks",
+                "Cary Odell",
+                "Fay Babcock"
+              ],
+              "movies": [
+                {
+                  "title": "Cover Girl",
+                  "tmdbId": 21622,
+                  "imdbId": "tt0036723"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Novi",
+                "Jack McConaghy"
+              ],
+              "movies": [
+                {
+                  "title": "The Desert Song",
+                  "tmdbId": 174150,
+                  "imdbId": "tt0036755"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Daniel B. Cathcart",
+                "Edwin B. Willis",
+                "Richard Pefferle"
+              ],
+              "movies": [
+                {
+                  "title": "Kismet",
+                  "tmdbId": 43501,
+                  "imdbId": "tt0036984"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Raoul Pene du Bois",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Lady in the Dark",
+                  "tmdbId": 120801,
+                  "imdbId": "tt0037000"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernst Fegte",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "The Princess and the Pirate",
+                  "tmdbId": 30506,
+                  "imdbId": "tt0037193"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "William Ferrari",
+                "Paul Huldschinsky",
+                "Edwin B. Willis"
+              ],
+              "movies": [
+                {
+                  "title": "Gaslight",
+                  "tmdbId": 13528,
+                  "imdbId": "tt0036855"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lionel Banks",
+                "Walter Holscher",
+                "Joseph Kish"
+              ],
+              "movies": [
+                {
+                  "title": "Address Unknown",
+                  "tmdbId": 126759,
+                  "imdbId": "tt0036581"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Hughes",
+                "Fred M. MacLean"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Mark Twain",
+                  "tmdbId": 120747,
+                  "imdbId": "tt0036582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Perry Ferguson",
+                "Julia Heron"
+              ],
+              "movies": [
+                {
+                  "title": "Casanova Brown",
+                  "tmdbId": 81751,
+                  "imdbId": "tt0036699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Leland Fuller",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "Laura",
+                  "tmdbId": 1939,
+                  "imdbId": "tt0037008"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Robert Usher",
+                "Samuel M. Comer"
+              ],
+              "movies": [
+                {
+                  "title": "No Time for Love",
+                  "tmdbId": 32120,
+                  "imdbId": "tt0036208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark-Lee Kirk",
+                "Victor A. Gangelin"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert S. D'Agostino",
+                "Carroll Clark",
+                "Darrell Silvera",
+                "Claude Carpenter"
+              ],
+              "movies": [
+                {
+                  "title": "Step Lively",
+                  "tmdbId": 43503,
+                  "imdbId": "tt0037313"
+                }
+              ]
+            },
+            {
+              "names": [
+                "N/A"
+              ],
+              "movies": [
+                {
+                  "title": "Song of the Open Road",
+                  "tmdbId": 218098,
+                  "imdbId": "tt0037297"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Donald Jahraus",
+                "Warren Newcombe",
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Thirty Seconds Over Tokyo",
+                  "tmdbId": 18770,
+                  "imdbId": "tt0037366"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Vernon L. Walker",
+                "James G. Stewart",
+                "Roy Granville"
+              ],
+              "movies": [
+                {
+                  "title": "Days of Glory",
+                  "tmdbId": 96366,
+                  "imdbId": "tt0036748"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Allen",
+                "Ray Cory",
+                "Robert Wright",
+                "Russell Malmgren",
+                "Harry Kusnick"
+              ],
+              "movies": [
+                {
+                  "title": "Secret Command",
+                  "tmdbId": 82247,
+                  "imdbId": "tt0037253"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Cosgrove",
+                "Arthur Johns"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Detlefsen",
+                "John Crouse",
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Mark Twain",
+                  "tmdbId": 120747,
+                  "imdbId": "tt0036582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Farciot Edouart",
+                "Gordon Jennings",
+                "George Dutton"
+              ],
+              "movies": [
+                {
+                  "title": "The Story of Dr. Wassell",
+                  "tmdbId": 92399,
+                  "imdbId": "tt0037316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Sersen",
+                "Roger Heman Sr."
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel J. Bloomberg"
+              ],
+              "movies": [
+                {
+                  "title": "Brazil",
+                  "tmdbId": 218090,
+                  "imdbId": "tt0036670"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Casanova Brown",
+                  "tmdbId": 81751,
+                  "imdbId": "tt0036699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "Cover Girl",
+                  "tmdbId": 21622,
+                  "imdbId": "tt0036723"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "Double Indemnity",
+                  "tmdbId": 996,
+                  "imdbId": "tt0036775"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "His Butler's Sister",
+                  "tmdbId": 64145,
+                  "imdbId": "tt0036001"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Hollywood Canteen",
+                  "tmdbId": 38697,
+                  "imdbId": "tt0036922"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Whitney"
+              ],
+              "movies": [
+                {
+                  "title": "It Happened Tomorrow",
+                  "tmdbId": 3589,
+                  "imdbId": "tt0036962"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Kismet",
+                  "tmdbId": 43501,
+                  "imdbId": "tt0036984"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "Music in Manhattan",
+                  "tmdbId": 218100,
+                  "imdbId": "tt0037105"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mac Dalgleish"
+              ],
+              "movies": [
+                {
+                  "title": "Voice in the Wind",
+                  "tmdbId": 42294,
+                  "imdbId": "tt0037438"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Since You Went Away",
+                  "tmdbId": 42401,
+                  "imdbId": "tt0037280"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Morris Stoloff",
+                "Ernst Toch"
+              ],
+              "movies": [
+                {
+                  "title": "Address Unknown",
+                  "tmdbId": 126759,
+                  "imdbId": "tt0036581"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Mark Twain",
+                  "tmdbId": 120747,
+                  "imdbId": "tt0036582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge of San Luis Rey",
+                  "tmdbId": 151386,
+                  "imdbId": "tt0036672"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Casanova Brown",
+                  "tmdbId": 81751,
+                  "imdbId": "tt0036699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "H. J. Salter"
+              ],
+              "movies": [
+                {
+                  "title": "Christmas Holiday",
+                  "tmdbId": 26530,
+                  "imdbId": "tt0036711"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "Double Indemnity",
+                  "tmdbId": 996,
+                  "imdbId": "tt0036775"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Scharf",
+                "Roy Webb"
+              ],
+              "movies": [
+                {
+                  "title": "The Fighting Seabees",
+                  "tmdbId": 22994,
+                  "imdbId": "tt0036824"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Paul",
+                "Michel Michelet"
+              ],
+              "movies": [
+                {
+                  "title": "The Hairy Ape",
+                  "tmdbId": 129105,
+                  "imdbId": "tt0036892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Stolz"
+              ],
+              "movies": [
+                {
+                  "title": "It Happened Tomorrow",
+                  "tmdbId": 3589,
+                  "imdbId": "tt0036962"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic Efrem Rich"
+              ],
+              "movies": [
+                {
+                  "title": "Jack London",
+                  "tmdbId": 23018,
+                  "imdbId": "tt0036051"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "Kismet",
+                  "tmdbId": 43501,
+                  "imdbId": "tt0036984"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hanns Eisler",
+                "C. Bakaleinikoff"
+              ],
+              "movies": [
+                {
+                  "title": "None But the Lonely Heart",
+                  "tmdbId": 52362,
+                  "imdbId": "tt0037135"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Rose"
+              ],
+              "movies": [
+                {
+                  "title": "The Princess and the Pirate",
+                  "tmdbId": 30506,
+                  "imdbId": "tt0037193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karl Hajos"
+              ],
+              "movies": [
+                {
+                  "title": "Summer Storm",
+                  "tmdbId": 81030,
+                  "imdbId": "tt0037325"
+                }
+              ]
+            },
+            {
+              "names": [
+                "W. Franke Harling"
+              ],
+              "movies": [
+                {
+                  "title": "Three Russian Girls",
+                  "tmdbId": 218086,
+                  "imdbId": "tt0037374"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Paul"
+              ],
+              "movies": [
+                {
+                  "title": "Up in Mabel's Room",
+                  "tmdbId": 191478,
+                  "imdbId": "tt0037421"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michel Michelet"
+              ],
+              "movies": [
+                {
+                  "title": "Voice in the Wind",
+                  "tmdbId": 42294,
+                  "imdbId": "tt0037438"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Wilson",
+                  "tmdbId": 84084,
+                  "imdbId": "tt0037465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "The Woman of the Town",
+                  "tmdbId": 218087,
+                  "imdbId": "tt0037470"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Morris Stoloff",
+                "Carmen Dragon"
+              ],
+              "movies": [
+                {
+                  "title": "Cover Girl",
+                  "tmdbId": 21622,
+                  "imdbId": "tt0036723"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Scharf"
+              ],
+              "movies": [
+                {
+                  "title": "Brazil",
+                  "tmdbId": 218090,
+                  "imdbId": "tt0036670"
+                }
+              ]
+            },
+            {
+              "names": [
+                "C. Bakaleinikoff"
+              ],
+              "movies": [
+                {
+                  "title": "Higher and Higher",
+                  "tmdbId": 43511,
+                  "imdbId": "tt0036919"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "Hollywood Canteen",
+                  "tmdbId": 38697,
+                  "imdbId": "tt0036922"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Irish Eyes Are Smiling",
+                  "tmdbId": 218092,
+                  "imdbId": "tt0036961"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner R. Heymann",
+                "Kurt Weill"
+              ],
+              "movies": [
+                {
+                  "title": "Knickerbocker Holiday",
+                  "tmdbId": 218093,
+                  "imdbId": "tt0036988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Emmett Dolan"
+              ],
+              "movies": [
+                {
+                  "title": "Lady in the Dark",
+                  "tmdbId": 120801,
+                  "imdbId": "tt0037000"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Kay"
+              ],
+              "movies": [
+                {
+                  "title": "Lady, Let's Dance",
+                  "tmdbId": 218094,
+                  "imdbId": "tt0037002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Georgie Stoll"
+              ],
+              "movies": [
+                {
+                  "title": "Meet Me in St. Louis",
+                  "tmdbId": 909,
+                  "imdbId": "tt0037059"
+                }
+              ]
+            },
+            {
+              "names": [
+                "H. J. Salter"
+              ],
+              "movies": [
+                {
+                  "title": "The Merry Monahans",
+                  "tmdbId": 218095,
+                  "imdbId": "tt0037070"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ferde Grofe",
+                "Leo Erdody"
+              ],
+              "movies": [
+                {
+                  "title": "Minstrel Man",
+                  "tmdbId": 218096,
+                  "imdbId": "tt0037076"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mahlon Merrick"
+              ],
+              "movies": [
+                {
+                  "title": "Sensations of 1945",
+                  "tmdbId": 218097,
+                  "imdbId": "tt0037258"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Previn"
+              ],
+              "movies": [
+                {
+                  "title": "Song of the Open Road",
+                  "tmdbId": 218098,
+                  "imdbId": "tt0037297"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf",
+                "Louis Forbes"
+              ],
+              "movies": [
+                {
+                  "title": "Up in Arms",
+                  "tmdbId": 113757,
+                  "imdbId": "tt0037420"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Swinging on a Star"
+              ],
+              "movies": [
+                {
+                  "title": "Going My Way",
+                  "tmdbId": 17661,
+                  "imdbId": "tt0036872"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I Couldn't Sleep a Wink Last Night"
+              ],
+              "movies": [
+                {
+                  "title": "Higher and Higher",
+                  "tmdbId": 43511,
+                  "imdbId": "tt0036919"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'll Walk Alone"
+              ],
+              "movies": [
+                {
+                  "title": "Follow the Boys",
+                  "tmdbId": 27628,
+                  "imdbId": "tt0036832"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'm Making Believe"
+              ],
+              "movies": [
+                {
+                  "title": "Sweet and Low-Down",
+                  "tmdbId": 162236,
+                  "imdbId": "tt0037333"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Now I Know"
+              ],
+              "movies": [
+                {
+                  "title": "Up in Arms",
+                  "tmdbId": 113757,
+                  "imdbId": "tt0037420"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Remember Me to Carolina"
+              ],
+              "movies": [
+                {
+                  "title": "Minstrel Man",
+                  "tmdbId": 218096,
+                  "imdbId": "tt0037076"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rio de Janeiro"
+              ],
+              "movies": [
+                {
+                  "title": "Brazil",
+                  "tmdbId": 218090,
+                  "imdbId": "tt0036670"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Silver Shadows",
+                "Golden Dreams"
+              ],
+              "movies": [
+                {
+                  "title": "Lady, Let's Dance",
+                  "tmdbId": 218094,
+                  "imdbId": "tt0037002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Too Much in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Song of the Open Road",
+                  "tmdbId": 218098,
+                  "imdbId": "tt0037297"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Trolley Song"
+              ],
+              "movies": [
+                {
+                  "title": "Meet Me in St. Louis",
+                  "tmdbId": 909,
+                  "imdbId": "tt0037059"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sweet Dreams Sweetheart"
+              ],
+              "movies": [
+                {
+                  "title": "Hollywood Canteen",
+                  "tmdbId": 38697,
+                  "imdbId": "tt0036922"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Mouse Trouble"
+              ],
+              "movies": [
+                {
+                  "title": "Mouse Trouble",
+                  "tmdbId": 40144,
+                  "imdbId": "tt0037090"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "And to Think That I Saw It on Mulberry Street"
+              ],
+              "movies": [
+                {
+                  "title": "And to Think That I Saw It on Mulberry Street",
+                  "tmdbId": 240377,
+                  "imdbId": "tt0036601"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dog, Cat, and Canary"
+              ],
+              "movies": [
+                {
+                  "title": "Dog, Cat, and Canary",
+                  "tmdbId": 240381,
+                  "imdbId": "tt0036764"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fish Fry"
+              ],
+              "movies": [
+                {
+                  "title": "Fish Fry",
+                  "tmdbId": 220665,
+                  "imdbId": "tt0036829"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How to Play Football"
+              ],
+              "movies": [
+                {
+                  "title": "How to Play Football",
+                  "tmdbId": 66984,
+                  "imdbId": "tt0036933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Boy Johnny"
+              ],
+              "movies": [
+                {
+                  "title": "My Boy Johnny",
+                  "tmdbId": 240384,
+                  "imdbId": "tt0037108"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Swooner Crooner"
+              ],
+              "movies": [
+                {
+                  "title": "Swooner Crooner",
+                  "tmdbId": 100359,
+                  "imdbId": "tt0037339"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Who's Who in Animal Land"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Who in Animal Land",
+                  "tmdbId": 240374,
+                  "imdbId": "tt0037463"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blue-Grass Gentlemen"
+              ],
+              "movies": [
+                {
+                  "title": "Blue-Grass Gentlemen",
+                  "tmdbId": 240375,
+                  "imdbId": "tt0036652"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jammin' the Blues"
+              ],
+              "movies": [
+                {
+                  "title": "Jammin' the Blues",
+                  "tmdbId": 147282,
+                  "imdbId": "tt0036968"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Movie Pests"
+              ],
+              "movies": [
+                {
+                  "title": "Movie Pests",
+                  "tmdbId": 101541,
+                  "imdbId": "tt0037092"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Screen Snapshots' 50th Anniversary of Motion Pictures"
+              ],
+              "movies": [
+                {
+                  "title": "Screen Snapshots' 50th Anniversary of Motion Pictures",
+                  "tmdbId": 240376,
+                  "imdbId": "tt0036576"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "I Won't Play"
+              ],
+              "movies": [
+                {
+                  "title": "I Won't Play",
+                  "tmdbId": 180505,
+                  "imdbId": "tt0036939"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bombalera"
+              ],
+              "movies": [
+                {
+                  "title": "Bombalera",
+                  "tmdbId": 240370,
+                  "imdbId": "tt0036658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Main Street Today"
+              ],
+              "movies": [
+                {
+                  "title": "Main Street Today",
+                  "tmdbId": 240373,
+                  "imdbId": "tt0037039"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "With the Marines at Tarawa"
+              ],
+              "movies": [
+                {
+                  "title": "With the Marines at Tarawa",
+                  "tmdbId": 101586,
+                  "imdbId": "tt0037468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hymn of the Nations"
+              ],
+              "movies": [
+                {
+                  "title": "Hymn of the Nations",
+                  "tmdbId": 240385,
+                  "imdbId": "tt0036023"
+                }
+              ]
+            },
+            {
+              "names": [
+                "New Americans"
+              ],
+              "movies": [
+                {
+                  "title": "New Americans",
+                  "tmdbId": 240386,
+                  "imdbId": "tt0037125"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

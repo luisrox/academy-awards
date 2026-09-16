@@ -1,0 +1,1498 @@
+{
+  "ceremony": {
+    "ordinal": 43,
+    "ceremonyYear": 1971,
+    "ceremonyDate": "1971-04-15",
+    "filmYearLabel": "1970",
+    "slug": "1971",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Patton"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Airport"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Five Easy Pieces"
+              ],
+              "movies": [
+                {
+                  "title": "Five Easy Pieces",
+                  "tmdbId": 26617,
+                  "imdbId": "tt0065724"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Love Story"
+              ],
+              "movies": [
+                {
+                  "title": "Love Story",
+                  "tmdbId": 9062,
+                  "imdbId": "tt0066011"
+                }
+              ]
+            },
+            {
+              "names": [
+                "M*A*S*H"
+              ],
+              "movies": [
+                {
+                  "title": "M*A*S*H",
+                  "tmdbId": 651,
+                  "imdbId": "tt0066026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Franklin J. Schaffner"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Altman"
+              ],
+              "movies": [
+                {
+                  "title": "M*A*S*H",
+                  "tmdbId": 651,
+                  "imdbId": "tt0066026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Federico Fellini"
+              ],
+              "movies": [
+                {
+                  "title": "Fellini Satyricon",
+                  "tmdbId": 11163,
+                  "imdbId": "tt0064940"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Hiller"
+              ],
+              "movies": [
+                {
+                  "title": "Love Story",
+                  "tmdbId": 9062,
+                  "imdbId": "tt0066011"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ken Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Women in Love",
+                  "tmdbId": 66027,
+                  "imdbId": "tt0066579"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "George C. Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Melvyn Douglas"
+              ],
+              "movies": [
+                {
+                  "title": "I Never Sang for My Father",
+                  "tmdbId": 92283,
+                  "imdbId": "tt0065872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Earl Jones"
+              ],
+              "movies": [
+                {
+                  "title": "The Great White Hope",
+                  "tmdbId": 17978,
+                  "imdbId": "tt0065797"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Five Easy Pieces",
+                  "tmdbId": 26617,
+                  "imdbId": "tt0065724"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ryan O'Neal"
+              ],
+              "movies": [
+                {
+                  "title": "Love Story",
+                  "tmdbId": 9062,
+                  "imdbId": "tt0066011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Glenda Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "Women in Love",
+                  "tmdbId": 66027,
+                  "imdbId": "tt0066579"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jane Alexander"
+              ],
+              "movies": [
+                {
+                  "title": "The Great White Hope",
+                  "tmdbId": 17978,
+                  "imdbId": "tt0065797"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ali MacGraw"
+              ],
+              "movies": [
+                {
+                  "title": "Love Story",
+                  "tmdbId": 9062,
+                  "imdbId": "tt0066011"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sarah Miles"
+              ],
+              "movies": [
+                {
+                  "title": "Ryan's Daughter",
+                  "tmdbId": 38953,
+                  "imdbId": "tt0066319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carrie Snodgress"
+              ],
+              "movies": [
+                {
+                  "title": "Diary of a Mad Housewife",
+                  "tmdbId": 31677,
+                  "imdbId": "tt0065636"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "John Mills"
+              ],
+              "movies": [
+                {
+                  "title": "Ryan's Daughter",
+                  "tmdbId": 38953,
+                  "imdbId": "tt0066319"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard S. Castellano"
+              ],
+              "movies": [
+                {
+                  "title": "Lovers and Other Strangers",
+                  "tmdbId": 42593,
+                  "imdbId": "tt0066016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chief Dan George"
+              ],
+              "movies": [
+                {
+                  "title": "Little Big Man",
+                  "tmdbId": 11040,
+                  "imdbId": "tt0065988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Hackman"
+              ],
+              "movies": [
+                {
+                  "title": "I Never Sang for My Father",
+                  "tmdbId": 92283,
+                  "imdbId": "tt0065872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Marley"
+              ],
+              "movies": [
+                {
+                  "title": "Love Story",
+                  "tmdbId": 9062,
+                  "imdbId": "tt0066011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Helen Hayes"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Karen Black"
+              ],
+              "movies": [
+                {
+                  "title": "Five Easy Pieces",
+                  "tmdbId": 26617,
+                  "imdbId": "tt0065724"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Grant"
+              ],
+              "movies": [
+                {
+                  "title": "The Landlord",
+                  "tmdbId": 64828,
+                  "imdbId": "tt0065963"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sally Kellerman"
+              ],
+              "movies": [
+                {
+                  "title": "M*A*S*H",
+                  "tmdbId": 651,
+                  "imdbId": "tt0066026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maureen Stapleton"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Francis Ford Coppola",
+                "Edmund H. North"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bob Rafelson"
+              ],
+              "movies": [
+                {
+                  "title": "Five Easy Pieces",
+                  "tmdbId": 26617,
+                  "imdbId": "tt0065724"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "Joe",
+                  "tmdbId": 46691,
+                  "imdbId": "tt0065916"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Erich Segal"
+              ],
+              "movies": [
+                {
+                  "title": "Love Story",
+                  "tmdbId": 9062,
+                  "imdbId": "tt0066011"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric Rohmer"
+              ],
+              "movies": [
+                {
+                  "title": "My Night at Maud's",
+                  "tmdbId": 48831,
+                  "imdbId": "tt0064612"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ring Lardner Jr."
+              ],
+              "movies": [
+                {
+                  "title": "M*A*S*H",
+                  "tmdbId": 651,
+                  "imdbId": "tt0066026"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Seaton"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Woodruff Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "I Never Sang for My Father",
+                  "tmdbId": 92283,
+                  "imdbId": "tt0065872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Bologna",
+                "Renee Taylor",
+                "David Zelag Goodman"
+              ],
+              "movies": [
+                {
+                  "title": "Lovers and Other Strangers",
+                  "tmdbId": 42593,
+                  "imdbId": "tt0066016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Larry Kramer"
+              ],
+              "movies": [
+                {
+                  "title": "Women in Love",
+                  "tmdbId": 66027,
+                  "imdbId": "tt0066579"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Investigation of a Citizen Above Suspicion"
+              ],
+              "movies": [
+                {
+                  "title": "Investigation of a Citizen Above Suspicion",
+                  "tmdbId": 26451,
+                  "imdbId": "tt0065889"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "First Love"
+              ],
+              "movies": [
+                {
+                  "title": "First Love",
+                  "tmdbId": 198044,
+                  "imdbId": "tt0065703"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Bamboo Incident"
+              ],
+              "movies": [
+                {
+                  "title": "The Bamboo Incident",
+                  "tmdbId": 202776,
+                  "imdbId": "tt0065838"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peace in the Fields"
+              ],
+              "movies": [
+                {
+                  "title": "Peace in the Fields",
+                  "tmdbId": 202777,
+                  "imdbId": "tt0066198"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tristana"
+              ],
+              "movies": [
+                {
+                  "title": "Tristana",
+                  "tmdbId": 35838,
+                  "imdbId": "tt0066491"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Woodstock"
+              ],
+              "movies": [
+                {
+                  "title": "Woodstock",
+                  "tmdbId": 9459,
+                  "imdbId": "tt0066580"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chariots of the Gods"
+              ],
+              "movies": [
+                {
+                  "title": "Chariots of the Gods",
+                  "tmdbId": 42587,
+                  "imdbId": "tt0065702"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "Jack Johnson",
+                  "tmdbId": 149319,
+                  "imdbId": "tt0065906"
+                }
+              ]
+            },
+            {
+              "names": [
+                "King: A Filmed Record... Montgomery to Memphis"
+              ],
+              "movies": [
+                {
+                  "title": "King: A Filmed Record... Montgomery to Memphis",
+                  "tmdbId": 149320,
+                  "imdbId": "tt0065944"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Say Goodbye"
+              ],
+              "movies": [
+                {
+                  "title": "Say Goodbye",
+                  "tmdbId": 149322,
+                  "imdbId": "tt0066336"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Freddie Young"
+              ],
+              "movies": [
+                {
+                  "title": "Ryan's Daughter",
+                  "tmdbId": 38953,
+                  "imdbId": "tt0066319"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fred J. Koenekamp"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Laszlo"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Osamu Furuya"
+              ],
+              "movies": [
+                {
+                  "title": "Tora! Tora! Tora!",
+                  "tmdbId": 11165,
+                  "imdbId": "tt0066473"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Women in Love",
+                  "tmdbId": 66027,
+                  "imdbId": "tt0066579"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Hugh S. Fowler"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stuart Gilmore"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Danford B. Greene"
+              ],
+              "movies": [
+                {
+                  "title": "M*A*S*H",
+                  "tmdbId": 651,
+                  "imdbId": "tt0066026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James E. Newcom",
+                "Pembroke J. Herring",
+                "Inoue Chikaya"
+              ],
+              "movies": [
+                {
+                  "title": "Tora! Tora! Tora!",
+                  "tmdbId": 11165,
+                  "imdbId": "tt0066473"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thelma Schoonmaker"
+              ],
+              "movies": [
+                {
+                  "title": "Woodstock",
+                  "tmdbId": 9459,
+                  "imdbId": "tt0066580"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Urie McCleary",
+                "Gil Parrondo",
+                "Antonio Mateos",
+                "Pierre-Louis Thevenet"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alexander Golitzen",
+                "E. Preston Ames",
+                "Jack D. Moore",
+                "Mickey S. Michaels"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tambi Larsen",
+                "Darrell Silvera"
+              ],
+              "movies": [
+                {
+                  "title": "The Molly Maguires",
+                  "tmdbId": 42345,
+                  "imdbId": "tt0066090"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terence Marsh",
+                "Bob Cartwright",
+                "Pamela Cornell"
+              ],
+              "movies": [
+                {
+                  "title": "Scrooge",
+                  "tmdbId": 13765,
+                  "imdbId": "tt0066344"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Martin Smith",
+                "Yoshiro Muraki",
+                "Richard Day",
+                "Taizhou Kawashima"
+              ],
+              "movies": [
+                {
+                  "title": "Tora! Tora! Tora!",
+                  "tmdbId": 11165,
+                  "imdbId": "tt0066473"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Vittorio Nino Novarese"
+              ],
+              "movies": [
+                {
+                  "title": "Cromwell",
+                  "tmdbId": 31675,
+                  "imdbId": "tt0065593"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Bear",
+                "Donald Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Darling Lili",
+                  "tmdbId": 42586,
+                  "imdbId": "tt0065611"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "The Hawaiians",
+                  "tmdbId": 85290,
+                  "imdbId": "tt0065820"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margaret Furse"
+              ],
+              "movies": [
+                {
+                  "title": "Scrooge",
+                  "tmdbId": 13765,
+                  "imdbId": "tt0066344"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "A.D. Flowers",
+                "L.B. Abbot"
+              ],
+              "movies": [
+                {
+                  "title": "Tora! Tora! Tora!",
+                  "tmdbId": 11165,
+                  "imdbId": "tt0066473"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alex Weldon"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Douglas Williams",
+                "Don Bassman"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ronald Pierce",
+                "David H. Moriarty"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon McCallum",
+                "John Bramall"
+              ],
+              "movies": [
+                {
+                  "title": "Ryan's Daughter",
+                  "tmdbId": 38953,
+                  "imdbId": "tt0066319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Murray Spivack",
+                "Herman Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Tora! Tora! Tora!",
+                  "tmdbId": 11165,
+                  "imdbId": "tt0066473"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan Wallin",
+                "L.A. Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "Woodstock",
+                  "tmdbId": 9459,
+                  "imdbId": "tt0066580"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Francis Lai"
+              ],
+              "movies": [
+                {
+                  "title": "Love Story",
+                  "tmdbId": 9062,
+                  "imdbId": "tt0066011"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Airport",
+                  "tmdbId": 10671,
+                  "imdbId": "tt0065377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Cordell"
+              ],
+              "movies": [
+                {
+                  "title": "Cromwell",
+                  "tmdbId": 31675,
+                  "imdbId": "tt0065593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Patton",
+                  "tmdbId": 11202,
+                  "imdbId": "tt0066206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Mancini"
+              ],
+              "movies": [
+                {
+                  "title": "Sunflower",
+                  "tmdbId": 1863,
+                  "imdbId": "tt0065782"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "The Beatles"
+              ],
+              "movies": [
+                {
+                  "title": "Let It Be",
+                  "tmdbId": 20556,
+                  "imdbId": "tt0065976"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fred Karlin",
+                "Tylwyth Kymry"
+              ],
+              "movies": [
+                {
+                  "title": "The Baby Maker",
+                  "tmdbId": 146121,
+                  "imdbId": "tt0065441"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rod McKuen",
+                "John Scott Trotter",
+                "Bill Melendez",
+                "Al Shean",
+                "Vince Guaraldi"
+              ],
+              "movies": [
+                {
+                  "title": "A Boy Named Charlie Brown",
+                  "tmdbId": 15374,
+                  "imdbId": "tt0064107"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Mancini",
+                "Johnny Mercer"
+              ],
+              "movies": [
+                {
+                  "title": "Darling Lili",
+                  "tmdbId": 42586,
+                  "imdbId": "tt0065611"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leslie Bricusse",
+                "Ian Fraser",
+                "Herbert W. Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Scrooge",
+                  "tmdbId": 13765,
+                  "imdbId": "tt0066344"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "For All We Know"
+              ],
+              "movies": [
+                {
+                  "title": "Lovers and Other Strangers",
+                  "tmdbId": 42593,
+                  "imdbId": "tt0066016"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Whistling Away in the Dark"
+              ],
+              "movies": [
+                {
+                  "title": "Darling Lili",
+                  "tmdbId": 42586,
+                  "imdbId": "tt0065611"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Till Love Touches Your Life"
+              ],
+              "movies": [
+                {
+                  "title": "Madron",
+                  "tmdbId": 216603,
+                  "imdbId": "tt0066034"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pieces of Dreams"
+              ],
+              "movies": [
+                {
+                  "title": "Pieces of Dreams",
+                  "tmdbId": 94468,
+                  "imdbId": "tt0066222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thank You Very Much"
+              ],
+              "movies": [
+                {
+                  "title": "Scrooge",
+                  "tmdbId": 13765,
+                  "imdbId": "tt0066344"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Is It Always Right to Be Right?"
+              ],
+              "movies": [
+                {
+                  "title": "Is It Always Right to Be Right?",
+                  "tmdbId": 209535,
+                  "imdbId": "tt0065901"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Further Adventures of Uncle Sam"
+              ],
+              "movies": [
+                {
+                  "title": "The Further Adventures of Uncle Sam",
+                  "tmdbId": 157109,
+                  "imdbId": "tt0065751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Shepherd"
+              ],
+              "movies": [
+                {
+                  "title": "The Shepherd",
+                  "tmdbId": 243342,
+                  "imdbId": "tt0066367"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Resurrection of Broncho Billy"
+              ],
+              "movies": [
+                {
+                  "title": "The Resurrection of Broncho Billy",
+                  "tmdbId": 107486,
+                  "imdbId": "tt0066294"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Shut Up... I'm Crying"
+              ],
+              "movies": [
+                {
+                  "title": "Shut Up... I'm Crying",
+                  "tmdbId": 243339,
+                  "imdbId": "tt0066376"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sticky My Fingers ... Fleet My Feet"
+              ],
+              "movies": [
+                {
+                  "title": "Sticky My Fingers ... Fleet My Feet",
+                  "tmdbId": 243340,
+                  "imdbId": "tt0066406"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Interviews with My Lai Veterans"
+              ],
+              "movies": [
+                {
+                  "title": "Interviews with My Lai Veterans",
+                  "tmdbId": 183859,
+                  "imdbId": "tt0065894"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Gifts"
+              ],
+              "movies": [
+                {
+                  "title": "The Gifts",
+                  "tmdbId": 243344,
+                  "imdbId": "tt0065779"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Long Way from Nowhere"
+              ],
+              "movies": [
+                {
+                  "title": "A Long Way from Nowhere",
+                  "tmdbId": 243345,
+                  "imdbId": "tt0065998"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oisín"
+              ],
+              "movies": [
+                {
+                  "title": "Oisín",
+                  "tmdbId": 243346,
+                  "imdbId": "tt0066178"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Time Is Running Out"
+              ],
+              "movies": [
+                {
+                  "title": "Time Is Running Out",
+                  "tmdbId": 243348,
+                  "imdbId": "tt0066458"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

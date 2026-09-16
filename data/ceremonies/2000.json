@@ -1,0 +1,1571 @@
+{
+  "ceremony": {
+    "ordinal": 72,
+    "ceremonyYear": 2000,
+    "ceremonyDate": "2000-03-26",
+    "filmYearLabel": "1999",
+    "slug": "2000",
+    "decade": "2000s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "American Beauty"
+              ],
+              "movies": [
+                {
+                  "title": "American Beauty",
+                  "tmdbId": 14,
+                  "imdbId": "tt0169547"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Cider House Rules"
+              ],
+              "movies": [
+                {
+                  "title": "The Cider House Rules",
+                  "tmdbId": 1715,
+                  "imdbId": "tt0124315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Green Mile"
+              ],
+              "movies": [
+                {
+                  "title": "The Green Mile",
+                  "tmdbId": 497,
+                  "imdbId": "tt0120689"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Insider"
+              ],
+              "movies": [
+                {
+                  "title": "The Insider",
+                  "tmdbId": 9008,
+                  "imdbId": "tt0140352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Sixth Sense"
+              ],
+              "movies": [
+                {
+                  "title": "The Sixth Sense",
+                  "tmdbId": 745,
+                  "imdbId": "tt0167404"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Sam Mendes"
+              ],
+              "movies": [
+                {
+                  "title": "American Beauty",
+                  "tmdbId": 14,
+                  "imdbId": "tt0169547"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lasse Hallstrom"
+              ],
+              "movies": [
+                {
+                  "title": "The Cider House Rules",
+                  "tmdbId": 1715,
+                  "imdbId": "tt0124315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spike Jonze"
+              ],
+              "movies": [
+                {
+                  "title": "Being John Malkovich",
+                  "tmdbId": 492,
+                  "imdbId": "tt0120601"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Mann"
+              ],
+              "movies": [
+                {
+                  "title": "The Insider",
+                  "tmdbId": 9008,
+                  "imdbId": "tt0140352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "M. Night Shyamalan"
+              ],
+              "movies": [
+                {
+                  "title": "The Sixth Sense",
+                  "tmdbId": 745,
+                  "imdbId": "tt0167404"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Kevin Spacey"
+              ],
+              "movies": [
+                {
+                  "title": "American Beauty",
+                  "tmdbId": 14,
+                  "imdbId": "tt0169547"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Russell Crowe"
+              ],
+              "movies": [
+                {
+                  "title": "The Insider",
+                  "tmdbId": 9008,
+                  "imdbId": "tt0140352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Farnsworth"
+              ],
+              "movies": [
+                {
+                  "title": "The Straight Story",
+                  "tmdbId": 404,
+                  "imdbId": "tt0166896"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sean Penn"
+              ],
+              "movies": [
+                {
+                  "title": "Sweet and Lowdown",
+                  "tmdbId": 9684,
+                  "imdbId": "tt0158371"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "The Hurricane",
+                  "tmdbId": 10400,
+                  "imdbId": "tt0174856"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Hilary Swank"
+              ],
+              "movies": [
+                {
+                  "title": "Boys Don't Cry",
+                  "tmdbId": 226,
+                  "imdbId": "tt0171804"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Annette Bening"
+              ],
+              "movies": [
+                {
+                  "title": "American Beauty",
+                  "tmdbId": 14,
+                  "imdbId": "tt0169547"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janet McTeer"
+              ],
+              "movies": [
+                {
+                  "title": "Tumbleweeds",
+                  "tmdbId": 55123,
+                  "imdbId": "tt0161023"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julianne Moore"
+              ],
+              "movies": [
+                {
+                  "title": "The End of the Affair",
+                  "tmdbId": 20024,
+                  "imdbId": "tt0172396"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Music of the Heart",
+                  "tmdbId": 26149,
+                  "imdbId": "tt0166943"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Michael Caine"
+              ],
+              "movies": [
+                {
+                  "title": "The Cider House Rules",
+                  "tmdbId": 1715,
+                  "imdbId": "tt0124315"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Cruise"
+              ],
+              "movies": [
+                {
+                  "title": "Magnolia",
+                  "tmdbId": 334,
+                  "imdbId": "tt0175880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Clarke Duncan"
+              ],
+              "movies": [
+                {
+                  "title": "The Green Mile",
+                  "tmdbId": 497,
+                  "imdbId": "tt0120689"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jude Law"
+              ],
+              "movies": [
+                {
+                  "title": "The Talented Mr. Ripley",
+                  "tmdbId": 1213,
+                  "imdbId": "tt0134119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Haley Joel Osment"
+              ],
+              "movies": [
+                {
+                  "title": "The Sixth Sense",
+                  "tmdbId": 745,
+                  "imdbId": "tt0167404"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Angelina Jolie"
+              ],
+              "movies": [
+                {
+                  "title": "Girl, Interrupted",
+                  "tmdbId": 3558,
+                  "imdbId": "tt0172493"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Toni Collette"
+              ],
+              "movies": [
+                {
+                  "title": "The Sixth Sense",
+                  "tmdbId": 745,
+                  "imdbId": "tt0167404"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Catherine Keener"
+              ],
+              "movies": [
+                {
+                  "title": "Being John Malkovich",
+                  "tmdbId": 492,
+                  "imdbId": "tt0120601"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Samantha Morton"
+              ],
+              "movies": [
+                {
+                  "title": "Sweet and Lowdown",
+                  "tmdbId": 9684,
+                  "imdbId": "tt0158371"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chloe Sevigny"
+              ],
+              "movies": [
+                {
+                  "title": "Boys Don't Cry",
+                  "tmdbId": 226,
+                  "imdbId": "tt0171804"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alan Ball"
+              ],
+              "movies": [
+                {
+                  "title": "American Beauty",
+                  "tmdbId": 14,
+                  "imdbId": "tt0169547"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charlie Kaufman"
+              ],
+              "movies": [
+                {
+                  "title": "Being John Malkovich",
+                  "tmdbId": 492,
+                  "imdbId": "tt0120601"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Thomas Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Magnolia",
+                  "tmdbId": 334,
+                  "imdbId": "tt0175880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "M. Night Shyamalan"
+              ],
+              "movies": [
+                {
+                  "title": "The Sixth Sense",
+                  "tmdbId": 745,
+                  "imdbId": "tt0167404"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "Topsy-Turvy",
+                  "tmdbId": 46435,
+                  "imdbId": "tt0151568"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "John Irving"
+              ],
+              "movies": [
+                {
+                  "title": "The Cider House Rules",
+                  "tmdbId": 1715,
+                  "imdbId": "tt0124315"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alexander Payne",
+                "Jim Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "Election",
+                  "tmdbId": 9451,
+                  "imdbId": "tt0126886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Darabont"
+              ],
+              "movies": [
+                {
+                  "title": "The Green Mile",
+                  "tmdbId": 497,
+                  "imdbId": "tt0120689"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Mann",
+                "Eric Roth"
+              ],
+              "movies": [
+                {
+                  "title": "The Insider",
+                  "tmdbId": 9008,
+                  "imdbId": "tt0140352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Minghella"
+              ],
+              "movies": [
+                {
+                  "title": "The Talented Mr. Ripley",
+                  "tmdbId": 1213,
+                  "imdbId": "tt0134119"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "All About My Mother"
+              ],
+              "movies": [
+                {
+                  "title": "All About My Mother",
+                  "tmdbId": 99,
+                  "imdbId": "tt0185125"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Himalaya"
+              ],
+              "movies": [
+                {
+                  "title": "Himalaya",
+                  "tmdbId": 26813,
+                  "imdbId": "tt0210727"
+                }
+              ]
+            },
+            {
+              "names": [
+                "East/West"
+              ],
+              "movies": [
+                {
+                  "title": "East/West",
+                  "tmdbId": 28463,
+                  "imdbId": "tt0181530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Solomon and Gaenor"
+              ],
+              "movies": [
+                {
+                  "title": "Solomon and Gaenor",
+                  "tmdbId": 81517,
+                  "imdbId": "tt0181830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Under the Sun"
+              ],
+              "movies": [
+                {
+                  "title": "Under the Sun",
+                  "tmdbId": 52673,
+                  "imdbId": "tt0158302"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "One Day in September"
+              ],
+              "movies": [
+                {
+                  "title": "One Day in September",
+                  "tmdbId": 34045,
+                  "imdbId": "tt0230591"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Buena Vista Social Club"
+              ],
+              "movies": [
+                {
+                  "title": "Buena Vista Social Club",
+                  "tmdbId": 11779,
+                  "imdbId": "tt0186508"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Genghis Blues"
+              ],
+              "movies": [
+                {
+                  "title": "Genghis Blues",
+                  "tmdbId": 28030,
+                  "imdbId": "tt0187859"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On the Ropes"
+              ],
+              "movies": [
+                {
+                  "title": "On the Ropes",
+                  "tmdbId": 113273,
+                  "imdbId": "tt0181733"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Speaking in Strings"
+              ],
+              "movies": [
+                {
+                  "title": "Speaking in Strings",
+                  "tmdbId": 113275,
+                  "imdbId": "tt0181835"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Conrad L. Hall"
+              ],
+              "movies": [
+                {
+                  "title": "American Beauty",
+                  "tmdbId": 14,
+                  "imdbId": "tt0169547"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Roger Pratt"
+              ],
+              "movies": [
+                {
+                  "title": "The End of the Affair",
+                  "tmdbId": 20024,
+                  "imdbId": "tt0172396"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dante Spinotti"
+              ],
+              "movies": [
+                {
+                  "title": "The Insider",
+                  "tmdbId": 9008,
+                  "imdbId": "tt0140352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emmanuel Lubezki"
+              ],
+              "movies": [
+                {
+                  "title": "Sleepy Hollow",
+                  "tmdbId": 2668,
+                  "imdbId": "tt0162661"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Snow Falling on Cedars",
+                  "tmdbId": 10219,
+                  "imdbId": "tt0120834"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Zach Staenberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Matrix",
+                  "tmdbId": 603,
+                  "imdbId": "tt0133093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tariq Anwar"
+              ],
+              "movies": [
+                {
+                  "title": "American Beauty",
+                  "tmdbId": 14,
+                  "imdbId": "tt0169547"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lisa Zeno Churgin"
+              ],
+              "movies": [
+                {
+                  "title": "The Cider House Rules",
+                  "tmdbId": 1715,
+                  "imdbId": "tt0124315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Goldenberg",
+                "Paul Rubell",
+                "David Rosenbloom"
+              ],
+              "movies": [
+                {
+                  "title": "The Insider",
+                  "tmdbId": 9008,
+                  "imdbId": "tt0140352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andrew Mondshein"
+              ],
+              "movies": [
+                {
+                  "title": "The Sixth Sense",
+                  "tmdbId": 745,
+                  "imdbId": "tt0167404"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Rick Heinrichs",
+                "Peter Young"
+              ],
+              "movies": [
+                {
+                  "title": "Sleepy Hollow",
+                  "tmdbId": 2668,
+                  "imdbId": "tt0162661"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Luciana Arrighi",
+                "Ian Whittaker"
+              ],
+              "movies": [
+                {
+                  "title": "Anna and the King",
+                  "tmdbId": 1439,
+                  "imdbId": "tt0166485"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Gropman",
+                "Beth Rubino"
+              ],
+              "movies": [
+                {
+                  "title": "The Cider House Rules",
+                  "tmdbId": 1715,
+                  "imdbId": "tt0124315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Walker",
+                "Bruno Cesari"
+              ],
+              "movies": [
+                {
+                  "title": "The Talented Mr. Ripley",
+                  "tmdbId": 1213,
+                  "imdbId": "tt0134119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eve Stewart",
+                "John Bush"
+              ],
+              "movies": [
+                {
+                  "title": "Topsy-Turvy",
+                  "tmdbId": 46435,
+                  "imdbId": "tt0151568"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Lindy Hemming"
+              ],
+              "movies": [
+                {
+                  "title": "Topsy-Turvy",
+                  "tmdbId": 46435,
+                  "imdbId": "tt0151568"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jenny Beavan"
+              ],
+              "movies": [
+                {
+                  "title": "Anna and the King",
+                  "tmdbId": 1439,
+                  "imdbId": "tt0166485"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Sleepy Hollow",
+                  "tmdbId": 2668,
+                  "imdbId": "tt0162661"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Jones",
+                "Ann Roth"
+              ],
+              "movies": [
+                {
+                  "title": "The Talented Mr. Ripley",
+                  "tmdbId": 1213,
+                  "imdbId": "tt0134119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milena Canonero"
+              ],
+              "movies": [
+                {
+                  "title": "Titus",
+                  "tmdbId": 12524,
+                  "imdbId": "tt0120866"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Christine Blundell",
+                "Trefor Proud"
+              ],
+              "movies": [
+                {
+                  "title": "Topsy-Turvy",
+                  "tmdbId": 46435,
+                  "imdbId": "tt0151568"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michele Burke",
+                "Mike Smithson"
+              ],
+              "movies": [
+                {
+                  "title": "Austin Powers: The Spy Who Shagged Me",
+                  "tmdbId": 817,
+                  "imdbId": "tt0145660"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greg Cannom"
+              ],
+              "movies": [
+                {
+                  "title": "Bicentennial Man",
+                  "tmdbId": 2277,
+                  "imdbId": "tt0182789"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rick Baker"
+              ],
+              "movies": [
+                {
+                  "title": "Life",
+                  "tmdbId": 6522,
+                  "imdbId": "tt0123964"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "John Gaeta",
+                "Janek Sirrs",
+                "Steve Courtley",
+                "Jon Thum"
+              ],
+              "movies": [
+                {
+                  "title": "The Matrix",
+                  "tmdbId": 603,
+                  "imdbId": "tt0133093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Knoll",
+                "Dennis Muren",
+                "Scott Squires",
+                "Rob Coleman"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: Episode I - The Phantom Menace",
+                  "tmdbId": 1893,
+                  "imdbId": "tt0120915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Dykstra",
+                "Jerome Chen",
+                "Henry F. Anderson III",
+                "Eric Allard"
+              ],
+              "movies": [
+                {
+                  "title": "Stuart Little",
+                  "tmdbId": 10137,
+                  "imdbId": "tt0164912"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "John T. Reitz",
+                "Gregg Rudloff",
+                "David E. Campbell",
+                "David Lee"
+              ],
+              "movies": [
+                {
+                  "title": "The Matrix",
+                  "tmdbId": 603,
+                  "imdbId": "tt0133093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert J. Litt",
+                "Elliot Tyson",
+                "Michael Herbick",
+                "Willie D. Burton"
+              ],
+              "movies": [
+                {
+                  "title": "The Green Mile",
+                  "tmdbId": 497,
+                  "imdbId": "tt0120689"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Doug Hemphill",
+                "Lee Orloff"
+              ],
+              "movies": [
+                {
+                  "title": "The Insider",
+                  "tmdbId": 9008,
+                  "imdbId": "tt0140352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leslie Shatz",
+                "Chris Carpenter",
+                "Rick Kline",
+                "Chris Munro"
+              ],
+              "movies": [
+                {
+                  "title": "The Mummy",
+                  "tmdbId": 564,
+                  "imdbId": "tt0120616"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Tom Johnson",
+                "Shawn Murphy",
+                "John Midgley"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: Episode I - The Phantom Menace",
+                  "tmdbId": 1893,
+                  "imdbId": "tt0120915"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Dane Davis"
+              ],
+              "movies": [
+                {
+                  "title": "The Matrix",
+                  "tmdbId": 603,
+                  "imdbId": "tt0133093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ren Klyce",
+                "Richard Hymns"
+              ],
+              "movies": [
+                {
+                  "title": "Fight Club",
+                  "tmdbId": 550,
+                  "imdbId": "tt0137523"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Burtt",
+                "Tom Bellfort"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: Episode I - The Phantom Menace",
+                  "tmdbId": 1893,
+                  "imdbId": "tt0120915"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Corigliano"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Violin",
+                  "tmdbId": 14283,
+                  "imdbId": "tt0120802"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "American Beauty",
+                  "tmdbId": 14,
+                  "imdbId": "tt0169547"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Angela's Ashes",
+                  "tmdbId": 10397,
+                  "imdbId": "tt0145653"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rachel Portman"
+              ],
+              "movies": [
+                {
+                  "title": "The Cider House Rules",
+                  "tmdbId": 1715,
+                  "imdbId": "tt0124315"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gabriel Yared"
+              ],
+              "movies": [
+                {
+                  "title": "The Talented Mr. Ripley",
+                  "tmdbId": 1213,
+                  "imdbId": "tt0134119"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "You'll Be In My Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Tarzan",
+                  "tmdbId": 37135,
+                  "imdbId": "tt0120855"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blame Canada"
+              ],
+              "movies": [
+                {
+                  "title": "South Park: Bigger, Longer & Uncut",
+                  "tmdbId": 9473,
+                  "imdbId": "tt0158983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Music of My Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Music of the Heart",
+                  "tmdbId": 26149,
+                  "imdbId": "tt0166943"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Save Me"
+              ],
+              "movies": [
+                {
+                  "title": "Magnolia",
+                  "tmdbId": 334,
+                  "imdbId": "tt0175880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When She Loved Me"
+              ],
+              "movies": [
+                {
+                  "title": "Toy Story 2",
+                  "tmdbId": 863,
+                  "imdbId": "tt0120363"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Old Man and the Sea"
+              ],
+              "movies": [
+                {
+                  "title": "The Old Man and the Sea",
+                  "tmdbId": 38577,
+                  "imdbId": "tt0207639"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Humdrum"
+              ],
+              "movies": [
+                {
+                  "title": "Humdrum",
+                  "tmdbId": 209969,
+                  "imdbId": "tt0192145"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Grandmother Ironed the King's Shirts"
+              ],
+              "movies": [
+                {
+                  "title": "My Grandmother Ironed the King's Shirts",
+                  "tmdbId": 215509,
+                  "imdbId": "tt0210853"
+                }
+              ]
+            },
+            {
+              "names": [
+                "3 Misses"
+              ],
+              "movies": [
+                {
+                  "title": "3 Misses",
+                  "tmdbId": 2751,
+                  "imdbId": "tt0239206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When the Day Breaks"
+              ],
+              "movies": [
+                {
+                  "title": "When the Day Breaks",
+                  "tmdbId": 160332,
+                  "imdbId": "tt0200282"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "My Mother Dreams the Satan's Disciples in New York"
+              ],
+              "movies": [
+                {
+                  "title": "My Mother Dreams the Satan's Disciples in New York",
+                  "tmdbId": 244942,
+                  "imdbId": "tt0177023"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Theis and Nico"
+              ],
+              "movies": [
+                {
+                  "title": "Theis and Nico",
+                  "tmdbId": 244943,
+                  "imdbId": "tt0191850"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Killing Joe"
+              ],
+              "movies": [
+                {
+                  "title": "Killing Joe",
+                  "tmdbId": 244945,
+                  "imdbId": "tt0236386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Small Change"
+              ],
+              "movies": [
+                {
+                  "title": "Small Change",
+                  "tmdbId": 244946,
+                  "imdbId": "tt0200780"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Major and Minor Miracles"
+              ],
+              "movies": [
+                {
+                  "title": "Major and Minor Miracles",
+                  "tmdbId": 244948,
+                  "imdbId": "tt0239583"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "King Gimp"
+              ],
+              "movies": [
+                {
+                  "title": "King Gimp",
+                  "tmdbId": 244949,
+                  "imdbId": "tt0239528"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eyewitness"
+              ],
+              "movies": [
+                {
+                  "title": "Eyewitness",
+                  "tmdbId": 244951,
+                  "imdbId": "tt0239379"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wildest Show in the South: The Angola Prison Rodeo"
+              ],
+              "movies": [
+                {
+                  "title": "The Wildest Show in the South: The Angola Prison Rodeo",
+                  "tmdbId": 244952,
+                  "imdbId": "tt0240216"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

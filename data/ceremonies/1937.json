@@ -1,0 +1,1491 @@
+{
+  "ceremony": {
+    "ordinal": 9,
+    "ceremonyYear": 1937,
+    "ceremonyDate": "1937-03-04",
+    "filmYearLabel": "1936",
+    "slug": "1937",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Great Ziegfeld"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Ziegfeld",
+                  "tmdbId": 43277,
+                  "imdbId": "tt0027698"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anthony Adverse"
+              ],
+              "movies": [
+                {
+                  "title": "Anthony Adverse",
+                  "tmdbId": 37658,
+                  "imdbId": "tt0027300"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dodsworth"
+              ],
+              "movies": [
+                {
+                  "title": "Dodsworth",
+                  "tmdbId": 31507,
+                  "imdbId": "tt0027532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Libeled Lady"
+              ],
+              "movies": [
+                {
+                  "title": "Libeled Lady",
+                  "tmdbId": 31773,
+                  "imdbId": "tt0027884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mr. Deeds Goes to Town"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Deeds Goes to Town",
+                  "tmdbId": 24807,
+                  "imdbId": "tt0027996"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Romeo and Juliet"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo and Juliet",
+                  "tmdbId": 43879,
+                  "imdbId": "tt0028203"
+                }
+              ]
+            },
+            {
+              "names": [
+                "San Francisco"
+              ],
+              "movies": [
+                {
+                  "title": "San Francisco",
+                  "tmdbId": 43881,
+                  "imdbId": "tt0028216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Story of Louis Pasteur"
+              ],
+              "movies": [
+                {
+                  "title": "The Story of Louis Pasteur",
+                  "tmdbId": 74469,
+                  "imdbId": "tt0028313"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Tale of Two Cities"
+              ],
+              "movies": [
+                {
+                  "title": "A Tale of Two Cities",
+                  "tmdbId": 17831,
+                  "imdbId": "tt0027075"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Three Smart Girls"
+              ],
+              "movies": [
+                {
+                  "title": "Three Smart Girls",
+                  "tmdbId": 64142,
+                  "imdbId": "tt0028373"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Frank Capra"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Deeds Goes to Town",
+                  "tmdbId": 24807,
+                  "imdbId": "tt0027996"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gregory La Cava"
+              ],
+              "movies": [
+                {
+                  "title": "My Man Godfrey",
+                  "tmdbId": 13562,
+                  "imdbId": "tt0028010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Z. Leonard"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Ziegfeld",
+                  "tmdbId": 43277,
+                  "imdbId": "tt0027698"
+                }
+              ]
+            },
+            {
+              "names": [
+                "W. S. Van Dyke"
+              ],
+              "movies": [
+                {
+                  "title": "San Francisco",
+                  "tmdbId": 43881,
+                  "imdbId": "tt0028216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "Dodsworth",
+                  "tmdbId": 31507,
+                  "imdbId": "tt0027532"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Paul Muni"
+              ],
+              "movies": [
+                {
+                  "title": "The Story of Louis Pasteur",
+                  "tmdbId": 74469,
+                  "imdbId": "tt0028313"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gary Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Deeds Goes to Town",
+                  "tmdbId": 24807,
+                  "imdbId": "tt0027996"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Huston"
+              ],
+              "movies": [
+                {
+                  "title": "Dodsworth",
+                  "tmdbId": 31507,
+                  "imdbId": "tt0027532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Powell"
+              ],
+              "movies": [
+                {
+                  "title": "My Man Godfrey",
+                  "tmdbId": 13562,
+                  "imdbId": "tt0028010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "San Francisco",
+                  "tmdbId": 43881,
+                  "imdbId": "tt0028216"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Luise Rainer"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Ziegfeld",
+                  "tmdbId": 43277,
+                  "imdbId": "tt0027698"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irene Dunne"
+              ],
+              "movies": [
+                {
+                  "title": "Theodora Goes Wild",
+                  "tmdbId": 52429,
+                  "imdbId": "tt0028355"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gladys George"
+              ],
+              "movies": [
+                {
+                  "title": "Valiant Is the Word for Carrie",
+                  "tmdbId": 114057,
+                  "imdbId": "tt0028455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carole Lombard"
+              ],
+              "movies": [
+                {
+                  "title": "My Man Godfrey",
+                  "tmdbId": 13562,
+                  "imdbId": "tt0028010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norma Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo and Juliet",
+                  "tmdbId": 43879,
+                  "imdbId": "tt0028203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Walter Brennan"
+              ],
+              "movies": [
+                {
+                  "title": "Come and Get It",
+                  "tmdbId": 93313,
+                  "imdbId": "tt0027459"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mischa Auer"
+              ],
+              "movies": [
+                {
+                  "title": "My Man Godfrey",
+                  "tmdbId": 13562,
+                  "imdbId": "tt0028010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Erwin"
+              ],
+              "movies": [
+                {
+                  "title": "Pigskin Parade",
+                  "tmdbId": 83633,
+                  "imdbId": "tt0028103"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Basil Rathbone"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo and Juliet",
+                  "tmdbId": 43879,
+                  "imdbId": "tt0028203"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Akim Tamiroff"
+              ],
+              "movies": [
+                {
+                  "title": "The General Died at Dawn",
+                  "tmdbId": 113916,
+                  "imdbId": "tt0027664"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Gale Sondergaard"
+              ],
+              "movies": [
+                {
+                  "title": "Anthony Adverse",
+                  "tmdbId": 37658,
+                  "imdbId": "tt0027300"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Beulah Bondi"
+              ],
+              "movies": [
+                {
+                  "title": "The Gorgeous Hussy",
+                  "tmdbId": 112284,
+                  "imdbId": "tt0027690"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alice Brady"
+              ],
+              "movies": [
+                {
+                  "title": "My Man Godfrey",
+                  "tmdbId": 13562,
+                  "imdbId": "tt0028010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bonita Granville"
+              ],
+              "movies": [
+                {
+                  "title": "These Three",
+                  "tmdbId": 54569,
+                  "imdbId": "tt0028356"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maria Ouspenskaya"
+              ],
+              "movies": [
+                {
+                  "title": "Dodsworth",
+                  "tmdbId": 31507,
+                  "imdbId": "tt0027532"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Pierre Collings",
+                "Sheridan Gibney"
+              ],
+              "movies": [
+                {
+                  "title": "The Story of Louis Pasteur",
+                  "tmdbId": 74469,
+                  "imdbId": "tt0028313"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frances Goodrich",
+                "Albert Hackett"
+              ],
+              "movies": [
+                {
+                  "title": "After the Thin Man",
+                  "tmdbId": 14588,
+                  "imdbId": "tt0027260"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Dodsworth",
+                  "tmdbId": 31507,
+                  "imdbId": "tt0027532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Riskin"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Deeds Goes to Town",
+                  "tmdbId": 24807,
+                  "imdbId": "tt0027996"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric Hatch",
+                "Morris Ryskind"
+              ],
+              "movies": [
+                {
+                  "title": "My Man Godfrey",
+                  "tmdbId": 13562,
+                  "imdbId": "tt0028010"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Pierre Collings",
+                "Sheridan Gibney"
+              ],
+              "movies": [
+                {
+                  "title": "The Story of Louis Pasteur",
+                  "tmdbId": 74469,
+                  "imdbId": "tt0028313"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Norman Krasna"
+              ],
+              "movies": [
+                {
+                  "title": "Fury",
+                  "tmdbId": 14615,
+                  "imdbId": "tt0027652"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Anthony McGuire"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Ziegfeld",
+                  "tmdbId": 43277,
+                  "imdbId": "tt0027698"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "San Francisco",
+                  "tmdbId": 43881,
+                  "imdbId": "tt0028216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adele Comandini"
+              ],
+              "movies": [
+                {
+                  "title": "Three Smart Girls",
+                  "tmdbId": 64142,
+                  "imdbId": "tt0028373"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "W. Howard Greene",
+                "Harold Rosson"
+              ],
+              "movies": [
+                {
+                  "title": "The Garden of Allah",
+                  "tmdbId": 151848,
+                  "imdbId": "tt0027657"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Tony Gaudio"
+              ],
+              "movies": [
+                {
+                  "title": "Anthony Adverse",
+                  "tmdbId": 37658,
+                  "imdbId": "tt0027300"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Victor Milner"
+              ],
+              "movies": [
+                {
+                  "title": "The General Died at Dawn",
+                  "tmdbId": 113916,
+                  "imdbId": "tt0027664"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "The Gorgeous Hussy",
+                  "tmdbId": 112284,
+                  "imdbId": "tt0027690"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Ralph Dawson"
+              ],
+              "movies": [
+                {
+                  "title": "Anthony Adverse",
+                  "tmdbId": 37658,
+                  "imdbId": "tt0027300"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edward Curtiss"
+              ],
+              "movies": [
+                {
+                  "title": "Come and Get It",
+                  "tmdbId": 93313,
+                  "imdbId": "tt0027459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William S. Gray"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Ziegfeld",
+                  "tmdbId": 43277,
+                  "imdbId": "tt0027698"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara McLean"
+              ],
+              "movies": [
+                {
+                  "title": "Lloyd's of London",
+                  "tmdbId": 81687,
+                  "imdbId": "tt0027902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Conrad A. Nervig"
+              ],
+              "movies": [
+                {
+                  "title": "A Tale of Two Cities",
+                  "tmdbId": 17831,
+                  "imdbId": "tt0027075"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Otto Meyer"
+              ],
+              "movies": [
+                {
+                  "title": "Theodora Goes Wild",
+                  "tmdbId": 52429,
+                  "imdbId": "tt0028355"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Richard Day"
+              ],
+              "movies": [
+                {
+                  "title": "Dodsworth",
+                  "tmdbId": 31507,
+                  "imdbId": "tt0027532"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anton Grot"
+              ],
+              "movies": [
+                {
+                  "title": "Anthony Adverse",
+                  "tmdbId": 37658,
+                  "imdbId": "tt0027300"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Eddie Imazu",
+                "Edwin B. Willis"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Ziegfeld",
+                  "tmdbId": 43277,
+                  "imdbId": "tt0027698"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William S. Darling"
+              ],
+              "movies": [
+                {
+                  "title": "Lloyd's of London",
+                  "tmdbId": 81687,
+                  "imdbId": "tt0027902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert S. D'Agostino",
+                "Jack Otterson"
+              ],
+              "movies": [
+                {
+                  "title": "The Magnificent Brute",
+                  "tmdbId": 218367,
+                  "imdbId": "tt0027930"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Frederic Hope",
+                "Edwin B. Willis"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo and Juliet",
+                  "tmdbId": 43879,
+                  "imdbId": "tt0028203"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Perry Ferguson"
+              ],
+              "movies": [
+                {
+                  "title": "Winterset",
+                  "tmdbId": 87445,
+                  "imdbId": "tt0028511"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "San Francisco",
+                  "tmdbId": 43881,
+                  "imdbId": "tt0028216"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "Banjo on My Knee",
+                  "tmdbId": 149991,
+                  "imdbId": "tt0027331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Charge of the Light Brigade",
+                  "tmdbId": 43884,
+                  "imdbId": "tt0027438"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Dodsworth",
+                  "tmdbId": 31507,
+                  "imdbId": "tt0027532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Raguse"
+              ],
+              "movies": [
+                {
+                  "title": "General Spanky",
+                  "tmdbId": 90358,
+                  "imdbId": "tt0027665"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Deeds Goes to Town",
+                  "tmdbId": 24807,
+                  "imdbId": "tt0027996"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franklin B. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "The Texas Rangers",
+                  "tmdbId": 50104,
+                  "imdbId": "tt0028352"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "That Girl from Paris",
+                  "tmdbId": 218369,
+                  "imdbId": "tt0028354"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Homer G. Tasker"
+              ],
+              "movies": [
+                {
+                  "title": "Three Smart Girls",
+                  "tmdbId": 64142,
+                  "imdbId": "tt0028373"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Anthony Adverse"
+              ],
+              "movies": [
+                {
+                  "title": "Anthony Adverse",
+                  "tmdbId": 37658,
+                  "imdbId": "tt0027300"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Charge of the Light Brigade"
+              ],
+              "movies": [
+                {
+                  "title": "The Charge of the Light Brigade",
+                  "tmdbId": 43884,
+                  "imdbId": "tt0027438"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Garden of Allah"
+              ],
+              "movies": [
+                {
+                  "title": "The Garden of Allah",
+                  "tmdbId": 151848,
+                  "imdbId": "tt0027657"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The General Died at Dawn"
+              ],
+              "movies": [
+                {
+                  "title": "The General Died at Dawn",
+                  "tmdbId": 113916,
+                  "imdbId": "tt0027664"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Winterset"
+              ],
+              "movies": [
+                {
+                  "title": "Winterset",
+                  "tmdbId": 87445,
+                  "imdbId": "tt0028511"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "The Way You Look Tonight"
+              ],
+              "movies": [
+                {
+                  "title": "Swing Time",
+                  "tmdbId": 20325,
+                  "imdbId": "tt0028333"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Did I Remember"
+              ],
+              "movies": [
+                {
+                  "title": "Suzy",
+                  "tmdbId": 52358,
+                  "imdbId": "tt0028330"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I've Got You Under My Skin"
+              ],
+              "movies": [
+                {
+                  "title": "Born to Dance",
+                  "tmdbId": 43872,
+                  "imdbId": "tt0027387"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Melody From the Sky"
+              ],
+              "movies": [
+                {
+                  "title": "The Trail of the Lonesome Pine",
+                  "tmdbId": 76094,
+                  "imdbId": "tt0028401"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pennies"
+              ],
+              "movies": [
+                {
+                  "title": "Pennies from Heaven",
+                  "tmdbId": 189005,
+                  "imdbId": "tt0028092"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Country Cousin"
+              ],
+              "movies": [
+                {
+                  "title": "The Country Cousin",
+                  "tmdbId": 80927,
+                  "imdbId": "tt0027468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Old Mill Pond"
+              ],
+              "movies": [
+                {
+                  "title": "The Old Mill Pond",
+                  "tmdbId": 201973,
+                  "imdbId": "tt0028057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Popeye the Sailor Meets Sindbad the Sailor"
+              ],
+              "movies": [
+                {
+                  "title": "Popeye the Sailor Meets Sindbad the Sailor",
+                  "tmdbId": 67713,
+                  "imdbId": "tt0028119"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Bored of Education"
+              ],
+              "movies": [
+                {
+                  "title": "Bored of Education",
+                  "tmdbId": 202265,
+                  "imdbId": "tt0027385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Moscow Moods"
+              ],
+              "movies": [
+                {
+                  "title": "Moscow Moods",
+                  "tmdbId": 233689,
+                  "imdbId": "tt0027988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wanted - A Master"
+              ],
+              "movies": [
+                {
+                  "title": "Wanted - A Master",
+                  "tmdbId": 233691,
+                  "imdbId": "tt0028480"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "The Public Pays"
+              ],
+              "movies": [
+                {
+                  "title": "The Public Pays",
+                  "tmdbId": 130386,
+                  "imdbId": "tt0028146"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Double or Nothing"
+              ],
+              "movies": [
+                {
+                  "title": "Double or Nothing",
+                  "tmdbId": 233684,
+                  "imdbId": "tt0342147"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dummy Ache"
+              ],
+              "movies": [
+                {
+                  "title": "Dummy Ache",
+                  "tmdbId": 233686,
+                  "imdbId": "tt0027556"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-color",
+          "label": "Best Live Action Short Film (Color)",
+          "winners": [
+            {
+              "names": [
+                "Give Me Liberty"
+              ],
+              "movies": [
+                {
+                  "title": "Give Me Liberty",
+                  "tmdbId": 233693,
+                  "imdbId": "tt0027678"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "La Fiesta de Santa Barbara"
+              ],
+              "movies": [
+                {
+                  "title": "La Fiesta de Santa Barbara",
+                  "tmdbId": 96962,
+                  "imdbId": "tt0027616"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Popular Science J6-2"
+              ],
+              "movies": [
+                {
+                  "title": "Popular Science J6-2",
+                  "tmdbId": 233695,
+                  "imdbId": "tt0026880"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "retired",
+      "label": "Retired Categories",
+      "categories": [
+        {
+          "id": "best-assistant-director",
+          "label": "Best Assistant Director",
+          "winners": [
+            {
+              "names": [
+                "Jack Sullivan"
+              ],
+              "movies": [
+                {
+                  "title": "The Charge of the Light Brigade",
+                  "tmdbId": 43884,
+                  "imdbId": "tt0027438"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Cannon"
+              ],
+              "movies": [
+                {
+                  "title": "Anthony Adverse",
+                  "tmdbId": 37658,
+                  "imdbId": "tt0027300"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric Stacey"
+              ],
+              "movies": [
+                {
+                  "title": "The Garden of Allah",
+                  "tmdbId": 151848,
+                  "imdbId": "tt0027657"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clem Beauchamp"
+              ],
+              "movies": [
+                {
+                  "title": "The Last of the Mohicans",
+                  "tmdbId": 23108,
+                  "imdbId": "tt0027869"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph M. Newman"
+              ],
+              "movies": [
+                {
+                  "title": "San Francisco",
+                  "tmdbId": 43881,
+                  "imdbId": "tt0028216"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-dance-direction",
+          "label": "Best Dance Direction",
+          "winners": [
+            {
+              "names": [
+                "Seymour Felix"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Ziegfeld",
+                  "tmdbId": 43277,
+                  "imdbId": "tt0027698"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dave Gould"
+              ],
+              "movies": [
+                {
+                  "title": "Born to Dance",
+                  "tmdbId": 43872,
+                  "imdbId": "tt0027387"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bobby Connolly"
+              ],
+              "movies": [
+                {
+                  "title": "Cain and Mabel",
+                  "tmdbId": 184741,
+                  "imdbId": "tt0027413"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Russell Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Dancing Pirate",
+                  "tmdbId": 188918,
+                  "imdbId": "tt0027496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Busby Berkeley"
+              ],
+              "movies": [
+                {
+                  "title": "Gold Diggers of 1937",
+                  "tmdbId": 57698,
+                  "imdbId": "tt0027686"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Haskell"
+              ],
+              "movies": [
+                {
+                  "title": "One in a Million",
+                  "tmdbId": 130342,
+                  "imdbId": "tt0028063"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hermes Pan"
+              ],
+              "movies": [
+                {
+                  "title": "Swing Time",
+                  "tmdbId": 20325,
+                  "imdbId": "tt0028333"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

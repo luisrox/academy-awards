@@ -1,0 +1,1756 @@
+{
+  "ceremony": {
+    "ordinal": 90,
+    "ceremonyYear": 2018,
+    "ceremonyDate": "2018-03-04",
+    "filmYearLabel": "2017",
+    "slug": "2018",
+    "decade": "2010s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Shape of Water"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Call Me by Your Name"
+              ],
+              "movies": [
+                {
+                  "title": "Call Me by Your Name",
+                  "tmdbId": 398818,
+                  "imdbId": "tt5726616"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Darkest Hour"
+              ],
+              "movies": [
+                {
+                  "title": "Darkest Hour",
+                  "tmdbId": 399404,
+                  "imdbId": "tt4555426"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dunkirk"
+              ],
+              "movies": [
+                {
+                  "title": "Dunkirk",
+                  "tmdbId": 374720,
+                  "imdbId": "tt5013056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Get Out"
+              ],
+              "movies": [
+                {
+                  "title": "Get Out",
+                  "tmdbId": 419430,
+                  "imdbId": "tt5052448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lady Bird"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Bird",
+                  "tmdbId": 391713,
+                  "imdbId": "tt4925292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Phantom Thread"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom Thread",
+                  "tmdbId": 400617,
+                  "imdbId": "tt5776858"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Post"
+              ],
+              "movies": [
+                {
+                  "title": "The Post",
+                  "tmdbId": 446354,
+                  "imdbId": "tt6294822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Three Billboards Outside Ebbing, Missouri"
+              ],
+              "movies": [
+                {
+                  "title": "Three Billboards Outside Ebbing, Missouri",
+                  "tmdbId": 359940,
+                  "imdbId": "tt5027774"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Guillermo del Toro"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Christopher Nolan"
+              ],
+              "movies": [
+                {
+                  "title": "Dunkirk",
+                  "tmdbId": 374720,
+                  "imdbId": "tt5013056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jordan Peele"
+              ],
+              "movies": [
+                {
+                  "title": "Get Out",
+                  "tmdbId": 419430,
+                  "imdbId": "tt5052448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greta Gerwig"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Bird",
+                  "tmdbId": 391713,
+                  "imdbId": "tt4925292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Thomas Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom Thread",
+                  "tmdbId": 400617,
+                  "imdbId": "tt5776858"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Gary Oldman"
+              ],
+              "movies": [
+                {
+                  "title": "Darkest Hour",
+                  "tmdbId": 399404,
+                  "imdbId": "tt4555426"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Timothee Chalamet"
+              ],
+              "movies": [
+                {
+                  "title": "Call Me by Your Name",
+                  "tmdbId": 398818,
+                  "imdbId": "tt5726616"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Day-Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom Thread",
+                  "tmdbId": 400617,
+                  "imdbId": "tt5776858"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Kaluuya"
+              ],
+              "movies": [
+                {
+                  "title": "Get Out",
+                  "tmdbId": 419430,
+                  "imdbId": "tt5052448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "Roman J. Israel, Esq.",
+                  "tmdbId": 413362,
+                  "imdbId": "tt6000478"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Frances McDormand"
+              ],
+              "movies": [
+                {
+                  "title": "Three Billboards Outside Ebbing, Missouri",
+                  "tmdbId": 359940,
+                  "imdbId": "tt5027774"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sally Hawkins"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margot Robbie"
+              ],
+              "movies": [
+                {
+                  "title": "I, Tonya",
+                  "tmdbId": 389015,
+                  "imdbId": "tt5580036"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Saorise Ronan"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Bird",
+                  "tmdbId": 391713,
+                  "imdbId": "tt4925292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "The Post",
+                  "tmdbId": 446354,
+                  "imdbId": "tt6294822"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Sam Rockwell"
+              ],
+              "movies": [
+                {
+                  "title": "Three Billboards Outside Ebbing, Missouri",
+                  "tmdbId": 359940,
+                  "imdbId": "tt5027774"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Willem Dafoe"
+              ],
+              "movies": [
+                {
+                  "title": "The Florida Project",
+                  "tmdbId": 394117,
+                  "imdbId": "tt5649144"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Harrelson"
+              ],
+              "movies": [
+                {
+                  "title": "Three Billboards Outside Ebbing, Missouri",
+                  "tmdbId": 359940,
+                  "imdbId": "tt5027774"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Jenkins"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Plummer"
+              ],
+              "movies": [
+                {
+                  "title": "All the Money in the World",
+                  "tmdbId": 446791,
+                  "imdbId": "tt5294550"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Allison Janney"
+              ],
+              "movies": [
+                {
+                  "title": "I, Tonya",
+                  "tmdbId": 389015,
+                  "imdbId": "tt5580036"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mary J. Blige"
+              ],
+              "movies": [
+                {
+                  "title": "Mudbound",
+                  "tmdbId": 414425,
+                  "imdbId": "tt2396589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leslie Manville"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom Thread",
+                  "tmdbId": 400617,
+                  "imdbId": "tt5776858"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurie Metcalf"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Bird",
+                  "tmdbId": 391713,
+                  "imdbId": "tt4925292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Octavia Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Jordan Peele"
+              ],
+              "movies": [
+                {
+                  "title": "Get Out",
+                  "tmdbId": 419430,
+                  "imdbId": "tt5052448"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Emily V. Gordon",
+                "Kumail Nanjiani"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Sick",
+                  "tmdbId": 416477,
+                  "imdbId": "tt5462602"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin McDonagh"
+              ],
+              "movies": [
+                {
+                  "title": "Three Billboards Outside Ebbing, Missouri",
+                  "tmdbId": 359940,
+                  "imdbId": "tt5027774"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greta Gerwig"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Bird",
+                  "tmdbId": 391713,
+                  "imdbId": "tt4925292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Guillermo del Toro",
+                "Vanessa Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "James Ivory"
+              ],
+              "movies": [
+                {
+                  "title": "Call Me by Your Name",
+                  "tmdbId": 398818,
+                  "imdbId": "tt5726616"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Scott Neustadter",
+                "Michael H. Weber"
+              ],
+              "movies": [
+                {
+                  "title": "The Disaster Artist",
+                  "tmdbId": 371638,
+                  "imdbId": "tt3521126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scott Frank",
+                "James Mangold",
+                "Michael Green"
+              ],
+              "movies": [
+                {
+                  "title": "Logan",
+                  "tmdbId": 263115,
+                  "imdbId": "tt3315342"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aaron Sorkin"
+              ],
+              "movies": [
+                {
+                  "title": "Molly's Game",
+                  "tmdbId": 396371,
+                  "imdbId": "tt4209788"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Virgil Williams",
+                "Dee Rees"
+              ],
+              "movies": [
+                {
+                  "title": "Mudbound",
+                  "tmdbId": 414425,
+                  "imdbId": "tt2396589"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Coco"
+              ],
+              "movies": [
+                {
+                  "title": "Coco",
+                  "tmdbId": 354912,
+                  "imdbId": "tt2380307"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Boss Baby"
+              ],
+              "movies": [
+                {
+                  "title": "The Boss Baby",
+                  "tmdbId": 295693,
+                  "imdbId": "tt3874544"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Breadwinner"
+              ],
+              "movies": [
+                {
+                  "title": "The Breadwinner",
+                  "tmdbId": 435129,
+                  "imdbId": "tt3901826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ferdinand"
+              ],
+              "movies": [
+                {
+                  "title": "Ferdinand",
+                  "tmdbId": 364689,
+                  "imdbId": "tt3411444"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loving Vincent"
+              ],
+              "movies": [
+                {
+                  "title": "Loving Vincent",
+                  "tmdbId": 339877,
+                  "imdbId": "tt3262342"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "A Fantastic Woman"
+              ],
+              "movies": [
+                {
+                  "title": "A Fantastic Woman",
+                  "tmdbId": 429191,
+                  "imdbId": "tt5639354"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Square"
+              ],
+              "movies": [
+                {
+                  "title": "The Square",
+                  "tmdbId": 401246,
+                  "imdbId": "tt4995790"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Insult"
+              ],
+              "movies": [
+                {
+                  "title": "The Insult",
+                  "tmdbId": 468284,
+                  "imdbId": "tt7048622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loveless"
+              ],
+              "movies": [
+                {
+                  "title": "Loveless",
+                  "tmdbId": 429174,
+                  "imdbId": "tt6304162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On Body and Soul"
+              ],
+              "movies": [
+                {
+                  "title": "On Body and Soul",
+                  "tmdbId": 436343,
+                  "imdbId": "tt5607714"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Icarus"
+              ],
+              "movies": [
+                {
+                  "title": "Icarus",
+                  "tmdbId": 432976,
+                  "imdbId": "tt6333060"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Abacus: Small Enough to Jail"
+              ],
+              "movies": [
+                {
+                  "title": "Abacus: Small Enough to Jail",
+                  "tmdbId": 411007,
+                  "imdbId": "tt5952382"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Faces Places"
+              ],
+              "movies": [
+                {
+                  "title": "Faces Places",
+                  "tmdbId": 451995,
+                  "imdbId": "tt5598102"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Last Men in Aleppo"
+              ],
+              "movies": [
+                {
+                  "title": "Last Men in Aleppo",
+                  "tmdbId": 433085,
+                  "imdbId": "tt6333074"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Strong Island"
+              ],
+              "movies": [
+                {
+                  "title": "Strong Island",
+                  "tmdbId": 428612,
+                  "imdbId": "tt5873150"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "Blade Runner 2049",
+                  "tmdbId": 335984,
+                  "imdbId": "tt1856101"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bruno Delbonnel"
+              ],
+              "movies": [
+                {
+                  "title": "Darkest Hour",
+                  "tmdbId": 399404,
+                  "imdbId": "tt4555426"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hoyte van Hoytema"
+              ],
+              "movies": [
+                {
+                  "title": "Dunkirk",
+                  "tmdbId": 374720,
+                  "imdbId": "tt5013056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rachel Morrison"
+              ],
+              "movies": [
+                {
+                  "title": "Mudbound",
+                  "tmdbId": 414425,
+                  "imdbId": "tt2396589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan Laustsen"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Lee Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Dunkirk",
+                  "tmdbId": 374720,
+                  "imdbId": "tt5013056"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Machliss",
+                "Jonathan Amos"
+              ],
+              "movies": [
+                {
+                  "title": "Baby Driver",
+                  "tmdbId": 339403,
+                  "imdbId": "tt3890160"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tatiana S. Riegel"
+              ],
+              "movies": [
+                {
+                  "title": "I, Tonya",
+                  "tmdbId": 389015,
+                  "imdbId": "tt5580036"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Wolinsky"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Gregory"
+              ],
+              "movies": [
+                {
+                  "title": "Three Billboards Outside Ebbing, Missouri",
+                  "tmdbId": 359940,
+                  "imdbId": "tt5027774"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Paul Denham Austerberry",
+                "Shane Vieau",
+                "Jeff Melvin"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sarah Greenwood",
+                "Katie Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beast",
+                  "tmdbId": 321612,
+                  "imdbId": "tt2771200"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Gassner",
+                "Alessandra Querzola"
+              ],
+              "movies": [
+                {
+                  "title": "Blade Runner 2049",
+                  "tmdbId": 335984,
+                  "imdbId": "tt1856101"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sarah Greenwood",
+                "Katie Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Darkest Hour",
+                  "tmdbId": 399404,
+                  "imdbId": "tt4555426"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Crowley",
+                "Gary Fettis"
+              ],
+              "movies": [
+                {
+                  "title": "Dunkirk",
+                  "tmdbId": 374720,
+                  "imdbId": "tt5013056"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Mark Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom Thread",
+                  "tmdbId": 400617,
+                  "imdbId": "tt5776858"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jacqueline Durran"
+              ],
+              "movies": [
+                {
+                  "title": "Darkest Hour",
+                  "tmdbId": 399404,
+                  "imdbId": "tt4555426"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacqueline Durran"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beast",
+                  "tmdbId": 321612,
+                  "imdbId": "tt2771200"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luis Sequeira"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Consolata Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "Victoria & Abdul",
+                  "tmdbId": 423899,
+                  "imdbId": "tt5816682"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Kazu Hiro",
+                "David Malinowksi",
+                "Lucy Sibbick"
+              ],
+              "movies": [
+                {
+                  "title": "Darkest Hour",
+                  "tmdbId": 399404,
+                  "imdbId": "tt4555426"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel Phillips",
+                "Lou Sheppard"
+              ],
+              "movies": [
+                {
+                  "title": "Victoria & Abdul",
+                  "tmdbId": 423899,
+                  "imdbId": "tt5816682"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arjen Tuiten"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder",
+                  "tmdbId": 406997,
+                  "imdbId": "tt2543472"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "John Nelson",
+                "Gerd Nefzer",
+                "Paul Lambert",
+                "Richard R. Hoover"
+              ],
+              "movies": [
+                {
+                  "title": "Blade Runner 2049",
+                  "tmdbId": 335984,
+                  "imdbId": "tt1856101"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stephen Rosenbaum",
+                "Jeff White",
+                "Scott Benza",
+                "Mike Meinardus"
+              ],
+              "movies": [
+                {
+                  "title": "Kong: Skull Island",
+                  "tmdbId": 293167,
+                  "imdbId": "tt3731562"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Townsend",
+                "Guy Williams",
+                "Jonathan Fawkner",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "Guardians of the Galaxy Vol. 2",
+                  "tmdbId": 283995,
+                  "imdbId": "tt3896198"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Morris",
+                "Mike Mulholland",
+                "Neal Scanlan",
+                "Chris Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Last Jedi",
+                  "tmdbId": 181808,
+                  "imdbId": "tt2527336"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Letteri",
+                "Daniel Barrett",
+                "Dan Lemmon",
+                "Joel Whist"
+              ],
+              "movies": [
+                {
+                  "title": "War for the Planet of the Apes",
+                  "tmdbId": 281338,
+                  "imdbId": "tt3450958"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Mark Weingarten",
+                "Gregg Landaker",
+                "Gary A. Rizzo"
+              ],
+              "movies": [
+                {
+                  "title": "Dunkirk",
+                  "tmdbId": 374720,
+                  "imdbId": "tt5013056"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ron Bartlett",
+                "Dooug Hemphill",
+                "Mac Ruth"
+              ],
+              "movies": [
+                {
+                  "title": "Blade Runner 2049",
+                  "tmdbId": 335984,
+                  "imdbId": "tt1856101"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julian Slater",
+                "Tim Cavagin",
+                "Mary H. Ellis"
+              ],
+              "movies": [
+                {
+                  "title": "Baby Driver",
+                  "tmdbId": 339403,
+                  "imdbId": "tt3890160"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christian Cooke",
+                "Brad Zoern",
+                "Glen Gauthier"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Parker",
+                "Michael Semanick",
+                "Ren Klyce",
+                "Stuart Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Last Jedi",
+                  "tmdbId": 181808,
+                  "imdbId": "tt2527336"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Richard King",
+                "Alex Gibson"
+              ],
+              "movies": [
+                {
+                  "title": "Dunkirk",
+                  "tmdbId": 374720,
+                  "imdbId": "tt5013056"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Julian Slater"
+              ],
+              "movies": [
+                {
+                  "title": "Baby Driver",
+                  "tmdbId": 339403,
+                  "imdbId": "tt3890160"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Mangini",
+                "Theo Green"
+              ],
+              "movies": [
+                {
+                  "title": "Blade Runner 2049",
+                  "tmdbId": 335984,
+                  "imdbId": "tt1856101"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Robitaille",
+                "Nelson Ferreira"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matthew Wood",
+                "Ren Klyce"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Last Jedi",
+                  "tmdbId": 181808,
+                  "imdbId": "tt2527336"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Alexandre Desplat"
+              ],
+              "movies": [
+                {
+                  "title": "The Shape of Water",
+                  "tmdbId": 399055,
+                  "imdbId": "tt5580390"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "Dunkirk",
+                  "tmdbId": 374720,
+                  "imdbId": "tt5013056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonny Greenwood"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom Thread",
+                  "tmdbId": 400617,
+                  "imdbId": "tt5776858"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Last Jedi",
+                  "tmdbId": 181808,
+                  "imdbId": "tt2527336"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carter Burwell"
+              ],
+              "movies": [
+                {
+                  "title": "Three Billboards Outside Ebbing, Missouri",
+                  "tmdbId": 359940,
+                  "imdbId": "tt5027774"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Remember Me"
+              ],
+              "movies": [
+                {
+                  "title": "Coco",
+                  "tmdbId": 354912,
+                  "imdbId": "tt2380307"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mighty River"
+              ],
+              "movies": [
+                {
+                  "title": "Mudbound",
+                  "tmdbId": 414425,
+                  "imdbId": "tt2396589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mystery of Love"
+              ],
+              "movies": [
+                {
+                  "title": "Call Me by Your Name",
+                  "tmdbId": 398818,
+                  "imdbId": "tt5726616"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stand Up for Something"
+              ],
+              "movies": [
+                {
+                  "title": "Marshall",
+                  "tmdbId": 392982,
+                  "imdbId": "tt5301662"
+                }
+              ]
+            },
+            {
+              "names": [
+                "This Is Me"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Showman",
+                  "tmdbId": 316029,
+                  "imdbId": "tt1485796"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Dear Basketball"
+              ],
+              "movies": [
+                {
+                  "title": "Dear Basketball",
+                  "tmdbId": 483306,
+                  "imdbId": "tt6794476"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Garden Party"
+              ],
+              "movies": [
+                {
+                  "title": "Garden Party",
+                  "tmdbId": 476719,
+                  "imdbId": "tt6426140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lou"
+              ],
+              "movies": [
+                {
+                  "title": "Lou",
+                  "tmdbId": 433471,
+                  "imdbId": "tt6267732"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Negative Space"
+              ],
+              "movies": [
+                {
+                  "title": "Negative Space",
+                  "tmdbId": 461303,
+                  "imdbId": "tt7090150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Revolting Rhymes"
+              ],
+              "movies": [
+                {
+                  "title": "Revolting Rhymes",
+                  "tmdbId": 430162,
+                  "imdbId": "tt10453434"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Silent Child"
+              ],
+              "movies": [
+                {
+                  "title": "The Silent Child",
+                  "tmdbId": 492223,
+                  "imdbId": "tt6186970"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Eleven O'Clock"
+              ],
+              "movies": [
+                {
+                  "title": "The Eleven O'Clock",
+                  "tmdbId": 481261,
+                  "imdbId": "tt6023474"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Nephew Emmett"
+              ],
+              "movies": [
+                {
+                  "title": "My Nephew Emmett",
+                  "tmdbId": 484569,
+                  "imdbId": "tt6598290"
+                }
+              ]
+            },
+            {
+              "names": [
+                "DeKalb Elementary"
+              ],
+              "movies": [
+                {
+                  "title": "DeKalb Elementary",
+                  "tmdbId": 442160,
+                  "imdbId": "tt5926890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Watu Wote: All of Us"
+              ],
+              "movies": [
+                {
+                  "title": "Watu Wote: All of Us",
+                  "tmdbId": 492224,
+                  "imdbId": "tt6333422"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Heaven is a Traffic Jam on the 405"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven is a Traffic Jam on the 405",
+                  "tmdbId": 473278,
+                  "imdbId": "tt5095260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edith+Eddie"
+              ],
+              "movies": [
+                {
+                  "title": "Edith+Eddie",
+                  "tmdbId": 443946,
+                  "imdbId": "tt6519356"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Heroin(e)"
+              ],
+              "movies": [
+                {
+                  "title": "Heroin(e)",
+                  "tmdbId": 475345,
+                  "imdbId": "tt7389366"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Knife Skills"
+              ],
+              "movies": [
+                {
+                  "title": "Knife Skills",
+                  "tmdbId": 466489,
+                  "imdbId": "tt5745110"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Traffic Stop"
+              ],
+              "movies": [
+                {
+                  "title": "Traffic Stop",
+                  "tmdbId": 491206,
+                  "imdbId": "tt7874708"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

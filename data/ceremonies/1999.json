@@ -1,0 +1,1623 @@
+{
+  "ceremony": {
+    "ordinal": 71,
+    "ceremonyYear": 1999,
+    "ceremonyDate": "1999-03-21",
+    "filmYearLabel": "1998",
+    "slug": "1999",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Shakespeare in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elizabeth"
+              ],
+              "movies": [
+                {
+                  "title": "Elizabeth",
+                  "tmdbId": 4518,
+                  "imdbId": "tt0127536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life Is Beautiful"
+              ],
+              "movies": [
+                {
+                  "title": "Life Is Beautiful",
+                  "tmdbId": 637,
+                  "imdbId": "tt0118799"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Saving Private Ryan"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Thin Red Line"
+              ],
+              "movies": [
+                {
+                  "title": "The Thin Red Line",
+                  "tmdbId": 8741,
+                  "imdbId": "tt0120863"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Roberto Benigni"
+              ],
+              "movies": [
+                {
+                  "title": "Life Is Beautiful",
+                  "tmdbId": 637,
+                  "imdbId": "tt0118799"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Madden"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terrence Malick"
+              ],
+              "movies": [
+                {
+                  "title": "The Thin Red Line",
+                  "tmdbId": 8741,
+                  "imdbId": "tt0120863"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Weir"
+              ],
+              "movies": [
+                {
+                  "title": "The Truman Show",
+                  "tmdbId": 37165,
+                  "imdbId": "tt0120382"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Roberto Benigni"
+              ],
+              "movies": [
+                {
+                  "title": "Life Is Beautiful",
+                  "tmdbId": 637,
+                  "imdbId": "tt0118799"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Hanks"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ian McKellen"
+              ],
+              "movies": [
+                {
+                  "title": "Gods and Monsters",
+                  "tmdbId": 3033,
+                  "imdbId": "tt0120684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nick Nolte"
+              ],
+              "movies": [
+                {
+                  "title": "Affliction",
+                  "tmdbId": 31662,
+                  "imdbId": "tt0118564"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Norton"
+              ],
+              "movies": [
+                {
+                  "title": "American History X",
+                  "tmdbId": 73,
+                  "imdbId": "tt0120586"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Gwyneth Paltrow"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cate Blanchett"
+              ],
+              "movies": [
+                {
+                  "title": "Elizabeth",
+                  "tmdbId": 4518,
+                  "imdbId": "tt0127536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fernanda Montenegro"
+              ],
+              "movies": [
+                {
+                  "title": "Central Station",
+                  "tmdbId": 666,
+                  "imdbId": "tt0140888"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "One True Thing",
+                  "tmdbId": 53113,
+                  "imdbId": "tt0120776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emily Watson"
+              ],
+              "movies": [
+                {
+                  "title": "Hilary and Jackie",
+                  "tmdbId": 46992,
+                  "imdbId": "tt0150915"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "James Coburn"
+              ],
+              "movies": [
+                {
+                  "title": "Affliction",
+                  "tmdbId": 31662,
+                  "imdbId": "tt0118564"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Duvall"
+              ],
+              "movies": [
+                {
+                  "title": "A Civil Action",
+                  "tmdbId": 9422,
+                  "imdbId": "tt0120633"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ed Harris"
+              ],
+              "movies": [
+                {
+                  "title": "The Truman Show",
+                  "tmdbId": 37165,
+                  "imdbId": "tt0120382"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geoffrey Rush"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Bob Thornton"
+              ],
+              "movies": [
+                {
+                  "title": "A Simple Plan",
+                  "tmdbId": 10223,
+                  "imdbId": "tt0120324"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Judi Dench"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kathy Bates"
+              ],
+              "movies": [
+                {
+                  "title": "Primary Colors",
+                  "tmdbId": 9440,
+                  "imdbId": "tt0119942"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brenda Blethyn"
+              ],
+              "movies": [
+                {
+                  "title": "Little Voice",
+                  "tmdbId": 8545,
+                  "imdbId": "tt0147004"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rachel Griffiths"
+              ],
+              "movies": [
+                {
+                  "title": "Hilary and Jackie",
+                  "tmdbId": 46992,
+                  "imdbId": "tt0150915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lynn Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "Gods and Monsters",
+                  "tmdbId": 3033,
+                  "imdbId": "tt0120684"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Marc Norman",
+                "Tom Stoppard"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warren Beatty",
+                "Jeremy Pikser"
+              ],
+              "movies": [
+                {
+                  "title": "Bulworth",
+                  "tmdbId": 9452,
+                  "imdbId": "tt0118798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vincenzo Cerami",
+                "Roberto Benigni"
+              ],
+              "movies": [
+                {
+                  "title": "Life Is Beautiful",
+                  "tmdbId": 637,
+                  "imdbId": "tt0118799"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Rodat"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andrew Niccol"
+              ],
+              "movies": [
+                {
+                  "title": "The Truman Show",
+                  "tmdbId": 37165,
+                  "imdbId": "tt0120382"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Bill Condon"
+              ],
+              "movies": [
+                {
+                  "title": "Gods and Monsters",
+                  "tmdbId": 3033,
+                  "imdbId": "tt0120684"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Scott Frank"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Sight",
+                  "tmdbId": 1389,
+                  "imdbId": "tt0120780"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elaine May"
+              ],
+              "movies": [
+                {
+                  "title": "Primary Colors",
+                  "tmdbId": 9440,
+                  "imdbId": "tt0119942"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scott B. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "A Simple Plan",
+                  "tmdbId": 10223,
+                  "imdbId": "tt0120324"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terrence Malick"
+              ],
+              "movies": [
+                {
+                  "title": "The Thin Red Line",
+                  "tmdbId": 8741,
+                  "imdbId": "tt0120863"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Life Is Beautiful"
+              ],
+              "movies": [
+                {
+                  "title": "Life Is Beautiful",
+                  "tmdbId": 637,
+                  "imdbId": "tt0118799"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Central Station"
+              ],
+              "movies": [
+                {
+                  "title": "Central Station",
+                  "tmdbId": 666,
+                  "imdbId": "tt0140888"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Children of Heaven"
+              ],
+              "movies": [
+                {
+                  "title": "Children of Heaven",
+                  "tmdbId": 21334,
+                  "imdbId": "tt0118849"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Grandfather"
+              ],
+              "movies": [
+                {
+                  "title": "The Grandfather",
+                  "tmdbId": 69851,
+                  "imdbId": "tt0176415"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tango"
+              ],
+              "movies": [
+                {
+                  "title": "Tango",
+                  "tmdbId": 919317
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Last Days"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Days",
+                  "tmdbId": 20595,
+                  "imdbId": "tt0174852"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dancemaker"
+              ],
+              "movies": [
+                {
+                  "title": "Dancemaker",
+                  "tmdbId": 113286,
+                  "imdbId": "tt0175550"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Farm: Angola, USA"
+              ],
+              "movies": [
+                {
+                  "title": "The Farm: Angola, USA",
+                  "tmdbId": 113284,
+                  "imdbId": "tt0139193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lenny Bruce: Swear to Tell the Truth"
+              ],
+              "movies": [
+                {
+                  "title": "Lenny Bruce: Swear to Tell the Truth",
+                  "tmdbId": 103162,
+                  "imdbId": "tt0175844"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Regret to Inform"
+              ],
+              "movies": [
+                {
+                  "title": "Regret to Inform",
+                  "tmdbId": 113279,
+                  "imdbId": "tt0181786"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Janusz Kaminski"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Conrad L. Hall"
+              ],
+              "movies": [
+                {
+                  "title": "A Civil Action",
+                  "tmdbId": 9422,
+                  "imdbId": "tt0120633"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Remi Adefarasin"
+              ],
+              "movies": [
+                {
+                  "title": "Elizabeth",
+                  "tmdbId": 4518,
+                  "imdbId": "tt0127536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Greatrex"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Toll"
+              ],
+              "movies": [
+                {
+                  "title": "The Thin Red Line",
+                  "tmdbId": 8741,
+                  "imdbId": "tt0120863"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Michael Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Simona Paggi"
+              ],
+              "movies": [
+                {
+                  "title": "Life Is Beautiful",
+                  "tmdbId": 637,
+                  "imdbId": "tt0118799"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne V. Coates"
+              ],
+              "movies": [
+                {
+                  "title": "Out of Sight",
+                  "tmdbId": 1389,
+                  "imdbId": "tt0120780"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Gamble"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Weber",
+                "Leslie Jones",
+                "Saar Klein"
+              ],
+              "movies": [
+                {
+                  "title": "The Thin Red Line",
+                  "tmdbId": 8741,
+                  "imdbId": "tt0120863"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Martin Childs",
+                "Jill Quertier"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Myhre",
+                "Peter Howitt"
+              ],
+              "movies": [
+                {
+                  "title": "Elizabeth",
+                  "tmdbId": 4518,
+                  "imdbId": "tt0127536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeannine Oppewall",
+                "Jay Hart"
+              ],
+              "movies": [
+                {
+                  "title": "Pleasantville",
+                  "tmdbId": 2657,
+                  "imdbId": "tt0120789"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Sanders",
+                "Lisa Dean Kavanagh"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eugenio Zanetti",
+                "Cindy Carr"
+              ],
+              "movies": [
+                {
+                  "title": "What Dreams May Come",
+                  "tmdbId": 12159,
+                  "imdbId": "tt0120889"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Beloved",
+                  "tmdbId": 39437,
+                  "imdbId": "tt0120603"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexandra Byrne"
+              ],
+              "movies": [
+                {
+                  "title": "Elizabeth",
+                  "tmdbId": 4518,
+                  "imdbId": "tt0127536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judianna Makovsky"
+              ],
+              "movies": [
+                {
+                  "title": "Pleasantville",
+                  "tmdbId": 2657,
+                  "imdbId": "tt0120789"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Velvet Goldmine",
+                  "tmdbId": 1808,
+                  "imdbId": "tt0120879"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Jenny Shircore"
+              ],
+              "movies": [
+                {
+                  "title": "Elizabeth",
+                  "tmdbId": 4518,
+                  "imdbId": "tt0127536"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lois Burwell",
+                "Conor O'Sullivan",
+                "Daniel C. Striepeke"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lisa Westcott",
+                "Veronica Brebner"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Joel Hynek",
+                "Nicholas Brooks",
+                "Stuart Robertson",
+                "Kevin Mack"
+              ],
+              "movies": [
+                {
+                  "title": "What Dreams May Come",
+                  "tmdbId": 12159,
+                  "imdbId": "tt0120889"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard R. Hoover",
+                "Patrick McClung",
+                "John Frazier"
+              ],
+              "movies": [
+                {
+                  "title": "Armageddon",
+                  "tmdbId": 95,
+                  "imdbId": "tt0120591"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rick Baker",
+                "Hoyt Yeatman",
+                "Allen Hall",
+                "Jim Mitchell"
+              ],
+              "movies": [
+                {
+                  "title": "Mighty Joe Young",
+                  "tmdbId": 9822,
+                  "imdbId": "tt0120751"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Gary Summers",
+                "Andy Nelson",
+                "Ron Judkins"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Keith A. Wester"
+              ],
+              "movies": [
+                {
+                  "title": "Armageddon",
+                  "tmdbId": 95,
+                  "imdbId": "tt0120591"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Pud Cusack"
+              ],
+              "movies": [
+                {
+                  "title": "The Mask of Zorro",
+                  "tmdbId": 9342,
+                  "imdbId": "tt0120746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robin O'Donoghue",
+                "Dominic Lester",
+                "Peter Glossop"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Anna Behlmer",
+                "Paul Brincat"
+              ],
+              "movies": [
+                {
+                  "title": "The Thin Red Line",
+                  "tmdbId": 8741,
+                  "imdbId": "tt0120863"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Richard Hymns"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Watters"
+              ],
+              "movies": [
+                {
+                  "title": "Armageddon",
+                  "tmdbId": 95,
+                  "imdbId": "tt0120591"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David McMoyler"
+              ],
+              "movies": [
+                {
+                  "title": "The Mask of Zorro",
+                  "tmdbId": 9342,
+                  "imdbId": "tt0120746"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Nicola Piovani"
+              ],
+              "movies": [
+                {
+                  "title": "Life Is Beautiful",
+                  "tmdbId": 637,
+                  "imdbId": "tt0118799"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Hirschfelder"
+              ],
+              "movies": [
+                {
+                  "title": "Elizabeth",
+                  "tmdbId": 4518,
+                  "imdbId": "tt0127536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Pleasantville",
+                  "tmdbId": 2657,
+                  "imdbId": "tt0120789"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Private Ryan",
+                  "tmdbId": 857,
+                  "imdbId": "tt0120815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "The Thin Red Line",
+                  "tmdbId": 8741,
+                  "imdbId": "tt0120863"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Stephen Warbeck"
+              ],
+              "movies": [
+                {
+                  "title": "Shakespeare in Love",
+                  "tmdbId": 1934,
+                  "imdbId": "tt0138097"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "A Bug's Life",
+                  "tmdbId": 9487,
+                  "imdbId": "tt0120623"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matthew Wilder",
+                "David Zippel",
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Mulan",
+                  "tmdbId": 10674,
+                  "imdbId": "tt0120762"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marc Shaiman"
+              ],
+              "movies": [
+                {
+                  "title": "Patch Adams",
+                  "tmdbId": 10312,
+                  "imdbId": "tt0129290"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Schwartz",
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Egypt",
+                  "tmdbId": 9837,
+                  "imdbId": "tt0120794"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "When You Believe"
+              ],
+              "movies": [
+                {
+                  "title": "The Prince of Egypt",
+                  "tmdbId": 9837,
+                  "imdbId": "tt0120794"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I Don't Want to Miss a Thing"
+              ],
+              "movies": [
+                {
+                  "title": "Armageddon",
+                  "tmdbId": 95,
+                  "imdbId": "tt0120591"
+                }
+              ]
+            },
+            {
+              "names": [
+                "That'll Do"
+              ],
+              "movies": [
+                {
+                  "title": "Babe: Pig in the City",
+                  "tmdbId": 9447,
+                  "imdbId": "tt0120595"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Soft Place to Fall"
+              ],
+              "movies": [
+                {
+                  "title": "The Horse Whisperer",
+                  "tmdbId": 547,
+                  "imdbId": "tt0119314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Prayer"
+              ],
+              "movies": [
+                {
+                  "title": "Quest for Camelot",
+                  "tmdbId": 18937,
+                  "imdbId": "tt0120800"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Bunny"
+              ],
+              "movies": [
+                {
+                  "title": "Bunny",
+                  "tmdbId": 48610,
+                  "imdbId": "tt0179011"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Canterbury Tales"
+              ],
+              "movies": [
+                {
+                  "title": "The Canterbury Tales",
+                  "tmdbId": 1117670
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jolly Roger"
+              ],
+              "movies": [
+                {
+                  "title": "Jolly Roger",
+                  "tmdbId": 220834,
+                  "imdbId": "tt0188723"
+                }
+              ]
+            },
+            {
+              "names": [
+                "More"
+              ],
+              "movies": [
+                {
+                  "title": "More",
+                  "tmdbId": 36107,
+                  "imdbId": "tt0188913"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When Life Departs"
+              ],
+              "movies": [
+                {
+                  "title": "When Life Departs",
+                  "tmdbId": 209516,
+                  "imdbId": "tt0189205"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Election Night"
+              ],
+              "movies": [
+                {
+                  "title": "Election Night",
+                  "tmdbId": 93980,
+                  "imdbId": "tt0189179"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Culture"
+              ],
+              "movies": [
+                {
+                  "title": "Culture",
+                  "tmdbId": 244929,
+                  "imdbId": "tt0188533"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Holiday Romance"
+              ],
+              "movies": [
+                {
+                  "title": "Holiday Romance",
+                  "tmdbId": 244930,
+                  "imdbId": "tt0188667"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Postcard"
+              ],
+              "movies": [
+                {
+                  "title": "The Postcard",
+                  "tmdbId": 244933,
+                  "imdbId": "tt0188485"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor"
+              ],
+              "movies": [
+                {
+                  "title": "Victor",
+                  "tmdbId": 435364
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Personals: Improvisations on Romance in the Golden Years"
+              ],
+              "movies": [
+                {
+                  "title": "The Personals: Improvisations on Romance in the Golden Years",
+                  "tmdbId": 244937,
+                  "imdbId": "tt0176018"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Place in the Land"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Land",
+                  "tmdbId": 244938,
+                  "imdbId": "tt0189009"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sunrise Over Tiananmen Square"
+              ],
+              "movies": [
+                {
+                  "title": "Sunrise Over Tiananmen Square",
+                  "tmdbId": 244939,
+                  "imdbId": "tt0189121"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

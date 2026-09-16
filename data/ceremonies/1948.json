@@ -1,0 +1,1502 @@
+{
+  "ceremony": {
+    "ordinal": 20,
+    "ceremonyYear": 1948,
+    "ceremonyDate": "1948-03-20",
+    "filmYearLabel": "1947",
+    "slug": "1948",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Gentleman's Agreement"
+              ],
+              "movies": [
+                {
+                  "title": "Gentleman's Agreement",
+                  "tmdbId": 33667,
+                  "imdbId": "tt0039416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Bishop's Wife"
+              ],
+              "movies": [
+                {
+                  "title": "The Bishop's Wife",
+                  "tmdbId": 19490,
+                  "imdbId": "tt0039190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Crossfire"
+              ],
+              "movies": [
+                {
+                  "title": "Crossfire",
+                  "tmdbId": 28120,
+                  "imdbId": "tt0039286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Great Expectations"
+              ],
+              "movies": [
+                {
+                  "title": "Great Expectations",
+                  "tmdbId": 14320,
+                  "imdbId": "tt0038574"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miracle on 34th Street"
+              ],
+              "movies": [
+                {
+                  "title": "Miracle on 34th Street",
+                  "tmdbId": 11881,
+                  "imdbId": "tt0039628"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Elia Kazan"
+              ],
+              "movies": [
+                {
+                  "title": "Gentleman's Agreement",
+                  "tmdbId": 33667,
+                  "imdbId": "tt0039416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Cukor"
+              ],
+              "movies": [
+                {
+                  "title": "A Double Life",
+                  "tmdbId": 41206,
+                  "imdbId": "tt0039335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Dmytryk"
+              ],
+              "movies": [
+                {
+                  "title": "Crossfire",
+                  "tmdbId": 28120,
+                  "imdbId": "tt0039286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Koster"
+              ],
+              "movies": [
+                {
+                  "title": "The Bishop's Wife",
+                  "tmdbId": 19490,
+                  "imdbId": "tt0039190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lean"
+              ],
+              "movies": [
+                {
+                  "title": "Great Expectations",
+                  "tmdbId": 14320,
+                  "imdbId": "tt0038574"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Ronald Colman"
+              ],
+              "movies": [
+                {
+                  "title": "A Double Life",
+                  "tmdbId": 41206,
+                  "imdbId": "tt0039335"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Garfield"
+              ],
+              "movies": [
+                {
+                  "title": "Body and Soul",
+                  "tmdbId": 17487,
+                  "imdbId": "tt0039204"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregory Peck"
+              ],
+              "movies": [
+                {
+                  "title": "Gentleman's Agreement",
+                  "tmdbId": 33667,
+                  "imdbId": "tt0039416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Life with Father",
+                  "tmdbId": 41465,
+                  "imdbId": "tt0039566"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "Mourning Becomes Electra",
+                  "tmdbId": 82101,
+                  "imdbId": "tt0039636"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Loretta Young"
+              ],
+              "movies": [
+                {
+                  "title": "The Farmer's Daughter",
+                  "tmdbId": 43466,
+                  "imdbId": "tt0039370"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joan Crawford"
+              ],
+              "movies": [
+                {
+                  "title": "Possessed",
+                  "tmdbId": 20849,
+                  "imdbId": "tt0039725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Hayward"
+              ],
+              "movies": [
+                {
+                  "title": "Smash-Up: The Story of a Woman",
+                  "tmdbId": 48994,
+                  "imdbId": "tt0039840"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dorothy McGuire"
+              ],
+              "movies": [
+                {
+                  "title": "Gentleman's Agreement",
+                  "tmdbId": 33667,
+                  "imdbId": "tt0039416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rosalind Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Mourning Becomes Electra",
+                  "tmdbId": 82101,
+                  "imdbId": "tt0039636"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Edmund Gwenn"
+              ],
+              "movies": [
+                {
+                  "title": "Miracle on 34th Street",
+                  "tmdbId": 11881,
+                  "imdbId": "tt0039628"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Bickford"
+              ],
+              "movies": [
+                {
+                  "title": "The Farmer's Daughter",
+                  "tmdbId": 43466,
+                  "imdbId": "tt0039370"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Gomez"
+              ],
+              "movies": [
+                {
+                  "title": "Ride the Pink Horse",
+                  "tmdbId": 18871,
+                  "imdbId": "tt0039768"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Ryan"
+              ],
+              "movies": [
+                {
+                  "title": "Crossfire",
+                  "tmdbId": 28120,
+                  "imdbId": "tt0039286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Widmark"
+              ],
+              "movies": [
+                {
+                  "title": "Kiss of Death",
+                  "tmdbId": 21454,
+                  "imdbId": "tt0039536"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Celeste Holm"
+              ],
+              "movies": [
+                {
+                  "title": "Gentleman's Agreement",
+                  "tmdbId": 33667,
+                  "imdbId": "tt0039416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ethel Barrymore"
+              ],
+              "movies": [
+                {
+                  "title": "The Paradine Case",
+                  "tmdbId": 31667,
+                  "imdbId": "tt0039694"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gloria Grahame"
+              ],
+              "movies": [
+                {
+                  "title": "Crossfire",
+                  "tmdbId": 28120,
+                  "imdbId": "tt0039286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marjorie Main"
+              ],
+              "movies": [
+                {
+                  "title": "The Egg and I",
+                  "tmdbId": 42342,
+                  "imdbId": "tt0039349"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne Revere"
+              ],
+              "movies": [
+                {
+                  "title": "Gentleman's Agreement",
+                  "tmdbId": 33667,
+                  "imdbId": "tt0039416"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Sidney Sheldon"
+              ],
+              "movies": [
+                {
+                  "title": "The Bachelor and the Bobby-Soxer",
+                  "tmdbId": 27437,
+                  "imdbId": "tt0039169"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sergio Amidei",
+                "Adolfo Franci",
+                "C. G. Viola",
+                "Cesare Zavattini"
+              ],
+              "movies": [
+                {
+                  "title": "Shoeshine",
+                  "tmdbId": 43469,
+                  "imdbId": "tt0038913"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Chaplin"
+              ],
+              "movies": [
+                {
+                  "title": "Monsieur Verdoux",
+                  "tmdbId": 30588,
+                  "imdbId": "tt0039631"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth Gordon",
+                "Garson Kanin"
+              ],
+              "movies": [
+                {
+                  "title": "A Double Life",
+                  "tmdbId": 41206,
+                  "imdbId": "tt0039335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Abraham Polonsky"
+              ],
+              "movies": [
+                {
+                  "title": "Body and Soul",
+                  "tmdbId": 17487,
+                  "imdbId": "tt0039204"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "George Seaton"
+              ],
+              "movies": [
+                {
+                  "title": "Miracle on 34th Street",
+                  "tmdbId": 11881,
+                  "imdbId": "tt0039628"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Lean",
+                "Ronald Neame",
+                "Anthony Havelock-Allan"
+              ],
+              "movies": [
+                {
+                  "title": "Great Expectations",
+                  "tmdbId": 14320,
+                  "imdbId": "tt0038574"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Murphy"
+              ],
+              "movies": [
+                {
+                  "title": "Boomerang!",
+                  "tmdbId": 18926,
+                  "imdbId": "tt0039208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Paxton"
+              ],
+              "movies": [
+                {
+                  "title": "Crossfire",
+                  "tmdbId": 28120,
+                  "imdbId": "tt0039286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moss Hart"
+              ],
+              "movies": [
+                {
+                  "title": "Gentleman's Agreement",
+                  "tmdbId": 33667,
+                  "imdbId": "tt0039416"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Valentine Davies"
+              ],
+              "movies": [
+                {
+                  "title": "Miracle on 34th Street",
+                  "tmdbId": 11881,
+                  "imdbId": "tt0039628"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Georges Chaperot",
+                "Rene Wheeler"
+              ],
+              "movies": [
+                {
+                  "title": "A Cage of Nightingales",
+                  "tmdbId": 143065,
+                  "imdbId": "tt0039234"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Clyde Lewis",
+                "Frederick Stephani"
+              ],
+              "movies": [
+                {
+                  "title": "It Happened on Fifth Avenue",
+                  "tmdbId": 52844,
+                  "imdbId": "tt0039502"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eleazar Lipsky"
+              ],
+              "movies": [
+                {
+                  "title": "Kiss of Death",
+                  "tmdbId": 21454,
+                  "imdbId": "tt0039536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dorothy Parker",
+                "Frank Cavett"
+              ],
+              "movies": [
+                {
+                  "title": "Smash-Up: The Story of a Woman",
+                  "tmdbId": 48994,
+                  "imdbId": "tt0039840"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Shoe-Shine"
+              ],
+              "movies": [
+                {
+                  "title": "Shoeshine",
+                  "tmdbId": 43469,
+                  "imdbId": "tt0038913"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Design for Death"
+              ],
+              "movies": [
+                {
+                  "title": "Design for Death",
+                  "tmdbId": 149245,
+                  "imdbId": "tt0040285"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Journey Into Medicine"
+              ],
+              "movies": [
+                {
+                  "title": "Journey Into Medicine",
+                  "tmdbId": 114466,
+                  "imdbId": "tt0039517"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The World Is Rich"
+              ],
+              "movies": [
+                {
+                  "title": "The World Is Rich",
+                  "tmdbId": 114468,
+                  "imdbId": "tt0040004"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Jack Cardiff"
+              ],
+              "movies": [
+                {
+                  "title": "Black Narcissus",
+                  "tmdbId": 16391,
+                  "imdbId": "tt0039192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "Mother Wore Tights",
+                  "tmdbId": 106825,
+                  "imdbId": "tt0039634"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peverell Marley",
+                "William V. Skall"
+              ],
+              "movies": [
+                {
+                  "title": "Life with Father",
+                  "tmdbId": 41465,
+                  "imdbId": "tt0039566"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Guy Green"
+              ],
+              "movies": [
+                {
+                  "title": "Great Expectations",
+                  "tmdbId": 14320,
+                  "imdbId": "tt0038574"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "Green Dolphin Street",
+                  "tmdbId": 108994,
+                  "imdbId": "tt0039437"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang Jr."
+              ],
+              "movies": [
+                {
+                  "title": "The Ghost and Mrs. Muir",
+                  "tmdbId": 22292,
+                  "imdbId": "tt0039420"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Francos Lyon",
+                "Robert Parrish"
+              ],
+              "movies": [
+                {
+                  "title": "Body and Soul",
+                  "tmdbId": 17487,
+                  "imdbId": "tt0039204"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Monica Collingwood"
+              ],
+              "movies": [
+                {
+                  "title": "The Bishop's Wife",
+                  "tmdbId": 19490,
+                  "imdbId": "tt0039190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harmon Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Gentleman's Agreement",
+                  "tmdbId": 33667,
+                  "imdbId": "tt0039416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fergus McDonnell"
+              ],
+              "movies": [
+                {
+                  "title": "Odd Man Out",
+                  "tmdbId": 43461,
+                  "imdbId": "tt0039677"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George White"
+              ],
+              "movies": [
+                {
+                  "title": "Green Dolphin Street",
+                  "tmdbId": 108994,
+                  "imdbId": "tt0039437"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Alfred Junge"
+              ],
+              "movies": [
+                {
+                  "title": "Black Narcissus",
+                  "tmdbId": 16391,
+                  "imdbId": "tt0039192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert M. Haas",
+                "George James Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Life with Father",
+                  "tmdbId": 41465,
+                  "imdbId": "tt0039566"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Wilfred Shingleton",
+                "John Bryan"
+              ],
+              "movies": [
+                {
+                  "title": "Great Expectations",
+                  "tmdbId": 14320,
+                  "imdbId": "tt0038574"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Maurice Ransford",
+                "Thomas Little",
+                "Paul S. Fox"
+              ],
+              "movies": [
+                {
+                  "title": "The Foxes of Harrow",
+                  "tmdbId": 217155,
+                  "imdbId": "tt0039394"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Warren Newcombe"
+              ],
+              "movies": [
+                {
+                  "title": "Green Dolphin Street",
+                  "tmdbId": 108994,
+                  "imdbId": "tt0039437"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Farciot Edouart",
+                "Devereaux Jennings",
+                "Gordon Jennings",
+                "W. Wallace Kelley",
+                "Paul Lepage",
+                "George Dutton"
+              ],
+              "movies": [
+                {
+                  "title": "Unconquered",
+                  "tmdbId": 72241,
+                  "imdbId": "tt0039931"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Gordon Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "The Bishop's Wife",
+                  "tmdbId": 19490,
+                  "imdbId": "tt0039190"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Green Dolphin Street",
+                  "tmdbId": 108994,
+                  "imdbId": "tt0039437"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Whitney"
+              ],
+              "movies": [
+                {
+                  "title": "T-Men",
+                  "tmdbId": 26174,
+                  "imdbId": "tt0039881"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "A Double Life",
+                  "tmdbId": 41206,
+                  "imdbId": "tt0039335"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hugo Friedhofer"
+              ],
+              "movies": [
+                {
+                  "title": "The Bishop's Wife",
+                  "tmdbId": 19490,
+                  "imdbId": "tt0039190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman Captain"
+              ],
+              "movies": [
+                {
+                  "title": "Captain from Castile",
+                  "tmdbId": 44534,
+                  "imdbId": "tt0039243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Raksin"
+              ],
+              "movies": [
+                {
+                  "title": "Forever Amber",
+                  "tmdbId": 104720,
+                  "imdbId": "tt0039391"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Life with Father",
+                  "tmdbId": 41465,
+                  "imdbId": "tt0039566"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Mother Wore Tights",
+                  "tmdbId": 106825,
+                  "imdbId": "tt0039634"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniele Amfitheatrof",
+                "Paul J. Smith",
+                "Charles Wolcott"
+              ],
+              "movies": [
+                {
+                  "title": "Song of the South",
+                  "tmdbId": 13850,
+                  "imdbId": "tt0038969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Emmett Dolan"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Rio",
+                  "tmdbId": 31980,
+                  "imdbId": "tt0039776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Johnny Green"
+              ],
+              "movies": [
+                {
+                  "title": "Fiesta",
+                  "tmdbId": 43968,
+                  "imdbId": "tt0039377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf",
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "My Wild Irish Rose",
+                  "tmdbId": 217153,
+                  "imdbId": "tt0039647"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Zip-a-Dee-Doo-Dah"
+              ],
+              "movies": [
+                {
+                  "title": "Song of the South",
+                  "tmdbId": 13850,
+                  "imdbId": "tt0038969"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Gal in Calico"
+              ],
+              "movies": [
+                {
+                  "title": "The Time, The Place and The Girl",
+                  "tmdbId": 150433,
+                  "imdbId": "tt0039038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Wish I Didn't Love You So"
+              ],
+              "movies": [
+                {
+                  "title": "The Perils of Pauline",
+                  "tmdbId": 149687,
+                  "imdbId": "tt0039698"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pass That Peace Pipe"
+              ],
+              "movies": [
+                {
+                  "title": "Good News",
+                  "tmdbId": 31513,
+                  "imdbId": "tt0039431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "You Do"
+              ],
+              "movies": [
+                {
+                  "title": "Mother Wore Tights",
+                  "tmdbId": 106825,
+                  "imdbId": "tt0039634"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Tweetie Pie"
+              ],
+              "movies": [
+                {
+                  "title": "Tweetie Pie",
+                  "tmdbId": 88768,
+                  "imdbId": "tt0039923"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chip an' Dale"
+              ],
+              "movies": [
+                {
+                  "title": "Chip an' Dale",
+                  "tmdbId": 53478,
+                  "imdbId": "tt0039263"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dr. Jekyll and Mr. Mouse"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Jekyll and Mr. Mouse",
+                  "tmdbId": 39921,
+                  "imdbId": "tt0039338"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pluto's Blue Note"
+              ],
+              "movies": [
+                {
+                  "title": "Pluto's Blue Note",
+                  "tmdbId": 164954,
+                  "imdbId": "tt0039711"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tubby the Tuba"
+              ],
+              "movies": [
+                {
+                  "title": "Tubby the Tuba",
+                  "tmdbId": 211507,
+                  "imdbId": "tt0039919"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Goodbye, Miss Turlock"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Miss Turlock",
+                  "tmdbId": 240429,
+                  "imdbId": "tt0039432"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brooklyn, U.S.A."
+              ],
+              "movies": [
+                {
+                  "title": "Brooklyn, U.S.A.",
+                  "tmdbId": 240430,
+                  "imdbId": "tt0039221"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moon Rockets"
+              ],
+              "movies": [
+                {
+                  "title": "Moon Rockets",
+                  "tmdbId": 240431,
+                  "imdbId": "tt0039633"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Now You See It"
+              ],
+              "movies": [
+                {
+                  "title": "Now You See It",
+                  "tmdbId": 240433,
+                  "imdbId": "tt0039671"
+                }
+              ]
+            },
+            {
+              "names": [
+                "So You Want to Be in Pictures"
+              ],
+              "movies": [
+                {
+                  "title": "So You Want to Be in Pictures",
+                  "tmdbId": 168470,
+                  "imdbId": "tt0039843"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Climbing the Matterhorn"
+              ],
+              "movies": [
+                {
+                  "title": "Climbing the Matterhorn",
+                  "tmdbId": 240423,
+                  "imdbId": "tt0039267"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Champagne for Two"
+              ],
+              "movies": [
+                {
+                  "title": "Champagne for Two",
+                  "tmdbId": 240424,
+                  "imdbId": "tt0039258"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fight of the Wild Stallions"
+              ],
+              "movies": [
+                {
+                  "title": "Fight of the Wild Stallions",
+                  "tmdbId": 240425,
+                  "imdbId": "tt0039379"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Give Us the Earth!"
+              ],
+              "movies": [
+                {
+                  "title": "Give Us the Earth!",
+                  "tmdbId": 240426,
+                  "imdbId": "tt0039425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Voice Is Born"
+              ],
+              "movies": [
+                {
+                  "title": "A Voice Is Born",
+                  "tmdbId": 240428,
+                  "imdbId": "tt0039968"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "First Steps"
+              ],
+              "movies": [
+                {
+                  "title": "First Steps",
+                  "tmdbId": 240435,
+                  "imdbId": "tt0039384"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Passport to Nowhere"
+              ],
+              "movies": [
+                {
+                  "title": "Passport to Nowhere",
+                  "tmdbId": 240436,
+                  "imdbId": "tt0039697"
+                }
+              ]
+            },
+            {
+              "names": [
+                "School in the Mailbox"
+              ],
+              "movies": [
+                {
+                  "title": "School in the Mailbox",
+                  "tmdbId": 240437,
+                  "imdbId": "tt0039802"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

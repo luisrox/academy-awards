@@ -1,0 +1,1731 @@
+{
+  "ceremony": {
+    "ordinal": 39,
+    "ceremonyYear": 1967,
+    "ceremonyDate": "1967-04-10",
+    "filmYearLabel": "1966",
+    "slug": "1967",
+    "decade": "1960s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "A Man for All Seasons"
+              ],
+              "movies": [
+                {
+                  "title": "A Man for All Seasons",
+                  "tmdbId": 874,
+                  "imdbId": "tt0060665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfie"
+              ],
+              "movies": [
+                {
+                  "title": "Alfie",
+                  "tmdbId": 15598,
+                  "imdbId": "tt0060086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Russians Are Coming, The Russians Are Coming"
+              ],
+              "movies": [
+                {
+                  "title": "The Russians Are Coming! The Russians Are Coming!",
+                  "tmdbId": 31918,
+                  "imdbId": "tt0060921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Sand Pebbles"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Pebbles",
+                  "tmdbId": 5923,
+                  "imdbId": "tt0060934"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Who's Afraid of Virginia Woolf?"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Fred Zinnemann"
+              ],
+              "movies": [
+                {
+                  "title": "A Man for All Seasons",
+                  "tmdbId": 874,
+                  "imdbId": "tt0060665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michelangelo Antonioni"
+              ],
+              "movies": [
+                {
+                  "title": "Blow-Up",
+                  "tmdbId": 1052,
+                  "imdbId": "tt0060176"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "The Professionals",
+                  "tmdbId": 22383,
+                  "imdbId": "tt0060862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claude Lelouch"
+              ],
+              "movies": [
+                {
+                  "title": "A Man and a Woman",
+                  "tmdbId": 42726,
+                  "imdbId": "tt0061138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Nichols"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Paul Scofield"
+              ],
+              "movies": [
+                {
+                  "title": "A Man for All Seasons",
+                  "tmdbId": 874,
+                  "imdbId": "tt0060665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alan Arkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Russians Are Coming! The Russians Are Coming!",
+                  "tmdbId": 31918,
+                  "imdbId": "tt0060921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Burton"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Caine"
+              ],
+              "movies": [
+                {
+                  "title": "Alfie",
+                  "tmdbId": 15598,
+                  "imdbId": "tt0060086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve McQueen"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Pebbles",
+                  "tmdbId": 5923,
+                  "imdbId": "tt0060934"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Elizabeth Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anouk Aimee"
+              ],
+              "movies": [
+                {
+                  "title": "A Man and a Woman",
+                  "tmdbId": 42726,
+                  "imdbId": "tt0061138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ida Kaminska"
+              ],
+              "movies": [
+                {
+                  "title": "The Shop on Main Street",
+                  "tmdbId": 25905,
+                  "imdbId": "tt0059527"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lynn Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "Georgy Girl",
+                  "tmdbId": 42719,
+                  "imdbId": "tt0060453"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vanessa Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Morgan's Vengeance",
+                  "tmdbId": 281152,
+                  "imdbId": "tt0166390"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Walter Matthau"
+              ],
+              "movies": [
+                {
+                  "title": "The Fortune Cookie",
+                  "tmdbId": 1888,
+                  "imdbId": "tt0060424"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mako"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Pebbles",
+                  "tmdbId": 5923,
+                  "imdbId": "tt0060934"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Mason"
+              ],
+              "movies": [
+                {
+                  "title": "Georgy Girl",
+                  "tmdbId": 42719,
+                  "imdbId": "tt0060453"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Segal"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Shaw"
+              ],
+              "movies": [
+                {
+                  "title": "A Man for All Seasons",
+                  "tmdbId": 874,
+                  "imdbId": "tt0060665"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Sandy Dennis"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Wendy Hiller"
+              ],
+              "movies": [
+                {
+                  "title": "A Man for All Seasons",
+                  "tmdbId": 874,
+                  "imdbId": "tt0060665"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jocelyne LaGarde"
+              ],
+              "movies": [
+                {
+                  "title": "Hawaii",
+                  "tmdbId": 14689,
+                  "imdbId": "tt0060491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vivien Merchant"
+              ],
+              "movies": [
+                {
+                  "title": "Alfie",
+                  "tmdbId": 15598,
+                  "imdbId": "tt0060086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geraldine Page"
+              ],
+              "movies": [
+                {
+                  "title": "You're a Big Boy Now",
+                  "tmdbId": 42728,
+                  "imdbId": "tt0061209"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Claude Lelouch",
+                "Pierre Uytterhoeven"
+              ],
+              "movies": [
+                {
+                  "title": "A Man and a Woman",
+                  "tmdbId": 42726,
+                  "imdbId": "tt0061138"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michelangelo Antonioni",
+                "Tonino Guerra",
+                "Edward Bond"
+              ],
+              "movies": [
+                {
+                  "title": "Blow-Up",
+                  "tmdbId": 1052,
+                  "imdbId": "tt0060176"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Wilder",
+                "I. A. L. Diamond"
+              ],
+              "movies": [
+                {
+                  "title": "The Fortune Cookie",
+                  "tmdbId": 1888,
+                  "imdbId": "tt0060424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Ardrey"
+              ],
+              "movies": [
+                {
+                  "title": "Khartoum",
+                  "tmdbId": 29710,
+                  "imdbId": "tt0060588"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clint Johnston",
+                "Don Peters"
+              ],
+              "movies": [
+                {
+                  "title": "The Naked Prey",
+                  "tmdbId": 18513,
+                  "imdbId": "tt0060736"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Robert Bolt"
+              ],
+              "movies": [
+                {
+                  "title": "A Man for All Seasons",
+                  "tmdbId": 874,
+                  "imdbId": "tt0060665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bill Naughton"
+              ],
+              "movies": [
+                {
+                  "title": "Alfie",
+                  "tmdbId": 15598,
+                  "imdbId": "tt0060086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "The Professionals",
+                  "tmdbId": 22383,
+                  "imdbId": "tt0060862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Rose"
+              ],
+              "movies": [
+                {
+                  "title": "The Russians Are Coming! The Russians Are Coming!",
+                  "tmdbId": 31918,
+                  "imdbId": "tt0060921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Lehman"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "A Man and a Woman"
+              ],
+              "movies": [
+                {
+                  "title": "A Man and a Woman",
+                  "tmdbId": 42726,
+                  "imdbId": "tt0061138"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Battle of Algiers"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle of Algiers",
+                  "tmdbId": 17295,
+                  "imdbId": "tt0058946"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loves of a Blonde"
+              ],
+              "movies": [
+                {
+                  "title": "Loves of a Blonde",
+                  "tmdbId": 39387,
+                  "imdbId": "tt0059415"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pharaoh"
+              ],
+              "movies": [
+                {
+                  "title": "Pharaoh",
+                  "tmdbId": 5040,
+                  "imdbId": "tt0060401"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Three"
+              ],
+              "movies": [
+                {
+                  "title": "Three",
+                  "tmdbId": 202768,
+                  "imdbId": "tt0059829"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The War Game"
+              ],
+              "movies": [
+                {
+                  "title": "The War Game",
+                  "tmdbId": 26508,
+                  "imdbId": "tt0059894"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Face of Genius"
+              ],
+              "movies": [
+                {
+                  "title": "The Face of Genius",
+                  "tmdbId": 149296,
+                  "imdbId": "tt0060389"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Helicopter Canada"
+              ],
+              "movies": [
+                {
+                  "title": "Helicopter Canada",
+                  "tmdbId": 149297,
+                  "imdbId": "tt0060498"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Really Big Family"
+              ],
+              "movies": [
+                {
+                  "title": "The Really Big Family",
+                  "tmdbId": 149298,
+                  "imdbId": "tt0062180"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Forbidden Volcano"
+              ],
+              "movies": [
+                {
+                  "title": "The Forbidden Volcano",
+                  "tmdbId": 149299,
+                  "imdbId": "tt0061163"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Ted Moore"
+              ],
+              "movies": [
+                {
+                  "title": "A Man for All Seasons",
+                  "tmdbId": 874,
+                  "imdbId": "tt0060665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ernest Laszlo"
+              ],
+              "movies": [
+                {
+                  "title": "Fantastic Voyage",
+                  "tmdbId": 2161,
+                  "imdbId": "tt0060397"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Russell Harlan"
+              ],
+              "movies": [
+                {
+                  "title": "Hawaii",
+                  "tmdbId": 14689,
+                  "imdbId": "tt0060491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Conrad Hall"
+              ],
+              "movies": [
+                {
+                  "title": "The Professionals",
+                  "tmdbId": 22383,
+                  "imdbId": "tt0060862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph MacDonald"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Pebbles",
+                  "tmdbId": 5923,
+                  "imdbId": "tt0060934"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Haskell Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph LaShelle"
+              ],
+              "movies": [
+                {
+                  "title": "The Fortune Cookie",
+                  "tmdbId": 1888,
+                  "imdbId": "tt0060424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kenneth Higgins"
+              ],
+              "movies": [
+                {
+                  "title": "Georgy Girl",
+                  "tmdbId": 42719,
+                  "imdbId": "tt0060453"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marcel Grignon"
+              ],
+              "movies": [
+                {
+                  "title": "Is Paris Burning?",
+                  "tmdbId": 4708,
+                  "imdbId": "tt0060814"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Wong Howe"
+              ],
+              "movies": [
+                {
+                  "title": "Seconds",
+                  "tmdbId": 20620,
+                  "imdbId": "tt0060955"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Fredric Steinkamp",
+                "Henry Berman",
+                "Stuart Linder",
+                "Frank Santillo"
+              ],
+              "movies": [
+                {
+                  "title": "Grand Prix",
+                  "tmdbId": 20379,
+                  "imdbId": "tt0060472"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William B. Murphy"
+              ],
+              "movies": [
+                {
+                  "title": "Fantastic Voyage",
+                  "tmdbId": 2161,
+                  "imdbId": "tt0060397"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Ashby",
+                "J. Terry Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Russians Are Coming! The Russians Are Coming!",
+                  "tmdbId": 31918,
+                  "imdbId": "tt0060921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William H. Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Pebbles",
+                  "tmdbId": 5923,
+                  "imdbId": "tt0060934"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam O'Steen"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Jack Martin Smith",
+                "Dale Hennesy",
+                "Walter M. Scott",
+                "Stuart A. Reiss"
+              ],
+              "movies": [
+                {
+                  "title": "Fantastic Voyage",
+                  "tmdbId": 2161,
+                  "imdbId": "tt0060397"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alexander Golitzen",
+                "George C. Webb",
+                "John McCarthy Jr.",
+                "John Austin"
+              ],
+              "movies": [
+                {
+                  "title": "Gambit",
+                  "tmdbId": 28270,
+                  "imdbId": "tt0060445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piero Gherardi"
+              ],
+              "movies": [
+                {
+                  "title": "Juliet of the Spirits",
+                  "tmdbId": 19120,
+                  "imdbId": "tt0059229"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Arthur Lonergan",
+                "Robert R. Benton",
+                "James W. Payne"
+              ],
+              "movies": [
+                {
+                  "title": "The Oscar",
+                  "tmdbId": 56168,
+                  "imdbId": "tt0060801"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boris Leven",
+                "Walter M. Scott",
+                "John Sturtevant",
+                "William Kiernan"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Pebbles",
+                  "tmdbId": 5923,
+                  "imdbId": "tt0060934"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Richard Sylbert",
+                "George James Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Luthardt",
+                "Edward G. Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "The Fortune Cookie",
+                  "tmdbId": 1888,
+                  "imdbId": "tt0060424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luigi Scaccianoce"
+              ],
+              "movies": [
+                {
+                  "title": "The Gospel According to Matthew",
+                  "tmdbId": 24192,
+                  "imdbId": "tt0058715"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Willy Holf",
+                "Marc Frederix",
+                "Pierre Guffroy"
+              ],
+              "movies": [
+                {
+                  "title": "Is Paris Burning?",
+                  "tmdbId": 4708,
+                  "imdbId": "tt0060814"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Davis",
+                "Paul Groesse",
+                "Henry Grace",
+                "Hugh Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "Mister Buddwing",
+                  "tmdbId": 207681,
+                  "imdbId": "tt0059453"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Joan Bridge",
+                "Elizabeth Haffenden"
+              ],
+              "movies": [
+                {
+                  "title": "A Man for All Seasons",
+                  "tmdbId": 874,
+                  "imdbId": "tt0060665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Gambit",
+                  "tmdbId": 28270,
+                  "imdbId": "tt0060445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dorothy Jeakins"
+              ],
+              "movies": [
+                {
+                  "title": "Hawaii",
+                  "tmdbId": 14689,
+                  "imdbId": "tt0060491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piero Gherardi"
+              ],
+              "movies": [
+                {
+                  "title": "Juliet of the Spirits",
+                  "tmdbId": 19120,
+                  "imdbId": "tt0059229"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "The Oscar",
+                  "tmdbId": 56168,
+                  "imdbId": "tt0060801"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Danilo Donati"
+              ],
+              "movies": [
+                {
+                  "title": "The Gospel According to Matthew",
+                  "tmdbId": 24192,
+                  "imdbId": "tt0058715"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Danilo Donati"
+              ],
+              "movies": [
+                {
+                  "title": "The Mandrake",
+                  "tmdbId": 74216,
+                  "imdbId": "tt0059424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Helen Rose"
+              ],
+              "movies": [
+                {
+                  "title": "Mister Buddwing",
+                  "tmdbId": 207681,
+                  "imdbId": "tt0059453"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jocelyn Rickards"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Morgan's Vengeance",
+                  "tmdbId": 281152,
+                  "imdbId": "tt0166390"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Art Cruickshank"
+              ],
+              "movies": [
+                {
+                  "title": "Fantastic Voyage",
+                  "tmdbId": 2161,
+                  "imdbId": "tt0060397"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Linwood G. Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "Hawaii",
+                  "tmdbId": 14689,
+                  "imdbId": "tt0060491"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Franklin Milton"
+              ],
+              "movies": [
+                {
+                  "title": "Grand Prix",
+                  "tmdbId": 20379,
+                  "imdbId": "tt0060472"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Waldon O. Watson"
+              ],
+              "movies": [
+                {
+                  "title": "Gambit",
+                  "tmdbId": 28270,
+                  "imdbId": "tt0060445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "Hawaii",
+                  "tmdbId": 14689,
+                  "imdbId": "tt0060491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Corcoran"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Pebbles",
+                  "tmdbId": 5923,
+                  "imdbId": "tt0060934"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Groves"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects",
+          "winners": [
+            {
+              "names": [
+                "Gordon Daniel"
+              ],
+              "movies": [
+                {
+                  "title": "Grand Prix",
+                  "tmdbId": 20379,
+                  "imdbId": "tt0060472"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Rossi"
+              ],
+              "movies": [
+                {
+                  "title": "Fantastic Voyage",
+                  "tmdbId": 2161,
+                  "imdbId": "tt0060397"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Barry"
+              ],
+              "movies": [
+                {
+                  "title": "Born Free",
+                  "tmdbId": 15347,
+                  "imdbId": "tt0060182"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Toshiro Mayuzumi"
+              ],
+              "movies": [
+                {
+                  "title": "The Bible: In the Beginning...",
+                  "tmdbId": 2525,
+                  "imdbId": "tt0060164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "Hawaii",
+                  "tmdbId": 14689,
+                  "imdbId": "tt0060491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Pebbles",
+                  "tmdbId": 5923,
+                  "imdbId": "tt0060934"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "Who's Afraid of Virginia Woolf?",
+                  "tmdbId": 396,
+                  "imdbId": "tt0061184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Ken Thorne"
+              ],
+              "movies": [
+                {
+                  "title": "A Funny Thing Happened on the Way to the Forum",
+                  "tmdbId": 17768,
+                  "imdbId": "tt0060438"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Luis Enriquez Bacalov"
+              ],
+              "movies": [
+                {
+                  "title": "The Gospel According to Matthew",
+                  "tmdbId": 24192,
+                  "imdbId": "tt0058715"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "Return of the Seven",
+                  "tmdbId": 12639,
+                  "imdbId": "tt0060897"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Sukman"
+              ],
+              "movies": [
+                {
+                  "title": "The Singing Nun",
+                  "tmdbId": 49863,
+                  "imdbId": "tt0060983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Ham"
+              ],
+              "movies": [
+                {
+                  "title": "Stop the World: I Want to Get Off",
+                  "tmdbId": 216648,
+                  "imdbId": "tt0061034"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Born Free"
+              ],
+              "movies": [
+                {
+                  "title": "Born Free",
+                  "tmdbId": 15347,
+                  "imdbId": "tt0060182"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfie"
+              ],
+              "movies": [
+                {
+                  "title": "Alfie",
+                  "tmdbId": 15598,
+                  "imdbId": "tt0060086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Georgy Girl"
+              ],
+              "movies": [
+                {
+                  "title": "Georgy Girl",
+                  "tmdbId": 42719,
+                  "imdbId": "tt0060453"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Wishing Doll"
+              ],
+              "movies": [
+                {
+                  "title": "Hawaii",
+                  "tmdbId": 14689,
+                  "imdbId": "tt0060491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Time for Love"
+              ],
+              "movies": [
+                {
+                  "title": "An American Dream",
+                  "tmdbId": 131861,
+                  "imdbId": "tt0060099"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "A Herb Alpert and the Tijuana Brass Double Feature"
+              ],
+              "movies": [
+                {
+                  "title": "A Herb Alpert & the Tijuana Brass Double Feature",
+                  "tmdbId": 209505,
+                  "imdbId": "tt0060503"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Drag"
+              ],
+              "movies": [
+                {
+                  "title": "The Drag",
+                  "tmdbId": 243293,
+                  "imdbId": "tt0060346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Pink Blueprint"
+              ],
+              "movies": [
+                {
+                  "title": "The Pink Blueprint",
+                  "tmdbId": 243294,
+                  "imdbId": "tt0060834"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Wild Wings"
+              ],
+              "movies": [
+                {
+                  "title": "Wild Wings",
+                  "tmdbId": 243289,
+                  "imdbId": "tt0061192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Turkey: The Bridge"
+              ],
+              "movies": [
+                {
+                  "title": "Turkey: The Bridge",
+                  "tmdbId": 243290,
+                  "imdbId": "tt0061128"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Winning Strain"
+              ],
+              "movies": [
+                {
+                  "title": "The Winning Strain",
+                  "tmdbId": 243291,
+                  "imdbId": "tt0061200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "A Year Towards Tomorrow"
+              ],
+              "movies": [
+                {
+                  "title": "A Year Towards Tomorrow",
+                  "tmdbId": 243295,
+                  "imdbId": "tt0061205"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adolescence"
+              ],
+              "movies": [
+                {
+                  "title": "Adolescence",
+                  "tmdbId": 243297,
+                  "imdbId": "tt0060069"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cowboy"
+              ],
+              "movies": [
+                {
+                  "title": "Cowboy",
+                  "tmdbId": 243299,
+                  "imdbId": "tt0060259"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Odds Against"
+              ],
+              "movies": [
+                {
+                  "title": "The Odds Against",
+                  "tmdbId": 243301,
+                  "imdbId": "tt0060776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Saint Matthew Passion"
+              ],
+              "movies": [
+                {
+                  "title": "Saint Matthew Passion",
+                  "tmdbId": 243303,
+                  "imdbId": "tt0060927"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

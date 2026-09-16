@@ -1,0 +1,1605 @@
+{
+  "ceremony": {
+    "ordinal": 76,
+    "ceremonyYear": 2004,
+    "ceremonyDate": "2004-02-29",
+    "filmYearLabel": "2003",
+    "slug": "2004",
+    "decade": "2000s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Lord of the Rings: The Return of the King"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lost in Translation"
+              ],
+              "movies": [
+                {
+                  "title": "Lost in Translation",
+                  "tmdbId": 153,
+                  "imdbId": "tt0335266"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Master and Commander: The Far Side of the World"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mystic River"
+              ],
+              "movies": [
+                {
+                  "title": "Mystic River",
+                  "tmdbId": 322,
+                  "imdbId": "tt0327056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Seabiscuit"
+              ],
+              "movies": [
+                {
+                  "title": "Seabiscuit",
+                  "tmdbId": 4464,
+                  "imdbId": "tt0329575"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Peter Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sofia Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "Lost in Translation",
+                  "tmdbId": 153,
+                  "imdbId": "tt0335266"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clint Eastwood"
+              ],
+              "movies": [
+                {
+                  "title": "Mystic River",
+                  "tmdbId": 322,
+                  "imdbId": "tt0327056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fernando Meirelles"
+              ],
+              "movies": [
+                {
+                  "title": "City of God",
+                  "tmdbId": 598,
+                  "imdbId": "tt0317248"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Weir"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Sean Penn"
+              ],
+              "movies": [
+                {
+                  "title": "Mystic River",
+                  "tmdbId": 322,
+                  "imdbId": "tt0327056"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Johnny Depp"
+              ],
+              "movies": [
+                {
+                  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "tmdbId": 22,
+                  "imdbId": "tt0325980"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Kingsley"
+              ],
+              "movies": [
+                {
+                  "title": "House of Sand and Fog",
+                  "tmdbId": 11093,
+                  "imdbId": "tt0315983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jude Law"
+              ],
+              "movies": [
+                {
+                  "title": "Cold Mountain",
+                  "tmdbId": 2289,
+                  "imdbId": "tt0159365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Murray"
+              ],
+              "movies": [
+                {
+                  "title": "Lost in Translation",
+                  "tmdbId": 153,
+                  "imdbId": "tt0335266"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Charlize Theron"
+              ],
+              "movies": [
+                {
+                  "title": "Monster",
+                  "tmdbId": 504,
+                  "imdbId": "tt0340855"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Keisha Castle-Hughes"
+              ],
+              "movies": [
+                {
+                  "title": "Whale Rider",
+                  "tmdbId": 1088,
+                  "imdbId": "tt0298228"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Diane Keaton"
+              ],
+              "movies": [
+                {
+                  "title": "Something's Gotta Give",
+                  "tmdbId": 6964,
+                  "imdbId": "tt0337741"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Samantha Morton"
+              ],
+              "movies": [
+                {
+                  "title": "In America",
+                  "tmdbId": 10511,
+                  "imdbId": "tt0298845"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Naomi Watts"
+              ],
+              "movies": [
+                {
+                  "title": "21 Grams",
+                  "tmdbId": 470,
+                  "imdbId": "tt0315733"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Tim Robbins"
+              ],
+              "movies": [
+                {
+                  "title": "Mystic River",
+                  "tmdbId": 322,
+                  "imdbId": "tt0327056"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alec Baldwin"
+              ],
+              "movies": [
+                {
+                  "title": "The Cooler",
+                  "tmdbId": 10744,
+                  "imdbId": "tt0318374"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Benicio del Toro"
+              ],
+              "movies": [
+                {
+                  "title": "21 Grams",
+                  "tmdbId": 470,
+                  "imdbId": "tt0315733"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Djimon Hounsou"
+              ],
+              "movies": [
+                {
+                  "title": "In America",
+                  "tmdbId": 10511,
+                  "imdbId": "tt0298845"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ken Watanabe"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Samurai",
+                  "tmdbId": 616,
+                  "imdbId": "tt0325710"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Renee Zellweger"
+              ],
+              "movies": [
+                {
+                  "title": "Cold Mountain",
+                  "tmdbId": 2289,
+                  "imdbId": "tt0159365"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Shohreh Aghdashloo"
+              ],
+              "movies": [
+                {
+                  "title": "House of Sand and Fog",
+                  "tmdbId": 11093,
+                  "imdbId": "tt0315983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patricia Clarkson"
+              ],
+              "movies": [
+                {
+                  "title": "Pieces of April",
+                  "tmdbId": 1550,
+                  "imdbId": "tt0311648"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marcia Gay Harden"
+              ],
+              "movies": [
+                {
+                  "title": "Mystic River",
+                  "tmdbId": 322,
+                  "imdbId": "tt0327056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Holly Hunter"
+              ],
+              "movies": [
+                {
+                  "title": "Thirteen",
+                  "tmdbId": 11023,
+                  "imdbId": "tt0328538"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Sofia Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "Lost in Translation",
+                  "tmdbId": 153,
+                  "imdbId": "tt0335266"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Steven Knight"
+              ],
+              "movies": [
+                {
+                  "title": "Dirty Pretty Things",
+                  "tmdbId": 3472,
+                  "imdbId": "tt0301199"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andrew Stanton",
+                "Bob Peterson",
+                "David Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Nemo",
+                  "tmdbId": 12,
+                  "imdbId": "tt0266543"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jim Sheridan",
+                "Kirsten Sheridan",
+                "Naomi Sheridan"
+              ],
+              "movies": [
+                {
+                  "title": "In America",
+                  "tmdbId": 10511,
+                  "imdbId": "tt0298845"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denys Arcand"
+              ],
+              "movies": [
+                {
+                  "title": "The Barbarian Invasions",
+                  "tmdbId": 11042,
+                  "imdbId": "tt0338135"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Fran Walsh",
+                "Philippa Boyens",
+                "Peter Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Shari Springer Berman",
+                "Robert Pulcini"
+              ],
+              "movies": [
+                {
+                  "title": "American Splendor",
+                  "tmdbId": 2771,
+                  "imdbId": "tt0305206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Braulio Mantovani"
+              ],
+              "movies": [
+                {
+                  "title": "City of God",
+                  "tmdbId": 598,
+                  "imdbId": "tt0317248"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brian Helgeland"
+              ],
+              "movies": [
+                {
+                  "title": "Mystic River",
+                  "tmdbId": 322,
+                  "imdbId": "tt0327056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Ross"
+              ],
+              "movies": [
+                {
+                  "title": "Seabiscuit",
+                  "tmdbId": 4464,
+                  "imdbId": "tt0329575"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Finding Nemo"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Nemo",
+                  "tmdbId": 12,
+                  "imdbId": "tt0266543"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brother Bear"
+              ],
+              "movies": [
+                {
+                  "title": "Brother Bear",
+                  "tmdbId": 10009,
+                  "imdbId": "tt0328880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Triplets of Belleville"
+              ],
+              "movies": [
+                {
+                  "title": "The Triplets of Belleville",
+                  "tmdbId": 9662,
+                  "imdbId": "tt0286244"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Barbarian Invasions"
+              ],
+              "movies": [
+                {
+                  "title": "The Barbarian Invasions",
+                  "tmdbId": 11042,
+                  "imdbId": "tt0338135"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Evil"
+              ],
+              "movies": [
+                {
+                  "title": "Evil",
+                  "tmdbId": 574492
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Twilight Samurai"
+              ],
+              "movies": [
+                {
+                  "title": "The Twilight Samurai",
+                  "tmdbId": 12496,
+                  "imdbId": "tt0351817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Twin Sisters"
+              ],
+              "movies": [
+                {
+                  "title": "Twin Sisters",
+                  "tmdbId": 16132,
+                  "imdbId": "tt0322674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Želary"
+              ],
+              "movies": [
+                {
+                  "title": "Želary",
+                  "tmdbId": 19765,
+                  "imdbId": "tt0288330"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Fog of War"
+              ],
+              "movies": [
+                {
+                  "title": "The Fog of War",
+                  "tmdbId": 12698,
+                  "imdbId": "tt0317910"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rafters"
+              ],
+              "movies": [
+                {
+                  "title": "Rafters",
+                  "tmdbId": 27915,
+                  "imdbId": "tt0321376"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Capturing the Friedmans"
+              ],
+              "movies": [
+                {
+                  "title": "Capturing the Friedmans",
+                  "tmdbId": 2260,
+                  "imdbId": "tt0342172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Architect: A Son's Journey"
+              ],
+              "movies": [
+                {
+                  "title": "My Architect: A Son's Journey",
+                  "tmdbId": 50314,
+                  "imdbId": "tt0373175"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Weather Underground"
+              ],
+              "movies": [
+                {
+                  "title": "The Weather Underground",
+                  "tmdbId": 14108,
+                  "imdbId": "tt0343168"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Russell Boyd"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cesar Charlone"
+              ],
+              "movies": [
+                {
+                  "title": "City of God",
+                  "tmdbId": 598,
+                  "imdbId": "tt0317248"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eduardo Serra"
+              ],
+              "movies": [
+                {
+                  "title": "Girl with a Pearl Earring",
+                  "tmdbId": 3635,
+                  "imdbId": "tt0335119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Schwartzman"
+              ],
+              "movies": [
+                {
+                  "title": "Seabiscuit",
+                  "tmdbId": 4464,
+                  "imdbId": "tt0329575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Seale"
+              ],
+              "movies": [
+                {
+                  "title": "Cold Mountain",
+                  "tmdbId": 2289,
+                  "imdbId": "tt0159365"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Jamie Selkirk"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel Rezende"
+              ],
+              "movies": [
+                {
+                  "title": "City of God",
+                  "tmdbId": 598,
+                  "imdbId": "tt0317248"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Murch"
+              ],
+              "movies": [
+                {
+                  "title": "Cold Mountain",
+                  "tmdbId": 2289,
+                  "imdbId": "tt0159365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Goldenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Seabiscuit",
+                  "tmdbId": 4464,
+                  "imdbId": "tt0329575"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Grant Major",
+                "Dan Hennah",
+                "Alan Lee"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ben Van Os",
+                "Cecile Heideman"
+              ],
+              "movies": [
+                {
+                  "title": "Girl with a Pearl Earring",
+                  "tmdbId": 3635,
+                  "imdbId": "tt0335119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeannine Oppewall",
+                "Leslie Pope"
+              ],
+              "movies": [
+                {
+                  "title": "Seabiscuit",
+                  "tmdbId": 4464,
+                  "imdbId": "tt0329575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lilly Kilvert",
+                "Gretchen Rau"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Samurai",
+                  "tmdbId": 616,
+                  "imdbId": "tt0325710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Sandell",
+                "Robert Gould"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Ngila Dickson",
+                "Richard Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dien van Straalen"
+              ],
+              "movies": [
+                {
+                  "title": "Girl with a Pearl Earring",
+                  "tmdbId": 3635,
+                  "imdbId": "tt0335119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judianna Makovsky"
+              ],
+              "movies": [
+                {
+                  "title": "Seabiscuit",
+                  "tmdbId": 4464,
+                  "imdbId": "tt0329575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ngila Dickson"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Samurai",
+                  "tmdbId": 616,
+                  "imdbId": "tt0325710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wendy Stites"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Richard Taylor",
+                "Peter King"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ve Neill",
+                "Martin Samuel"
+              ],
+              "movies": [
+                {
+                  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "tmdbId": 22,
+                  "imdbId": "tt0325980"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edouard F. Henriques",
+                "Yolanda Toussieng"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Jim Rygiel",
+                "Joe Letteri",
+                "Randall William Cook",
+                "Alex Funke"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dan Sudick",
+                "Stefen Fangmeier",
+                "Nathan McGuinness",
+                "Robert Stromberg"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Knoll",
+                "Hal Hickel",
+                "Charles Gibson",
+                "Terry Frazee"
+              ],
+              "movies": [
+                {
+                  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "tmdbId": 22,
+                  "imdbId": "tt0325980"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Christopher Boyes",
+                "Michael Semanick",
+                "Michael Hedges",
+                "Hammond Peek"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Andy Nelson",
+                "Anna Behlmer",
+                "Jeff Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Samurai",
+                  "tmdbId": 616,
+                  "imdbId": "tt0325710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Massey",
+                "Doug Hemphill",
+                "Art Rochester"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Boyes",
+                "David Parker",
+                "David E. Campbell",
+                "Lee Orloff"
+              ],
+              "movies": [
+                {
+                  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "tmdbId": 22,
+                  "imdbId": "tt0325980"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Anna Behlmer",
+                "Tod A. Maitland"
+              ],
+              "movies": [
+                {
+                  "title": "Seabiscuit",
+                  "tmdbId": 4464,
+                  "imdbId": "tt0329575"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Richard King"
+              ],
+              "movies": [
+                {
+                  "title": "Master and Commander: The Far Side of the World",
+                  "tmdbId": 8619,
+                  "imdbId": "tt0311113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Michael Silvers"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Nemo",
+                  "tmdbId": 12,
+                  "imdbId": "tt0266543"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Boyes",
+                "George Watters"
+              ],
+              "movies": [
+                {
+                  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "tmdbId": 22,
+                  "imdbId": "tt0325980"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Howard Shore"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Danny Elfman"
+              ],
+              "movies": [
+                {
+                  "title": "Big Fish",
+                  "tmdbId": 587,
+                  "imdbId": "tt0319061"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gabriel Yared"
+              ],
+              "movies": [
+                {
+                  "title": "Cold Mountain",
+                  "tmdbId": 2289,
+                  "imdbId": "tt0159365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Horner"
+              ],
+              "movies": [
+                {
+                  "title": "House of Sand and Fog",
+                  "tmdbId": 11093,
+                  "imdbId": "tt0315983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Nemo",
+                  "tmdbId": 12,
+                  "imdbId": "tt0266543"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Into the West"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "tmdbId": 122,
+                  "imdbId": "tt0167260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Kiss at the End of the Rainbow"
+              ],
+              "movies": [
+                {
+                  "title": "A Mighty Wind",
+                  "tmdbId": 13370,
+                  "imdbId": "tt0310281"
+                }
+              ]
+            },
+            {
+              "names": [
+                "You Will Be My Ain True Love"
+              ],
+              "movies": [
+                {
+                  "title": "Cold Mountain",
+                  "tmdbId": 2289,
+                  "imdbId": "tt0159365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scarlet Tide"
+              ],
+              "movies": [
+                {
+                  "title": "Cold Mountain",
+                  "tmdbId": 2289,
+                  "imdbId": "tt0159365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Belleville Rendez-vous"
+              ],
+              "movies": [
+                {
+                  "title": "The Triplets of Belleville",
+                  "tmdbId": 9662,
+                  "imdbId": "tt0286244"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Harvie Krumpet"
+              ],
+              "movies": [
+                {
+                  "title": "Harvie Krumpet",
+                  "tmdbId": 21131,
+                  "imdbId": "tt0382734"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Boundin'"
+              ],
+              "movies": [
+                {
+                  "title": "Boundin'",
+                  "tmdbId": 13062,
+                  "imdbId": "tt0395479"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Destino"
+              ],
+              "movies": [
+                {
+                  "title": "Destino",
+                  "tmdbId": 35114,
+                  "imdbId": "tt0377770"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gone Nutty"
+              ],
+              "movies": [
+                {
+                  "title": "Gone Nutty",
+                  "tmdbId": 17963,
+                  "imdbId": "tt0342965"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nibbles"
+              ],
+              "movies": [
+                {
+                  "title": "Nibbles",
+                  "tmdbId": 220866,
+                  "imdbId": "tt0392542"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Two Soldiers"
+              ],
+              "movies": [
+                {
+                  "title": "Two Soldiers",
+                  "tmdbId": 204781,
+                  "imdbId": "tt0304858"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Red Jacket"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Jacket",
+                  "tmdbId": 244991,
+                  "imdbId": "tt0323844"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Bridge of San Luis Rey"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge of San Luis Rey",
+                  "tmdbId": 45881,
+                  "imdbId": "tt0356443"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Squash"
+              ],
+              "movies": [
+                {
+                  "title": "Squash",
+                  "tmdbId": 244993,
+                  "imdbId": "tt0341588"
+                }
+              ]
+            },
+            {
+              "names": [
+                "(A)Torsion"
+              ],
+              "movies": [
+                {
+                  "title": "(A)Torsion",
+                  "tmdbId": 244987,
+                  "imdbId": "tt0350476"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Chernobyl Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Chernobyl Heart",
+                  "tmdbId": 26753,
+                  "imdbId": "tt0396959"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Asylum"
+              ],
+              "movies": [
+                {
+                  "title": "Asylum",
+                  "tmdbId": 244995,
+                  "imdbId": "tt0363445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ferry Tales"
+              ],
+              "movies": [
+                {
+                  "title": "Ferry Tales",
+                  "tmdbId": 245000,
+                  "imdbId": "tt0363607"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

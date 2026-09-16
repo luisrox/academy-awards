@@ -1,0 +1,1776 @@
+{
+  "ceremony": {
+    "ordinal": 92,
+    "ceremonyYear": 2020,
+    "ceremonyDate": "2020-02-09",
+    "filmYearLabel": "2019",
+    "slug": "2020",
+    "decade": "2020s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Parasite"
+              ],
+              "movies": [
+                {
+                  "title": "Parasite",
+                  "tmdbId": 496243,
+                  "imdbId": "tt6751668"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "1917"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ford v Ferrari"
+              ],
+              "movies": [
+                {
+                  "title": "Ford v Ferrari",
+                  "tmdbId": 359724,
+                  "imdbId": "tt1950186"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Irishman"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jojo Rabbit"
+              ],
+              "movies": [
+                {
+                  "title": "Jojo Rabbit",
+                  "tmdbId": 515001,
+                  "imdbId": "tt2584384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joker"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Litte Women"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 331482,
+                  "imdbId": "tt3281548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marriage Story"
+              ],
+              "movies": [
+                {
+                  "title": "Marriage Story",
+                  "tmdbId": 492188,
+                  "imdbId": "tt7653254"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Once Upon a Time... in Hollywood"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Bong Joon-ho"
+              ],
+              "movies": [
+                {
+                  "title": "Parasite",
+                  "tmdbId": 496243,
+                  "imdbId": "tt6751668"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Todd Phillips"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quentin Tarantino"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Mendes"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Joaquin Phoenix"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Antonio Banderas"
+              ],
+              "movies": [
+                {
+                  "title": "Pain and Glory",
+                  "tmdbId": 519010,
+                  "imdbId": "tt8291806"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonardo DiCaprio"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adam Driver"
+              ],
+              "movies": [
+                {
+                  "title": "Marriage Story",
+                  "tmdbId": 492188,
+                  "imdbId": "tt7653254"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonathan Pryce"
+              ],
+              "movies": [
+                {
+                  "title": "The Two Popes",
+                  "tmdbId": 551332,
+                  "imdbId": "tt8404614"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Renee Zellweger"
+              ],
+              "movies": [
+                {
+                  "title": "Judy",
+                  "tmdbId": 491283,
+                  "imdbId": "tt7549996"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cynthia Erivo"
+              ],
+              "movies": [
+                {
+                  "title": "Harriet",
+                  "tmdbId": 506528,
+                  "imdbId": "tt4648786"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scarlett Johansson"
+              ],
+              "movies": [
+                {
+                  "title": "Marriage Story",
+                  "tmdbId": 492188,
+                  "imdbId": "tt7653254"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Saoirse Ronan"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 331482,
+                  "imdbId": "tt3281548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charlize Theron"
+              ],
+              "movies": [
+                {
+                  "title": "Bombshell",
+                  "tmdbId": 525661,
+                  "imdbId": "tt6394270"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Brad Pitt"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Hanks"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Day in the Neighborhood",
+                  "tmdbId": 501907,
+                  "imdbId": "tt3224458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "The Two Popes",
+                  "tmdbId": 551332,
+                  "imdbId": "tt8404614"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Pacino"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Pesci"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Laura Dern"
+              ],
+              "movies": [
+                {
+                  "title": "Marriage Story",
+                  "tmdbId": 492188,
+                  "imdbId": "tt7653254"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kathy Bates"
+              ],
+              "movies": [
+                {
+                  "title": "Richard Jewell",
+                  "tmdbId": 292011,
+                  "imdbId": "tt3513548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scarlett Johansson"
+              ],
+              "movies": [
+                {
+                  "title": "Jojo Rabbit",
+                  "tmdbId": 515001,
+                  "imdbId": "tt2584384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Florence Pugh"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 331482,
+                  "imdbId": "tt3281548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margot Robbie"
+              ],
+              "movies": [
+                {
+                  "title": "Bombshell",
+                  "tmdbId": 525661,
+                  "imdbId": "tt6394270"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Bong Joon-ho",
+                "Han Jin-won"
+              ],
+              "movies": [
+                {
+                  "title": "Parasite",
+                  "tmdbId": 496243,
+                  "imdbId": "tt6751668"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Noah Baumbach"
+              ],
+              "movies": [
+                {
+                  "title": "Marriage Story",
+                  "tmdbId": 492188,
+                  "imdbId": "tt7653254"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Mendes",
+                "Krysty Wilson-Cairns"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quentin Tarantino"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rian Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "Knives Out",
+                  "tmdbId": 546554,
+                  "imdbId": "tt8946378"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Taika Waititi"
+              ],
+              "movies": [
+                {
+                  "title": "Jojo Rabbit",
+                  "tmdbId": 515001,
+                  "imdbId": "tt2584384"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Steve Zaillian"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Todd Phillips",
+                "Scott Silver"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greta Gerwig"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 331482,
+                  "imdbId": "tt3281548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony McCarten"
+              ],
+              "movies": [
+                {
+                  "title": "The Two Popes",
+                  "tmdbId": 551332,
+                  "imdbId": "tt8404614"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Toy Story 4"
+              ],
+              "movies": [
+                {
+                  "title": "Toy Story 4",
+                  "tmdbId": 301528,
+                  "imdbId": "tt1979376"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "How to Train Your Dragon: The Hidden World"
+              ],
+              "movies": [
+                {
+                  "title": "How to Train Your Dragon: The Hidden World",
+                  "tmdbId": 166428,
+                  "imdbId": "tt2386490"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Lost My Body"
+              ],
+              "movies": [
+                {
+                  "title": "I Lost My Body",
+                  "tmdbId": 586940,
+                  "imdbId": "tt9806192"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Klaus"
+              ],
+              "movies": [
+                {
+                  "title": "Klaus",
+                  "tmdbId": 508965,
+                  "imdbId": "tt4729430"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Missing Link"
+              ],
+              "movies": [
+                {
+                  "title": "Missing Link",
+                  "tmdbId": 458253,
+                  "imdbId": "tt6348138"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best International Feature Film",
+          "winners": [
+            {
+              "names": [
+                "Parasite"
+              ],
+              "movies": [
+                {
+                  "title": "Parasite",
+                  "tmdbId": 496243,
+                  "imdbId": "tt6751668"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Corpus Christi"
+              ],
+              "movies": [
+                {
+                  "title": "Corpus Christi",
+                  "tmdbId": 471707,
+                  "imdbId": "tt8649186"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Honeyland"
+              ],
+              "movies": [
+                {
+                  "title": "Honeyland",
+                  "tmdbId": 566213,
+                  "imdbId": "tt8991268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Les Misérables"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 586863,
+                  "imdbId": "tt10199590"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pain and Glory"
+              ],
+              "movies": [
+                {
+                  "title": "Pain and Glory",
+                  "tmdbId": 519010,
+                  "imdbId": "tt8291806"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "American Factory"
+              ],
+              "movies": [
+                {
+                  "title": "American Factory",
+                  "tmdbId": 565716,
+                  "imdbId": "tt9351980"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Cave"
+              ],
+              "movies": [
+                {
+                  "title": "The Cave",
+                  "tmdbId": 621729,
+                  "imdbId": "tt7178226"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Edge of Democracy"
+              ],
+              "movies": [
+                {
+                  "title": "The Edge of Democracy",
+                  "tmdbId": 566221,
+                  "imdbId": "tt6016744"
+                }
+              ]
+            },
+            {
+              "names": [
+                "For Sama"
+              ],
+              "movies": [
+                {
+                  "title": "For Sama",
+                  "tmdbId": 576017,
+                  "imdbId": "tt9617456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Honeyland"
+              ],
+              "movies": [
+                {
+                  "title": "Honeyland",
+                  "tmdbId": 566213,
+                  "imdbId": "tt8991268"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rodrigo Prieto"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lawrence Sher"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jarin Blaschke"
+              ],
+              "movies": [
+                {
+                  "title": "The Lighthouse",
+                  "tmdbId": 503919,
+                  "imdbId": "tt7984734"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Andrew Buckland",
+                "Michael McCusker"
+              ],
+              "movies": [
+                {
+                  "title": "Ford v Ferrari",
+                  "tmdbId": 359724,
+                  "imdbId": "tt1950186"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Thelma Schoonmaker"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Eagles"
+              ],
+              "movies": [
+                {
+                  "title": "Jojo Rabbit",
+                  "tmdbId": 515001,
+                  "imdbId": "tt2584384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeff Groth"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yang Jin-mo"
+              ],
+              "movies": [
+                {
+                  "title": "Parasite",
+                  "tmdbId": 496243,
+                  "imdbId": "tt6751668"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Barbara Ling",
+                "Nancy Haigh"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bob Shaw",
+                "Regina Graves"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ra Vincent",
+                "Nora Sopkova"
+              ],
+              "movies": [
+                {
+                  "title": "Jojo Rabbit",
+                  "tmdbId": 515001,
+                  "imdbId": "tt2584384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Gassner",
+                "Lee Sandales"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Ha-joon",
+                "Cho Won-woo"
+              ],
+              "movies": [
+                {
+                  "title": "Parasite",
+                  "tmdbId": 496243,
+                  "imdbId": "tt6751668"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Jacqueline Durran"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 331482,
+                  "imdbId": "tt3281548"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mayes C. Rubeo"
+              ],
+              "movies": [
+                {
+                  "title": "Jojo Rabbit",
+                  "tmdbId": 515001,
+                  "imdbId": "tt2584384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell",
+                "Christopher Peterson"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arianne Phillips"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Kazu Hiro",
+                "Anne Morgan",
+                "Vivian Baker"
+              ],
+              "movies": [
+                {
+                  "title": "Bombshell",
+                  "tmdbId": 525661,
+                  "imdbId": "tt6394270"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nicki Ledermann",
+                "Kay Georgiou"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeremy Woodhead"
+              ],
+              "movies": [
+                {
+                  "title": "Judy",
+                  "tmdbId": 491283,
+                  "imdbId": "tt7549996"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Gooch",
+                "Arjen Tuiten",
+                "David White"
+              ],
+              "movies": [
+                {
+                  "title": "Maleficent: Mistress of Evil",
+                  "tmdbId": 420809,
+                  "imdbId": "tt4777008"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Naomi Donne",
+                "Tristan Versluis",
+                "Rebecca Cole"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Guillaume Rocheron",
+                "Greg Butler",
+                "Dominic Tuohy"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dan DeLeeuw",
+                "Matt Aitkem",
+                "Russell Earl",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "Avengers: Endgame",
+                  "tmdbId": 299534,
+                  "imdbId": "tt4154796"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pablo Helman",
+                "Leandro Estebecorena",
+                "Stephane Grabli",
+                "Nelson Sepulveda"
+              ],
+              "movies": [
+                {
+                  "title": "The Irishman",
+                  "tmdbId": 398978,
+                  "imdbId": "tt1302006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Legato",
+                "Adam Valdez",
+                "Andrew R. Jones",
+                "Elliot Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion King",
+                  "tmdbId": 420818,
+                  "imdbId": "tt6105098"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Guyett",
+                "Neal Scanlan",
+                "Patrick Tubach",
+                "Dominic Tuohy"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Rise of Skywalker",
+                  "tmdbId": 181812,
+                  "imdbId": "tt2527338"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Mark Taylor",
+                "Stuart Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Tom Johnson",
+                "Mark Ulano"
+              ],
+              "movies": [
+                {
+                  "title": "Ad Astra",
+                  "tmdbId": 419704,
+                  "imdbId": "tt2935510"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Ozanich",
+                "Dean Zupancic",
+                "Tod Maitland"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Massey",
+                "David Giammarco",
+                "Steven A. Morrow"
+              ],
+              "movies": [
+                {
+                  "title": "Ford v Ferrari",
+                  "tmdbId": 359724,
+                  "imdbId": "tt1950186"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Minkler",
+                "Christian P. Minkler",
+                "Mark Ulano"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Donald Sylvester"
+              ],
+              "movies": [
+                {
+                  "title": "Ford v Ferrari",
+                  "tmdbId": 359724,
+                  "imdbId": "tt1950186"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Oliver Tarney",
+                "Rachael Tate"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Robert Murray"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wylie Stateman"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Time... in Hollywood",
+                  "tmdbId": 466272,
+                  "imdbId": "tt7131622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matthew Wood",
+                "David Acord"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Rise of Skywalker",
+                  "tmdbId": 181812,
+                  "imdbId": "tt2527338"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Hildur Gudnadottir"
+              ],
+              "movies": [
+                {
+                  "title": "Joker",
+                  "tmdbId": 475557,
+                  "imdbId": "tt7286456"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alexandre Desplat"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 331482,
+                  "imdbId": "tt3281548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Marriage Story",
+                  "tmdbId": 492188,
+                  "imdbId": "tt7653254"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "1917",
+                  "tmdbId": 530915,
+                  "imdbId": "tt8579674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Rise of Skywalker",
+                  "tmdbId": 181812,
+                  "imdbId": "tt2527338"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "(I'm Gonna) Love Me Again"
+              ],
+              "movies": [
+                {
+                  "title": "Rocketman",
+                  "tmdbId": 504608,
+                  "imdbId": "tt2066051"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I Can't Let You Throw Yourself Away"
+              ],
+              "movies": [
+                {
+                  "title": "Toy Story 4",
+                  "tmdbId": 301528,
+                  "imdbId": "tt1979376"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'm Standing with You"
+              ],
+              "movies": [
+                {
+                  "title": "Breakthrough",
+                  "tmdbId": 514439,
+                  "imdbId": "tt7083526"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Into the Unknown"
+              ],
+              "movies": [
+                {
+                  "title": "Frozen II",
+                  "tmdbId": 330457,
+                  "imdbId": "tt4520988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stand Up"
+              ],
+              "movies": [
+                {
+                  "title": "Harriet",
+                  "tmdbId": 506528,
+                  "imdbId": "tt4648786"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Hair Love"
+              ],
+              "movies": [
+                {
+                  "title": "Hair Love",
+                  "tmdbId": 589739,
+                  "imdbId": "tt7129636"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daughter"
+              ],
+              "movies": [
+                {
+                  "title": "Daughter",
+                  "tmdbId": 613221,
+                  "imdbId": "tt10923134"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kitbull"
+              ],
+              "movies": [
+                {
+                  "title": "Kitbull",
+                  "tmdbId": 574074,
+                  "imdbId": "tt9536832"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Memorable"
+              ],
+              "movies": [
+                {
+                  "title": "Memorable",
+                  "tmdbId": 608542,
+                  "imdbId": "tt10499942"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sister"
+              ],
+              "movies": [
+                {
+                  "title": "Sister",
+                  "tmdbId": 569529,
+                  "imdbId": "tt9032798"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Neighbors' Window"
+              ],
+              "movies": [
+                {
+                  "title": "The Neighbors' Window",
+                  "tmdbId": 600274,
+                  "imdbId": "tt8163822"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nefta Football Club"
+              ],
+              "movies": [
+                {
+                  "title": "Nefta Football Club",
+                  "tmdbId": 581465,
+                  "imdbId": "tt8551848"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brotherhood"
+              ],
+              "movies": [
+                {
+                  "title": "Brotherhood",
+                  "tmdbId": 624405,
+                  "imdbId": "tt7220118"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Saria"
+              ],
+              "movies": [
+                {
+                  "title": "Saria",
+                  "tmdbId": 656190,
+                  "imdbId": "tt11421246"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Sister"
+              ],
+              "movies": [
+                {
+                  "title": "A Sister",
+                  "tmdbId": 575107,
+                  "imdbId": "tt8767544"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Learning to Skateboard in a Warzone (If You're a Girl)"
+              ],
+              "movies": [
+                {
+                  "title": "Learning to Skateboard in a Warzone (If You're a Girl)",
+                  "tmdbId": 612074,
+                  "imdbId": "tt10397932"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "In the Absence"
+              ],
+              "movies": [
+                {
+                  "title": "In the Absence",
+                  "tmdbId": 592303,
+                  "imdbId": "tt9464764"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life Overtakes Me"
+              ],
+              "movies": [
+                {
+                  "title": "Life Overtakes Me",
+                  "tmdbId": 593280,
+                  "imdbId": "tt9204606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "St. Louis Superman"
+              ],
+              "movies": [
+                {
+                  "title": "St. Louis Superman",
+                  "tmdbId": 634767,
+                  "imdbId": "tt10009148"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walk Run Cha-Cha"
+              ],
+              "movies": [
+                {
+                  "title": "Walk Run Cha-Cha",
+                  "tmdbId": 634772,
+                  "imdbId": "tt10182854"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

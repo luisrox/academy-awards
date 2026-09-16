@@ -1,0 +1,1764 @@
+{
+  "ceremony": {
+    "ordinal": 38,
+    "ceremonyYear": 1966,
+    "ceremonyDate": "1966-04-18",
+    "filmYearLabel": "1965",
+    "slug": "1966",
+    "decade": "1960s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Sound of Music"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Darling"
+              ],
+              "movies": [
+                {
+                  "title": "Darling",
+                  "tmdbId": 24134,
+                  "imdbId": "tt0059084"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Doctor Zhivago"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ship of Fools"
+              ],
+              "movies": [
+                {
+                  "title": "Ship of Fools",
+                  "tmdbId": 30080,
+                  "imdbId": "tt0059712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Thousand Clowns"
+              ],
+              "movies": [
+                {
+                  "title": "A Thousand Clowns",
+                  "tmdbId": 42731,
+                  "imdbId": "tt0059798"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Robert Wise"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Lean"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Schlesinger"
+              ],
+              "movies": [
+                {
+                  "title": "Darling",
+                  "tmdbId": 24134,
+                  "imdbId": "tt0059084"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "The Collector",
+                  "tmdbId": 42740,
+                  "imdbId": "tt0059043"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hiroshi Teshigahara"
+              ],
+              "movies": [
+                {
+                  "title": "Woman in the Dunes",
+                  "tmdbId": 16672,
+                  "imdbId": "tt0058625"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Lee Marvin"
+              ],
+              "movies": [
+                {
+                  "title": "Cat Ballou",
+                  "tmdbId": 11694,
+                  "imdbId": "tt0059017"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Burton"
+              ],
+              "movies": [
+                {
+                  "title": "The Spy Who Came in from the Cold",
+                  "tmdbId": 13580,
+                  "imdbId": "tt0059749"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Othello",
+                  "tmdbId": 44006,
+                  "imdbId": "tt0059555"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rod Steiger"
+              ],
+              "movies": [
+                {
+                  "title": "The Pawnbroker",
+                  "tmdbId": 20540,
+                  "imdbId": "tt0059575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oskar Werner"
+              ],
+              "movies": [
+                {
+                  "title": "Ship of Fools",
+                  "tmdbId": 30080,
+                  "imdbId": "tt0059712"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Julie Christie"
+              ],
+              "movies": [
+                {
+                  "title": "Darling",
+                  "tmdbId": 24134,
+                  "imdbId": "tt0059084"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Julie Andrews"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Samantha Eggar"
+              ],
+              "movies": [
+                {
+                  "title": "The Collector",
+                  "tmdbId": 42740,
+                  "imdbId": "tt0059043"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elizabeth Hartman"
+              ],
+              "movies": [
+                {
+                  "title": "A Patch of Blue",
+                  "tmdbId": 33364,
+                  "imdbId": "tt0059573"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Simone Signoret"
+              ],
+              "movies": [
+                {
+                  "title": "Ship of Fools",
+                  "tmdbId": 30080,
+                  "imdbId": "tt0059712"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Martin Balsam"
+              ],
+              "movies": [
+                {
+                  "title": "A Thousand Clowns",
+                  "tmdbId": 42731,
+                  "imdbId": "tt0059798"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ian Bannen"
+              ],
+              "movies": [
+                {
+                  "title": "The Flight of the Phoenix",
+                  "tmdbId": 10243,
+                  "imdbId": "tt0059183"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Courtenay"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "Ship of Fools",
+                  "tmdbId": 30080,
+                  "imdbId": "tt0059712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Finlay"
+              ],
+              "movies": [
+                {
+                  "title": "Othello",
+                  "tmdbId": 44006,
+                  "imdbId": "tt0059555"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Shelley Winters"
+              ],
+              "movies": [
+                {
+                  "title": "A Patch of Blue",
+                  "tmdbId": 33364,
+                  "imdbId": "tt0059573"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ruth Gordon"
+              ],
+              "movies": [
+                {
+                  "title": "Inside Daisy Clover",
+                  "tmdbId": 49683,
+                  "imdbId": "tt0059314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joyce Redman"
+              ],
+              "movies": [
+                {
+                  "title": "Othello",
+                  "tmdbId": 44006,
+                  "imdbId": "tt0059555"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maggie Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Othello",
+                  "tmdbId": 44006,
+                  "imdbId": "tt0059555"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peggy Wood"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Frederic Raphael"
+              ],
+              "movies": [
+                {
+                  "title": "Darling",
+                  "tmdbId": 24134,
+                  "imdbId": "tt0059084"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Agenore Incrocci",
+                "Furio Scarpelli",
+                "Mario Monicelli",
+                "Tonino Guerra",
+                "Giorgio Salvioni",
+                "Suso Cecchi d'Amico"
+              ],
+              "movies": [
+                {
+                  "title": "Casanova 70",
+                  "tmdbId": 3520,
+                  "imdbId": "tt0059015"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacques Demy"
+              ],
+              "movies": [
+                {
+                  "title": "The Umbrellas of Cherbourg",
+                  "tmdbId": 5967,
+                  "imdbId": "tt0058450"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franklin Coen",
+                "Frank Davis"
+              ],
+              "movies": [
+                {
+                  "title": "The Train",
+                  "tmdbId": 3482,
+                  "imdbId": "tt0059825"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Davies",
+                "Ken Annakin"
+              ],
+              "movies": [
+                {
+                  "title": "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes",
+                  "tmdbId": 10338,
+                  "imdbId": "tt0059797"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Robert Bolt"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Herb Gardner"
+              ],
+              "movies": [
+                {
+                  "title": "A Thousand Clowns",
+                  "tmdbId": 42731,
+                  "imdbId": "tt0059798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Newman",
+                "Frank Pierson"
+              ],
+              "movies": [
+                {
+                  "title": "Cat Ballou",
+                  "tmdbId": 11694,
+                  "imdbId": "tt0059017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Abby Mann"
+              ],
+              "movies": [
+                {
+                  "title": "Ship of Fools",
+                  "tmdbId": 30080,
+                  "imdbId": "tt0059712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Mann",
+                "John Kohn"
+              ],
+              "movies": [
+                {
+                  "title": "The Collector",
+                  "tmdbId": 42740,
+                  "imdbId": "tt0059043"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Shop on Main Street"
+              ],
+              "movies": [
+                {
+                  "title": "The Shop on Main Street",
+                  "tmdbId": 25905,
+                  "imdbId": "tt0059527"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blood on the Land"
+              ],
+              "movies": [
+                {
+                  "title": "Blood on the Land",
+                  "tmdbId": 202764,
+                  "imdbId": "tt0057892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dear John"
+              ],
+              "movies": [
+                {
+                  "title": "Dear John",
+                  "tmdbId": 75653,
+                  "imdbId": "tt0058281"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kwaidan"
+              ],
+              "movies": [
+                {
+                  "title": "Kwaidan",
+                  "tmdbId": 30959,
+                  "imdbId": "tt0058279"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marriage Italian Style"
+              ],
+              "movies": [
+                {
+                  "title": "Marriage Italian Style",
+                  "tmdbId": 49687,
+                  "imdbId": "tt0058335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Eleanor Roosevelt Story"
+              ],
+              "movies": [
+                {
+                  "title": "The Eleanor Roosevelt Story",
+                  "tmdbId": 114510,
+                  "imdbId": "tt0059145"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Battle of the Bulge... The Brave Rifles"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle of the Bulge... The Brave Rifles",
+                  "tmdbId": 149293,
+                  "imdbId": "tt0058948"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Forth Road Bridge"
+              ],
+              "movies": [
+                {
+                  "title": "The Forth Road Bridge",
+                  "tmdbId": 149294,
+                  "imdbId": "tt0059193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Let My People Go: The Story of Israel"
+              ],
+              "movies": [
+                {
+                  "title": "Let My People Go: The Story of Israel",
+                  "tmdbId": 149295,
+                  "imdbId": "tt0857321"
+                }
+              ]
+            },
+            {
+              "names": [
+                "To Die in Madrid"
+              ],
+              "movies": [
+                {
+                  "title": "To Die in Madrid",
+                  "tmdbId": 116684,
+                  "imdbId": "tt0057327"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Freddie Young"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "The Agony and the Ecstasy",
+                  "tmdbId": 36815,
+                  "imdbId": "tt0058886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Russell Harlan"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Race",
+                  "tmdbId": 11575,
+                  "imdbId": "tt0059243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William C. Mellor",
+                "Loyal Griggs"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Story Ever Told",
+                  "tmdbId": 2428,
+                  "imdbId": "tt0059245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted D. McCord"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Ernest Laszlo"
+              ],
+              "movies": [
+                {
+                  "title": "Ship of Fools",
+                  "tmdbId": 30080,
+                  "imdbId": "tt0059712"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Loyal Griggs"
+              ],
+              "movies": [
+                {
+                  "title": "In Harm's Way",
+                  "tmdbId": 37921,
+                  "imdbId": "tt0059309"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Burnett Guffey"
+              ],
+              "movies": [
+                {
+                  "title": "King Rat",
+                  "tmdbId": 29586,
+                  "imdbId": "tt0059358"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Conrad Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Morituri",
+                  "tmdbId": 42737,
+                  "imdbId": "tt0059470"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Burks"
+              ],
+              "movies": [
+                {
+                  "title": "A Patch of Blue",
+                  "tmdbId": 33364,
+                  "imdbId": "tt0059573"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "William H. Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "Cat Ballou",
+                  "tmdbId": 11694,
+                  "imdbId": "tt0059017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Savage"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Luciano"
+              ],
+              "movies": [
+                {
+                  "title": "The Flight of the Phoenix",
+                  "tmdbId": 10243,
+                  "imdbId": "tt0059183"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph E. Winters"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Race",
+                  "tmdbId": 11575,
+                  "imdbId": "tt0059243"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "John Box",
+                "Terence Marsh",
+                "Dario Simoni"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John DeCuir",
+                "Jack Martin Smith",
+                "Dario Simoni"
+              ],
+              "movies": [
+                {
+                  "title": "The Agony and the Ecstasy",
+                  "tmdbId": 36815,
+                  "imdbId": "tt0058886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Day",
+                "William Creber",
+                "David S. Hall",
+                "Ray Moyer",
+                "Fred M. MacLean",
+                "Norman Rockett"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Story Ever Told",
+                  "tmdbId": 2428,
+                  "imdbId": "tt0059245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Clatworthy",
+                "George James Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Inside Daisy Clover",
+                  "tmdbId": 49683,
+                  "imdbId": "tt0059314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boris Leven",
+                "Walter M. Scott",
+                "Ruby Levitt"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Robert Clatworthy",
+                "Joseph Kish"
+              ],
+              "movies": [
+                {
+                  "title": "Ship of Fools",
+                  "tmdbId": 30080,
+                  "imdbId": "tt0059712"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Emmet Smith",
+                "Frank Tuttle"
+              ],
+              "movies": [
+                {
+                  "title": "King Rat",
+                  "tmdbId": 29586,
+                  "imdbId": "tt0059358"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Davis",
+                "Urie McCleary",
+                "Henry Grace",
+                "Charles S. Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "A Patch of Blue",
+                  "tmdbId": 33364,
+                  "imdbId": "tt0059573"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Jack Poplin",
+                "Robert R. Benton",
+                "Joseph Kish"
+              ],
+              "movies": [
+                {
+                  "title": "The Slender Thread",
+                  "tmdbId": 51054,
+                  "imdbId": "tt0059729"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Tambi Larsen",
+                "Ted Marshall",
+                "Josie MacAvin"
+              ],
+              "movies": [
+                {
+                  "title": "The Spy Who Came in from the Cold",
+                  "tmdbId": 13580,
+                  "imdbId": "tt0059749"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Phyllis Dalton"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Vittorio Nino Novarese"
+              ],
+              "movies": [
+                {
+                  "title": "The Agony and the Ecstasy",
+                  "tmdbId": 36815,
+                  "imdbId": "tt0058886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marjorie Best",
+                "Vittorio Nino Novarese"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Story Ever Told",
+                  "tmdbId": 2428,
+                  "imdbId": "tt0059245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head",
+                "Bill Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "Inside Daisy Clover",
+                  "tmdbId": 49683,
+                  "imdbId": "tt0059314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dorothy Jeakins"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Julie Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Darling",
+                  "tmdbId": 24134,
+                  "imdbId": "tt0059084"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Moss Mabry"
+              ],
+              "movies": [
+                {
+                  "title": "Morituri",
+                  "tmdbId": 42737,
+                  "imdbId": "tt0059470"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard Shoup"
+              ],
+              "movies": [
+                {
+                  "title": "A Rage to Live",
+                  "tmdbId": 104759,
+                  "imdbId": "tt0059630"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Louis",
+                "Bill Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "Ship of Fools",
+                  "tmdbId": 30080,
+                  "imdbId": "tt0059712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "The Slender Thread",
+                  "tmdbId": 51054,
+                  "imdbId": "tt0059729"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "John Stears"
+              ],
+              "movies": [
+                {
+                  "title": "Thunderball",
+                  "tmdbId": 660,
+                  "imdbId": "tt0059800"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "J. McMillan Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Story Ever Told",
+                  "tmdbId": 2428,
+                  "imdbId": "tt0059245"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "James Corcoran",
+                "Fred Hynes"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Corcoran"
+              ],
+              "movies": [
+                {
+                  "title": "The Agony and the Ecstasy",
+                  "tmdbId": 36815,
+                  "imdbId": "tt0058886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A.W. Watkins",
+                "Franklin Milton"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Groves"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Race",
+                  "tmdbId": 11575,
+                  "imdbId": "tt0059243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Waldon O. Watson"
+              ],
+              "movies": [
+                {
+                  "title": "Shenandoah",
+                  "tmdbId": 21027,
+                  "imdbId": "tt0059711"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects",
+          "winners": [
+            {
+              "names": [
+                "Treg Brown"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Race",
+                  "tmdbId": 11575,
+                  "imdbId": "tt0059243"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Rossi"
+              ],
+              "movies": [
+                {
+                  "title": "Von Ryan's Express",
+                  "tmdbId": 21876,
+                  "imdbId": "tt0059885"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Maurice Jarre"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor Zhivago",
+                  "tmdbId": 907,
+                  "imdbId": "tt0059113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "A Patch of Blue",
+                  "tmdbId": 33364,
+                  "imdbId": "tt0059573"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michel Legrand",
+                "Jacques Demy"
+              ],
+              "movies": [
+                {
+                  "title": "The Umbrellas of Cherbourg",
+                  "tmdbId": 5967,
+                  "imdbId": "tt0058450"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "The Agony and the Ecstasy",
+                  "tmdbId": 36815,
+                  "imdbId": "tt0058886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Greatest Story Ever Told",
+                  "tmdbId": 2428,
+                  "imdbId": "tt0059245"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Irwin Kostal"
+              ],
+              "movies": [
+                {
+                  "title": "The Sound of Music",
+                  "tmdbId": 15121,
+                  "imdbId": "tt0059742"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michel Legrand"
+              ],
+              "movies": [
+                {
+                  "title": "The Umbrellas of Cherbourg",
+                  "tmdbId": 5967,
+                  "imdbId": "tt0058450"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank De Vol"
+              ],
+              "movies": [
+                {
+                  "title": "Cat Ballou",
+                  "tmdbId": 11694,
+                  "imdbId": "tt0059017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Don Walker"
+              ],
+              "movies": [
+                {
+                  "title": "A Thousand Clowns",
+                  "tmdbId": 42731,
+                  "imdbId": "tt0059798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lionel Newman",
+                "Alexander Courage"
+              ],
+              "movies": [
+                {
+                  "title": "The Pleasure Seekers",
+                  "tmdbId": 95358,
+                  "imdbId": "tt0058479"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "The Shadow of Your Smile"
+              ],
+              "movies": [
+                {
+                  "title": "The Sandpiper",
+                  "tmdbId": 77915,
+                  "imdbId": "tt0059674"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Ballad of Cat Ballou"
+              ],
+              "movies": [
+                {
+                  "title": "Cat Ballou",
+                  "tmdbId": 11694,
+                  "imdbId": "tt0059017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Will Wait for You"
+              ],
+              "movies": [
+                {
+                  "title": "The Umbrellas of Cherbourg",
+                  "tmdbId": 5967,
+                  "imdbId": "tt0058450"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Sweetheart Tree"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Race",
+                  "tmdbId": 11575,
+                  "imdbId": "tt0059243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "What's New Pussycat?"
+              ],
+              "movies": [
+                {
+                  "title": "What's New Pussycat?",
+                  "tmdbId": 3681,
+                  "imdbId": "tt0059903"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Dot and the Line: A Romance in Lower Mathematics"
+              ],
+              "movies": [
+                {
+                  "title": "The Dot and the Line: A Romance in Lower Mathematics",
+                  "tmdbId": 84617,
+                  "imdbId": "tt0059122"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Clay or The Origin of Species"
+              ],
+              "movies": [
+                {
+                  "title": "Clay or The Origin of Species",
+                  "tmdbId": 243281,
+                  "imdbId": "tt0059041"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Thieving Magpie"
+              ],
+              "movies": [
+                {
+                  "title": "The Thieving Magpie",
+                  "tmdbId": 129979,
+                  "imdbId": "tt0059214"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Chicken"
+              ],
+              "movies": [
+                {
+                  "title": "The Chicken",
+                  "tmdbId": 34063,
+                  "imdbId": "tt0059613"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Wehrhafte Schweiz"
+              ],
+              "movies": [
+                {
+                  "title": "Wehrhafte Schweiz",
+                  "tmdbId": 243272,
+                  "imdbId": "tt0059194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Skaterdater"
+              ],
+              "movies": [
+                {
+                  "title": "Skaterdater",
+                  "tmdbId": 190358,
+                  "imdbId": "tt0059725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Snow"
+              ],
+              "movies": [
+                {
+                  "title": "Snow",
+                  "tmdbId": 995290
+                }
+              ]
+            },
+            {
+              "names": [
+                "Timepiece"
+              ],
+              "movies": [
+                {
+                  "title": "Timepiece",
+                  "tmdbId": 655925
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "To Be Alive!"
+              ],
+              "movies": [
+                {
+                  "title": "To Be Alive!",
+                  "tmdbId": 243283,
+                  "imdbId": "tt0059814"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mural on Our Street"
+              ],
+              "movies": [
+                {
+                  "title": "Mural on Our Street",
+                  "tmdbId": 243284,
+                  "imdbId": "tt0059483"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ouverture"
+              ],
+              "movies": [
+                {
+                  "title": "Ouverture",
+                  "tmdbId": 220573,
+                  "imdbId": "tt0059559"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Point of View"
+              ],
+              "movies": [
+                {
+                  "title": "Point of View",
+                  "tmdbId": 243286,
+                  "imdbId": "tt0059609"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yeats Country"
+              ],
+              "movies": [
+                {
+                  "title": "Yeats Country",
+                  "tmdbId": 243287,
+                  "imdbId": "tt0059926"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

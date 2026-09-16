@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "data:build": "tsx scripts/normalize.ts",
+    "data:check": "tsx scripts/data-check.ts",
+    "build": "npm run data:check && next build",
     "start": "next start",
     "lint": "eslint",
     "test": "vitest run",

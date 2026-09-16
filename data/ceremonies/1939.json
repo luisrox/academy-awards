@@ -1,0 +1,1762 @@
+{
+  "ceremony": {
+    "ordinal": 11,
+    "ceremonyYear": 1939,
+    "ceremonyDate": "1939-02-23",
+    "filmYearLabel": "1938",
+    "slug": "1939",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "You Can't Take It With You"
+              ],
+              "movies": [
+                {
+                  "title": "You Can't Take It with You",
+                  "tmdbId": 34106,
+                  "imdbId": "tt0030993"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Adventures of Robin Hood"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Robin Hood",
+                  "tmdbId": 10907,
+                  "imdbId": "tt0029843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander's Ragtime Band"
+              ],
+              "movies": [
+                {
+                  "title": "Alexander's Ragtime Band",
+                  "tmdbId": 43839,
+                  "imdbId": "tt0029852"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boys Town"
+              ],
+              "movies": [
+                {
+                  "title": "Boys Town",
+                  "tmdbId": 42390,
+                  "imdbId": "tt0029942"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Citadel"
+              ],
+              "movies": [
+                {
+                  "title": "The Citadel",
+                  "tmdbId": 84090,
+                  "imdbId": "tt0029995"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Four Daughters"
+              ],
+              "movies": [
+                {
+                  "title": "Four Daughters",
+                  "tmdbId": 67880,
+                  "imdbId": "tt0030149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Grand Illusion"
+              ],
+              "movies": [
+                {
+                  "title": "Grand Illusion",
+                  "tmdbId": 777,
+                  "imdbId": "tt0028950"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jezebel"
+              ],
+              "movies": [
+                {
+                  "title": "Jezebel",
+                  "tmdbId": 1976,
+                  "imdbId": "tt0030287"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pygmalion"
+              ],
+              "movies": [
+                {
+                  "title": "Pygmalion",
+                  "tmdbId": 25016,
+                  "imdbId": "tt0030637"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Test Pilot"
+              ],
+              "movies": [
+                {
+                  "title": "Test Pilot",
+                  "tmdbId": 43155,
+                  "imdbId": "tt0030848"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Frank Capra"
+              ],
+              "movies": [
+                {
+                  "title": "You Can't Take It with You",
+                  "tmdbId": 34106,
+                  "imdbId": "tt0030993"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Curtiz"
+              ],
+              "movies": [
+                {
+                  "title": "Angels with Dirty Faces",
+                  "tmdbId": 13696,
+                  "imdbId": "tt0029870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Curtiz"
+              ],
+              "movies": [
+                {
+                  "title": "Four Daughters",
+                  "tmdbId": 67880,
+                  "imdbId": "tt0030149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Taurog"
+              ],
+              "movies": [
+                {
+                  "title": "Boys Town",
+                  "tmdbId": 42390,
+                  "imdbId": "tt0029942"
+                }
+              ]
+            },
+            {
+              "names": [
+                "King Vidor"
+              ],
+              "movies": [
+                {
+                  "title": "The Citadel",
+                  "tmdbId": 84090,
+                  "imdbId": "tt0029995"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "Boys Town",
+                  "tmdbId": 42390,
+                  "imdbId": "tt0029942"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Boyer"
+              ],
+              "movies": [
+                {
+                  "title": "Algiers",
+                  "tmdbId": 22657,
+                  "imdbId": "tt0029855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Cagney"
+              ],
+              "movies": [
+                {
+                  "title": "Angels with Dirty Faces",
+                  "tmdbId": 13696,
+                  "imdbId": "tt0029870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Donat"
+              ],
+              "movies": [
+                {
+                  "title": "The Citadel",
+                  "tmdbId": 84090,
+                  "imdbId": "tt0029995"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leslie Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Pygmalion",
+                  "tmdbId": 25016,
+                  "imdbId": "tt0030637"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Jezebel",
+                  "tmdbId": 1976,
+                  "imdbId": "tt0030287"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fay Bainter"
+              ],
+              "movies": [
+                {
+                  "title": "White Banners",
+                  "tmdbId": 123452,
+                  "imdbId": "tt0030973"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wendy Hiller"
+              ],
+              "movies": [
+                {
+                  "title": "Pygmalion",
+                  "tmdbId": 25016,
+                  "imdbId": "tt0030637"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norma Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Marie Antoinette",
+                  "tmdbId": 43847,
+                  "imdbId": "tt0030418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margaret Sullavan"
+              ],
+              "movies": [
+                {
+                  "title": "Three Comrades",
+                  "tmdbId": 109970,
+                  "imdbId": "tt0030865"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Walter Brennan"
+              ],
+              "movies": [
+                {
+                  "title": "Kentucky",
+                  "tmdbId": 118889,
+                  "imdbId": "tt0030317"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Garfield"
+              ],
+              "movies": [
+                {
+                  "title": "Four Daughters",
+                  "tmdbId": 67880,
+                  "imdbId": "tt0030149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Lockhart"
+              ],
+              "movies": [
+                {
+                  "title": "Algiers",
+                  "tmdbId": 22657,
+                  "imdbId": "tt0029855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Morley"
+              ],
+              "movies": [
+                {
+                  "title": "Marie Antoinette",
+                  "tmdbId": 43847,
+                  "imdbId": "tt0030418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Basil Rathbone"
+              ],
+              "movies": [
+                {
+                  "title": "If I Were King",
+                  "tmdbId": 126777,
+                  "imdbId": "tt0030265"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Fay Bainter"
+              ],
+              "movies": [
+                {
+                  "title": "Jezebel",
+                  "tmdbId": 1976,
+                  "imdbId": "tt0030287"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Beulah Bondi"
+              ],
+              "movies": [
+                {
+                  "title": "Of Human Hearts",
+                  "tmdbId": 122884,
+                  "imdbId": "tt0030517"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billie Burke"
+              ],
+              "movies": [
+                {
+                  "title": "Merrily We Live",
+                  "tmdbId": 111315,
+                  "imdbId": "tt0030442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spring Byington"
+              ],
+              "movies": [
+                {
+                  "title": "You Can't Take It with You",
+                  "tmdbId": 34106,
+                  "imdbId": "tt0030993"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miliza Korjus"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Waltz",
+                  "tmdbId": 62567,
+                  "imdbId": "tt0030202"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "George Bernard Shaw",
+                "Ian Dalrymple",
+                "Cecil Lewis",
+                "W. P. Lipscomb"
+              ],
+              "movies": [
+                {
+                  "title": "Pygmalion",
+                  "tmdbId": 25016,
+                  "imdbId": "tt0030637"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lenore Coffee",
+                "Julius J. Epstein"
+              ],
+              "movies": [
+                {
+                  "title": "Four Daughters",
+                  "tmdbId": 67880,
+                  "imdbId": "tt0030149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ian Dalrymple",
+                "Frank Wead",
+                "Elizabeth Hill"
+              ],
+              "movies": [
+                {
+                  "title": "The Citadel",
+                  "tmdbId": 84090,
+                  "imdbId": "tt0029995"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Meehan",
+                "Dore Schary"
+              ],
+              "movies": [
+                {
+                  "title": "Boys Town",
+                  "tmdbId": 42390,
+                  "imdbId": "tt0029942"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Riskin"
+              ],
+              "movies": [
+                {
+                  "title": "You Can't Take It with You",
+                  "tmdbId": 34106,
+                  "imdbId": "tt0030993"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Eleanore Griffin",
+                "Dore Schary"
+              ],
+              "movies": [
+                {
+                  "title": "Boys Town",
+                  "tmdbId": 42390,
+                  "imdbId": "tt0029942"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irving Berlin"
+              ],
+              "movies": [
+                {
+                  "title": "Alexander's Ragtime Band",
+                  "tmdbId": 43839,
+                  "imdbId": "tt0029852"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rowland Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Angels with Dirty Faces",
+                  "tmdbId": 13696,
+                  "imdbId": "tt0029870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marcella Burke",
+                "Frederick Kohner"
+              ],
+              "movies": [
+                {
+                  "title": "Mad About Music",
+                  "tmdbId": 61646,
+                  "imdbId": "tt0030395"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Howard Lawson"
+              ],
+              "movies": [
+                {
+                  "title": "Blockade",
+                  "tmdbId": 151911,
+                  "imdbId": "tt0029924"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Wead"
+              ],
+              "movies": [
+                {
+                  "title": "Test Pilot",
+                  "tmdbId": 43155,
+                  "imdbId": "tt0030848"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Oliver Marsh",
+                "Allen Davey"
+              ],
+              "movies": [
+                {
+                  "title": "Sweethearts",
+                  "tmdbId": 43849,
+                  "imdbId": "tt0030817"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Joseph Ruttenberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Waltz",
+                  "tmdbId": 62567,
+                  "imdbId": "tt0030202"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Norbert Brodine"
+              ],
+              "movies": [
+                {
+                  "title": "Merrily We Live",
+                  "tmdbId": 111315,
+                  "imdbId": "tt0030442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert de Grasse"
+              ],
+              "movies": [
+                {
+                  "title": "Vivacious Lady",
+                  "tmdbId": 33630,
+                  "imdbId": "tt0030944"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Haller"
+              ],
+              "movies": [
+                {
+                  "title": "Jezebel",
+                  "tmdbId": 1976,
+                  "imdbId": "tt0030287"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Wong Howe"
+              ],
+              "movies": [
+                {
+                  "title": "Algiers",
+                  "tmdbId": 22657,
+                  "imdbId": "tt0029855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peverell Marley"
+              ],
+              "movies": [
+                {
+                  "title": "Suez",
+                  "tmdbId": 148675,
+                  "imdbId": "tt0030811"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Miller",
+                "Harry Wild"
+              ],
+              "movies": [
+                {
+                  "title": "Army Girl",
+                  "tmdbId": 197578,
+                  "imdbId": "tt0029880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Milner"
+              ],
+              "movies": [
+                {
+                  "title": "The Buccaneer",
+                  "tmdbId": 115425,
+                  "imdbId": "tt0029950"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "The Young in Heart",
+                  "tmdbId": 38023,
+                  "imdbId": "tt0031002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Valentine"
+              ],
+              "movies": [
+                {
+                  "title": "Mad About Music",
+                  "tmdbId": 61646,
+                  "imdbId": "tt0030395"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Walker"
+              ],
+              "movies": [
+                {
+                  "title": "You Can't Take It with You",
+                  "tmdbId": 34106,
+                  "imdbId": "tt0030993"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Ralph Dawson"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Robin Hood",
+                  "tmdbId": 10907,
+                  "imdbId": "tt0029843"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Held"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Waltz",
+                  "tmdbId": 62567,
+                  "imdbId": "tt0030202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Held"
+              ],
+              "movies": [
+                {
+                  "title": "Test Pilot",
+                  "tmdbId": 43155,
+                  "imdbId": "tt0030848"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Havlick"
+              ],
+              "movies": [
+                {
+                  "title": "You Can't Take It with You",
+                  "tmdbId": 34106,
+                  "imdbId": "tt0030993"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara McLean"
+              ],
+              "movies": [
+                {
+                  "title": "Alexander's Ragtime Band",
+                  "tmdbId": 43839,
+                  "imdbId": "tt0029852"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Carl J. Weyl"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Robin Hood",
+                  "tmdbId": 10907,
+                  "imdbId": "tt0029843"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Day"
+              ],
+              "movies": [
+                {
+                  "title": "The Goldwyn Follies",
+                  "tmdbId": 43854,
+                  "imdbId": "tt0030194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "John B. Goodman"
+              ],
+              "movies": [
+                {
+                  "title": "If I Were King",
+                  "tmdbId": 126777,
+                  "imdbId": "tt0030265"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons"
+              ],
+              "movies": [
+                {
+                  "title": "Marie Antoinette",
+                  "tmdbId": 43847,
+                  "imdbId": "tt0030418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Goosson",
+                "Lionel Banks"
+              ],
+              "movies": [
+                {
+                  "title": "Holiday",
+                  "tmdbId": 16274,
+                  "imdbId": "tt0030241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles D. Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Merrily We Live",
+                  "tmdbId": 111315,
+                  "imdbId": "tt0030442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard Herzbrun",
+                "Boris Leven"
+              ],
+              "movies": [
+                {
+                  "title": "Alexander's Ragtime Band",
+                  "tmdbId": 43839,
+                  "imdbId": "tt0029852"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Otterson"
+              ],
+              "movies": [
+                {
+                  "title": "Mad About Music",
+                  "tmdbId": 61646,
+                  "imdbId": "tt0030395"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Van Nest Polglase"
+              ],
+              "movies": [
+                {
+                  "title": "Carefree",
+                  "tmdbId": 29872,
+                  "imdbId": "tt0029971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Toluboff"
+              ],
+              "movies": [
+                {
+                  "title": "Algiers",
+                  "tmdbId": 22657,
+                  "imdbId": "tt0029855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Tom Sawyer",
+                  "tmdbId": 30977,
+                  "imdbId": "tt0029844"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Gordon Jennings",
+                "Farciot Edouart",
+                "Assistants"
+              ],
+              "movies": [
+                {
+                  "title": "Spawn of the North",
+                  "tmdbId": 78092,
+                  "imdbId": "tt0030775"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Thomas Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The Cowboy and the Lady",
+                  "tmdbId": 112674,
+                  "imdbId": "tt0030018"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles L. Lootens"
+              ],
+              "movies": [
+                {
+                  "title": "Army Girl",
+                  "tmdbId": 197578,
+                  "imdbId": "tt0029880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Four Daughters",
+                  "tmdbId": 67880,
+                  "imdbId": "tt0030149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "If I Were King",
+                  "tmdbId": 126777,
+                  "imdbId": "tt0030265"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Raguse"
+              ],
+              "movies": [
+                {
+                  "title": "Merrily We Live",
+                  "tmdbId": 111315,
+                  "imdbId": "tt0030442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edmund H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "Suez",
+                  "tmdbId": 148675,
+                  "imdbId": "tt0030811"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Sweethearts",
+                  "tmdbId": 43849,
+                  "imdbId": "tt0030817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "That Certain Age",
+                  "tmdbId": 61649,
+                  "imdbId": "tt0030854"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "Vivacious Lady",
+                  "tmdbId": 33630,
+                  "imdbId": "tt0030944"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "You Can't Take It with You",
+                  "tmdbId": 34106,
+                  "imdbId": "tt0030993"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Erich Wolfgang Korngold"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Robin Hood",
+                  "tmdbId": 10907,
+                  "imdbId": "tt0029843"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Russell Bennett"
+              ],
+              "movies": [
+                {
+                  "title": "Pacific Liner",
+                  "tmdbId": 218332,
+                  "imdbId": "tt0031774"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Hageman"
+              ],
+              "movies": [
+                {
+                  "title": "If I Were King",
+                  "tmdbId": 126777,
+                  "imdbId": "tt0030265"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marvin Hatley"
+              ],
+              "movies": [
+                {
+                  "title": "Block-Heads",
+                  "tmdbId": 43841,
+                  "imdbId": "tt0029923"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner Janssen"
+              ],
+              "movies": [
+                {
+                  "title": "Blockade",
+                  "tmdbId": 151911,
+                  "imdbId": "tt0029924"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Cowboy and the Lady",
+                  "tmdbId": 112674,
+                  "imdbId": "tt0030018"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Louis Silvers"
+              ],
+              "movies": [
+                {
+                  "title": "Suez",
+                  "tmdbId": 148675,
+                  "imdbId": "tt0030811"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "Marie Antoinette",
+                  "tmdbId": 43847,
+                  "imdbId": "tt0030418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "The Young in Heart",
+                  "tmdbId": 38023,
+                  "imdbId": "tt0031002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Army Girl",
+                  "tmdbId": 197578,
+                  "imdbId": "tt0029880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking the Ice",
+                  "tmdbId": 91818,
+                  "imdbId": "tt0029945"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Alexander's Ragtime Band",
+                  "tmdbId": 43839,
+                  "imdbId": "tt0029852"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Victor Baravalle"
+              ],
+              "movies": [
+                {
+                  "title": "Carefree",
+                  "tmdbId": 29872,
+                  "imdbId": "tt0029971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cy Feuer"
+              ],
+              "movies": [
+                {
+                  "title": "Storm Over Bengal",
+                  "tmdbId": 218330,
+                  "imdbId": "tt0030798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marvin Hatley"
+              ],
+              "movies": [
+                {
+                  "title": "There Goes My Heart",
+                  "tmdbId": 80771,
+                  "imdbId": "tt0030856"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boris Morros"
+              ],
+              "movies": [
+                {
+                  "title": "Tropic Holiday",
+                  "tmdbId": 218331,
+                  "imdbId": "tt0030897"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Goldwyn Follies",
+                  "tmdbId": 43854,
+                  "imdbId": "tt0030194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Previn",
+                "Frank Skinner"
+              ],
+              "movies": [
+                {
+                  "title": "Mad About Music",
+                  "tmdbId": 61646,
+                  "imdbId": "tt0030395"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Jezebel",
+                  "tmdbId": 1976,
+                  "imdbId": "tt0030287"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morris Stoloff",
+                "Gregory Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Girls' School",
+                  "tmdbId": 235645,
+                  "imdbId": "tt0030184"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "Sweethearts",
+                  "tmdbId": 43849,
+                  "imdbId": "tt0030817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "The Young in Heart",
+                  "tmdbId": 38023,
+                  "imdbId": "tt0031002"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Thanks for the Memory"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Broadcast of 1938",
+                  "tmdbId": 60562,
+                  "imdbId": "tt0029912"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Always",
+                "Always"
+              ],
+              "movies": [
+                {
+                  "title": "Mannequin",
+                  "tmdbId": 33025,
+                  "imdbId": "tt0030413"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Change Partners"
+              ],
+              "movies": [
+                {
+                  "title": "Carefree",
+                  "tmdbId": 29872,
+                  "imdbId": "tt0029971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Cowboy",
+                "the Lady"
+              ],
+              "movies": [
+                {
+                  "title": "The Cowboy and the Lady",
+                  "tmdbId": 112674,
+                  "imdbId": "tt0030018"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dust"
+              ],
+              "movies": [
+                {
+                  "title": "Under Western Stars",
+                  "tmdbId": 85678,
+                  "imdbId": "tt0030910"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeepers Creepers"
+              ],
+              "movies": [
+                {
+                  "title": "Going Places",
+                  "tmdbId": 45240,
+                  "imdbId": "tt0030190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Merrily We Live"
+              ],
+              "movies": [
+                {
+                  "title": "Merrily We Live",
+                  "tmdbId": 111315,
+                  "imdbId": "tt0030442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Mist Over the Moon"
+              ],
+              "movies": [
+                {
+                  "title": "The Lady Objects",
+                  "tmdbId": 235422,
+                  "imdbId": "tt0030340"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Own"
+              ],
+              "movies": [
+                {
+                  "title": "That Certain Age",
+                  "tmdbId": 61649,
+                  "imdbId": "tt0030854"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Now It Can Be Told"
+              ],
+              "movies": [
+                {
+                  "title": "Alexander's Ragtime Band",
+                  "tmdbId": 43839,
+                  "imdbId": "tt0029852"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Ferdinand the Bull"
+              ],
+              "movies": [
+                {
+                  "title": "Ferdinand the Bull",
+                  "tmdbId": 47166,
+                  "imdbId": "tt0030128"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brave Little Tailor"
+              ],
+              "movies": [
+                {
+                  "title": "Brave Little Tailor",
+                  "tmdbId": 57472,
+                  "imdbId": "tt0029943"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Good Scouts"
+              ],
+              "movies": [
+                {
+                  "title": "Good Scouts",
+                  "tmdbId": 69099,
+                  "imdbId": "tt0030196"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hunky and Spunky"
+              ],
+              "movies": [
+                {
+                  "title": "Hunky and Spunky",
+                  "tmdbId": 235653,
+                  "imdbId": "tt0030250"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mother Goose Goes Hollywood"
+              ],
+              "movies": [
+                {
+                  "title": "Mother Goose Goes Hollywood",
+                  "tmdbId": 67128,
+                  "imdbId": "tt0030465"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "That Mothers Might Live"
+              ],
+              "movies": [
+                {
+                  "title": "That Mothers Might Live",
+                  "tmdbId": 235647,
+                  "imdbId": "tt0030855"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Great Heart"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Heart",
+                  "tmdbId": 235651,
+                  "imdbId": "tt0030201"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Timber Toppers"
+              ],
+              "movies": [
+                {
+                  "title": "Timber Toppers",
+                  "tmdbId": 235652,
+                  "imdbId": "tt0030872"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "The Declaration of Independence"
+              ],
+              "movies": [
+                {
+                  "title": "The Declaration of Independence",
+                  "tmdbId": 235646,
+                  "imdbId": "tt0030046"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Swingtime in the Movies"
+              ],
+              "movies": [
+                {
+                  "title": "Swingtime in the Movies",
+                  "tmdbId": 157382,
+                  "imdbId": "tt0030823"
+                }
+              ]
+            },
+            {
+              "names": [
+                "They're Always Caught"
+              ],
+              "movies": [
+                {
+                  "title": "They're Always Caught",
+                  "tmdbId": 130847,
+                  "imdbId": "tt0030860"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

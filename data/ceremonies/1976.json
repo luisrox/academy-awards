@@ -1,0 +1,1522 @@
+{
+  "ceremony": {
+    "ordinal": 48,
+    "ceremonyYear": 1976,
+    "ceremonyDate": "1976-03-29",
+    "filmYearLabel": "1975",
+    "slug": "1976",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "One Flew Over the Cuckoo's Nest"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Barry Lyndon"
+              ],
+              "movies": [
+                {
+                  "title": "Barry Lyndon",
+                  "tmdbId": 3175,
+                  "imdbId": "tt0072684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dog Day Afternoon"
+              ],
+              "movies": [
+                {
+                  "title": "Dog Day Afternoon",
+                  "tmdbId": 968,
+                  "imdbId": "tt0072890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jaws"
+              ],
+              "movies": [
+                {
+                  "title": "Jaws",
+                  "tmdbId": 578,
+                  "imdbId": "tt0073195"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nashville"
+              ],
+              "movies": [
+                {
+                  "title": "Nashville",
+                  "tmdbId": 3121,
+                  "imdbId": "tt0073440"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Milos Forman"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Altman"
+              ],
+              "movies": [
+                {
+                  "title": "Nashville",
+                  "tmdbId": 3121,
+                  "imdbId": "tt0073440"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Federico Fellini"
+              ],
+              "movies": [
+                {
+                  "title": "Amarcord",
+                  "tmdbId": 7857,
+                  "imdbId": "tt0071129"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Kubrick"
+              ],
+              "movies": [
+                {
+                  "title": "Barry Lyndon",
+                  "tmdbId": 3175,
+                  "imdbId": "tt0072684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Lumet"
+              ],
+              "movies": [
+                {
+                  "title": "Dog Day Afternoon",
+                  "tmdbId": 968,
+                  "imdbId": "tt0072890"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Matthau"
+              ],
+              "movies": [
+                {
+                  "title": "The Sunshine Boys",
+                  "tmdbId": 16561,
+                  "imdbId": "tt0073766"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Pacino"
+              ],
+              "movies": [
+                {
+                  "title": "Dog Day Afternoon",
+                  "tmdbId": 968,
+                  "imdbId": "tt0072890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maximilian Schell"
+              ],
+              "movies": [
+                {
+                  "title": "The Man in the Glass Booth",
+                  "tmdbId": 48364,
+                  "imdbId": "tt0073345"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Whitmore"
+              ],
+              "movies": [
+                {
+                  "title": "Give 'em Hell, Harry!",
+                  "tmdbId": 174713,
+                  "imdbId": "tt0073053"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Louise Fletcher"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Isabelle Adjani"
+              ],
+              "movies": [
+                {
+                  "title": "The Story of Adele H.",
+                  "tmdbId": 1829,
+                  "imdbId": "tt0073114"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ann-Margret"
+              ],
+              "movies": [
+                {
+                  "title": "Tommy",
+                  "tmdbId": 11326,
+                  "imdbId": "tt0073812"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Glenda Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "Hedda",
+                  "tmdbId": 42256,
+                  "imdbId": "tt0073098"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carol Kane"
+              ],
+              "movies": [
+                {
+                  "title": "Hester Street",
+                  "tmdbId": 42257,
+                  "imdbId": "tt0073107"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "George Burns"
+              ],
+              "movies": [
+                {
+                  "title": "The Sunshine Boys",
+                  "tmdbId": 16561,
+                  "imdbId": "tt0073766"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brad Dourif"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Burgess Meredith"
+              ],
+              "movies": [
+                {
+                  "title": "The Day of the Locust",
+                  "tmdbId": 5122,
+                  "imdbId": "tt0072848"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chris Sarandon"
+              ],
+              "movies": [
+                {
+                  "title": "Dog Day Afternoon",
+                  "tmdbId": 968,
+                  "imdbId": "tt0072890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Warden"
+              ],
+              "movies": [
+                {
+                  "title": "Shampoo",
+                  "tmdbId": 31121,
+                  "imdbId": "tt0073692"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Lee Grant"
+              ],
+              "movies": [
+                {
+                  "title": "Shampoo",
+                  "tmdbId": 31121,
+                  "imdbId": "tt0073692"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ronee Blakley"
+              ],
+              "movies": [
+                {
+                  "title": "Nashville",
+                  "tmdbId": 3121,
+                  "imdbId": "tt0073440"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sylvia Miles"
+              ],
+              "movies": [
+                {
+                  "title": "Farewell, My Lovely",
+                  "tmdbId": 1835,
+                  "imdbId": "tt0072973"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lily Tomlin"
+              ],
+              "movies": [
+                {
+                  "title": "Nashville",
+                  "tmdbId": 3121,
+                  "imdbId": "tt0073440"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brenda Vaccaro"
+              ],
+              "movies": [
+                {
+                  "title": "Once Is Not Enough",
+                  "tmdbId": 97831,
+                  "imdbId": "tt0073190"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Frank Pierson"
+              ],
+              "movies": [
+                {
+                  "title": "Dog Day Afternoon",
+                  "tmdbId": 968,
+                  "imdbId": "tt0072890"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Federico Fellini",
+                "Tonino Guerra"
+              ],
+              "movies": [
+                {
+                  "title": "Amarcord",
+                  "tmdbId": 7857,
+                  "imdbId": "tt0071129"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claude Lelouch",
+                "Pierre Uytterhoeven"
+              ],
+              "movies": [
+                {
+                  "title": "And Now My Love",
+                  "tmdbId": 139851,
+                  "imdbId": "tt0072307"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted Allan"
+              ],
+              "movies": [
+                {
+                  "title": "Lies My Father Told Me",
+                  "tmdbId": 92285,
+                  "imdbId": "tt0073293"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warren Beatty",
+                "Robert Towne"
+              ],
+              "movies": [
+                {
+                  "title": "Shampoo",
+                  "tmdbId": 31121,
+                  "imdbId": "tt0073692"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Bo Goldman",
+                "Laurence Hauben"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stanley Kubrick"
+              ],
+              "movies": [
+                {
+                  "title": "Barry Lyndon",
+                  "tmdbId": 3175,
+                  "imdbId": "tt0072684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Huston",
+                "Gladys Hill"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Would Be King",
+                  "tmdbId": 983,
+                  "imdbId": "tt0073341"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruggero Maccari",
+                "Dino Risi"
+              ],
+              "movies": [
+                {
+                  "title": "Scent of a Woman",
+                  "tmdbId": 47848,
+                  "imdbId": "tt0072037"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Neil Simon"
+              ],
+              "movies": [
+                {
+                  "title": "The Sunshine Boys",
+                  "tmdbId": 16561,
+                  "imdbId": "tt0073766"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Dersu Uzala"
+              ],
+              "movies": [
+                {
+                  "title": "Dersu Uzala",
+                  "tmdbId": 9764,
+                  "imdbId": "tt0071411"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Letters from Marusia"
+              ],
+              "movies": [
+                {
+                  "title": "Letters from Marusia",
+                  "tmdbId": 198518,
+                  "imdbId": "tt0072601"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Promised Land"
+              ],
+              "movies": [
+                {
+                  "title": "The Promised Land",
+                  "tmdbId": 511,
+                  "imdbId": "tt0072446"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandakan No. 8"
+              ],
+              "movies": [
+                {
+                  "title": "Sandakan No. 8",
+                  "tmdbId": 12470,
+                  "imdbId": "tt0073654"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scent of a Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Scent of a Woman",
+                  "tmdbId": 47848,
+                  "imdbId": "tt0072037"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Man Who Skied Down Everest"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Skied Down Everest",
+                  "tmdbId": 37339,
+                  "imdbId": "tt0073340"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The California Reich"
+              ],
+              "movies": [
+                {
+                  "title": "The California Reich",
+                  "tmdbId": 42265,
+                  "imdbId": "tt0072757"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fighting for Our Lives"
+              ],
+              "movies": [
+                {
+                  "title": "Fighting for Our Lives",
+                  "tmdbId": 149340,
+                  "imdbId": "tt0072982"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Incredible Machine"
+              ],
+              "movies": [
+                {
+                  "title": "The Incredible Machine",
+                  "tmdbId": 149342,
+                  "imdbId": "tt0073164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Other Half of the Sky: A China Memoir"
+              ],
+              "movies": [
+                {
+                  "title": "The Other Half of the Sky: A China Memoir",
+                  "tmdbId": 149343,
+                  "imdbId": "tt0073495"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "John Alcott"
+              ],
+              "movies": [
+                {
+                  "title": "Barry Lyndon",
+                  "tmdbId": 3175,
+                  "imdbId": "tt0072684"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Conrad Hall"
+              ],
+              "movies": [
+                {
+                  "title": "The Day of the Locust",
+                  "tmdbId": 5122,
+                  "imdbId": "tt0072848"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Wong Howe"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Lady",
+                  "tmdbId": 39282,
+                  "imdbId": "tt0073026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert L. Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "The Hindenburg",
+                  "tmdbId": 17599,
+                  "imdbId": "tt0073113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Butler",
+                "Haskell Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Verna Fields"
+              ],
+              "movies": [
+                {
+                  "title": "Jaws",
+                  "tmdbId": 578,
+                  "imdbId": "tt0073195"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dede Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Dog Day Afternoon",
+                  "tmdbId": 968,
+                  "imdbId": "tt0072890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Russell Lloyd"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Would Be King",
+                  "tmdbId": 983,
+                  "imdbId": "tt0073341"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Chew",
+                "Lynzee Klingman",
+                "Sheldon Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Don Guidice",
+                "Fredric Steinkamp"
+              ],
+              "movies": [
+                {
+                  "title": "Three Days of the Condor",
+                  "tmdbId": 11963,
+                  "imdbId": "tt0073802"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Ken Adam",
+                "Roy Walker",
+                "Vernon Dixon"
+              ],
+              "movies": [
+                {
+                  "title": "Barry Lyndon",
+                  "tmdbId": 3175,
+                  "imdbId": "tt0072684"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edward Carfagno",
+                "Frank R. McKelvy"
+              ],
+              "movies": [
+                {
+                  "title": "The Hindenburg",
+                  "tmdbId": 17599,
+                  "imdbId": "tt0073113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Trauner",
+                "Tony Inglis",
+                "Peter James"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Would Be King",
+                  "tmdbId": 983,
+                  "imdbId": "tt0073341"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Sylbert",
+                "W. Stewart Campbell",
+                "George Gaines"
+              ],
+              "movies": [
+                {
+                  "title": "Shampoo",
+                  "tmdbId": 31121,
+                  "imdbId": "tt0073692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Brenner",
+                "Marvin March"
+              ],
+              "movies": [
+                {
+                  "title": "The Sunshine Boys",
+                  "tmdbId": 16561,
+                  "imdbId": "tt0073766"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Milena Canonero",
+                "Ulla-Britt Soderlund"
+              ],
+              "movies": [
+                {
+                  "title": "Barry Lyndon",
+                  "tmdbId": 3175,
+                  "imdbId": "tt0072684"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Yvonne Blake",
+                "Ron Talsky"
+              ],
+              "movies": [
+                {
+                  "title": "The Four Musketeers",
+                  "tmdbId": 12310,
+                  "imdbId": "tt0073012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Aghayan",
+                "Bob Mackie"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Lady",
+                  "tmdbId": 39282,
+                  "imdbId": "tt0073026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karin Erskine",
+                "Henny Noremark"
+              ],
+              "movies": [
+                {
+                  "title": "The Magic Flute",
+                  "tmdbId": 44864,
+                  "imdbId": "tt0073822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Would Be King",
+                  "tmdbId": 983,
+                  "imdbId": "tt0073341"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Albert Whitlock",
+                "Glenn Robinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Hindenburg",
+                  "tmdbId": 17599,
+                  "imdbId": "tt0073113"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Robert Hoyt",
+                "Roger Heman",
+                "Earl Madery",
+                "John Carter"
+              ],
+              "movies": [
+                {
+                  "title": "Jaws",
+                  "tmdbId": 578,
+                  "imdbId": "tt0073195"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Piantadosi",
+                "Les Frescholtz",
+                "Richard Tyler",
+                "Al Overton Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Bite the Bullet",
+                  "tmdbId": 32617,
+                  "imdbId": "tt0072705"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Portman",
+                "Don MacDougall",
+                "Curly Thirlwell",
+                "Jack Solomon"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Lady",
+                  "tmdbId": 39282,
+                  "imdbId": "tt0073026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Peterson",
+                "John A. Bolger Jr.",
+                "John L. Mack",
+                "Don Sharpless"
+              ],
+              "movies": [
+                {
+                  "title": "The Hindenburg",
+                  "tmdbId": 17599,
+                  "imdbId": "tt0073113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry W. Tetrick",
+                "Aaron Rochin",
+                "William McCaughey",
+                "Roy Charman"
+              ],
+              "movies": [
+                {
+                  "title": "The Wind and the Lion",
+                  "tmdbId": 14815,
+                  "imdbId": "tt0073906"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects",
+          "winners": [
+            {
+              "names": [
+                "Peter Berkos"
+              ],
+              "movies": [
+                {
+                  "title": "The Hindenburg",
+                  "tmdbId": 17599,
+                  "imdbId": "tt0073113"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Jaws",
+                  "tmdbId": 578,
+                  "imdbId": "tt0073195"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gerald Fried"
+              ],
+              "movies": [
+                {
+                  "title": "Birds Do It, Bees Do It",
+                  "tmdbId": 129193,
+                  "imdbId": "tt0072703"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "Bite the Bullet",
+                  "tmdbId": 32617,
+                  "imdbId": "tt0072705"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nitzsche"
+              ],
+              "movies": [
+                {
+                  "title": "One Flew Over the Cuckoo's Nest",
+                  "tmdbId": 510,
+                  "imdbId": "tt0073486"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "The Wind and the Lion",
+                  "tmdbId": 14815,
+                  "imdbId": "tt0073906"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Leonard Rosenman"
+              ],
+              "movies": [
+                {
+                  "title": "Barry Lyndon",
+                  "tmdbId": 3175,
+                  "imdbId": "tt0072684"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Matz"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Lady",
+                  "tmdbId": 39282,
+                  "imdbId": "tt0073026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pete Townshend"
+              ],
+              "movies": [
+                {
+                  "title": "Tommy",
+                  "tmdbId": 11326,
+                  "imdbId": "tt0073812"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "I'm Easy"
+              ],
+              "movies": [
+                {
+                  "title": "Nashville",
+                  "tmdbId": 3121,
+                  "imdbId": "tt0073440"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "How Lucky Can You Get?"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Lady",
+                  "tmdbId": 39282,
+                  "imdbId": "tt0073026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Do You Know Where You're Going To"
+              ],
+              "movies": [
+                {
+                  "title": "Mahogany",
+                  "tmdbId": 3554,
+                  "imdbId": "tt0073335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard's Window"
+              ],
+              "movies": [
+                {
+                  "title": "The Other Side of the Mountain",
+                  "tmdbId": 86233,
+                  "imdbId": "tt0073496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Now That We're In Love"
+              ],
+              "movies": [
+                {
+                  "title": "Whiffs",
+                  "tmdbId": 180929,
+                  "imdbId": "tt0073891"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Great"
+              ],
+              "movies": [
+                {
+                  "title": "Great",
+                  "tmdbId": 208561,
+                  "imdbId": "tt0073068"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kick Me"
+              ],
+              "movies": [
+                {
+                  "title": "Kick Me",
+                  "tmdbId": 210672,
+                  "imdbId": "tt0073237"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Monsieur Pointu"
+              ],
+              "movies": [
+                {
+                  "title": "Monsieur Pointu",
+                  "tmdbId": 243401,
+                  "imdbId": "tt0073402"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sisyphus"
+              ],
+              "movies": [
+                {
+                  "title": "Sisyphus",
+                  "tmdbId": 90909,
+                  "imdbId": "tt0073715"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Angel and Big Joe"
+              ],
+              "movies": [
+                {
+                  "title": "Angel and Big Joe",
+                  "tmdbId": 243402,
+                  "imdbId": "tt0072646"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Conquest of Light"
+              ],
+              "movies": [
+                {
+                  "title": "Conquest of Light",
+                  "tmdbId": 243403,
+                  "imdbId": "tt0072816"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dawn Flight"
+              ],
+              "movies": [
+                {
+                  "title": "Dawn Flight",
+                  "tmdbId": 243404,
+                  "imdbId": "tt0072846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Day in the Life of Bonnie Consolo"
+              ],
+              "movies": [
+                {
+                  "title": "A Day in the Life of Bonnie Consolo",
+                  "tmdbId": 243405,
+                  "imdbId": "tt0072847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Doubletalk"
+              ],
+              "movies": [
+                {
+                  "title": "Doubletalk",
+                  "tmdbId": 243406,
+                  "imdbId": "tt0072900"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The End of the Game"
+              ],
+              "movies": [
+                {
+                  "title": "The End of the Game",
+                  "tmdbId": 243408,
+                  "imdbId": "tt0072939"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur and Lillie"
+              ],
+              "movies": [
+                {
+                  "title": "Arthur and Lillie",
+                  "tmdbId": 243410,
+                  "imdbId": "tt0072659"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Millions of Years Ahead of Man"
+              ],
+              "movies": [
+                {
+                  "title": "Millions of Years Ahead of Man",
+                  "tmdbId": 243413,
+                  "imdbId": "tt0073392"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Probes in Space"
+              ],
+              "movies": [
+                {
+                  "title": "Probes in Space",
+                  "tmdbId": 243414,
+                  "imdbId": "tt0073578"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Whistling Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Whistling Smith",
+                  "tmdbId": 243409,
+                  "imdbId": "tt0073893"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

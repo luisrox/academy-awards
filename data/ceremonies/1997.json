@@ -1,0 +1,1638 @@
+{
+  "ceremony": {
+    "ordinal": 69,
+    "ceremonyYear": 1997,
+    "ceremonyDate": "1997-03-24",
+    "filmYearLabel": "1996",
+    "slug": "1997",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The English Patient"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fargo"
+              ],
+              "movies": [
+                {
+                  "title": "Fargo",
+                  "tmdbId": 275,
+                  "imdbId": "tt0116282"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Maguire"
+              ],
+              "movies": [
+                {
+                  "title": "Jerry Maguire",
+                  "tmdbId": 9390,
+                  "imdbId": "tt0116695"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Secrets & Lies"
+              ],
+              "movies": [
+                {
+                  "title": "Secrets & Lies",
+                  "tmdbId": 11159,
+                  "imdbId": "tt0117589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shine"
+              ],
+              "movies": [
+                {
+                  "title": "Shine",
+                  "tmdbId": 7863,
+                  "imdbId": "tt0117631"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Anthony Minghella"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joel Coen"
+              ],
+              "movies": [
+                {
+                  "title": "Fargo",
+                  "tmdbId": 275,
+                  "imdbId": "tt0116282"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milos Forman"
+              ],
+              "movies": [
+                {
+                  "title": "The People vs. Larry Flynt",
+                  "tmdbId": 1630,
+                  "imdbId": "tt0117318"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scott Hicks"
+              ],
+              "movies": [
+                {
+                  "title": "Shine",
+                  "tmdbId": 7863,
+                  "imdbId": "tt0117631"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "Secrets & Lies",
+                  "tmdbId": 11159,
+                  "imdbId": "tt0117589"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Geoffrey Rush"
+              ],
+              "movies": [
+                {
+                  "title": "Shine",
+                  "tmdbId": 7863,
+                  "imdbId": "tt0117631"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Cruise"
+              ],
+              "movies": [
+                {
+                  "title": "Jerry Maguire",
+                  "tmdbId": 9390,
+                  "imdbId": "tt0116695"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Fiennes"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Harrelson"
+              ],
+              "movies": [
+                {
+                  "title": "The People vs. Larry Flynt",
+                  "tmdbId": 1630,
+                  "imdbId": "tt0117318"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Bob Thornton"
+              ],
+              "movies": [
+                {
+                  "title": "Sling Blade",
+                  "tmdbId": 12498,
+                  "imdbId": "tt0117666"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Frances McDormand"
+              ],
+              "movies": [
+                {
+                  "title": "Fargo",
+                  "tmdbId": 275,
+                  "imdbId": "tt0116282"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brenda Blethyn"
+              ],
+              "movies": [
+                {
+                  "title": "Secrets & Lies",
+                  "tmdbId": 11159,
+                  "imdbId": "tt0117589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Diane Keaton"
+              ],
+              "movies": [
+                {
+                  "title": "Marvin's Room",
+                  "tmdbId": 9819,
+                  "imdbId": "tt0116999"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kristin Scott Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emily Watson"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking the Waves",
+                  "tmdbId": 145,
+                  "imdbId": "tt0115751"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Cuba Gooding Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Jerry Maguire",
+                  "tmdbId": 9390,
+                  "imdbId": "tt0116695"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William H. Macy"
+              ],
+              "movies": [
+                {
+                  "title": "Fargo",
+                  "tmdbId": 275,
+                  "imdbId": "tt0116282"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Armin Mueller-Stahl"
+              ],
+              "movies": [
+                {
+                  "title": "Shine",
+                  "tmdbId": 7863,
+                  "imdbId": "tt0117631"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Norton"
+              ],
+              "movies": [
+                {
+                  "title": "Primal Fear",
+                  "tmdbId": 1592,
+                  "imdbId": "tt0117381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Woods"
+              ],
+              "movies": [
+                {
+                  "title": "Ghosts of Mississippi",
+                  "tmdbId": 31908,
+                  "imdbId": "tt0116410"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Juliette Binoche"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joan Allen"
+              ],
+              "movies": [
+                {
+                  "title": "The Crucible",
+                  "tmdbId": 20539,
+                  "imdbId": "tt0115988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lauren Bacall"
+              ],
+              "movies": [
+                {
+                  "title": "The Mirror Has Two Faces",
+                  "tmdbId": 25189,
+                  "imdbId": "tt0117057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara Hershey"
+              ],
+              "movies": [
+                {
+                  "title": "The Portrait of a Lady",
+                  "tmdbId": 36758,
+                  "imdbId": "tt0117364"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marianne Jean-Baptiste"
+              ],
+              "movies": [
+                {
+                  "title": "Secrets & Lies",
+                  "tmdbId": 11159,
+                  "imdbId": "tt0117589"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Joel",
+                "Ethan Coen"
+              ],
+              "movies": [
+                {
+                  "title": "Fargo",
+                  "tmdbId": 275,
+                  "imdbId": "tt0116282"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cameron Crowe"
+              ],
+              "movies": [
+                {
+                  "title": "Jerry Maguire",
+                  "tmdbId": 9390,
+                  "imdbId": "tt0116695"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Sayles"
+              ],
+              "movies": [
+                {
+                  "title": "Lone Star",
+                  "tmdbId": 26748,
+                  "imdbId": "tt0116905"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "Secrets & Lies",
+                  "tmdbId": 11159,
+                  "imdbId": "tt0117589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jan Sardi",
+                "Scott Hicks"
+              ],
+              "movies": [
+                {
+                  "title": "Shine",
+                  "tmdbId": 7863,
+                  "imdbId": "tt0117631"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Billy Bob Thornton"
+              ],
+              "movies": [
+                {
+                  "title": "Sling Blade",
+                  "tmdbId": 12498,
+                  "imdbId": "tt0117666"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Miller"
+              ],
+              "movies": [
+                {
+                  "title": "The Crucible",
+                  "tmdbId": 20539,
+                  "imdbId": "tt0115988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Minghella"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kenneth Branagh"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 10549,
+                  "imdbId": "tt0116477"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Hodge"
+              ],
+              "movies": [
+                {
+                  "title": "Trainspotting",
+                  "tmdbId": 627,
+                  "imdbId": "tt0117951"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Kolya"
+              ],
+              "movies": [
+                {
+                  "title": "Kolya",
+                  "tmdbId": 784,
+                  "imdbId": "tt0116790"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Chef in Love"
+              ],
+              "movies": [
+                {
+                  "title": "A Chef in Love",
+                  "tmdbId": 105763,
+                  "imdbId": "tt0117050"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Other Side of Sunday"
+              ],
+              "movies": [
+                {
+                  "title": "The Other Side of Sunday",
+                  "tmdbId": 46754,
+                  "imdbId": "tt0117817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Prisoner of the Mountains"
+              ],
+              "movies": [
+                {
+                  "title": "Prisoner of the Mountains",
+                  "tmdbId": 55936,
+                  "imdbId": "tt0116754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ridicule"
+              ],
+              "movies": [
+                {
+                  "title": "Ridicule",
+                  "tmdbId": 12709,
+                  "imdbId": "tt0117477"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "When We Were Kings"
+              ],
+              "movies": [
+                {
+                  "title": "When We Were Kings",
+                  "tmdbId": 10548,
+                  "imdbId": "tt0118147"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Line King: The Al Hirschfeld Story"
+              ],
+              "movies": [
+                {
+                  "title": "The Line King: The Al Hirschfeld Story",
+                  "tmdbId": 124829,
+                  "imdbId": "tt0116886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mandela"
+              ],
+              "movies": [
+                {
+                  "title": "Mandela",
+                  "tmdbId": 57016,
+                  "imdbId": "tt0116980"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Suzanne Farrell: Elusive Muse"
+              ],
+              "movies": [
+                {
+                  "title": "Suzanne Farrell: Elusive Muse",
+                  "tmdbId": 126998,
+                  "imdbId": "tt0117793"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tell the Truth and Run: George Seldes and the American Press"
+              ],
+              "movies": [
+                {
+                  "title": "Tell the Truth and Run: George Seldes and the American Press",
+                  "tmdbId": 41221,
+                  "imdbId": "tt0117873"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "John Seale"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Darius Khondji"
+              ],
+              "movies": [
+                {
+                  "title": "Evita",
+                  "tmdbId": 8818,
+                  "imdbId": "tt0116250"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "Fargo",
+                  "tmdbId": 275,
+                  "imdbId": "tt0116282"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Caleb Deschanel"
+              ],
+              "movies": [
+                {
+                  "title": "Fly Away Home",
+                  "tmdbId": 11076,
+                  "imdbId": "tt0116329"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chris Menges"
+              ],
+              "movies": [
+                {
+                  "title": "Michael Collins",
+                  "tmdbId": 1770,
+                  "imdbId": "tt0117039"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Walter Murch"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gerry Hambling"
+              ],
+              "movies": [
+                {
+                  "title": "Evita",
+                  "tmdbId": 8818,
+                  "imdbId": "tt0116250"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roderick Jaynes (Joel Coen",
+                "Ethan Coen)"
+              ],
+              "movies": [
+                {
+                  "title": "Fargo",
+                  "tmdbId": 275,
+                  "imdbId": "tt0116282"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Hutshing"
+              ],
+              "movies": [
+                {
+                  "title": "Jerry Maguire",
+                  "tmdbId": 9390,
+                  "imdbId": "tt0116695"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pip Karmel"
+              ],
+              "movies": [
+                {
+                  "title": "Shine",
+                  "tmdbId": 7863,
+                  "imdbId": "tt0117631"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Stuart Craig",
+                "Stephenie McMillan"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bo Welch",
+                "Cheryl Carasik"
+              ],
+              "movies": [
+                {
+                  "title": "The Birdcage",
+                  "tmdbId": 11000,
+                  "imdbId": "tt0115685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brian Morris",
+                "Philippe Turlure"
+              ],
+              "movies": [
+                {
+                  "title": "Evita",
+                  "tmdbId": 8818,
+                  "imdbId": "tt0116250"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tim Harvey"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 10549,
+                  "imdbId": "tt0116477"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Catherine Martin",
+                "Brigitte Broch"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo + Juliet",
+                  "tmdbId": 454,
+                  "imdbId": "tt0117509"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Ann Roth"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Angels and Insects",
+                  "tmdbId": 8447,
+                  "imdbId": "tt0112365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexandra Byrne"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 10549,
+                  "imdbId": "tt0116477"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth Myers"
+              ],
+              "movies": [
+                {
+                  "title": "Emma",
+                  "tmdbId": 3573,
+                  "imdbId": "tt0116191"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janet Patterson"
+              ],
+              "movies": [
+                {
+                  "title": "The Portrait of a Lady",
+                  "tmdbId": 36758,
+                  "imdbId": "tt0117364"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Rick Baker",
+                "David LeRoy Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "The Nutty Professor",
+                  "tmdbId": 9327,
+                  "imdbId": "tt0117218"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Matthew W. Mungle",
+                "Deborah La Mia Denaver"
+              ],
+              "movies": [
+                {
+                  "title": "Ghosts of Mississippi",
+                  "tmdbId": 31908,
+                  "imdbId": "tt0116410"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Westmore",
+                "Scott Wheeler",
+                "Jake Garber"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek: First Contact",
+                  "tmdbId": 199,
+                  "imdbId": "tt0117731"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Volker Engel",
+                "Douglas Smith",
+                "Clay Pinney",
+                "Joseph Viskocil"
+              ],
+              "movies": [
+                {
+                  "title": "Independence Day",
+                  "tmdbId": 602,
+                  "imdbId": "tt0116629"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Scott Squires",
+                "Phil Tippett",
+                "James Straus",
+                "Kit West"
+              ],
+              "movies": [
+                {
+                  "title": "DragonHeart",
+                  "tmdbId": 8840,
+                  "imdbId": "tt0116136"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stefen Fangmeier",
+                "John Frazier",
+                "Habib Zargarpour",
+                "Henry Labounta"
+              ],
+              "movies": [
+                {
+                  "title": "Twister",
+                  "tmdbId": 664,
+                  "imdbId": "tt0117998"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Walter Murch",
+                "Mark Berger",
+                "David Parker",
+                "Chris Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Andy Nelson",
+                "Anna Behlmer",
+                "Ken Weston"
+              ],
+              "movies": [
+                {
+                  "title": "Evita",
+                  "tmdbId": 8818,
+                  "imdbId": "tt0116250"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chris Carpenter",
+                "Bill W. Benton",
+                "Bob Beemer",
+                "Jeff Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "Independence Day",
+                  "tmdbId": 602,
+                  "imdbId": "tt0116629"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Keith A. Wester"
+              ],
+              "movies": [
+                {
+                  "title": "The Rock",
+                  "tmdbId": 9802,
+                  "imdbId": "tt0117500"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Maslow",
+                "Gregg Landaker",
+                "Kevin O'Connell",
+                "Geoffrey Patterson"
+              ],
+              "movies": [
+                {
+                  "title": "Twister",
+                  "tmdbId": 664,
+                  "imdbId": "tt0117998"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Bruce Stambler"
+              ],
+              "movies": [
+                {
+                  "title": "The Ghost and the Darkness",
+                  "tmdbId": 10586,
+                  "imdbId": "tt0116409"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Anderson",
+                "David Whittaker"
+              ],
+              "movies": [
+                {
+                  "title": "Daylight",
+                  "tmdbId": 11228,
+                  "imdbId": "tt0116040"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Robert Murray",
+                "Bub Asman"
+              ],
+              "movies": [
+                {
+                  "title": "Eraser",
+                  "tmdbId": 9268,
+                  "imdbId": "tt0116213"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Gabriel Yared"
+              ],
+              "movies": [
+                {
+                  "title": "The English Patient",
+                  "tmdbId": 409,
+                  "imdbId": "tt0116209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Patrick Doyle"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 10549,
+                  "imdbId": "tt0116477"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elliot Goldenthal"
+              ],
+              "movies": [
+                {
+                  "title": "Michael Collins",
+                  "tmdbId": 1770,
+                  "imdbId": "tt0117039"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Hirschfelder"
+              ],
+              "movies": [
+                {
+                  "title": "Shine",
+                  "tmdbId": 7863,
+                  "imdbId": "tt0117631"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Sleepers",
+                  "tmdbId": 819,
+                  "imdbId": "tt0117665"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Rachel Portman"
+              ],
+              "movies": [
+                {
+                  "title": "Emma",
+                  "tmdbId": 3573,
+                  "imdbId": "tt0116191"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marc Shaiman"
+              ],
+              "movies": [
+                {
+                  "title": "The First Wives Club",
+                  "tmdbId": 2925,
+                  "imdbId": "tt0116313"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Menken",
+                "Stephen Schwartz"
+              ],
+              "movies": [
+                {
+                  "title": "The Hunchback of Notre Dame",
+                  "tmdbId": 10545,
+                  "imdbId": "tt0116583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "James and the Giant Peach",
+                  "tmdbId": 10539,
+                  "imdbId": "tt0116683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "The Preacher's Wife",
+                  "tmdbId": 21539,
+                  "imdbId": "tt0117372"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "You Must Love Me"
+              ],
+              "movies": [
+                {
+                  "title": "Evita",
+                  "tmdbId": 8818,
+                  "imdbId": "tt0116250"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I Finally Found Someone"
+              ],
+              "movies": [
+                {
+                  "title": "The Mirror Has Two Faces",
+                  "tmdbId": 25189,
+                  "imdbId": "tt0117057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "For the First Time"
+              ],
+              "movies": [
+                {
+                  "title": "One Fine Day",
+                  "tmdbId": 7300,
+                  "imdbId": "tt0117247"
+                }
+              ]
+            },
+            {
+              "names": [
+                "That Thing You Do!"
+              ],
+              "movies": [
+                {
+                  "title": "That Thing You Do!",
+                  "tmdbId": 9591,
+                  "imdbId": "tt0117887"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Because You Loved Me"
+              ],
+              "movies": [
+                {
+                  "title": "Up Close & Personal",
+                  "tmdbId": 9302,
+                  "imdbId": "tt0118055"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Quest"
+              ],
+              "movies": [
+                {
+                  "title": "Quest",
+                  "tmdbId": 93114,
+                  "imdbId": "tt0117419"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Canhead"
+              ],
+              "movies": [
+                {
+                  "title": "Canhead",
+                  "tmdbId": 220836,
+                  "imdbId": "tt0115817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "La Salla"
+              ],
+              "movies": [
+                {
+                  "title": "La Salla",
+                  "tmdbId": 218775,
+                  "imdbId": "tt0117542"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wat's Pig"
+              ],
+              "movies": [
+                {
+                  "title": "Wat's Pig",
+                  "tmdbId": 48589,
+                  "imdbId": "tt0118123"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Dear Diary"
+              ],
+              "movies": [
+                {
+                  "title": "Dear Diary",
+                  "tmdbId": 244901,
+                  "imdbId": "tt0116058"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "De Tripas, Corazón"
+              ],
+              "movies": [
+                {
+                  "title": "De Tripas, Corazón",
+                  "tmdbId": 244904,
+                  "imdbId": "tt0116044"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernst & the Light"
+              ],
+              "movies": [
+                {
+                  "title": "Ernst & the Light",
+                  "tmdbId": 210822,
+                  "imdbId": "tt0116214"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Linked"
+              ],
+              "movies": [
+                {
+                  "title": "Linked",
+                  "tmdbId": 186701,
+                  "imdbId": "tt0116233"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wordless"
+              ],
+              "movies": [
+                {
+                  "title": "Wordless",
+                  "tmdbId": 244905,
+                  "imdbId": "tt0118191"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Breathing Lessons: The Life and Work of Mark O'Brien"
+              ],
+              "movies": [
+                {
+                  "title": "Breathing Lessons: The Life and Work of Mark O'Brien",
+                  "tmdbId": 244906,
+                  "imdbId": "tt0115753"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cosmic Voyage"
+              ],
+              "movies": [
+                {
+                  "title": "Cosmic Voyage",
+                  "tmdbId": 13799,
+                  "imdbId": "tt0115952"
+                }
+              ]
+            },
+            {
+              "names": [
+                "An Essay on Matisse"
+              ],
+              "movies": [
+                {
+                  "title": "An Essay on Matisse",
+                  "tmdbId": 244907,
+                  "imdbId": "tt0116234"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Special Effects: Anything Can Happen"
+              ],
+              "movies": [
+                {
+                  "title": "Special Effects: Anything Can Happen",
+                  "tmdbId": 244909,
+                  "imdbId": "tt0117709"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wild Bunch: An Album in Montage"
+              ],
+              "movies": [
+                {
+                  "title": "The Wild Bunch: An Album in Montage",
+                  "tmdbId": 61086,
+                  "imdbId": "tt0118167"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

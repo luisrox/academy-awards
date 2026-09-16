@@ -1,0 +1,1777 @@
+{
+  "ceremony": {
+    "ordinal": 28,
+    "ceremonyYear": 1956,
+    "ceremonyDate": "1956-03-21",
+    "filmYearLabel": "1955",
+    "slug": "1956",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Marty"
+              ],
+              "movies": [
+                {
+                  "title": "Marty",
+                  "tmdbId": 15919,
+                  "imdbId": "tt0048356"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Love is a Many-Splendored Thing"
+              ],
+              "movies": [
+                {
+                  "title": "Love Is a Many-Splendored Thing",
+                  "tmdbId": 53879,
+                  "imdbId": "tt0048316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mister Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Mister Roberts",
+                  "tmdbId": 37853,
+                  "imdbId": "tt0048380"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Picnic"
+              ],
+              "movies": [
+                {
+                  "title": "Picnic",
+                  "tmdbId": 39940,
+                  "imdbId": "tt0048491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Rose Tattoo"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose Tattoo",
+                  "tmdbId": 65550,
+                  "imdbId": "tt0048563"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Delbert Mann"
+              ],
+              "movies": [
+                {
+                  "title": "Marty",
+                  "tmdbId": 15919,
+                  "imdbId": "tt0048356"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elia Kazan"
+              ],
+              "movies": [
+                {
+                  "title": "East of Eden",
+                  "tmdbId": 220,
+                  "imdbId": "tt0048028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lean"
+              ],
+              "movies": [
+                {
+                  "title": "Summertime",
+                  "tmdbId": 50363,
+                  "imdbId": "tt0048673"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joshua Logan"
+              ],
+              "movies": [
+                {
+                  "title": "Picnic",
+                  "tmdbId": 39940,
+                  "imdbId": "tt0048491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Sturges"
+              ],
+              "movies": [
+                {
+                  "title": "Bad Day at Black Rock",
+                  "tmdbId": 14554,
+                  "imdbId": "tt0047849"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Ernest Borgnine"
+              ],
+              "movies": [
+                {
+                  "title": "Marty",
+                  "tmdbId": 15919,
+                  "imdbId": "tt0048356"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Cagney"
+              ],
+              "movies": [
+                {
+                  "title": "Love Me or Leave Me",
+                  "tmdbId": 40633,
+                  "imdbId": "tt0048317"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Dean"
+              ],
+              "movies": [
+                {
+                  "title": "East of Eden",
+                  "tmdbId": 220,
+                  "imdbId": "tt0048028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Sinatra"
+              ],
+              "movies": [
+                {
+                  "title": "The Man with the Golden Arm",
+                  "tmdbId": 541,
+                  "imdbId": "tt0048347"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "Bad Day at Black Rock",
+                  "tmdbId": 14554,
+                  "imdbId": "tt0047849"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Anna Magnani"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose Tattoo",
+                  "tmdbId": 65550,
+                  "imdbId": "tt0048563"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Susan Hayward"
+              ],
+              "movies": [
+                {
+                  "title": "I'll Cry Tomorrow",
+                  "tmdbId": 28575,
+                  "imdbId": "tt0048191"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "Summertime",
+                  "tmdbId": 50363,
+                  "imdbId": "tt0048673"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jennifer Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Love Is a Many-Splendored Thing",
+                  "tmdbId": 53879,
+                  "imdbId": "tt0048316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eleanor Parker"
+              ],
+              "movies": [
+                {
+                  "title": "Interrupted Melody",
+                  "tmdbId": 43318,
+                  "imdbId": "tt0048210"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Jack Lemmon"
+              ],
+              "movies": [
+                {
+                  "title": "Mister Roberts",
+                  "tmdbId": 37853,
+                  "imdbId": "tt0048380"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Kennedy"
+              ],
+              "movies": [
+                {
+                  "title": "Trial",
+                  "tmdbId": 114083,
+                  "imdbId": "tt0048748"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Mantell"
+              ],
+              "movies": [
+                {
+                  "title": "Marty",
+                  "tmdbId": 15919,
+                  "imdbId": "tt0048356"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sal Mineo"
+              ],
+              "movies": [
+                {
+                  "title": "Rebel Without a Cause",
+                  "tmdbId": 221,
+                  "imdbId": "tt0048545"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur O'Connell"
+              ],
+              "movies": [
+                {
+                  "title": "Picnic",
+                  "tmdbId": 39940,
+                  "imdbId": "tt0048491"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Jo Van Fleet"
+              ],
+              "movies": [
+                {
+                  "title": "East of Eden",
+                  "tmdbId": 220,
+                  "imdbId": "tt0048028"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Betsy Blair"
+              ],
+              "movies": [
+                {
+                  "title": "Marty",
+                  "tmdbId": 15919,
+                  "imdbId": "tt0048356"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peggy Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Pete Kelly's Blues",
+                  "tmdbId": 43321,
+                  "imdbId": "tt0048484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marisa Pavan"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose Tattoo",
+                  "tmdbId": 65550,
+                  "imdbId": "tt0048563"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Natalie Wood"
+              ],
+              "movies": [
+                {
+                  "title": "Rebel Without a Cause",
+                  "tmdbId": 221,
+                  "imdbId": "tt0048545"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Sonya Levien",
+                "William Ludwig"
+              ],
+              "movies": [
+                {
+                  "title": "Interrupted Melody",
+                  "tmdbId": 43318,
+                  "imdbId": "tt0048210"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Milton Sperling",
+                "Emmet Lavery"
+              ],
+              "movies": [
+                {
+                  "title": "The Court-Martial of Billy Mitchell",
+                  "tmdbId": 118910,
+                  "imdbId": "tt0047956"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Betty Comden",
+                "Adolph Green"
+              ],
+              "movies": [
+                {
+                  "title": "It's Always Fair Weather",
+                  "tmdbId": 17640,
+                  "imdbId": "tt0048216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacques Tati",
+                "Henri Marquet"
+              ],
+              "movies": [
+                {
+                  "title": "Monsieur Hulot's Holiday",
+                  "tmdbId": 778,
+                  "imdbId": "tt0046487"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melville Shavelson",
+                "Jack Rose"
+              ],
+              "movies": [
+                {
+                  "title": "The Seven Little Foys",
+                  "tmdbId": 25893,
+                  "imdbId": "tt0048604"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Paddy Chayefsky"
+              ],
+              "movies": [
+                {
+                  "title": "Marty",
+                  "tmdbId": 15919,
+                  "imdbId": "tt0048356"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Millard Kaufman"
+              ],
+              "movies": [
+                {
+                  "title": "Bad Day at Black Rock",
+                  "tmdbId": 14554,
+                  "imdbId": "tt0047849"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Blackboard Jungle",
+                  "tmdbId": 26516,
+                  "imdbId": "tt0047885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Osborn"
+              ],
+              "movies": [
+                {
+                  "title": "East of Eden",
+                  "tmdbId": 220,
+                  "imdbId": "tt0048028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Fuchs",
+                "Isobel Lennart"
+              ],
+              "movies": [
+                {
+                  "title": "Love Me or Leave Me",
+                  "tmdbId": 40633,
+                  "imdbId": "tt0048317"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Daniel Fuchs"
+              ],
+              "movies": [
+                {
+                  "title": "Love Me or Leave Me",
+                  "tmdbId": 40633,
+                  "imdbId": "tt0048317"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joe Connelly",
+                "Bob Mosher"
+              ],
+              "movies": [
+                {
+                  "title": "The Private War of Major Benson",
+                  "tmdbId": 110502,
+                  "imdbId": "tt0048513"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicholas Ray"
+              ],
+              "movies": [
+                {
+                  "title": "Rebel Without a Cause",
+                  "tmdbId": 221,
+                  "imdbId": "tt0048545"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Beirne Lay Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Strategic Air Command",
+                  "tmdbId": 61880,
+                  "imdbId": "tt0048667"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Marsan",
+                "Henri Troyat",
+                "Jacques Perret",
+                "Henri Verneuil",
+                "Raoul Ploquin"
+              ],
+              "movies": [
+                {
+                  "title": "The Sheep Has Five Legs",
+                  "tmdbId": 74810,
+                  "imdbId": "tt0047250"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Samurai I: Musashi Miyamoto"
+              ],
+              "movies": [
+                {
+                  "title": "Samurai I: Musashi Miyamoto",
+                  "tmdbId": 31372,
+                  "imdbId": "tt0047444"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Unconquered"
+              ],
+              "movies": [
+                {
+                  "title": "The Unconquered",
+                  "tmdbId": 114500,
+                  "imdbId": "tt0048157"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Heartbreak Ridge"
+              ],
+              "movies": [
+                {
+                  "title": "Heartbreak Ridge",
+                  "tmdbId": 149264,
+                  "imdbId": "tt0048151"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Robert Burks"
+              ],
+              "movies": [
+                {
+                  "title": "To Catch a Thief",
+                  "tmdbId": 381,
+                  "imdbId": "tt0048728"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "Love Is a Many-Splendored Thing",
+                  "tmdbId": 53879,
+                  "imdbId": "tt0048316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "Guys and Dolls",
+                  "tmdbId": 4825,
+                  "imdbId": "tt0048140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold Lipstein"
+              ],
+              "movies": [
+                {
+                  "title": "A Man Called Peter",
+                  "tmdbId": 45136,
+                  "imdbId": "tt0048337"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "Oklahoma!",
+                  "tmdbId": 13936,
+                  "imdbId": "tt0048445"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "James Wong Howe"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose Tattoo",
+                  "tmdbId": 65550,
+                  "imdbId": "tt0048563"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Russell Harlan"
+              ],
+              "movies": [
+                {
+                  "title": "Blackboard Jungle",
+                  "tmdbId": 26516,
+                  "imdbId": "tt0047885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur E. Arling"
+              ],
+              "movies": [
+                {
+                  "title": "I'll Cry Tomorrow",
+                  "tmdbId": 28575,
+                  "imdbId": "tt0048191"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph LaShelle"
+              ],
+              "movies": [
+                {
+                  "title": "Marty",
+                  "tmdbId": 15919,
+                  "imdbId": "tt0048356"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang"
+              ],
+              "movies": [
+                {
+                  "title": "Queen Bee",
+                  "tmdbId": 28296,
+                  "imdbId": "tt0048527"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Charles Nelson",
+                "William A. Lyon"
+              ],
+              "movies": [
+                {
+                  "title": "Picnic",
+                  "tmdbId": 39940,
+                  "imdbId": "tt0048491"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ferris Webster"
+              ],
+              "movies": [
+                {
+                  "title": "Blackboard Jungle",
+                  "tmdbId": 26516,
+                  "imdbId": "tt0047885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alma Macrorie"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridges at Toko-Ri",
+                  "tmdbId": 35580,
+                  "imdbId": "tt0046806"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Ruggiero",
+                "George Boemler"
+              ],
+              "movies": [
+                {
+                  "title": "Oklahoma!",
+                  "tmdbId": 13936,
+                  "imdbId": "tt0048445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warren Low"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose Tattoo",
+                  "tmdbId": 65550,
+                  "imdbId": "tt0048563"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "William Flannery",
+                "Jo Mielziner",
+                "Robert Priestley"
+              ],
+              "movies": [
+                {
+                  "title": "Picnic",
+                  "tmdbId": 39940,
+                  "imdbId": "tt0048491"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lyle Wheeler",
+                "John DeCuir",
+                "Walter M. Scott",
+                "Paul S. Fox"
+              ],
+              "movies": [
+                {
+                  "title": "Daddy Long Legs",
+                  "tmdbId": 33218,
+                  "imdbId": "tt0047969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Smith",
+                "Joseph C. Wright",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "Guys and Dolls",
+                  "tmdbId": 4825,
+                  "imdbId": "tt0048140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "George Davis",
+                "Walter M. Scott",
+                "Jack Stubbs"
+              ],
+              "movies": [
+                {
+                  "title": "Love Is a Many-Splendored Thing",
+                  "tmdbId": 53879,
+                  "imdbId": "tt0048316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Joseph McMillan Johnson",
+                "Samuel M. Comer",
+                "Arthur Krams"
+              ],
+              "movies": [
+                {
+                  "title": "To Catch a Thief",
+                  "tmdbId": 381,
+                  "imdbId": "tt0048728"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Hal Pereira",
+                "Tambi Larsen",
+                "Samuel M. Comer",
+                "Arthur Krams"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose Tattoo",
+                  "tmdbId": 65550,
+                  "imdbId": "tt0048563"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Randall Duell",
+                "Edwin B. Willis",
+                "Henry Grace"
+              ],
+              "movies": [
+                {
+                  "title": "Blackboard Jungle",
+                  "tmdbId": 26516,
+                  "imdbId": "tt0047885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Malcolm Brown",
+                "Edwin B. Willis",
+                "Hugh B. Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "I'll Cry Tomorrow",
+                  "tmdbId": 28575,
+                  "imdbId": "tt0048191"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph C. Wright",
+                "Darrell Silvera"
+              ],
+              "movies": [
+                {
+                  "title": "The Man with the Golden Arm",
+                  "tmdbId": 541,
+                  "imdbId": "tt0048347"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward S. Haworth",
+                "Walter Simonds",
+                "Robert Priestley"
+              ],
+              "movies": [
+                {
+                  "title": "Marty",
+                  "tmdbId": 15919,
+                  "imdbId": "tt0048356"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Charles LeMaire"
+              ],
+              "movies": [
+                {
+                  "title": "Love Is a Many-Splendored Thing",
+                  "tmdbId": 53879,
+                  "imdbId": "tt0048316"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Helen Rose"
+              ],
+              "movies": [
+                {
+                  "title": "Interrupted Melody",
+                  "tmdbId": 43318,
+                  "imdbId": "tt0048210"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "Guys and Dolls",
+                  "tmdbId": 4825,
+                  "imdbId": "tt0048140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "To Catch a Thief",
+                  "tmdbId": 381,
+                  "imdbId": "tt0048728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles LeMaire",
+                "Mary Wills"
+              ],
+              "movies": [
+                {
+                  "title": "The Virgin Queen",
+                  "tmdbId": 43327,
+                  "imdbId": "tt0048791"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Helen Rose"
+              ],
+              "movies": [
+                {
+                  "title": "I'll Cry Tomorrow",
+                  "tmdbId": 28575,
+                  "imdbId": "tt0048191"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Beatrice Dawson"
+              ],
+              "movies": [
+                {
+                  "title": "The Pickwick Papers",
+                  "tmdbId": 139204,
+                  "imdbId": "tt0045030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Queen Bee",
+                  "tmdbId": 28296,
+                  "imdbId": "tt0048527"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose Tattoo",
+                  "tmdbId": 65550,
+                  "imdbId": "tt0048563"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tadaoto Kainosho"
+              ],
+              "movies": [
+                {
+                  "title": "Ugetsu",
+                  "tmdbId": 14696,
+                  "imdbId": "tt0046478"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Paramount Studio"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridges at Toko-Ri",
+                  "tmdbId": 35580,
+                  "imdbId": "tt0046806"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Associated British Picture Corporation",
+                "Ltd."
+              ],
+              "movies": [
+                {
+                  "title": "The Dam Busters",
+                  "tmdbId": 13210,
+                  "imdbId": "tt0046889"
+                }
+              ]
+            },
+            {
+              "names": [
+                "20th Century-Fox Studio"
+              ],
+              "movies": [
+                {
+                  "title": "The Rains of Ranchipur",
+                  "tmdbId": 39695,
+                  "imdbId": "tt0048538"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Fred Hynes"
+              ],
+              "movies": [
+                {
+                  "title": "Oklahoma!",
+                  "tmdbId": 13936,
+                  "imdbId": "tt0048445"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carlton W. Faulkner"
+              ],
+              "movies": [
+                {
+                  "title": "Love Is a Many-Splendored Thing",
+                  "tmdbId": 53879,
+                  "imdbId": "tt0048316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wesley C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Love Me or Leave Me",
+                  "tmdbId": 40633,
+                  "imdbId": "tt0048317"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Mueller"
+              ],
+              "movies": [
+                {
+                  "title": "Mister Roberts",
+                  "tmdbId": 37853,
+                  "imdbId": "tt0048380"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Watson Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Not as a Stranger",
+                  "tmdbId": 76117,
+                  "imdbId": "tt0048432"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Love Is a Many-Splendored Thing",
+                  "tmdbId": 53879,
+                  "imdbId": "tt0048316"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Battle Cry",
+                  "tmdbId": 51426,
+                  "imdbId": "tt0047860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "The Man with the Golden Arm",
+                  "tmdbId": 541,
+                  "imdbId": "tt0048347"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Duning"
+              ],
+              "movies": [
+                {
+                  "title": "Picnic",
+                  "tmdbId": 39940,
+                  "imdbId": "tt0048491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose Tattoo",
+                  "tmdbId": 65550,
+                  "imdbId": "tt0048563"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Robert Russell Bennett",
+                "Jay Blackton",
+                "Adolph Deutsch"
+              ],
+              "movies": [
+                {
+                  "title": "Oklahoma!",
+                  "tmdbId": 13936,
+                  "imdbId": "tt0048445"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Daddy Long Legs",
+                  "tmdbId": 33218,
+                  "imdbId": "tt0047969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jay Blackton",
+                "Cyril J. Mockridge"
+              ],
+              "movies": [
+                {
+                  "title": "Guys and Dolls",
+                  "tmdbId": 4825,
+                  "imdbId": "tt0048140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andre Previn"
+              ],
+              "movies": [
+                {
+                  "title": "It's Always Fair Weather",
+                  "tmdbId": 17640,
+                  "imdbId": "tt0048216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Percy Faith",
+                "George Stoll"
+              ],
+              "movies": [
+                {
+                  "title": "Love Me or Leave Me",
+                  "tmdbId": 40633,
+                  "imdbId": "tt0048317"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Love Is a Many-Splendored Thing"
+              ],
+              "movies": [
+                {
+                  "title": "Love Is a Many-Splendored Thing",
+                  "tmdbId": 53879,
+                  "imdbId": "tt0048316"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I'll Never Stop Loving You"
+              ],
+              "movies": [
+                {
+                  "title": "Love Me or Leave Me",
+                  "tmdbId": 40633,
+                  "imdbId": "tt0048317"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Something's Gotta Give"
+              ],
+              "movies": [
+                {
+                  "title": "Daddy Long Legs",
+                  "tmdbId": 33218,
+                  "imdbId": "tt0047969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Tender Trap"
+              ],
+              "movies": [
+                {
+                  "title": "The Tender Trap",
+                  "tmdbId": 43326,
+                  "imdbId": "tt0048705"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Unchained Melody"
+              ],
+              "movies": [
+                {
+                  "title": "Unchained",
+                  "tmdbId": 216876,
+                  "imdbId": "tt0048762"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Speedy Gonzales"
+              ],
+              "movies": [
+                {
+                  "title": "Speedy Gonzales",
+                  "tmdbId": 33444,
+                  "imdbId": "tt0048649"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Good Will To Men"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will To Men",
+                  "tmdbId": 46244,
+                  "imdbId": "tt0048131"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Legend of Rockabye Point"
+              ],
+              "movies": [
+                {
+                  "title": "The Legend of Rockabye Point",
+                  "tmdbId": 163050,
+                  "imdbId": "tt0048292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "No Hunting"
+              ],
+              "movies": [
+                {
+                  "title": "No Hunting",
+                  "tmdbId": 67138,
+                  "imdbId": "tt0048425"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Survival City"
+              ],
+              "movies": [
+                {
+                  "title": "Survival City",
+                  "tmdbId": 243030,
+                  "imdbId": "tt0048677"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "3rd Ave. El"
+              ],
+              "movies": [
+                {
+                  "title": "3rd Ave. El",
+                  "tmdbId": 243032,
+                  "imdbId": "tt0047792"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gadgets Galore"
+              ],
+              "movies": [
+                {
+                  "title": "Gadgets Galore",
+                  "tmdbId": 243031,
+                  "imdbId": "tt0048106"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Three Kisses"
+              ],
+              "movies": [
+                {
+                  "title": "Three Kisses",
+                  "tmdbId": 243033,
+                  "imdbId": "tt0048718"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "The Face of Lincoln"
+              ],
+              "movies": [
+                {
+                  "title": "The Face of Lincoln",
+                  "tmdbId": 243025,
+                  "imdbId": "tt0048049"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Battle of Gettysburg"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle of Gettysburg",
+                  "tmdbId": 243026,
+                  "imdbId": "tt0047862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On the Twelfth Day..."
+              ],
+              "movies": [
+                {
+                  "title": "On the Twelfth Day...",
+                  "tmdbId": 243027,
+                  "imdbId": "tt0048447"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Switzerland"
+              ],
+              "movies": [
+                {
+                  "title": "Switzerland",
+                  "tmdbId": 243029,
+                  "imdbId": "tt0048683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "24 Hour Alert"
+              ],
+              "movies": [
+                {
+                  "title": "24 Hour Alert",
+                  "tmdbId": 234946,
+                  "imdbId": "tt0047791"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Men Against the Arctic"
+              ],
+              "movies": [
+                {
+                  "title": "Men Against the Arctic",
+                  "tmdbId": 167097,
+                  "imdbId": "tt0048369"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Battle of Gettysburg"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle of Gettysburg",
+                  "tmdbId": 243026,
+                  "imdbId": "tt0047862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Face of Lincoln"
+              ],
+              "movies": [
+                {
+                  "title": "The Face of Lincoln",
+                  "tmdbId": 243025,
+                  "imdbId": "tt0048049"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1589 @@
+{
+  "ceremony": {
+    "ordinal": 22,
+    "ceremonyYear": 1950,
+    "ceremonyDate": "1950-03-23",
+    "filmYearLabel": "1949",
+    "slug": "1950",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "All the King's Men"
+              ],
+              "movies": [
+                {
+                  "title": "All the King's Men",
+                  "tmdbId": 25430,
+                  "imdbId": "tt0041113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Battleground"
+              ],
+              "movies": [
+                {
+                  "title": "Battleground",
+                  "tmdbId": 31623,
+                  "imdbId": "tt0041163"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Heiress"
+              ],
+              "movies": [
+                {
+                  "title": "The Heiress",
+                  "tmdbId": 28571,
+                  "imdbId": "tt0041452"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Letter to Three Wives"
+              ],
+              "movies": [
+                {
+                  "title": "A Letter to Three Wives",
+                  "tmdbId": 45578,
+                  "imdbId": "tt0041587"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Twelve O'Clock High"
+              ],
+              "movies": [
+                {
+                  "title": "Twelve O'Clock High",
+                  "tmdbId": 15497,
+                  "imdbId": "tt0041996"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Joseph L. Mankiewicz"
+              ],
+              "movies": [
+                {
+                  "title": "A Letter to Three Wives",
+                  "tmdbId": 45578,
+                  "imdbId": "tt0041587"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carol Reed"
+              ],
+              "movies": [
+                {
+                  "title": "The Fallen Idol",
+                  "tmdbId": 21631,
+                  "imdbId": "tt0040338"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Rossen"
+              ],
+              "movies": [
+                {
+                  "title": "All the King's Men",
+                  "tmdbId": 25430,
+                  "imdbId": "tt0041113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Wellman"
+              ],
+              "movies": [
+                {
+                  "title": "Battleground",
+                  "tmdbId": 31623,
+                  "imdbId": "tt0041163"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "The Heiress",
+                  "tmdbId": 28571,
+                  "imdbId": "tt0041452"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Broderick Crawford"
+              ],
+              "movies": [
+                {
+                  "title": "All the King's Men",
+                  "tmdbId": 25430,
+                  "imdbId": "tt0041113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kirk Douglas"
+              ],
+              "movies": [
+                {
+                  "title": "Champion",
+                  "tmdbId": 25918,
+                  "imdbId": "tt0041239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregory Peck"
+              ],
+              "movies": [
+                {
+                  "title": "Twelve O'Clock High",
+                  "tmdbId": 15497,
+                  "imdbId": "tt0041996"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Todd"
+              ],
+              "movies": [
+                {
+                  "title": "The Hasty Heart",
+                  "tmdbId": 74286,
+                  "imdbId": "tt0041445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Wayne"
+              ],
+              "movies": [
+                {
+                  "title": "Sands of Iwo Jima",
+                  "tmdbId": 18712,
+                  "imdbId": "tt0041841"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Olivia de Havilland"
+              ],
+              "movies": [
+                {
+                  "title": "The Heiress",
+                  "tmdbId": 28571,
+                  "imdbId": "tt0041452"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jeanne Crain"
+              ],
+              "movies": [
+                {
+                  "title": "Pinky",
+                  "tmdbId": 62727,
+                  "imdbId": "tt0041746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Hayward"
+              ],
+              "movies": [
+                {
+                  "title": "My Foolish Heart",
+                  "tmdbId": 109887,
+                  "imdbId": "tt0041672"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Deborah Kerr"
+              ],
+              "movies": [
+                {
+                  "title": "Edward, My Son",
+                  "tmdbId": 94959,
+                  "imdbId": "tt0041329"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loretta Young"
+              ],
+              "movies": [
+                {
+                  "title": "Come to the Stable",
+                  "tmdbId": 120481,
+                  "imdbId": "tt0041257"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Dean Jagger"
+              ],
+              "movies": [
+                {
+                  "title": "Twelve O'Clock High",
+                  "tmdbId": 15497,
+                  "imdbId": "tt0041996"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Ireland"
+              ],
+              "movies": [
+                {
+                  "title": "All the King's Men",
+                  "tmdbId": 25430,
+                  "imdbId": "tt0041113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Kennedy"
+              ],
+              "movies": [
+                {
+                  "title": "Champion",
+                  "tmdbId": 25918,
+                  "imdbId": "tt0041239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "The Heiress",
+                  "tmdbId": 28571,
+                  "imdbId": "tt0041452"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Whitmore"
+              ],
+              "movies": [
+                {
+                  "title": "Battleground",
+                  "tmdbId": 31623,
+                  "imdbId": "tt0041163"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Mercedes McCambridge"
+              ],
+              "movies": [
+                {
+                  "title": "All the King's Men",
+                  "tmdbId": 25430,
+                  "imdbId": "tt0041113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ethel Barrymore"
+              ],
+              "movies": [
+                {
+                  "title": "Pinky",
+                  "tmdbId": 62727,
+                  "imdbId": "tt0041746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Celeste Holm"
+              ],
+              "movies": [
+                {
+                  "title": "Come to the Stable",
+                  "tmdbId": 120481,
+                  "imdbId": "tt0041257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elsa Lanchester"
+              ],
+              "movies": [
+                {
+                  "title": "Come to the Stable",
+                  "tmdbId": 120481,
+                  "imdbId": "tt0041257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ethel Waters"
+              ],
+              "movies": [
+                {
+                  "title": "Pinky",
+                  "tmdbId": 62727,
+                  "imdbId": "tt0041746"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Robert Pirosh"
+              ],
+              "movies": [
+                {
+                  "title": "Battleground",
+                  "tmdbId": 31623,
+                  "imdbId": "tt0041163"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sidney Buchman"
+              ],
+              "movies": [
+                {
+                  "title": "Jolson Sings Again",
+                  "tmdbId": 43435,
+                  "imdbId": "tt0041530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "T. E. B. Clarke"
+              ],
+              "movies": [
+                {
+                  "title": "Passport to Pimlico",
+                  "tmdbId": 30095,
+                  "imdbId": "tt0041737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Hayes",
+                "Federico Fellini",
+                "Sergio Amidei",
+                "Marcello Pagliero",
+                "Roberto Rossellini"
+              ],
+              "movies": [
+                {
+                  "title": "Jevel Katz y sus paisanos",
+                  "tmdbId": 923007,
+                  "imdbId": "tt0455570"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Helen Levitt",
+                "Janice Loeb",
+                "Sidney Meyers"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet One",
+                  "tmdbId": 99185,
+                  "imdbId": "tt0040717"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Joseph L. Mankiewicz"
+              ],
+              "movies": [
+                {
+                  "title": "A Letter to Three Wives",
+                  "tmdbId": 45578,
+                  "imdbId": "tt0041587"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carl Foreman"
+              ],
+              "movies": [
+                {
+                  "title": "Champion",
+                  "tmdbId": 25918,
+                  "imdbId": "tt0041239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Graham Greene"
+              ],
+              "movies": [
+                {
+                  "title": "The Fallen Idol",
+                  "tmdbId": 21631,
+                  "imdbId": "tt0040338"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Rossen"
+              ],
+              "movies": [
+                {
+                  "title": "All the King's Men",
+                  "tmdbId": 25430,
+                  "imdbId": "tt0041113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cesare Zavattini"
+              ],
+              "movies": [
+                {
+                  "title": "Bicycle Thieves",
+                  "tmdbId": 5156,
+                  "imdbId": "tt0040522"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Douglas Morrow"
+              ],
+              "movies": [
+                {
+                  "title": "The Stratton Story",
+                  "tmdbId": 43440,
+                  "imdbId": "tt0041928"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Sands of Iwo Jima",
+                  "tmdbId": 18712,
+                  "imdbId": "tt0041841"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Virginia Kellogg"
+              ],
+              "movies": [
+                {
+                  "title": "White Heat",
+                  "tmdbId": 15794,
+                  "imdbId": "tt0042041"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clare Boothe Luce"
+              ],
+              "movies": [
+                {
+                  "title": "Come to the Stable",
+                  "tmdbId": 120481,
+                  "imdbId": "tt0041257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shirley W. Smith",
+                "Valentine Davies"
+              ],
+              "movies": [
+                {
+                  "title": "It Happens Every Spring",
+                  "tmdbId": 88288,
+                  "imdbId": "tt0041514"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Bicycle Thieves"
+              ],
+              "movies": [
+                {
+                  "title": "Bicycle Thieves",
+                  "tmdbId": 5156,
+                  "imdbId": "tt0040522"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Daybreak in Udi"
+              ],
+              "movies": [
+                {
+                  "title": "Daybreak in Udi",
+                  "tmdbId": 114472,
+                  "imdbId": "tt0041283"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kenji Comes Home"
+              ],
+              "movies": [
+                {
+                  "title": "Kenji Comes Home",
+                  "tmdbId": 149249,
+                  "imdbId": "tt0041542"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Winton Hoch"
+              ],
+              "movies": [
+                {
+                  "title": "She Wore a Yellow Ribbon",
+                  "tmdbId": 13909,
+                  "imdbId": "tt0041866"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles G. Clarke"
+              ],
+              "movies": [
+                {
+                  "title": "Sand",
+                  "tmdbId": 217190,
+                  "imdbId": "tt0041840"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Planck",
+                "Charles Schoenbaum"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 43436,
+                  "imdbId": "tt0041594"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Snyder"
+              ],
+              "movies": [
+                {
+                  "title": "Jolson Sings Again",
+                  "tmdbId": 43435,
+                  "imdbId": "tt0041530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "The Barkleys of Broadway",
+                  "tmdbId": 29885,
+                  "imdbId": "tt0041158"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Paul C. Vogel"
+              ],
+              "movies": [
+                {
+                  "title": "Battleground",
+                  "tmdbId": 31623,
+                  "imdbId": "tt0041163"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph LaShelle"
+              ],
+              "movies": [
+                {
+                  "title": "Come to the Stable",
+                  "tmdbId": 120481,
+                  "imdbId": "tt0041257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Planer"
+              ],
+              "movies": [
+                {
+                  "title": "Champion",
+                  "tmdbId": 25918,
+                  "imdbId": "tt0041239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "Prince of Foxes",
+                  "tmdbId": 44533,
+                  "imdbId": "tt0041767"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leo Tover"
+              ],
+              "movies": [
+                {
+                  "title": "The Heiress",
+                  "tmdbId": 28571,
+                  "imdbId": "tt0041452"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Harry Gerstad"
+              ],
+              "movies": [
+                {
+                  "title": "Champion",
+                  "tmdbId": 25918,
+                  "imdbId": "tt0041239"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Dunning"
+              ],
+              "movies": [
+                {
+                  "title": "Battleground",
+                  "tmdbId": 31623,
+                  "imdbId": "tt0041163"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic Knudtson"
+              ],
+              "movies": [
+                {
+                  "title": "The Window",
+                  "tmdbId": 32684,
+                  "imdbId": "tt0042046"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Parrish",
+                "Al Clark"
+              ],
+              "movies": [
+                {
+                  "title": "All the King's Men",
+                  "tmdbId": 25430,
+                  "imdbId": "tt0041113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard L. Van Enger"
+              ],
+              "movies": [
+                {
+                  "title": "Sands of Iwo Jima",
+                  "tmdbId": 18712,
+                  "imdbId": "tt0041841"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Paul Groesse",
+                "Edwin B. Willis",
+                "Jack D. Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 43436,
+                  "imdbId": "tt0041594"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edward Carrere",
+                "Lyle Reifsnider"
+              ],
+              "movies": [
+                {
+                  "title": "Adventures of Don Juan",
+                  "tmdbId": 34233,
+                  "imdbId": "tt0040076"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jim Morahan",
+                "William Kellner",
+                "Michael Relph"
+              ],
+              "movies": [
+                {
+                  "title": "Saraband for Dead Lovers",
+                  "tmdbId": 80216,
+                  "imdbId": "tt0040758"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Harry Horner",
+                "John Meehan",
+                "Emile Kuri"
+              ],
+              "movies": [
+                {
+                  "title": "The Heiress",
+                  "tmdbId": 28571,
+                  "imdbId": "tt0041452"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Jack Martin Smith",
+                "Edwin B. Willis",
+                "Richard A. Pefferle"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Bovary",
+                  "tmdbId": 45184,
+                  "imdbId": "tt0041615"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Joseph C. Wright",
+                "Thomas Little",
+                "Paul S. Fox"
+              ],
+              "movies": [
+                {
+                  "title": "Come to the Stable",
+                  "tmdbId": 120481,
+                  "imdbId": "tt0041257"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Marjorie Best",
+                "Leah Rhodes",
+                "William Travilla"
+              ],
+              "movies": [
+                {
+                  "title": "Adventures of Don Juan",
+                  "tmdbId": 34233,
+                  "imdbId": "tt0040076"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kay Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "Mother Is a Freshman",
+                  "tmdbId": 103930,
+                  "imdbId": "tt0041659"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Edith Head",
+                "Gile Steele"
+              ],
+              "movies": [
+                {
+                  "title": "The Heiress",
+                  "tmdbId": 28571,
+                  "imdbId": "tt0041452"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Vittorio Nino Novarese"
+              ],
+              "movies": [
+                {
+                  "title": "Prince of Foxes",
+                  "tmdbId": 44533,
+                  "imdbId": "tt0041767"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "RKO Productions"
+              ],
+              "movies": [
+                {
+                  "title": "Mighty Joe Young",
+                  "tmdbId": 39314,
+                  "imdbId": "tt0041650"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Wagner Pictures"
+              ],
+              "movies": [
+                {
+                  "title": "Tulsa",
+                  "tmdbId": 104083,
+                  "imdbId": "tt0041994"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Thomas Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Twelve O'Clock High",
+                  "tmdbId": 15497,
+                  "imdbId": "tt0041996"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leslie I. Carey"
+              ],
+              "movies": [
+                {
+                  "title": "Once More, My Darling",
+                  "tmdbId": 217187,
+                  "imdbId": "tt0041255"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel J. Bloomberg"
+              ],
+              "movies": [
+                {
+                  "title": "Sands of Iwo Jima",
+                  "tmdbId": 18712,
+                  "imdbId": "tt0041841"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Aaron Copland"
+              ],
+              "movies": [
+                {
+                  "title": "The Heiress",
+                  "tmdbId": 28571,
+                  "imdbId": "tt0041452"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Beyond the Forest",
+                  "tmdbId": 35896,
+                  "imdbId": "tt0041172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "Champion",
+                  "tmdbId": 25918,
+                  "imdbId": "tt0041239"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Roger Edens",
+                "Lennie Hayton"
+              ],
+              "movies": [
+                {
+                  "title": "On the Town",
+                  "tmdbId": 31516,
+                  "imdbId": "tt0041716"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "Look for the Silver Lining",
+                  "tmdbId": 94615,
+                  "imdbId": "tt0041599"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morris Stoloff",
+                "George Duning"
+              ],
+              "movies": [
+                {
+                  "title": "Jolson Sings Again",
+                  "tmdbId": 43435,
+                  "imdbId": "tt0041530"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Baby",
+                "It's Cold Outside"
+              ],
+              "movies": [
+                {
+                  "title": "Neptune's Daughter",
+                  "tmdbId": 43437,
+                  "imdbId": "tt0041687"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "It's a Great Feeling"
+              ],
+              "movies": [
+                {
+                  "title": "It's a Great Feeling",
+                  "tmdbId": 32552,
+                  "imdbId": "tt0041515"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lavender Blue"
+              ],
+              "movies": [
+                {
+                  "title": "So Dear to My Heart",
+                  "tmdbId": 29682,
+                  "imdbId": "tt0041890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Foolish Heart"
+              ],
+              "movies": [
+                {
+                  "title": "My Foolish Heart",
+                  "tmdbId": 109887,
+                  "imdbId": "tt0041672"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Through a Long",
+                "Sleepless Night"
+              ],
+              "movies": [
+                {
+                  "title": "Come to the Stable",
+                  "tmdbId": 120481,
+                  "imdbId": "tt0041257"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "For Scent-imental Reasons"
+              ],
+              "movies": [
+                {
+                  "title": "For Scent-imental Reasons",
+                  "tmdbId": 83773,
+                  "imdbId": "tt0041380"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Canary Row"
+              ],
+              "movies": [
+                {
+                  "title": "Canary Row",
+                  "tmdbId": 145811,
+                  "imdbId": "tt0042304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hatch Up Your Troubles"
+              ],
+              "movies": [
+                {
+                  "title": "Hatch Up Your Troubles",
+                  "tmdbId": 67823,
+                  "imdbId": "tt0041446"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Magic Fluke"
+              ],
+              "movies": [
+                {
+                  "title": "The Magic Fluke",
+                  "tmdbId": 103983,
+                  "imdbId": "tt0041618"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Toy Tinkers"
+              ],
+              "movies": [
+                {
+                  "title": "Toy Tinkers",
+                  "tmdbId": 67697,
+                  "imdbId": "tt0041978"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Aquatic House Party"
+              ],
+              "movies": [
+                {
+                  "title": "Aquatic House Party",
+                  "tmdbId": 240461,
+                  "imdbId": "tt0041130"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Roller Derby Girl"
+              ],
+              "movies": [
+                {
+                  "title": "Roller Derby Girl",
+                  "tmdbId": 240462,
+                  "imdbId": "tt0041817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "So You Think You're Not Guilty"
+              ],
+              "movies": [
+                {
+                  "title": "So You Think You're Not Guilty",
+                  "tmdbId": 150500,
+                  "imdbId": "tt0041892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spills and Chills"
+              ],
+              "movies": [
+                {
+                  "title": "Spills and Chills",
+                  "tmdbId": 240463,
+                  "imdbId": "tt0041912"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Water Trix"
+              ],
+              "movies": [
+                {
+                  "title": "Water Trix",
+                  "tmdbId": 240465,
+                  "imdbId": "tt0042034"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Van Gogh"
+              ],
+              "movies": [
+                {
+                  "title": "Van Gogh",
+                  "tmdbId": 162366,
+                  "imdbId": "tt0040930"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Boy and the Eagle"
+              ],
+              "movies": [
+                {
+                  "title": "The Boy and the Eagle",
+                  "tmdbId": 240457,
+                  "imdbId": "tt0041202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chase of Death"
+              ],
+              "movies": [
+                {
+                  "title": "Chase of Death",
+                  "tmdbId": 240458,
+                  "imdbId": "tt0041242"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Grass Is Always Greener"
+              ],
+              "movies": [
+                {
+                  "title": "The Grass Is Always Greener",
+                  "tmdbId": 240459,
+                  "imdbId": "tt0041425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Snow Carnival"
+              ],
+              "movies": [
+                {
+                  "title": "Snow Carnival",
+                  "tmdbId": 240460,
+                  "imdbId": "tt0041889"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "A Chance to Live",
+                "So Much for So Little"
+              ],
+              "movies": [
+                {
+                  "title": "A Chance to Live",
+                  "tmdbId": 240466,
+                  "imdbId": "tt0041240"
+                },
+                {
+                  "title": "So Much for So Little",
+                  "tmdbId": 140693,
+                  "imdbId": "tt0041891"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "1848"
+              ],
+              "movies": [
+                {
+                  "title": "1848",
+                  "tmdbId": 240469,
+                  "imdbId": "tt0041079"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Rising Tide"
+              ],
+              "movies": [
+                {
+                  "title": "The Rising Tide",
+                  "tmdbId": 231335,
+                  "imdbId": "tt0041813"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

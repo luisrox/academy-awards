@@ -1,0 +1,1487 @@
+{
+  "ceremony": {
+    "ordinal": 54,
+    "ceremonyYear": 1982,
+    "ceremonyDate": "1982-03-29",
+    "filmYearLabel": "1981",
+    "slug": "1982",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Chariots of Fire"
+              ],
+              "movies": [
+                {
+                  "title": "Chariots of Fire",
+                  "tmdbId": 9443,
+                  "imdbId": "tt0082158"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Atlantic City"
+              ],
+              "movies": [
+                {
+                  "title": "Atlantic City",
+                  "tmdbId": 23954,
+                  "imdbId": "tt0080388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On Golden Pond"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raiders of the Lost Ark"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Reds"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Warren Beatty"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Louis Malle"
+              ],
+              "movies": [
+                {
+                  "title": "Atlantic City",
+                  "tmdbId": 23954,
+                  "imdbId": "tt0080388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugh Hudson"
+              ],
+              "movies": [
+                {
+                  "title": "Chariots of Fire",
+                  "tmdbId": 9443,
+                  "imdbId": "tt0082158"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Rydell"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Henry Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warren Beatty"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Burt Lancaster"
+              ],
+              "movies": [
+                {
+                  "title": "Atlantic City",
+                  "tmdbId": 23954,
+                  "imdbId": "tt0080388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dudley Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Arthur",
+                  "tmdbId": 13665,
+                  "imdbId": "tt0082031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Absence of Malice",
+                  "tmdbId": 19429,
+                  "imdbId": "tt0081974"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Diane Keaton"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marsha Mason"
+              ],
+              "movies": [
+                {
+                  "title": "Only When I Laugh",
+                  "tmdbId": 42146,
+                  "imdbId": "tt0082853"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Sarandon"
+              ],
+              "movies": [
+                {
+                  "title": "Atlantic City",
+                  "tmdbId": 23954,
+                  "imdbId": "tt0080388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "The French Lieutenant's Woman",
+                  "tmdbId": 12537,
+                  "imdbId": "tt0082416"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "John Gielgud"
+              ],
+              "movies": [
+                {
+                  "title": "Arthur",
+                  "tmdbId": 13665,
+                  "imdbId": "tt0082031"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Coco"
+              ],
+              "movies": [
+                {
+                  "title": "Only When I Laugh",
+                  "tmdbId": 42146,
+                  "imdbId": "tt0082853"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ian Holm"
+              ],
+              "movies": [
+                {
+                  "title": "Chariots of Fire",
+                  "tmdbId": 9443,
+                  "imdbId": "tt0082158"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard E. Rollins Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Ragtime",
+                  "tmdbId": 25566,
+                  "imdbId": "tt0082970"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Maureen Stapleton"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Melinda Dillon"
+              ],
+              "movies": [
+                {
+                  "title": "Absence of Malice",
+                  "tmdbId": 19429,
+                  "imdbId": "tt0081974"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joan Hackett"
+              ],
+              "movies": [
+                {
+                  "title": "Only When I Laugh",
+                  "tmdbId": 42146,
+                  "imdbId": "tt0082853"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elizabeth McGovern"
+              ],
+              "movies": [
+                {
+                  "title": "Ragtime",
+                  "tmdbId": 25566,
+                  "imdbId": "tt0082970"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Colin Welland"
+              ],
+              "movies": [
+                {
+                  "title": "Chariots of Fire",
+                  "tmdbId": 9443,
+                  "imdbId": "tt0082158"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kurt Luedtke"
+              ],
+              "movies": [
+                {
+                  "title": "Absence of Malice",
+                  "tmdbId": 19429,
+                  "imdbId": "tt0081974"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Gordon"
+              ],
+              "movies": [
+                {
+                  "title": "Arthur",
+                  "tmdbId": 13665,
+                  "imdbId": "tt0082031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Guare"
+              ],
+              "movies": [
+                {
+                  "title": "Atlantic City",
+                  "tmdbId": 23954,
+                  "imdbId": "tt0080388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warren Beatty",
+                "Trevor Griffiths"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ernest Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harold Pinter"
+              ],
+              "movies": [
+                {
+                  "title": "The French Lieutenant's Woman",
+                  "tmdbId": 12537,
+                  "imdbId": "tt0082416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Potter"
+              ],
+              "movies": [
+                {
+                  "title": "Pennies from Heaven",
+                  "tmdbId": 17450,
+                  "imdbId": "tt0082894"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jay Presson Allen",
+                "Sidney Lumet"
+              ],
+              "movies": [
+                {
+                  "title": "Prince of the City",
+                  "tmdbId": 32047,
+                  "imdbId": "tt0082945"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Weller"
+              ],
+              "movies": [
+                {
+                  "title": "Ragtime",
+                  "tmdbId": 25566,
+                  "imdbId": "tt0082970"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Mephisto"
+              ],
+              "movies": [
+                {
+                  "title": "Mephisto",
+                  "tmdbId": 11911,
+                  "imdbId": "tt0082736"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Boat Is Full"
+              ],
+              "movies": [
+                {
+                  "title": "The Boat Is Full",
+                  "tmdbId": 42140,
+                  "imdbId": "tt0082095"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Man of Iron"
+              ],
+              "movies": [
+                {
+                  "title": "Man of Iron",
+                  "tmdbId": 225,
+                  "imdbId": "tt0082222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Muddy River"
+              ],
+              "movies": [
+                {
+                  "title": "Muddy River",
+                  "tmdbId": 125257,
+                  "imdbId": "tt0082280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Three Brothers"
+              ],
+              "movies": [
+                {
+                  "title": "Three Brothers",
+                  "tmdbId": 42150,
+                  "imdbId": "tt0083226"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Genocide"
+              ],
+              "movies": [
+                {
+                  "title": "Genocide",
+                  "tmdbId": 114516,
+                  "imdbId": "tt0082443"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fantozzi Against the Wind",
+                "Against Wind and Tide: A Cuban Odyssey"
+              ],
+              "movies": [
+                {
+                  "title": "Fantozzi Against the Wind",
+                  "tmdbId": 41663,
+                  "imdbId": "tt0080719"
+                },
+                {
+                  "title": "Against Wind and Tide: A Cuban Odyssey",
+                  "tmdbId": 149365,
+                  "imdbId": "tt0081988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brooklyn Bridge"
+              ],
+              "movies": [
+                {
+                  "title": "Brooklyn Bridge",
+                  "tmdbId": 67079,
+                  "imdbId": "tt0082106"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott"
+              ],
+              "movies": [
+                {
+                  "title": "Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott",
+                  "tmdbId": 149366,
+                  "imdbId": "tt0082312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "El Salvador: Another Vietnam"
+              ],
+              "movies": [
+                {
+                  "title": "El Salvador: Another Vietnam",
+                  "tmdbId": 149367,
+                  "imdbId": "tt0082315"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Vittorio Storaro"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alex Thomson"
+              ],
+              "movies": [
+                {
+                  "title": "Excalibur",
+                  "tmdbId": 11527,
+                  "imdbId": "tt0082348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Williams"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miroslav Ondricek"
+              ],
+              "movies": [
+                {
+                  "title": "Ragtime",
+                  "tmdbId": 25566,
+                  "imdbId": "tt0082970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Slocombe"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Michael Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Terry Rawlings"
+              ],
+              "movies": [
+                {
+                  "title": "Chariots of Fire",
+                  "tmdbId": 9443,
+                  "imdbId": "tt0082158"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Bloom"
+              ],
+              "movies": [
+                {
+                  "title": "The French Lieutenant's Woman",
+                  "tmdbId": 12537,
+                  "imdbId": "tt0082416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert L. Wolfe"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dede Allen",
+                "Craig McKay"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Norman Reynolds",
+                "Leslie Dilley",
+                "Michael D. Ford"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Assheton Gorton",
+                "Ann Mollo"
+              ],
+              "movies": [
+                {
+                  "title": "The French Lieutenant's Woman",
+                  "tmdbId": 12537,
+                  "imdbId": "tt0082416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tambi Larsen",
+                "Jim Berkey"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven's Gate",
+                  "tmdbId": 10935,
+                  "imdbId": "tt0080855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Graysmark",
+                "Patrizia von Brandenstein",
+                "Tony Reading",
+                "George DeTitta Sr.",
+                "George DeTitta Jr.",
+                "Peter Howitt"
+              ],
+              "movies": [
+                {
+                  "title": "Ragtime",
+                  "tmdbId": 25566,
+                  "imdbId": "tt0082970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Sylbert",
+                "Michael Seaton"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Milena Canonero"
+              ],
+              "movies": [
+                {
+                  "title": "Chariots of Fire",
+                  "tmdbId": 9443,
+                  "imdbId": "tt0082158"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Rand"
+              ],
+              "movies": [
+                {
+                  "title": "The French Lieutenant's Woman",
+                  "tmdbId": 12537,
+                  "imdbId": "tt0082416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anna Hill Johnstone"
+              ],
+              "movies": [
+                {
+                  "title": "Ragtime",
+                  "tmdbId": 25566,
+                  "imdbId": "tt0082970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shirley Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bob Mackie"
+              ],
+              "movies": [
+                {
+                  "title": "Pennies from Heaven",
+                  "tmdbId": 17450,
+                  "imdbId": "tt0082894"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Rick Baker"
+              ],
+              "movies": [
+                {
+                  "title": "An American Werewolf in London",
+                  "tmdbId": 814,
+                  "imdbId": "tt0082010"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stan Winston"
+              ],
+              "movies": [
+                {
+                  "title": "Heartbeeps",
+                  "tmdbId": 73247,
+                  "imdbId": "tt0082507"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Richard Edlund",
+                "Kit West",
+                "Bruce Nicholson",
+                "Joe Johnston"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dennis Muren",
+                "Phil Tippett",
+                "Ken Ralston",
+                "Brian Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "Dragonslayer",
+                  "tmdbId": 848,
+                  "imdbId": "tt0082288"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Bill Varney",
+                "Steve Maslow",
+                "Gregg Landaker",
+                "Roy Charman"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Portman",
+                "David M. Ronne"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Wilkinson",
+                "Robert W. Glass Jr.",
+                "Robert Thirlwell",
+                "Robin Gregory"
+              ],
+              "movies": [
+                {
+                  "title": "Outland",
+                  "tmdbId": 10540,
+                  "imdbId": "tt0082869"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael J. Kohut",
+                "Jay M. Harding",
+                "Richard Tyler",
+                "Al Overton Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Pennies from Heaven",
+                  "tmdbId": 17450,
+                  "imdbId": "tt0082894"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dick Vorisek",
+                "Tom Fleischman",
+                "Simon Kaye"
+              ],
+              "movies": [
+                {
+                  "title": "Reds",
+                  "tmdbId": 18254,
+                  "imdbId": "tt0082979"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Ben Burtt",
+                "Richard Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Vangelis"
+              ],
+              "movies": [
+                {
+                  "title": "Chariots of Fire",
+                  "tmdbId": 9443,
+                  "imdbId": "tt0082158"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dave Grusin"
+              ],
+              "movies": [
+                {
+                  "title": "On Golden Pond",
+                  "tmdbId": 11816,
+                  "imdbId": "tt0082846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "Dragonslayer",
+                  "tmdbId": 848,
+                  "imdbId": "tt0082288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Ragtime",
+                  "tmdbId": 25566,
+                  "imdbId": "tt0082970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Raiders of the Lost Ark",
+                  "tmdbId": 85,
+                  "imdbId": "tt0082971"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Arthur's Theme (Best That You Can Do)"
+              ],
+              "movies": [
+                {
+                  "title": "Arthur",
+                  "tmdbId": 13665,
+                  "imdbId": "tt0082031"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Endless Love"
+              ],
+              "movies": [
+                {
+                  "title": "Endless Love",
+                  "tmdbId": 19114,
+                  "imdbId": "tt0082329"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The First Time It Happens"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Muppet Caper",
+                  "tmdbId": 14900,
+                  "imdbId": "tt0082474"
+                }
+              ]
+            },
+            {
+              "names": [
+                "For Your Eyes Only"
+              ],
+              "movies": [
+                {
+                  "title": "For Your Eyes Only",
+                  "tmdbId": 699,
+                  "imdbId": "tt0082398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "One More Hour"
+              ],
+              "movies": [
+                {
+                  "title": "Ragtime",
+                  "tmdbId": 25566,
+                  "imdbId": "tt0082970"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Crac"
+              ],
+              "movies": [
+                {
+                  "title": "Crac",
+                  "tmdbId": 90781,
+                  "imdbId": "tt0082209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Creation"
+              ],
+              "movies": [
+                {
+                  "title": "The Creation",
+                  "tmdbId": 244385,
+                  "imdbId": "tt0082212"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Tender Tale of Cinderella Penguin"
+              ],
+              "movies": [
+                {
+                  "title": "The Tender Tale of Cinderella Penguin",
+                  "tmdbId": 244389,
+                  "imdbId": "tt0083182"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Violet"
+              ],
+              "movies": [
+                {
+                  "title": "Violet",
+                  "tmdbId": 244391,
+                  "imdbId": "tt0083293"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Couples and Robbers"
+              ],
+              "movies": [
+                {
+                  "title": "Couples and Robbers",
+                  "tmdbId": 244393,
+                  "imdbId": "tt0082207"
+                }
+              ]
+            },
+            {
+              "names": [
+                "First Winter"
+              ],
+              "movies": [
+                {
+                  "title": "First Winter",
+                  "tmdbId": 244395,
+                  "imdbId": "tt0082383"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Close Harmony"
+              ],
+              "movies": [
+                {
+                  "title": "Close Harmony",
+                  "tmdbId": 244396,
+                  "imdbId": "tt0082187"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Americas in Transition"
+              ],
+              "movies": [
+                {
+                  "title": "Americas in Transition",
+                  "tmdbId": 244399,
+                  "imdbId": "tt0082012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Journey for Survival"
+              ],
+              "movies": [
+                {
+                  "title": "Journey for Survival",
+                  "tmdbId": 244397,
+                  "imdbId": "tt0082587"
+                }
+              ]
+            },
+            {
+              "names": [
+                "See What I Say"
+              ],
+              "movies": [
+                {
+                  "title": "See What I Say",
+                  "tmdbId": 244400,
+                  "imdbId": "tt0083044"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Urge to Build"
+              ],
+              "movies": [
+                {
+                  "title": "Urge to Build",
+                  "tmdbId": 244402,
+                  "imdbId": "tt0083265"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2255 @@
+{
+  "ceremony": {
+    "ordinal": 16,
+    "ceremonyYear": 1944,
+    "ceremonyDate": "1944-03-02",
+    "filmYearLabel": "1943",
+    "slug": "1944",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Casablanca"
+              ],
+              "movies": [
+                {
+                  "title": "Casablanca",
+                  "tmdbId": 289,
+                  "imdbId": "tt0034583"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "For Whom the Bell Tolls"
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Heaven Can Wait"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 18727,
+                  "imdbId": "tt0035979"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Human Comedy"
+              ],
+              "movies": [
+                {
+                  "title": "The Human Comedy",
+                  "tmdbId": 48993,
+                  "imdbId": "tt0036022"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In Which We Serve"
+              ],
+              "movies": [
+                {
+                  "title": "In Which We Serve",
+                  "tmdbId": 28093,
+                  "imdbId": "tt0034891"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Madam Curie"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Curie",
+                  "tmdbId": 37631,
+                  "imdbId": "tt0036126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The More the Merrier"
+              ],
+              "movies": [
+                {
+                  "title": "The More the Merrier",
+                  "tmdbId": 80616,
+                  "imdbId": "tt0036172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Ox-Bow Incident"
+              ],
+              "movies": [
+                {
+                  "title": "The Ox-Bow Incident",
+                  "tmdbId": 980,
+                  "imdbId": "tt0036244"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Song of Bernadette"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Watch on the Rhine"
+              ],
+              "movies": [
+                {
+                  "title": "Watch on the Rhine",
+                  "tmdbId": 68440,
+                  "imdbId": "tt0036515"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Michael Curtiz"
+              ],
+              "movies": [
+                {
+                  "title": "Casablanca",
+                  "tmdbId": 289,
+                  "imdbId": "tt0034583"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Stevens"
+              ],
+              "movies": [
+                {
+                  "title": "The More the Merrier",
+                  "tmdbId": 80616,
+                  "imdbId": "tt0036172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernst Lubitsch"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 18727,
+                  "imdbId": "tt0035979"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry King"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clarence Brown"
+              ],
+              "movies": [
+                {
+                  "title": "The Human Comedy",
+                  "tmdbId": 48993,
+                  "imdbId": "tt0036022"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Paul Lukas"
+              ],
+              "movies": [
+                {
+                  "title": "Watch on the Rhine",
+                  "tmdbId": 68440,
+                  "imdbId": "tt0036515"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Humphrey Bogart"
+              ],
+              "movies": [
+                {
+                  "title": "Casablanca",
+                  "tmdbId": 289,
+                  "imdbId": "tt0034583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Pidgeon"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Curie",
+                  "tmdbId": 37631,
+                  "imdbId": "tt0036126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mickey Rooney"
+              ],
+              "movies": [
+                {
+                  "title": "The Human Comedy",
+                  "tmdbId": 48993,
+                  "imdbId": "tt0036022"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jennifer Jones"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jean Arthur"
+              ],
+              "movies": [
+                {
+                  "title": "The More the Merrier",
+                  "tmdbId": 80616,
+                  "imdbId": "tt0036172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ingrid Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joan Fontaine"
+              ],
+              "movies": [
+                {
+                  "title": "The Constant Nymph",
+                  "tmdbId": 85677,
+                  "imdbId": "tt0035751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greer Garson"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Curie",
+                  "tmdbId": 37631,
+                  "imdbId": "tt0036126"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Charles Coburn"
+              ],
+              "movies": [
+                {
+                  "title": "The More the Merrier",
+                  "tmdbId": 80616,
+                  "imdbId": "tt0036172"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Bickford"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "J. Carrol Naish"
+              ],
+              "movies": [
+                {
+                  "title": "Sahara",
+                  "tmdbId": 18783,
+                  "imdbId": "tt0036323"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claude Rains"
+              ],
+              "movies": [
+                {
+                  "title": "Casablanca",
+                  "tmdbId": 289,
+                  "imdbId": "tt0034583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Akim Tamiroff"
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Katina Paxinou"
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gladys Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paulette Goddard"
+              ],
+              "movies": [
+                {
+                  "title": "So Proudly We Hail",
+                  "tmdbId": 150778,
+                  "imdbId": "tt0036367"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne Revere"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lucile Watson"
+              ],
+              "movies": [
+                {
+                  "title": "Watch on the Rhine",
+                  "tmdbId": 68440,
+                  "imdbId": "tt0036515"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Norman Krasna"
+              ],
+              "movies": [
+                {
+                  "title": "Princess O'Rourke",
+                  "tmdbId": 33039,
+                  "imdbId": "tt0036277"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Noel Coward"
+              ],
+              "movies": [
+                {
+                  "title": "In Which We Serve",
+                  "tmdbId": 28093,
+                  "imdbId": "tt0034891"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lillian Hellman"
+              ],
+              "movies": [
+                {
+                  "title": "The North Star",
+                  "tmdbId": 48127,
+                  "imdbId": "tt0036217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dudley Nichols"
+              ],
+              "movies": [
+                {
+                  "title": "Air Force",
+                  "tmdbId": 15807,
+                  "imdbId": "tt0035616"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Allan Scott"
+              ],
+              "movies": [
+                {
+                  "title": "So Proudly We Hail",
+                  "tmdbId": 150778,
+                  "imdbId": "tt0036367"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Philip G. Epstein",
+                "Julius J. Epstein",
+                "Howard Koch"
+              ],
+              "movies": [
+                {
+                  "title": "Casablanca",
+                  "tmdbId": 289,
+                  "imdbId": "tt0034583"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lillian Hellman",
+                "Dashiell Hammett"
+              ],
+              "movies": [
+                {
+                  "title": "Watch on the Rhine",
+                  "tmdbId": 68440,
+                  "imdbId": "tt0036515"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nunnally Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "Holy Matrimony",
+                  "tmdbId": 180114,
+                  "imdbId": "tt0036009"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Flournoy",
+                "Lewis R. Foster",
+                "Frank Ross",
+                "Robert Russell"
+              ],
+              "movies": [
+                {
+                  "title": "The More the Merrier",
+                  "tmdbId": 80616,
+                  "imdbId": "tt0036172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Seaton"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "William Saroyan"
+              ],
+              "movies": [
+                {
+                  "title": "The Human Comedy",
+                  "tmdbId": 48993,
+                  "imdbId": "tt0036022"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Thornton Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "Shadow of a Doubt",
+                  "tmdbId": 21734,
+                  "imdbId": "tt0036342"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Russell",
+                "Frank Ross"
+              ],
+              "movies": [
+                {
+                  "title": "The More the Merrier",
+                  "tmdbId": 80616,
+                  "imdbId": "tt0036172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Fisher"
+              ],
+              "movies": [
+                {
+                  "title": "Destination Tokyo",
+                  "tmdbId": 22871,
+                  "imdbId": "tt0035799"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Guy Gilpatric"
+              ],
+              "movies": [
+                {
+                  "title": "Action in the North Atlantic",
+                  "tmdbId": 23051,
+                  "imdbId": "tt0035608"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Desert Victory"
+              ],
+              "movies": [
+                {
+                  "title": "Desert Victory",
+                  "tmdbId": 93335,
+                  "imdbId": "tt0035796"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Baptism of Fire"
+              ],
+              "movies": [
+                {
+                  "title": "Baptism of Fire",
+                  "tmdbId": 93336,
+                  "imdbId": "tt0035662"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Why We Fight: The Battle of Russia"
+              ],
+              "movies": [
+                {
+                  "title": "Why We Fight: The Battle of Russia",
+                  "tmdbId": 112912,
+                  "imdbId": "tt0036629"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Report from the Aleutians"
+              ],
+              "movies": [
+                {
+                  "title": "Report from the Aleutians",
+                  "tmdbId": 23388,
+                  "imdbId": "tt0036301"
+                }
+              ]
+            },
+            {
+              "names": [
+                "War Department Report"
+              ],
+              "movies": [
+                {
+                  "title": "War Department Report",
+                  "tmdbId": 112918,
+                  "imdbId": "tt0036512"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Hal Mohr",
+                "W. Howard Greene"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom of the Opera",
+                  "tmdbId": 15855,
+                  "imdbId": "tt0036261"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles G. Clarke",
+                "Allen Davey"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Frisco, Hello",
+                  "tmdbId": 31770,
+                  "imdbId": "tt0035982"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Cronjager"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Can Wait",
+                  "tmdbId": 18727,
+                  "imdbId": "tt0035979"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "Thousands Cheer",
+                  "tmdbId": 43518,
+                  "imdbId": "tt0036432"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Rennahan"
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Lassie Come Home",
+                  "tmdbId": 2202,
+                  "imdbId": "tt0036098"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Arthur C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Edeson"
+              ],
+              "movies": [
+                {
+                  "title": "Casablanca",
+                  "tmdbId": 289,
+                  "imdbId": "tt0034583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Gaudio"
+              ],
+              "movies": [
+                {
+                  "title": "Corvette K-225",
+                  "tmdbId": 177751,
+                  "imdbId": "tt0035757"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Wong Howe"
+              ],
+              "movies": [
+                {
+                  "title": "The North Star",
+                  "tmdbId": 48127,
+                  "imdbId": "tt0036217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Wong Howe",
+                "Elmer Dyer",
+                "Charles A. Marshall"
+              ],
+              "movies": [
+                {
+                  "title": "Air Force",
+                  "tmdbId": 15807,
+                  "imdbId": "tt0035616"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang"
+              ],
+              "movies": [
+                {
+                  "title": "So Proudly We Hail",
+                  "tmdbId": 150778,
+                  "imdbId": "tt0036367"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rudolph Mate"
+              ],
+              "movies": [
+                {
+                  "title": "Sahara",
+                  "tmdbId": 18783,
+                  "imdbId": "tt0036323"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Ruttenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Curie",
+                  "tmdbId": 37631,
+                  "imdbId": "tt0036126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Seitz"
+              ],
+              "movies": [
+                {
+                  "title": "Five Graves to Cairo",
+                  "tmdbId": 60216,
+                  "imdbId": "tt0035884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "The Human Comedy",
+                  "tmdbId": 48993,
+                  "imdbId": "tt0036022"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "George Amy"
+              ],
+              "movies": [
+                {
+                  "title": "Air Force",
+                  "tmdbId": 15807,
+                  "imdbId": "tt0035616"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Doane Harrison"
+              ],
+              "movies": [
+                {
+                  "title": "Five Graves to Cairo",
+                  "tmdbId": 60216,
+                  "imdbId": "tt0035884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Owen Marks"
+              ],
+              "movies": [
+                {
+                  "title": "Casablanca",
+                  "tmdbId": 289,
+                  "imdbId": "tt0034583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara McLean"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sherman Todd",
+                "John F. Link Sr."
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Alexander Golitzen",
+                "John B. Goodman",
+                "Russell A. Gausman",
+                "Ira S. Webb"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom of the Opera",
+                  "tmdbId": 15855,
+                  "imdbId": "tt0036261"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Basevi",
+                "Joseph C. Wright",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "The Gang's All Here",
+                  "tmdbId": 67967,
+                  "imdbId": "tt0035916"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Haldane Douglas",
+                "Bertram Granger"
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Daniel Cathcart",
+                "Edwin B. Willis",
+                "Jacques Mersereau"
+              ],
+              "movies": [
+                {
+                  "title": "Thousands Cheer",
+                  "tmdbId": 43518,
+                  "imdbId": "tt0036432"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Hughes",
+                "George J. Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "This Is the Army",
+                  "tmdbId": 43517,
+                  "imdbId": "tt0036430"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "James Basevi",
+                "William S. Darling",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Albert S. D'Agostino",
+                "Carroll Clark",
+                "Darrell Silvera",
+                "Harley Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Flight for Freedom",
+                  "tmdbId": 162110,
+                  "imdbId": "tt0035888"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Ernst Fegte",
+                "Bertram Granger"
+              ],
+              "movies": [
+                {
+                  "title": "Five Graves to Cairo",
+                  "tmdbId": 60216,
+                  "imdbId": "tt0035884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Perry Ferguson",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "The North Star",
+                  "tmdbId": 48127,
+                  "imdbId": "tt0036217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Paul Groesse",
+                "Edwin B. Willis",
+                "Hugh Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Curie",
+                  "tmdbId": 37631,
+                  "imdbId": "tt0036126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carl Weyl",
+                "George J. Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Mission to Moscow",
+                  "tmdbId": 161512,
+                  "imdbId": "tt0036166"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Fred Sersen",
+                "Roger Heman Sr."
+              ],
+              "movies": [
+                {
+                  "title": "Crash Dive",
+                  "tmdbId": 74012,
+                  "imdbId": "tt0035763"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Farciot Edouart",
+                "Gordon Jennings",
+                "George Dutton"
+              ],
+              "movies": [
+                {
+                  "title": "So Proudly We Hail",
+                  "tmdbId": 150778,
+                  "imdbId": "tt0036367"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Donald Jahraus",
+                "Michael Steinore"
+              ],
+              "movies": [
+                {
+                  "title": "Stand by for Action",
+                  "tmdbId": 98399,
+                  "imdbId": "tt0036386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans F. Koenekamp",
+                "Rex Wimpy",
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Air Force",
+                  "tmdbId": 15807,
+                  "imdbId": "tt0035616"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clarence Slifer",
+                "Ray Binger",
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The North Star",
+                  "tmdbId": 48127,
+                  "imdbId": "tt0036217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vernon L. Walker",
+                "James G. Stewart",
+                "Roy Granville"
+              ],
+              "movies": [
+                {
+                  "title": "Bombardier",
+                  "tmdbId": 62749,
+                  "imdbId": "tt0035689"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Stephen Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "This Land Is Mine",
+                  "tmdbId": 45220,
+                  "imdbId": "tt0036431"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jack Whitney"
+              ],
+              "movies": [
+                {
+                  "title": "Hangmen Also Die!",
+                  "tmdbId": 22178,
+                  "imdbId": "tt0035966"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel J. Bloomberg"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Oklahoma",
+                  "tmdbId": 40719,
+                  "imdbId": "tt0036038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Curie",
+                  "tmdbId": 37631,
+                  "imdbId": "tt0036126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The North Star",
+                  "tmdbId": 48127,
+                  "imdbId": "tt0036217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom of the Opera",
+                  "tmdbId": 15855,
+                  "imdbId": "tt0036261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "Riding High",
+                  "tmdbId": 218116,
+                  "imdbId": "tt0036313"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "Sahara",
+                  "tmdbId": 18783,
+                  "imdbId": "tt0036323"
+                }
+              ]
+            },
+            {
+              "names": [
+                "C.O. Slyfield"
+              ],
+              "movies": [
+                {
+                  "title": "Saludos Amigos",
+                  "tmdbId": 14906,
+                  "imdbId": "tt0036326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James L. Fields"
+              ],
+              "movies": [
+                {
+                  "title": "So This Is Washington",
+                  "tmdbId": 94207,
+                  "imdbId": "tt0036368"
+                }
+              ]
+            },
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "This Is the Army",
+                  "tmdbId": 43517,
+                  "imdbId": "tt0036430"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Song of Bernadette",
+                  "tmdbId": 43516,
+                  "imdbId": "tt0036377"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "C. Bakaleinikoff",
+                "Roy Webb"
+              ],
+              "movies": [
+                {
+                  "title": "The Fallen Sparrow",
+                  "tmdbId": 26533,
+                  "imdbId": "tt0035860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip Boutelje"
+              ],
+              "movies": [
+                {
+                  "title": "Hi Diddle Diddle",
+                  "tmdbId": 90799,
+                  "imdbId": "tt0035996"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerard Carbonara"
+              ],
+              "movies": [
+                {
+                  "title": "The Kansan",
+                  "tmdbId": 68094,
+                  "imdbId": "tt0036065"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aaron Copland"
+              ],
+              "movies": [
+                {
+                  "title": "The North Star",
+                  "tmdbId": 48127,
+                  "imdbId": "tt0036217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hanns Eisler"
+              ],
+              "movies": [
+                {
+                  "title": "Hangmen Also Die!",
+                  "tmdbId": 22178,
+                  "imdbId": "tt0035966"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Louis Gruenberg",
+                "Morris Stoloff"
+              ],
+              "movies": [
+                {
+                  "title": "Commandos Strike at Dawn",
+                  "tmdbId": 98482,
+                  "imdbId": "tt0035746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leigh Harline"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Come Lately",
+                  "tmdbId": 114186,
+                  "imdbId": "tt0036057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Lady of Burlesque",
+                  "tmdbId": 50001,
+                  "imdbId": "tt0036094"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward H. Plumb",
+                "Paul Smith",
+                "Oliver Wallace"
+              ],
+              "movies": [
+                {
+                  "title": "Victory Through Air Power",
+                  "tmdbId": 22779,
+                  "imdbId": "tt0036497"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans J. Salter",
+                "Frank Skinner"
+              ],
+              "movies": [
+                {
+                  "title": "The Amazing Mrs. Holliday",
+                  "tmdbId": 45216,
+                  "imdbId": "tt0035631"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Scharf"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Oklahoma",
+                  "tmdbId": 40719,
+                  "imdbId": "tt0036038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Casablanca",
+                  "tmdbId": 289,
+                  "imdbId": "tt0034583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Curie",
+                  "tmdbId": 37631,
+                  "imdbId": "tt0036126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Moon and Sixpence",
+                  "tmdbId": 56146,
+                  "imdbId": "tt0035078"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "For Whom the Bell Tolls",
+                  "tmdbId": 27854,
+                  "imdbId": "tt0035896"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "This Is the Army",
+                  "tmdbId": 43517,
+                  "imdbId": "tt0036430"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Emmett Dolan"
+              ],
+              "movies": [
+                {
+                  "title": "Star Spangled Rhythm",
+                  "tmdbId": 108220,
+                  "imdbId": "tt0035379"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leigh Harline"
+              ],
+              "movies": [
+                {
+                  "title": "The Sky's the Limit",
+                  "tmdbId": 43515,
+                  "imdbId": "tt0036363"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Coney Island",
+                  "tmdbId": 69204,
+                  "imdbId": "tt0035749"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward H. Plumb",
+                "Charles Wolcott",
+                "Paul J. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Saludos Amigos",
+                  "tmdbId": 14906,
+                  "imdbId": "tt0036326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic E. Rich"
+              ],
+              "movies": [
+                {
+                  "title": "Stage Door Canteen",
+                  "tmdbId": 38726,
+                  "imdbId": "tt0036384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Scharf"
+              ],
+              "movies": [
+                {
+                  "title": "Hit Parade of 1943",
+                  "tmdbId": 112492,
+                  "imdbId": "tt0035727"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morris Stoloff"
+              ],
+              "movies": [
+                {
+                  "title": "Something to Shout About",
+                  "tmdbId": 120588,
+                  "imdbId": "tt0036375"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "Thousands Cheer",
+                  "tmdbId": 43518,
+                  "imdbId": "tt0036432"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Ward"
+              ],
+              "movies": [
+                {
+                  "title": "Phantom of the Opera",
+                  "tmdbId": 15855,
+                  "imdbId": "tt0036261"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "You'll Never Know"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Frisco, Hello",
+                  "tmdbId": 31770,
+                  "imdbId": "tt0035982"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "That Old Black Magic"
+              ],
+              "movies": [
+                {
+                  "title": "Star Spangled Rhythm",
+                  "tmdbId": 108220,
+                  "imdbId": "tt0035379"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Change of Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Hit Parade of 1943",
+                  "tmdbId": 112492,
+                  "imdbId": "tt0035727"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Happiness is a Thing Called Joe"
+              ],
+              "movies": [
+                {
+                  "title": "Cabin in the Sky",
+                  "tmdbId": 59964,
+                  "imdbId": "tt0035703"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Shining Hour"
+              ],
+              "movies": [
+                {
+                  "title": "The Sky's the Limit",
+                  "tmdbId": 43515,
+                  "imdbId": "tt0036363"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Saludos Amigos"
+              ],
+              "movies": [
+                {
+                  "title": "Saludos Amigos",
+                  "tmdbId": 14906,
+                  "imdbId": "tt0036326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Say a Pray'r for the Boys Over There"
+              ],
+              "movies": [
+                {
+                  "title": "Hers to Hold",
+                  "tmdbId": 218113,
+                  "imdbId": "tt0035993"
+                }
+              ]
+            },
+            {
+              "names": [
+                "They're Either Too Young or Too Old"
+              ],
+              "movies": [
+                {
+                  "title": "Thank Your Lucky Stars",
+                  "tmdbId": 43514,
+                  "imdbId": "tt0036422"
+                }
+              ]
+            },
+            {
+              "names": [
+                "We Mustn't Say Goodbye"
+              ],
+              "movies": [
+                {
+                  "title": "Stage Door Canteen",
+                  "tmdbId": 38726,
+                  "imdbId": "tt0036384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "You'd Be So Nice to Come Home To"
+              ],
+              "movies": [
+                {
+                  "title": "Something to Shout About",
+                  "tmdbId": 120588,
+                  "imdbId": "tt0036375"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Yankee Doodle Mouse"
+              ],
+              "movies": [
+                {
+                  "title": "The Yankee Doodle Mouse",
+                  "tmdbId": 39896,
+                  "imdbId": "tt0036547"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Dizzy Acrobat"
+              ],
+              "movies": [
+                {
+                  "title": "The Dizzy Acrobat",
+                  "tmdbId": 86030,
+                  "imdbId": "tt0035812"
+                }
+              ]
+            },
+            {
+              "names": [
+                "500 Hats of Bartholomew Cubbins"
+              ],
+              "movies": [
+                {
+                  "title": "500 Hats of Bartholomew Cubbins",
+                  "tmdbId": 240362,
+                  "imdbId": "tt0035602"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greetings Bait"
+              ],
+              "movies": [
+                {
+                  "title": "Greetings Bait",
+                  "tmdbId": 236706,
+                  "imdbId": "tt0035954"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Imagination"
+              ],
+              "movies": [
+                {
+                  "title": "Imagination",
+                  "tmdbId": 236678,
+                  "imdbId": "tt0036035"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Reason and Emotion"
+              ],
+              "movies": [
+                {
+                  "title": "Reason and Emotion",
+                  "tmdbId": 64693,
+                  "imdbId": "tt0036294"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Amphibious Fighters"
+              ],
+              "movies": [
+                {
+                  "title": "Amphibious Fighters",
+                  "tmdbId": 236874,
+                  "imdbId": "tt0035634"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cavalcade of Dance"
+              ],
+              "movies": [
+                {
+                  "title": "Cavalcade of Dance",
+                  "tmdbId": 236875,
+                  "imdbId": "tt0035724"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Champions Carry On"
+              ],
+              "movies": [
+                {
+                  "title": "Champions Carry On",
+                  "tmdbId": 240360,
+                  "imdbId": "tt0035725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Screen Snapshots (Series 23, No. 1): Hollywood in Uniform"
+              ],
+              "movies": [
+                {
+                  "title": "Screen Snapshots (Series 23, No. 1): Hollywood in Uniform",
+                  "tmdbId": 240361,
+                  "imdbId": "tt0036008"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Seeing Hands"
+              ],
+              "movies": [
+                {
+                  "title": "Seeing Hands",
+                  "tmdbId": 98562,
+                  "imdbId": "tt0036340"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Heavenly Music"
+              ],
+              "movies": [
+                {
+                  "title": "Heavenly Music",
+                  "tmdbId": 236865,
+                  "imdbId": "tt0035981"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Letter to a Hero"
+              ],
+              "movies": [
+                {
+                  "title": "Letter to a Hero",
+                  "tmdbId": 236870,
+                  "imdbId": "tt0036107"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mardi Gras"
+              ],
+              "movies": [
+                {
+                  "title": "Mardi Gras",
+                  "tmdbId": 236872,
+                  "imdbId": "tt0036141"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Women at War"
+              ],
+              "movies": [
+                {
+                  "title": "Women at War",
+                  "tmdbId": 97745,
+                  "imdbId": "tt0036544"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "December 7th"
+              ],
+              "movies": [
+                {
+                  "title": "December 7th",
+                  "tmdbId": 100605,
+                  "imdbId": "tt0035790"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Children of Mars"
+              ],
+              "movies": [
+                {
+                  "title": "Children of Mars",
+                  "tmdbId": 240363,
+                  "imdbId": "tt0035734"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Plan for Destruction"
+              ],
+              "movies": [
+                {
+                  "title": "Plan for Destruction",
+                  "tmdbId": 100823,
+                  "imdbId": "tt0036268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Swedes in America"
+              ],
+              "movies": [
+                {
+                  "title": "Swedes in America",
+                  "tmdbId": 240364,
+                  "imdbId": "tt0036405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "To the People of the United States"
+              ],
+              "movies": [
+                {
+                  "title": "To the People of the United States",
+                  "tmdbId": 240365,
+                  "imdbId": "tt0036445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tomorrow We Fly"
+              ],
+              "movies": [
+                {
+                  "title": "Tomorrow We Fly",
+                  "tmdbId": 240366,
+                  "imdbId": "tt0036448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Youth in Crisis"
+              ],
+              "movies": [
+                {
+                  "title": "Youth in Crisis",
+                  "tmdbId": 240367,
+                  "imdbId": "tt0036555"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

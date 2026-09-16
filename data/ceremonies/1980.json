@@ -1,0 +1,1583 @@
+{
+  "ceremony": {
+    "ordinal": 52,
+    "ceremonyYear": 1980,
+    "ceremonyDate": "1980-04-14",
+    "filmYearLabel": "1979",
+    "slug": "1980",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Kramer vs. Kramer"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All that Jazz"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Apocalypse Now"
+              ],
+              "movies": [
+                {
+                  "title": "Apocalypse Now",
+                  "tmdbId": 28,
+                  "imdbId": "tt0078788"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Breaking Away"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking Away",
+                  "tmdbId": 20283,
+                  "imdbId": "tt0078902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norma Rae"
+              ],
+              "movies": [
+                {
+                  "title": "Norma Rae",
+                  "tmdbId": 40842,
+                  "imdbId": "tt0079638"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Robert Benton"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bob Fosse"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francis Ford Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "Apocalypse Now",
+                  "tmdbId": 28,
+                  "imdbId": "tt0078788"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Yates"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking Away",
+                  "tmdbId": 20283,
+                  "imdbId": "tt0078902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edouard Molinaro"
+              ],
+              "movies": [
+                {
+                  "title": "La Cage aux Folles",
+                  "tmdbId": 4484,
+                  "imdbId": "tt0077288"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Dustin Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jack Lemmon"
+              ],
+              "movies": [
+                {
+                  "title": "The China Syndrome",
+                  "tmdbId": 988,
+                  "imdbId": "tt0078966"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Pacino"
+              ],
+              "movies": [
+                {
+                  "title": "...And Justice for All",
+                  "tmdbId": 17443,
+                  "imdbId": "tt0078718"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Scheider"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Sellers"
+              ],
+              "movies": [
+                {
+                  "title": "Being There",
+                  "tmdbId": 10322,
+                  "imdbId": "tt0078841"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Sally Field"
+              ],
+              "movies": [
+                {
+                  "title": "Norma Rae",
+                  "tmdbId": 40842,
+                  "imdbId": "tt0079638"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jill Clayburgh"
+              ],
+              "movies": [
+                {
+                  "title": "Starting Over",
+                  "tmdbId": 54663,
+                  "imdbId": "tt0079948"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "The China Syndrome",
+                  "tmdbId": 988,
+                  "imdbId": "tt0078966"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marsha Mason"
+              ],
+              "movies": [
+                {
+                  "title": "Chapter Two",
+                  "tmdbId": 42168,
+                  "imdbId": "tt0078952"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bette Midler"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose",
+                  "tmdbId": 16323,
+                  "imdbId": "tt0079826"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Melvyn Douglas"
+              ],
+              "movies": [
+                {
+                  "title": "Being There",
+                  "tmdbId": 10322,
+                  "imdbId": "tt0078841"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Duvall"
+              ],
+              "movies": [
+                {
+                  "title": "Apocalypse Now",
+                  "tmdbId": 28,
+                  "imdbId": "tt0078788"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic Forrest"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose",
+                  "tmdbId": 16323,
+                  "imdbId": "tt0079826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Justin Henry"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mickey Rooney"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Stallion",
+                  "tmdbId": 17264,
+                  "imdbId": "tt0078872"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jane Alexander"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara Barrie"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking Away",
+                  "tmdbId": 20283,
+                  "imdbId": "tt0078902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Candice Bergen"
+              ],
+              "movies": [
+                {
+                  "title": "Starting Over",
+                  "tmdbId": 54663,
+                  "imdbId": "tt0079948"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mariel Hemingway"
+              ],
+              "movies": [
+                {
+                  "title": "Manhattan",
+                  "tmdbId": 696,
+                  "imdbId": "tt0079522"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Steve Tesich"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking Away",
+                  "tmdbId": 20283,
+                  "imdbId": "tt0078902"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Valerie Curtin",
+                "Barry Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "...And Justice for All",
+                  "tmdbId": 17443,
+                  "imdbId": "tt0078718"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Alan Aurthur",
+                "Bob Fosse"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Gray",
+                "T.S. Cook",
+                "James Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "The China Syndrome",
+                  "tmdbId": 988,
+                  "imdbId": "tt0078966"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen",
+                "Marshall Brickman"
+              ],
+              "movies": [
+                {
+                  "title": "Manhattan",
+                  "tmdbId": 696,
+                  "imdbId": "tt0079522"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Robert Benton"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Francis Ford Coppola",
+                "John Milius"
+              ],
+              "movies": [
+                {
+                  "title": "Apocalypse Now",
+                  "tmdbId": 28,
+                  "imdbId": "tt0078788"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francis Veber",
+                "Marcello Danon",
+                "Edouard Molinaro",
+                "Jean Poiret"
+              ],
+              "movies": [
+                {
+                  "title": "La Cage aux Folles",
+                  "tmdbId": 4484,
+                  "imdbId": "tt0077288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Allan Burns"
+              ],
+              "movies": [
+                {
+                  "title": "A Little Romance",
+                  "tmdbId": 20813,
+                  "imdbId": "tt0079477"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irving Ravetch",
+                "Harriet Frank Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Norma Rae",
+                  "tmdbId": 40842,
+                  "imdbId": "tt0079638"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Tin Drum"
+              ],
+              "movies": [
+                {
+                  "title": "The Tin Drum",
+                  "tmdbId": 659,
+                  "imdbId": "tt0078875"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Maids of Wilko"
+              ],
+              "movies": [
+                {
+                  "title": "The Maids of Wilko",
+                  "tmdbId": 117483,
+                  "imdbId": "tt0079696"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mama Turns 100"
+              ],
+              "movies": [
+                {
+                  "title": "Mama Turns 100",
+                  "tmdbId": 107288,
+                  "imdbId": "tt0079517"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Simple Story"
+              ],
+              "movies": [
+                {
+                  "title": "A Simple Story",
+                  "tmdbId": 3425,
+                  "imdbId": "tt0075975"
+                }
+              ]
+            },
+            {
+              "names": [
+                "To Forget Venice"
+              ],
+              "movies": [
+                {
+                  "title": "To Forget Venice",
+                  "tmdbId": 75748,
+                  "imdbId": "tt0079054"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Best Boy"
+              ],
+              "movies": [
+                {
+                  "title": "Best Boy",
+                  "tmdbId": 42165,
+                  "imdbId": "tt0078850"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Generation on the Wind"
+              ],
+              "movies": [
+                {
+                  "title": "Generation on the Wind",
+                  "tmdbId": 149356,
+                  "imdbId": "tt0079201"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Going the Distance"
+              ],
+              "movies": [
+                {
+                  "title": "Going the Distance",
+                  "tmdbId": 149358,
+                  "imdbId": "tt0079220"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Killing Ground"
+              ],
+              "movies": [
+                {
+                  "title": "The Killing Ground",
+                  "tmdbId": 149360,
+                  "imdbId": "tt0079402"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The War at Home"
+              ],
+              "movies": [
+                {
+                  "title": "The War at Home",
+                  "tmdbId": 149362,
+                  "imdbId": "tt0080118"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Vittorio Storaro"
+              ],
+              "movies": [
+                {
+                  "title": "Apocalypse Now",
+                  "tmdbId": 28,
+                  "imdbId": "tt0078788"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nestor Almendros"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Fraker"
+              ],
+              "movies": [
+                {
+                  "title": "1941",
+                  "tmdbId": 11519,
+                  "imdbId": "tt0078723"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Phillips"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Hole",
+                  "tmdbId": 9570,
+                  "imdbId": "tt0078869"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Giuseppe Rotunno"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Alan Heim"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Dalva"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Stallion",
+                  "tmdbId": 17264,
+                  "imdbId": "tt0078872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Marx",
+                "Walter Murch",
+                "Gerald B. Greenberg",
+                "Lisa Fruchtman"
+              ],
+              "movies": [
+                {
+                  "title": "Apocalypse Now",
+                  "tmdbId": 28,
+                  "imdbId": "tt0078788"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Greenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Kramer vs. Kramer",
+                  "tmdbId": 12102,
+                  "imdbId": "tt0079417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert L. Wolfe",
+                "C. Timothy O'Meara"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose",
+                  "tmdbId": 16323,
+                  "imdbId": "tt0079826"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Philip Rosenberg",
+                "Tony Walton",
+                "Edward Stewart",
+                "Gary Bring"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Jenkins",
+                "Arthur Jeph Parker"
+              ],
+              "movies": [
+                {
+                  "title": "The China Syndrome",
+                  "tmdbId": 988,
+                  "imdbId": "tt0078966"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold Michelson",
+                "Joe Jennings",
+                "Leon Harris",
+                "John Vallone",
+                "Linda Descenna"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek: The Motion Picture",
+                  "tmdbId": 152,
+                  "imdbId": "tt0079945"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Seymour",
+                "Les Dilley",
+                "Roger Christian",
+                "Ian Whittaker"
+              ],
+              "movies": [
+                {
+                  "title": "Alien",
+                  "tmdbId": 348,
+                  "imdbId": "tt0078748"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dean Tavoularis",
+                "Angelo Graham",
+                "George R. Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "Apocalypse Now",
+                  "tmdbId": 28,
+                  "imdbId": "tt0078788"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Albert Wolsky"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judy Moorcroft"
+              ],
+              "movies": [
+                {
+                  "title": "The Europeans",
+                  "tmdbId": 42175,
+                  "imdbId": "tt0079123"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shirley Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Agatha",
+                  "tmdbId": 31200,
+                  "imdbId": "tt0078736"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Ware Theiss"
+              ],
+              "movies": [
+                {
+                  "title": "Butch and Sundance: The Early Days",
+                  "tmdbId": 37598,
+                  "imdbId": "tt0078919"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piero Tosi",
+                "Ambra Danon"
+              ],
+              "movies": [
+                {
+                  "title": "La Cage aux Folles",
+                  "tmdbId": 4484,
+                  "imdbId": "tt0077288"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "H. R. Giger",
+                "Carlo Rambaldi",
+                "Brian Johnson",
+                "Nick Allder",
+                "Dennis Ayling"
+              ],
+              "movies": [
+                {
+                  "title": "Alien",
+                  "tmdbId": 348,
+                  "imdbId": "tt0078748"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Ellenshaw",
+                "Art Cruickshank",
+                "Eustace Lycett",
+                "Danny Lee",
+                "Harrison Ellenshaw",
+                "Joe Hale"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Hole",
+                  "tmdbId": 9570,
+                  "imdbId": "tt0078869"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Fraker",
+                "A. D. Flowers",
+                "Gregory Jein"
+              ],
+              "movies": [
+                {
+                  "title": "1941",
+                  "tmdbId": 11519,
+                  "imdbId": "tt0078723"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Derek Meddings",
+                "Paul Wilson",
+                "John Evans"
+              ],
+              "movies": [
+                {
+                  "title": "Moonraker",
+                  "tmdbId": 698,
+                  "imdbId": "tt0079574"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Trumbull",
+                "John Dykstra",
+                "Richard Yuricich",
+                "Robert Swarthe",
+                "David K. Stewart",
+                "Grant McCune"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek: The Motion Picture",
+                  "tmdbId": 152,
+                  "imdbId": "tt0079945"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Walter Murch",
+                "Mark Berger",
+                "Richard Beggs",
+                "Nat Boxer"
+              ],
+              "movies": [
+                {
+                  "title": "Apocalypse Now",
+                  "tmdbId": 28,
+                  "imdbId": "tt0078788"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Piantadosi",
+                "Les Frescholtz",
+                "Michael Minkler",
+                "Al Overton Jr."
+              ],
+              "movies": [
+                {
+                  "title": "The Electric Horseman",
+                  "tmdbId": 11145,
+                  "imdbId": "tt0079100"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William McCaughey",
+                "Aaron Rochin",
+                "Michael J. Kohut",
+                "Jack Solomon"
+              ],
+              "movies": [
+                {
+                  "title": "Meteor",
+                  "tmdbId": 40160,
+                  "imdbId": "tt0079550"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Knudson",
+                "Robert Glass",
+                "Don MacDougall",
+                "Gene Cantamessa"
+              ],
+              "movies": [
+                {
+                  "title": "1941",
+                  "tmdbId": 11519,
+                  "imdbId": "tt0078723"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theodore Soderberg",
+                "Douglas O. Williams",
+                "Paul Wells",
+                "Jim Webb"
+              ],
+              "movies": [
+                {
+                  "title": "The Rose",
+                  "tmdbId": 16323,
+                  "imdbId": "tt0079826"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Alan Splet"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Stallion",
+                  "tmdbId": 17264,
+                  "imdbId": "tt0078872"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Georges Delerue"
+              ],
+              "movies": [
+                {
+                  "title": "A Little Romance",
+                  "tmdbId": 20813,
+                  "imdbId": "tt0079477"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek: The Motion Picture",
+                  "tmdbId": 152,
+                  "imdbId": "tt0079945"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dave Grusin"
+              ],
+              "movies": [
+                {
+                  "title": "The Champ",
+                  "tmdbId": 30547,
+                  "imdbId": "tt0078950"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Mancini"
+              ],
+              "movies": [
+                {
+                  "title": "10",
+                  "tmdbId": 9051,
+                  "imdbId": "tt0078721"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lalo Schifrin"
+              ],
+              "movies": [
+                {
+                  "title": "The Amityville Horror",
+                  "tmdbId": 11449,
+                  "imdbId": "tt0078767"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Ralph Burns"
+              ],
+              "movies": [
+                {
+                  "title": "All That Jazz",
+                  "tmdbId": 16858,
+                  "imdbId": "tt0078754"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Patrick Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking Away",
+                  "tmdbId": 20283,
+                  "imdbId": "tt0078902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Williams",
+                "Kenny Ascher"
+              ],
+              "movies": [
+                {
+                  "title": "The Muppet Movie",
+                  "tmdbId": 11176,
+                  "imdbId": "tt0079588"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "It Goes Like It Goes"
+              ],
+              "movies": [
+                {
+                  "title": "Norma Rae",
+                  "tmdbId": 40842,
+                  "imdbId": "tt0079638"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I'll Never Say Goodbye"
+              ],
+              "movies": [
+                {
+                  "title": "The Promise",
+                  "tmdbId": 109251,
+                  "imdbId": "tt0079756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It's Easy to Say"
+              ],
+              "movies": [
+                {
+                  "title": "10",
+                  "tmdbId": 9051,
+                  "imdbId": "tt0078721"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rainbow Connection"
+              ],
+              "movies": [
+                {
+                  "title": "The Muppet Movie",
+                  "tmdbId": 11176,
+                  "imdbId": "tt0079588"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Through the Eyes of Love"
+              ],
+              "movies": [
+                {
+                  "title": "Ice Castles",
+                  "tmdbId": 50541,
+                  "imdbId": "tt0077716"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Every Child"
+              ],
+              "movies": [
+                {
+                  "title": "Every Child",
+                  "tmdbId": 48274,
+                  "imdbId": "tt0079126"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dream Doll"
+              ],
+              "movies": [
+                {
+                  "title": "Dream Doll",
+                  "tmdbId": 220987,
+                  "imdbId": "tt0079079"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It's So Nice to Have a Wolf Around the House"
+              ],
+              "movies": [
+                {
+                  "title": "It's So Nice to Have a Wolf Around the House",
+                  "tmdbId": 178354,
+                  "imdbId": "tt0079354"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Board and Care"
+              ],
+              "movies": [
+                {
+                  "title": "Board and Care",
+                  "tmdbId": 244350,
+                  "imdbId": "tt0078885"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bravery in the Field"
+              ],
+              "movies": [
+                {
+                  "title": "Bravery in the Field",
+                  "tmdbId": 244351,
+                  "imdbId": "tt0078900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oh Brother, My Brother"
+              ],
+              "movies": [
+                {
+                  "title": "Oh Brother, My Brother",
+                  "tmdbId": 244352,
+                  "imdbId": "tt0079656"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Solar Film"
+              ],
+              "movies": [
+                {
+                  "title": "The Solar Film",
+                  "tmdbId": 208005,
+                  "imdbId": "tt0083104"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Solly’s Diner"
+              ],
+              "movies": [
+                {
+                  "title": "Solly’s Diner",
+                  "tmdbId": 244353,
+                  "imdbId": "tt0079923"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Paul Robeson: Tribute to an Artist"
+              ],
+              "movies": [
+                {
+                  "title": "Paul Robeson: Tribute to an Artist",
+                  "tmdbId": 113745,
+                  "imdbId": "tt0079704"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mother"
+              ],
+              "movies": [
+                {
+                  "title": "Mother",
+                  "tmdbId": 244358,
+                  "imdbId": "tt0079022"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Koryo Celadon"
+              ],
+              "movies": [
+                {
+                  "title": "Koryo Celadon",
+                  "tmdbId": 244359,
+                  "imdbId": "tt0079414"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nails"
+              ],
+              "movies": [
+                {
+                  "title": "Nails",
+                  "tmdbId": 244361,
+                  "imdbId": "tt0079608"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Remember Me"
+              ],
+              "movies": [
+                {
+                  "title": "Remember Me",
+                  "tmdbId": 244355,
+                  "imdbId": "tt0079791"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

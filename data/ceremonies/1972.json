@@ -1,0 +1,1500 @@
+{
+  "ceremony": {
+    "ordinal": 44,
+    "ceremonyYear": 1972,
+    "ceremonyDate": "1972-04-10",
+    "filmYearLabel": "1971",
+    "slug": "1972",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The French Connection"
+              ],
+              "movies": [
+                {
+                  "title": "The French Connection",
+                  "tmdbId": 1051,
+                  "imdbId": "tt0067116"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Clockwork Orange"
+              ],
+              "movies": [
+                {
+                  "title": "A Clockwork Orange",
+                  "tmdbId": 185,
+                  "imdbId": "tt0066921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fiddler on the Roof"
+              ],
+              "movies": [
+                {
+                  "title": "Fiddler on the Roof",
+                  "tmdbId": 14811,
+                  "imdbId": "tt0067093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Last Picture Show"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Picture Show",
+                  "tmdbId": 25188,
+                  "imdbId": "tt0067328"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicholas and Alexandra"
+              ],
+              "movies": [
+                {
+                  "title": "Nicholas and Alexandra",
+                  "tmdbId": 38646,
+                  "imdbId": "tt0067483"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "William Friedkin"
+              ],
+              "movies": [
+                {
+                  "title": "The French Connection",
+                  "tmdbId": 1051,
+                  "imdbId": "tt0067116"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Bogdanovich"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Picture Show",
+                  "tmdbId": 25188,
+                  "imdbId": "tt0067328"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Jewison"
+              ],
+              "movies": [
+                {
+                  "title": "Fiddler on the Roof",
+                  "tmdbId": 14811,
+                  "imdbId": "tt0067093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Kubrick"
+              ],
+              "movies": [
+                {
+                  "title": "A Clockwork Orange",
+                  "tmdbId": 185,
+                  "imdbId": "tt0066921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Schlesinger"
+              ],
+              "movies": [
+                {
+                  "title": "Sunday Bloody Sunday",
+                  "tmdbId": 45938,
+                  "imdbId": "tt0067805"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Gene Hackman"
+              ],
+              "movies": [
+                {
+                  "title": "The French Connection",
+                  "tmdbId": 1051,
+                  "imdbId": "tt0067116"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Finch"
+              ],
+              "movies": [
+                {
+                  "title": "Sunday Bloody Sunday",
+                  "tmdbId": 45938,
+                  "imdbId": "tt0067805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Matthau"
+              ],
+              "movies": [
+                {
+                  "title": "Kotch",
+                  "tmdbId": 76002,
+                  "imdbId": "tt0067314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George C. Scott"
+              ],
+              "movies": [
+                {
+                  "title": "The Hospital",
+                  "tmdbId": 32082,
+                  "imdbId": "tt0067217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chaim Topol"
+              ],
+              "movies": [
+                {
+                  "title": "Fiddler on the Roof",
+                  "tmdbId": 14811,
+                  "imdbId": "tt0067093"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jane Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "Klute",
+                  "tmdbId": 466,
+                  "imdbId": "tt0067309"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Julie Christie"
+              ],
+              "movies": [
+                {
+                  "title": "McCabe & Mrs. Miller",
+                  "tmdbId": 29005,
+                  "imdbId": "tt0067411"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Glenda Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "Sunday Bloody Sunday",
+                  "tmdbId": 45938,
+                  "imdbId": "tt0067805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vanessa Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "Mary, Queen of Scots",
+                  "tmdbId": 46067,
+                  "imdbId": "tt0067402"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janet Suzman"
+              ],
+              "movies": [
+                {
+                  "title": "Nicholas and Alexandra",
+                  "tmdbId": 38646,
+                  "imdbId": "tt0067483"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Ben Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Picture Show",
+                  "tmdbId": 25188,
+                  "imdbId": "tt0067328"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jeff Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Picture Show",
+                  "tmdbId": 25188,
+                  "imdbId": "tt0067328"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Frey"
+              ],
+              "movies": [
+                {
+                  "title": "Fiddler on the Roof",
+                  "tmdbId": 14811,
+                  "imdbId": "tt0067093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Jaeckel"
+              ],
+              "movies": [
+                {
+                  "title": "Sometimes a Great Notion",
+                  "tmdbId": 40083,
+                  "imdbId": "tt0067774"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Scheider"
+              ],
+              "movies": [
+                {
+                  "title": "The French Connection",
+                  "tmdbId": 1051,
+                  "imdbId": "tt0067116"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Cloris Leachman"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Picture Show",
+                  "tmdbId": 25188,
+                  "imdbId": "tt0067328"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ann-Margret"
+              ],
+              "movies": [
+                {
+                  "title": "Carnal Knowledge",
+                  "tmdbId": 36492,
+                  "imdbId": "tt0066892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ellen Burstyn"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Picture Show",
+                  "tmdbId": 25188,
+                  "imdbId": "tt0067328"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",
+                  "tmdbId": 91607,
+                  "imdbId": "tt0067980"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margaret Leighton"
+              ],
+              "movies": [
+                {
+                  "title": "The Go-Between",
+                  "tmdbId": 36194,
+                  "imdbId": "tt0067144"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Paddy Chayefsky"
+              ],
+              "movies": [
+                {
+                  "title": "The Hospital",
+                  "tmdbId": 32082,
+                  "imdbId": "tt0067217"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elio Petri",
+                "Ugo Pirro"
+              ],
+              "movies": [
+                {
+                  "title": "Investigation of a Citizen Above Suspicion",
+                  "tmdbId": 26451,
+                  "imdbId": "tt0065889"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Lewis",
+                "Dave Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Klute",
+                  "tmdbId": 466,
+                  "imdbId": "tt0067309"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herman Raucher"
+              ],
+              "movies": [
+                {
+                  "title": "Summer of '42",
+                  "tmdbId": 41357,
+                  "imdbId": "tt0067803"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Penelope Gilliatt"
+              ],
+              "movies": [
+                {
+                  "title": "Sunday Bloody Sunday",
+                  "tmdbId": 45938,
+                  "imdbId": "tt0067805"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ernest Tidyman"
+              ],
+              "movies": [
+                {
+                  "title": "The French Connection",
+                  "tmdbId": 1051,
+                  "imdbId": "tt0067116"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stanley Kubrick"
+              ],
+              "movies": [
+                {
+                  "title": "A Clockwork Orange",
+                  "tmdbId": 185,
+                  "imdbId": "tt0066921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernardo Bertolucci"
+              ],
+              "movies": [
+                {
+                  "title": "The Conformist",
+                  "tmdbId": 8416,
+                  "imdbId": "tt0065571"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vittorio Bonicelli",
+                "Ugo Pirro"
+              ],
+              "movies": [
+                {
+                  "title": "The Garden of the Finzi-Continis",
+                  "tmdbId": 4789,
+                  "imdbId": "tt0065777"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Bogdanovich",
+                "Larry McMurtry"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Picture Show",
+                  "tmdbId": 25188,
+                  "imdbId": "tt0067328"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Garden of the Finzi Continis"
+              ],
+              "movies": [
+                {
+                  "title": "The Garden of the Finzi-Continis",
+                  "tmdbId": 4789,
+                  "imdbId": "tt0065777"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dodes'ka-den"
+              ],
+              "movies": [
+                {
+                  "title": "Dodes'ka-den",
+                  "tmdbId": 33205,
+                  "imdbId": "tt0065649"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Emigrants"
+              ],
+              "movies": [
+                {
+                  "title": "The Emigrants",
+                  "tmdbId": 40732,
+                  "imdbId": "tt0067919"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Policeman"
+              ],
+              "movies": [
+                {
+                  "title": "The Policeman",
+                  "tmdbId": 78233,
+                  "imdbId": "tt0066374"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tchaikovsky"
+              ],
+              "movies": [
+                {
+                  "title": "Tchaikovsky",
+                  "tmdbId": 150102,
+                  "imdbId": "tt0065127"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Hellstrom Chronicle"
+              ],
+              "movies": [
+                {
+                  "title": "The Hellstrom Chronicle",
+                  "tmdbId": 17875,
+                  "imdbId": "tt0067197"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alaska Wilderness Lake"
+              ],
+              "movies": [
+                {
+                  "title": "Alaska Wilderness Lake",
+                  "tmdbId": 149323,
+                  "imdbId": "tt0066753"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Sorrow and the Pity"
+              ],
+              "movies": [
+                {
+                  "title": "The Sorrow and the Pity",
+                  "tmdbId": 42611,
+                  "imdbId": "tt0066904"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On Any Sunday"
+              ],
+              "movies": [
+                {
+                  "title": "On Any Sunday",
+                  "tmdbId": 29251,
+                  "imdbId": "tt0067527"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Ra Expeditions"
+              ],
+              "movies": [
+                {
+                  "title": "The Ra Expeditions",
+                  "tmdbId": 149325,
+                  "imdbId": "tt0069151"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Oswald Morris"
+              ],
+              "movies": [
+                {
+                  "title": "Fiddler on the Roof",
+                  "tmdbId": 14811,
+                  "imdbId": "tt0067093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Owen Roizman"
+              ],
+              "movies": [
+                {
+                  "title": "The French Connection",
+                  "tmdbId": 1051,
+                  "imdbId": "tt0067116"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert L. Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Picture Show",
+                  "tmdbId": 25188,
+                  "imdbId": "tt0067328"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Freddie Young"
+              ],
+              "movies": [
+                {
+                  "title": "Nicholas and Alexandra",
+                  "tmdbId": 38646,
+                  "imdbId": "tt0067483"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert L. Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "Summer of '42",
+                  "tmdbId": 41357,
+                  "imdbId": "tt0067803"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Gerald B. Greenberg"
+              ],
+              "movies": [
+                {
+                  "title": "The French Connection",
+                  "tmdbId": 1051,
+                  "imdbId": "tt0067116"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stuart Gilmore",
+                "John W. Holmes"
+              ],
+              "movies": [
+                {
+                  "title": "The Andromeda Strain",
+                  "tmdbId": 10514,
+                  "imdbId": "tt0066769"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Butler"
+              ],
+              "movies": [
+                {
+                  "title": "A Clockwork Orange",
+                  "tmdbId": 185,
+                  "imdbId": "tt0066921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph E. Winters"
+              ],
+              "movies": [
+                {
+                  "title": "Kotch",
+                  "tmdbId": 76002,
+                  "imdbId": "tt0067314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Folmar Blangsted"
+              ],
+              "movies": [
+                {
+                  "title": "Summer of '42",
+                  "tmdbId": 41357,
+                  "imdbId": "tt0067803"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "John Box",
+                "Ernest Archer",
+                "Jack Maxsted",
+                "Gil Parrondo",
+                "Vernon Dixon"
+              ],
+              "movies": [
+                {
+                  "title": "Nicholas and Alexandra",
+                  "tmdbId": 38646,
+                  "imdbId": "tt0067483"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Boris Leven",
+                "William Tuntke",
+                "Ruby Levitt"
+              ],
+              "movies": [
+                {
+                  "title": "The Andromeda Strain",
+                  "tmdbId": 10514,
+                  "imdbId": "tt0066769"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Ellenshaw",
+                "John B. Mansbridge",
+                "Emile Kuri",
+                "Hal Gausman"
+              ],
+              "movies": [
+                {
+                  "title": "Bedknobs and Broomsticks",
+                  "tmdbId": 12335,
+                  "imdbId": "tt0066817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert F. Boyle",
+                "Michael Stringer",
+                "Peter Lamont"
+              ],
+              "movies": [
+                {
+                  "title": "Fiddler on the Roof",
+                  "tmdbId": 14811,
+                  "imdbId": "tt0067093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terence Marsh",
+                "Robert Cartwright",
+                "Peter Howitt"
+              ],
+              "movies": [
+                {
+                  "title": "Mary, Queen of Scots",
+                  "tmdbId": 46067,
+                  "imdbId": "tt0067402"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Yvonne Blake",
+                "Antonio Castillo"
+              ],
+              "movies": [
+                {
+                  "title": "Nicholas and Alexandra",
+                  "tmdbId": 38646,
+                  "imdbId": "tt0067483"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bill Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "Bedknobs and Broomsticks",
+                  "tmdbId": 12335,
+                  "imdbId": "tt0066817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piero Tosi"
+              ],
+              "movies": [
+                {
+                  "title": "Death in Venice",
+                  "tmdbId": 6619,
+                  "imdbId": "tt0067445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margaret Furse"
+              ],
+              "movies": [
+                {
+                  "title": "Mary, Queen of Scots",
+                  "tmdbId": 46067,
+                  "imdbId": "tt0067402"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morton Haack"
+              ],
+              "movies": [
+                {
+                  "title": "What's the Matter with Helen?",
+                  "tmdbId": 42530,
+                  "imdbId": "tt0067975"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Alan Maley",
+                "Eustace Lycett",
+                "Danny Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Bedknobs and Broomsticks",
+                  "tmdbId": 12335,
+                  "imdbId": "tt0066817"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jim Danforth",
+                "Roger Dicken"
+              ],
+              "movies": [
+                {
+                  "title": "When Dinosaurs Ruled the Earth",
+                  "tmdbId": 35002,
+                  "imdbId": "tt0066561"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Gordon McCallum",
+                "David Hildyard"
+              ],
+              "movies": [
+                {
+                  "title": "Fiddler on the Roof",
+                  "tmdbId": 14811,
+                  "imdbId": "tt0067093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gordon K. McCallum",
+                "John W. Mitchell",
+                "Al Overton"
+              ],
+              "movies": [
+                {
+                  "title": "Diamonds Are Forever",
+                  "tmdbId": 681,
+                  "imdbId": "tt0066995"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theodore Soderberg",
+                "Christopher Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The French Connection",
+                  "tmdbId": 1051,
+                  "imdbId": "tt0067116"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Portman",
+                "Jack Solomon"
+              ],
+              "movies": [
+                {
+                  "title": "Kotch",
+                  "tmdbId": 76002,
+                  "imdbId": "tt0067314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bob Jones",
+                "John Aldred"
+              ],
+              "movies": [
+                {
+                  "title": "Mary, Queen of Scots",
+                  "tmdbId": 46067,
+                  "imdbId": "tt0067402"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Michel Legrand"
+              ],
+              "movies": [
+                {
+                  "title": "Summer of '42",
+                  "tmdbId": 41357,
+                  "imdbId": "tt0067803"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Barry"
+              ],
+              "movies": [
+                {
+                  "title": "Mary, Queen of Scots",
+                  "tmdbId": 46067,
+                  "imdbId": "tt0067402"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Rodney Bennett"
+              ],
+              "movies": [
+                {
+                  "title": "Nicholas and Alexandra",
+                  "tmdbId": 38646,
+                  "imdbId": "tt0067483"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Isaac Hayes"
+              ],
+              "movies": [
+                {
+                  "title": "Shaft",
+                  "tmdbId": 482,
+                  "imdbId": "tt0067741"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Fielding"
+              ],
+              "movies": [
+                {
+                  "title": "Straw Dogs",
+                  "tmdbId": 994,
+                  "imdbId": "tt0067800"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Fiddler on the Roof",
+                  "tmdbId": 14811,
+                  "imdbId": "tt0067093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irwin Kostal",
+                "Richard Sherman",
+                "Robert Sherman"
+              ],
+              "movies": [
+                {
+                  "title": "Bedknobs and Broomsticks",
+                  "tmdbId": 12335,
+                  "imdbId": "tt0066817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Maxwell Davies",
+                "Peter Greenwell"
+              ],
+              "movies": [
+                {
+                  "title": "The Boy Friend",
+                  "tmdbId": 31515,
+                  "imdbId": "tt0066858"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "Tchaikovsky",
+                  "tmdbId": 150102,
+                  "imdbId": "tt0065127"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Scharf",
+                "Leslie Bricusse",
+                "Anthony Newley"
+              ],
+              "movies": [
+                {
+                  "title": "Willy Wonka & the Chocolate Factory",
+                  "tmdbId": 252,
+                  "imdbId": "tt0067992"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Theme from Shaft"
+              ],
+              "movies": [
+                {
+                  "title": "Shaft",
+                  "tmdbId": 482,
+                  "imdbId": "tt0067741"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Age of Not Believing"
+              ],
+              "movies": [
+                {
+                  "title": "Bedknobs and Broomsticks",
+                  "tmdbId": 12335,
+                  "imdbId": "tt0066817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "All His Children"
+              ],
+              "movies": [
+                {
+                  "title": "Sometimes a Great Notion",
+                  "tmdbId": 40083,
+                  "imdbId": "tt0067774"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bless the Beasts",
+                "Children"
+              ],
+              "movies": [
+                {
+                  "title": "Bless the Beasts & Children",
+                  "tmdbId": 94225,
+                  "imdbId": "tt0068286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life Is What You Make It"
+              ],
+              "movies": [
+                {
+                  "title": "Kotch",
+                  "tmdbId": 76002,
+                  "imdbId": "tt0067314"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Crunch Bird"
+              ],
+              "movies": [
+                {
+                  "title": "The Crunch Bird",
+                  "tmdbId": 185399,
+                  "imdbId": "tt0066959"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Evolution"
+              ],
+              "movies": [
+                {
+                  "title": "Evolution",
+                  "tmdbId": 185412,
+                  "imdbId": "tt0067073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Selfish Giant"
+              ],
+              "movies": [
+                {
+                  "title": "The Selfish Giant",
+                  "tmdbId": 147469,
+                  "imdbId": "tt0067731"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Centinelas del Silencio"
+              ],
+              "movies": [
+                {
+                  "title": "Centinelas del Silencio",
+                  "tmdbId": 243349,
+                  "imdbId": "tt0067733"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Good Morning"
+              ],
+              "movies": [
+                {
+                  "title": "Good Morning",
+                  "tmdbId": 243351,
+                  "imdbId": "tt0067152"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Rehearsal"
+              ],
+              "movies": [
+                {
+                  "title": "The Rehearsal",
+                  "tmdbId": 243354,
+                  "imdbId": "tt0067662"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Centinelas del Silencio"
+              ],
+              "movies": [
+                {
+                  "title": "Centinelas del Silencio",
+                  "tmdbId": 243349,
+                  "imdbId": "tt0067733"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adventures in Perception"
+              ],
+              "movies": [
+                {
+                  "title": "Adventures in Perception",
+                  "tmdbId": 243355,
+                  "imdbId": "tt0066748"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Art Is..."
+              ],
+              "movies": [
+                {
+                  "title": "Art Is...",
+                  "tmdbId": 243357,
+                  "imdbId": "tt0066786"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Numbers Start with the River"
+              ],
+              "movies": [
+                {
+                  "title": "The Numbers Start with the River",
+                  "tmdbId": 243358,
+                  "imdbId": "tt0067507"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Somebody Waiting"
+              ],
+              "movies": [
+                {
+                  "title": "Somebody Waiting",
+                  "tmdbId": 243360,
+                  "imdbId": "tt0067772"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

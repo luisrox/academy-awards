@@ -1,0 +1,726 @@
+{
+  "ceremony": {
+    "ordinal": 6,
+    "ceremonyYear": 1934,
+    "ceremonyDate": "1934-03-16",
+    "filmYearLabel": "1932/33",
+    "slug": "1934",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Cavalcade"
+              ],
+              "movies": [
+                {
+                  "title": "Cavalcade",
+                  "tmdbId": 56164,
+                  "imdbId": "tt0023876"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "42nd Street"
+              ],
+              "movies": [
+                {
+                  "title": "42nd Street",
+                  "tmdbId": 3062,
+                  "imdbId": "tt0024034"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Farewell to Arms"
+              ],
+              "movies": [
+                {
+                  "title": "A Farewell to Arms",
+                  "tmdbId": 22649,
+                  "imdbId": "tt0022879"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Am a Fugitive from a Chain Gang"
+              ],
+              "movies": [
+                {
+                  "title": "I Am a Fugitive from a Chain Gang",
+                  "tmdbId": 29740,
+                  "imdbId": "tt0023042"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lady for a Day"
+              ],
+              "movies": [
+                {
+                  "title": "Lady for a Day",
+                  "tmdbId": 43130,
+                  "imdbId": "tt0024240"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Little Women"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 39938,
+                  "imdbId": "tt0024264"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Private Life of Henry VIII"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Life of Henry VIII",
+                  "tmdbId": 43122,
+                  "imdbId": "tt0024473"
+                }
+              ]
+            },
+            {
+              "names": [
+                "She Done Him Wrong"
+              ],
+              "movies": [
+                {
+                  "title": "She Done Him Wrong",
+                  "tmdbId": 43595,
+                  "imdbId": "tt0024548"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Smilin' Through"
+              ],
+              "movies": [
+                {
+                  "title": "Smilin' Through",
+                  "tmdbId": 84303,
+                  "imdbId": "tt0023488"
+                }
+              ]
+            },
+            {
+              "names": [
+                "State Fair"
+              ],
+              "movies": [
+                {
+                  "title": "State Fair",
+                  "tmdbId": 52517,
+                  "imdbId": "tt0024610"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Frank Lloyd"
+              ],
+              "movies": [
+                {
+                  "title": "Cavalcade",
+                  "tmdbId": 56164,
+                  "imdbId": "tt0023876"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Capra"
+              ],
+              "movies": [
+                {
+                  "title": "Lady for a Day",
+                  "tmdbId": 43130,
+                  "imdbId": "tt0024240"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Cukor"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 39938,
+                  "imdbId": "tt0024264"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Charles Laughton"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Life of Henry VIII",
+                  "tmdbId": 43122,
+                  "imdbId": "tt0024473"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leslie Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Berkeley Square",
+                  "tmdbId": 104211,
+                  "imdbId": "tt0023794"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Muni"
+              ],
+              "movies": [
+                {
+                  "title": "I Am a Fugitive from a Chain Gang",
+                  "tmdbId": 29740,
+                  "imdbId": "tt0023042"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "Morning Glory",
+                  "tmdbId": 31777,
+                  "imdbId": "tt0024353"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "May Robson"
+              ],
+              "movies": [
+                {
+                  "title": "Lady for a Day",
+                  "tmdbId": 43130,
+                  "imdbId": "tt0024240"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Diana Wynyard"
+              ],
+              "movies": [
+                {
+                  "title": "Cavalcade",
+                  "tmdbId": 56164,
+                  "imdbId": "tt0023876"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Victor Heerman",
+                "Sarah Y. Mason"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 39938,
+                  "imdbId": "tt0024264"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Riskin"
+              ],
+              "movies": [
+                {
+                  "title": "Lady for a Day",
+                  "tmdbId": 43130,
+                  "imdbId": "tt0024240"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Green",
+                "Sonya Levien"
+              ],
+              "movies": [
+                {
+                  "title": "State Fair",
+                  "tmdbId": 52517,
+                  "imdbId": "tt0024610"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Robert Lord"
+              ],
+              "movies": [
+                {
+                  "title": "One Way Passage",
+                  "tmdbId": 13634,
+                  "imdbId": "tt0023305"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frances Marion"
+              ],
+              "movies": [
+                {
+                  "title": "The Prizefighter and the Lady",
+                  "tmdbId": 95854,
+                  "imdbId": "tt0024475"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles MacArthur"
+              ],
+              "movies": [
+                {
+                  "title": "Rasputin and the Empress",
+                  "tmdbId": 43132,
+                  "imdbId": "tt0023374"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Charles Lang"
+              ],
+              "movies": [
+                {
+                  "title": "A Farewell to Arms",
+                  "tmdbId": 22649,
+                  "imdbId": "tt0022879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George J. Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "Reunion in Vienna",
+                  "tmdbId": 174116,
+                  "imdbId": "tt0024496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karl Struss"
+              ],
+              "movies": [
+                {
+                  "title": "The Sign of the Cross",
+                  "tmdbId": 50070,
+                  "imdbId": "tt0023470"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "William S. Darling",
+                "Frederic Hope"
+              ],
+              "movies": [
+                {
+                  "title": "Cavalcade",
+                  "tmdbId": 56164,
+                  "imdbId": "tt0023876"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hans Dreier",
+                "Roland Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "A Farewell to Arms",
+                  "tmdbId": 22649,
+                  "imdbId": "tt0022879"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons"
+              ],
+              "movies": [
+                {
+                  "title": "When Ladies Meet",
+                  "tmdbId": 175035,
+                  "imdbId": "tt0024763"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Franklin Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "A Farewell to Arms",
+                  "tmdbId": 22649,
+                  "imdbId": "tt0022879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "42nd Street",
+                  "tmdbId": 3062,
+                  "imdbId": "tt0024034"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Gold Diggers of 1933",
+                  "tmdbId": 31511,
+                  "imdbId": "tt0024069"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "I Am a Fugitive from a Chain Gang",
+                  "tmdbId": 29740,
+                  "imdbId": "tt0023042"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Three Little Pigs"
+              ],
+              "movies": [
+                {
+                  "title": "Three Little Pigs",
+                  "tmdbId": 34463,
+                  "imdbId": "tt0024660"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Building a Building"
+              ],
+              "movies": [
+                {
+                  "title": "Building a Building",
+                  "tmdbId": 161836,
+                  "imdbId": "tt0023854"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Merry Old Soul"
+              ],
+              "movies": [
+                {
+                  "title": "The Merry Old Soul",
+                  "tmdbId": 87951,
+                  "imdbId": "tt0142655"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "So This Is Harris!"
+              ],
+              "movies": [
+                {
+                  "title": "So This Is Harris!",
+                  "tmdbId": 233638,
+                  "imdbId": "tt0024580"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mister Mugg"
+              ],
+              "movies": [
+                {
+                  "title": "Mister Mugg",
+                  "tmdbId": 233641,
+                  "imdbId": "tt0024342"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Preferred List"
+              ],
+              "movies": [
+                {
+                  "title": "A Preferred List",
+                  "tmdbId": 233642,
+                  "imdbId": "tt0024467"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Krakatoa"
+              ],
+              "movies": [
+                {
+                  "title": "Krakatoa",
+                  "tmdbId": 233644,
+                  "imdbId": "tt0024231"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Menu"
+              ],
+              "movies": [
+                {
+                  "title": "Menu",
+                  "tmdbId": 165509,
+                  "imdbId": "tt0024327"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Sea"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea",
+                  "tmdbId": 561320
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "retired",
+      "label": "Retired Categories",
+      "categories": [
+        {
+          "id": "best-assistant-director",
+          "label": "Best Assistant Director",
+          "winners": [
+            {
+              "names": [
+                "Charles Barton",
+                "Charles Dorian",
+                "Scott Beal",
+                "Fred Fox",
+                "Gordon Hollingshead",
+                "Dewey Starkey",
+                "William Tummel"
+              ],
+              "movies": []
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Al Alleborn",
+                "Sid Brod",
+                "Orville O. Dull,"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "Percy Ikerd",
+                "Arthur Jacobson",
+                "Edward Killy,"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "Joseph A. McDonough",
+                "William J. Reiter",
+                "Frank Shaw,"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "Ben Silvey",
+                "John Waters"
+              ],
+              "movies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

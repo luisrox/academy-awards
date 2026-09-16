@@ -1,0 +1,1559 @@
+{
+  "ceremony": {
+    "ordinal": 57,
+    "ceremonyYear": 1985,
+    "ceremonyDate": "1985-03-25",
+    "filmYearLabel": "1984",
+    "slug": "1985",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Amadeus"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Killing Fields"
+              ],
+              "movies": [
+                {
+                  "title": "The Killing Fields",
+                  "tmdbId": 625,
+                  "imdbId": "tt0087553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Passage to India"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Places in the Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Places in the Heart",
+                  "tmdbId": 13681,
+                  "imdbId": "tt0087921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Soldier's Story"
+              ],
+              "movies": [
+                {
+                  "title": "A Soldier's Story",
+                  "tmdbId": 26522,
+                  "imdbId": "tt0088146"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Milos Forman"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Broadway Danny Rose",
+                  "tmdbId": 12762,
+                  "imdbId": "tt0087003"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Benton"
+              ],
+              "movies": [
+                {
+                  "title": "Places in the Heart",
+                  "tmdbId": 13681,
+                  "imdbId": "tt0087921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roland Joffe"
+              ],
+              "movies": [
+                {
+                  "title": "The Killing Fields",
+                  "tmdbId": 625,
+                  "imdbId": "tt0087553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lean"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "F. Murray Abraham"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jeff Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "Starman",
+                  "tmdbId": 9663,
+                  "imdbId": "tt0088172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Finney"
+              ],
+              "movies": [
+                {
+                  "title": "Under the Volcano",
+                  "tmdbId": 41089,
+                  "imdbId": "tt0088322"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Hulce"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Waterston"
+              ],
+              "movies": [
+                {
+                  "title": "The Killing Fields",
+                  "tmdbId": 625,
+                  "imdbId": "tt0087553"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Sally Field"
+              ],
+              "movies": [
+                {
+                  "title": "Places in the Heart",
+                  "tmdbId": 13681,
+                  "imdbId": "tt0087921"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judy Davis"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jessica Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Country",
+                  "tmdbId": 42087,
+                  "imdbId": "tt0087091"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vanessa Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "The Bostonians",
+                  "tmdbId": 40775,
+                  "imdbId": "tt0086992"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sissy Spacek"
+              ],
+              "movies": [
+                {
+                  "title": "The River",
+                  "tmdbId": 38557,
+                  "imdbId": "tt0088007"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Haing S. Ngor"
+              ],
+              "movies": [
+                {
+                  "title": "The Killing Fields",
+                  "tmdbId": 625,
+                  "imdbId": "tt0087553"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adolph Caesar"
+              ],
+              "movies": [
+                {
+                  "title": "A Soldier's Story",
+                  "tmdbId": 26522,
+                  "imdbId": "tt0088146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Malkovich"
+              ],
+              "movies": [
+                {
+                  "title": "Places in the Heart",
+                  "tmdbId": 13681,
+                  "imdbId": "tt0087921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Noriyuki Pat Morita"
+              ],
+              "movies": [
+                {
+                  "title": "The Karate Kid",
+                  "tmdbId": 1885,
+                  "imdbId": "tt0087538"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+                  "tmdbId": 11002,
+                  "imdbId": "tt0087365"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Peggy Ashcroft"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Glenn Close"
+              ],
+              "movies": [
+                {
+                  "title": "The Natural",
+                  "tmdbId": 11393,
+                  "imdbId": "tt0087781"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lindsay Crouse"
+              ],
+              "movies": [
+                {
+                  "title": "Places in the Heart",
+                  "tmdbId": 13681,
+                  "imdbId": "tt0087921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christine Lahti"
+              ],
+              "movies": [
+                {
+                  "title": "Swing Shift",
+                  "tmdbId": 18446,
+                  "imdbId": "tt0088213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geraldine Page"
+              ],
+              "movies": [
+                {
+                  "title": "The Pope of Greenwich Village",
+                  "tmdbId": 32081,
+                  "imdbId": "tt0087932"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Robert Benton"
+              ],
+              "movies": [
+                {
+                  "title": "Places in the Heart",
+                  "tmdbId": 13681,
+                  "imdbId": "tt0087921"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Danilo Bach",
+                "Daniel Petrie Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Beverly Hills Cop",
+                  "tmdbId": 90,
+                  "imdbId": "tt0086960"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Broadway Danny Rose",
+                  "tmdbId": 12762,
+                  "imdbId": "tt0087003"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregory Nava",
+                "Anna Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "Fist of the North Star",
+                  "tmdbId": 19877,
+                  "imdbId": "tt0142371"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brian Grazer",
+                "Lowell Ganz",
+                "Babaloo Mandel",
+                "Bruce Jay Friedman"
+              ],
+              "movies": [
+                {
+                  "title": "Splash",
+                  "tmdbId": 2619,
+                  "imdbId": "tt0088161"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Peter Shaffer"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "P.H. Vazak (Robert Towne)",
+                "Michel Austin"
+              ],
+              "movies": [
+                {
+                  "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+                  "tmdbId": 11002,
+                  "imdbId": "tt0087365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bruce Robinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Killing Fields",
+                  "tmdbId": 625,
+                  "imdbId": "tt0087553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lean"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Fuller"
+              ],
+              "movies": [
+                {
+                  "title": "A Soldier's Story",
+                  "tmdbId": 26522,
+                  "imdbId": "tt0088146"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Dangerous Moves"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous Moves",
+                  "tmdbId": 46088,
+                  "imdbId": "tt0087144"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Beyond the Walls"
+              ],
+              "movies": [
+                {
+                  "title": "Beyond the Walls",
+                  "tmdbId": 136663,
+                  "imdbId": "tt0087699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Camila"
+              ],
+              "movies": [
+                {
+                  "title": "Camila",
+                  "tmdbId": 42085,
+                  "imdbId": "tt0087027"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Double Feature"
+              ],
+              "movies": [
+                {
+                  "title": "Double Feature",
+                  "tmdbId": 202787,
+                  "imdbId": "tt0088090"
+                }
+              ]
+            },
+            {
+              "names": [
+                "War-Time Romance"
+              ],
+              "movies": [
+                {
+                  "title": "War-Time Romance",
+                  "tmdbId": 197366,
+                  "imdbId": "tt0086561"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Times of Harvey Milk"
+              ],
+              "movies": [
+                {
+                  "title": "The Times of Harvey Milk",
+                  "tmdbId": 33138,
+                  "imdbId": "tt0088275"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "High Schools"
+              ],
+              "movies": [
+                {
+                  "title": "High Schools",
+                  "tmdbId": 149376,
+                  "imdbId": "tt0087409"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In the Name of the People"
+              ],
+              "movies": [
+                {
+                  "title": "In the Name of the People",
+                  "tmdbId": 136667,
+                  "imdbId": "tt0087468"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marlene"
+              ],
+              "movies": [
+                {
+                  "title": "Marlene",
+                  "tmdbId": 42093,
+                  "imdbId": "tt0085905"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Streetwise"
+              ],
+              "movies": [
+                {
+                  "title": "Streetwise",
+                  "tmdbId": 42098,
+                  "imdbId": "tt0088196"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Chris Menges"
+              ],
+              "movies": [
+                {
+                  "title": "The Killing Fields",
+                  "tmdbId": 625,
+                  "imdbId": "tt0087553"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Miroslav Ondricek"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Caleb Deschanel"
+              ],
+              "movies": [
+                {
+                  "title": "The Natural",
+                  "tmdbId": 11393,
+                  "imdbId": "tt0087781"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Day"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vilmos Zsigmond"
+              ],
+              "movies": [
+                {
+                  "title": "The River",
+                  "tmdbId": 38557,
+                  "imdbId": "tt0088007"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Jim Clark"
+              ],
+              "movies": [
+                {
+                  "title": "The Killing Fields",
+                  "tmdbId": 625,
+                  "imdbId": "tt0087553"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nene Danevic",
+                "Michael Chandler"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barry Malkin",
+                "Robert Q. Lovett"
+              ],
+              "movies": [
+                {
+                  "title": "The Cotton Club",
+                  "tmdbId": 2148,
+                  "imdbId": "tt0087089"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lean"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donn Cambern",
+                "Frank Morriss"
+              ],
+              "movies": [
+                {
+                  "title": "Romancing the Stone",
+                  "tmdbId": 9326,
+                  "imdbId": "tt0088011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Patrizia von Brandenstein",
+                "Karel Cerny"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Albert Brenner",
+                "Rick Simpson"
+              ],
+              "movies": [
+                {
+                  "title": "2010",
+                  "tmdbId": 4437,
+                  "imdbId": "tt0086837"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Sylbert",
+                "George Gaines"
+              ],
+              "movies": [
+                {
+                  "title": "The Cotton Club",
+                  "tmdbId": 2148,
+                  "imdbId": "tt0087089"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Angelo Graham",
+                "Mel Bourne",
+                "Bruce Weintraub"
+              ],
+              "movies": [
+                {
+                  "title": "The Natural",
+                  "tmdbId": 11393,
+                  "imdbId": "tt0087781"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Box",
+                "Hugh Scaife"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Theodor Pistek"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Patricia Norris"
+              ],
+              "movies": [
+                {
+                  "title": "2010",
+                  "tmdbId": 4437,
+                  "imdbId": "tt0086837"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jenny Beavan",
+                "John Bright"
+              ],
+              "movies": [
+                {
+                  "title": "The Bostonians",
+                  "tmdbId": 40775,
+                  "imdbId": "tt0086992"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judy Moorcroft"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ann Roth"
+              ],
+              "movies": [
+                {
+                  "title": "Places in the Heart",
+                  "tmdbId": 13681,
+                  "imdbId": "tt0087921"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Paul LeBlanc",
+                "Dick Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rick Baker",
+                "Paul Engelen"
+              ],
+              "movies": [
+                {
+                  "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+                  "tmdbId": 11002,
+                  "imdbId": "tt0087365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Westmore"
+              ],
+              "movies": [
+                {
+                  "title": "2010",
+                  "tmdbId": 4437,
+                  "imdbId": "tt0086837"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Dennis Muren",
+                "Michael McAlister",
+                "Lorne Peterson",
+                "George Gibbs"
+              ],
+              "movies": [
+                {
+                  "title": "Indiana Jones and the Temple of Doom",
+                  "tmdbId": 87,
+                  "imdbId": "tt0087469"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Edlund",
+                "Neil Krepela",
+                "Georg Jensen",
+                "Mark Stetson"
+              ],
+              "movies": [
+                {
+                  "title": "2010",
+                  "tmdbId": 4437,
+                  "imdbId": "tt0086837"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Edlund",
+                "John Bruno",
+                "Mark Vargo",
+                "Chuck Gaspar"
+              ],
+              "movies": [
+                {
+                  "title": "Ghostbusters",
+                  "tmdbId": 620,
+                  "imdbId": "tt0087332"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Mark Berger",
+                "Tom Scott",
+                "Todd Boekelheide",
+                "Chris Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Amadeus",
+                  "tmdbId": 279,
+                  "imdbId": "tt0086879"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael J. Kohut",
+                "Aaron Rochin",
+                "Carlos Delarios",
+                "Gene Cantamessa"
+              ],
+              "movies": [
+                {
+                  "title": "2010",
+                  "tmdbId": 4437,
+                  "imdbId": "tt0086837"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Varney",
+                "Steve Maslow",
+                "Kevin O'Connell",
+                "Nelson Stoll"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 841,
+                  "imdbId": "tt0087182"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Graham V. Hartstone",
+                "Nicolas Le Messurier",
+                "Michael A. Carter",
+                "John W. Mitchell"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nick Alphin",
+                "Robert Thirlwell",
+                "Richard Portman",
+                "David M. Ronne"
+              ],
+              "movies": [
+                {
+                  "title": "The River",
+                  "tmdbId": 38557,
+                  "imdbId": "tt0088007"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Kay Rose"
+              ],
+              "movies": [
+                {
+                  "title": "The River",
+                  "tmdbId": 38557,
+                  "imdbId": "tt0088007"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Maurice Jarre"
+              ],
+              "movies": [
+                {
+                  "title": "A Passage to India",
+                  "tmdbId": 15927,
+                  "imdbId": "tt0087892"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Indiana Jones and the Temple of Doom",
+                  "tmdbId": 87,
+                  "imdbId": "tt0087469"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Natural",
+                  "tmdbId": 11393,
+                  "imdbId": "tt0087781"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The River",
+                  "tmdbId": 38557,
+                  "imdbId": "tt0088007"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "Under the Volcano",
+                  "tmdbId": 41089,
+                  "imdbId": "tt0088322"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Prince"
+              ],
+              "movies": [
+                {
+                  "title": "Purple Rain",
+                  "tmdbId": 13763,
+                  "imdbId": "tt0087957"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jeff Moss"
+              ],
+              "movies": [
+                {
+                  "title": "The Muppets Take Manhattan",
+                  "tmdbId": 11899,
+                  "imdbId": "tt0087755"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kris Kristofferson"
+              ],
+              "movies": [
+                {
+                  "title": "Songwriter",
+                  "tmdbId": 69722,
+                  "imdbId": "tt0088153"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "I Just Called to Say I Love You"
+              ],
+              "movies": [
+                {
+                  "title": "The Woman in Red",
+                  "tmdbId": 5968,
+                  "imdbId": "tt0088414"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Against All Odds (Take a Look at Me Now)"
+              ],
+              "movies": [
+                {
+                  "title": "Against All Odds",
+                  "tmdbId": 22160,
+                  "imdbId": "tt0086859"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Footloose"
+              ],
+              "movies": [
+                {
+                  "title": "Footloose",
+                  "tmdbId": 1788,
+                  "imdbId": "tt0087277"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Let's Hear It for the Boy"
+              ],
+              "movies": [
+                {
+                  "title": "Footloose",
+                  "tmdbId": 1788,
+                  "imdbId": "tt0087277"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ghostbusters"
+              ],
+              "movies": [
+                {
+                  "title": "Ghostbusters",
+                  "tmdbId": 620,
+                  "imdbId": "tt0087332"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Charade"
+              ],
+              "movies": [
+                {
+                  "title": "Charade",
+                  "tmdbId": 48276,
+                  "imdbId": "tt0087040"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Doctor De Soto"
+              ],
+              "movies": [
+                {
+                  "title": "Doctor De Soto",
+                  "tmdbId": 244652,
+                  "imdbId": "tt0087156"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paradise"
+              ],
+              "movies": [
+                {
+                  "title": "Paradise",
+                  "tmdbId": 209548,
+                  "imdbId": "tt0087880"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Up"
+              ],
+              "movies": [
+                {
+                  "title": "Up",
+                  "tmdbId": 244655,
+                  "imdbId": "tt0088332"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Painted Door"
+              ],
+              "movies": [
+                {
+                  "title": "The Painted Door",
+                  "tmdbId": 244639,
+                  "imdbId": "tt0087871"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tales of Meeting and Parting"
+              ],
+              "movies": [
+                {
+                  "title": "Tales of Meeting and Parting",
+                  "tmdbId": 244642,
+                  "imdbId": "tt0088223"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Stone Carvers"
+              ],
+              "movies": [
+                {
+                  "title": "The Stone Carvers",
+                  "tmdbId": 244656,
+                  "imdbId": "tt0088177"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Children of Soong Ching Ling"
+              ],
+              "movies": [
+                {
+                  "title": "The Children of Soong Ching Ling",
+                  "tmdbId": 244657,
+                  "imdbId": "tt0087049"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Code Gray: Ethical Dilemmas in Nursing"
+              ],
+              "movies": [
+                {
+                  "title": "Code Gray: Ethical Dilemmas in Nursing",
+                  "tmdbId": 244658,
+                  "imdbId": "tt0087067"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Garden of Eden"
+              ],
+              "movies": [
+                {
+                  "title": "The Garden of Eden",
+                  "tmdbId": 244660,
+                  "imdbId": "tt0087316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Recollections of Pavlovsk"
+              ],
+              "movies": [
+                {
+                  "title": "Recollections of Pavlovsk",
+                  "tmdbId": 244662,
+                  "imdbId": "tt0087984"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

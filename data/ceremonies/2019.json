@@ -1,0 +1,1750 @@
+{
+  "ceremony": {
+    "ordinal": 91,
+    "ceremonyYear": 2019,
+    "ceremonyDate": "2019-02-24",
+    "filmYearLabel": "2018",
+    "slug": "2019",
+    "decade": "2010s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Green Book"
+              ],
+              "movies": [
+                {
+                  "title": "Green Book",
+                  "tmdbId": 490132,
+                  "imdbId": "tt6966692"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "BlackKklansman"
+              ],
+              "movies": [
+                {
+                  "title": "BlacKkKlansman",
+                  "tmdbId": 487558,
+                  "imdbId": "tt7349662"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bohemian Rhapsody"
+              ],
+              "movies": [
+                {
+                  "title": "Bohemian Rhapsody",
+                  "tmdbId": 424694,
+                  "imdbId": "tt1727824"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Favourite"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Black Panther"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther",
+                  "tmdbId": 284054,
+                  "imdbId": "tt1825683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roma"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Star is Born"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 332562,
+                  "imdbId": "tt1517451"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vice"
+              ],
+              "movies": [
+                {
+                  "title": "Vice",
+                  "tmdbId": 429197,
+                  "imdbId": "tt6266538"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Alfonso Cuaron"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Yorgos Lanthimos"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pawel Pawlikowski"
+              ],
+              "movies": [
+                {
+                  "title": "Cold War",
+                  "tmdbId": 440298,
+                  "imdbId": "tt6543652"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adam McKay"
+              ],
+              "movies": [
+                {
+                  "title": "Vice",
+                  "tmdbId": 429197,
+                  "imdbId": "tt6266538"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spike Lee"
+              ],
+              "movies": [
+                {
+                  "title": "BlacKkKlansman",
+                  "tmdbId": 487558,
+                  "imdbId": "tt7349662"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Rami Malek"
+              ],
+              "movies": [
+                {
+                  "title": "Bohemian Rhapsody",
+                  "tmdbId": 424694,
+                  "imdbId": "tt1727824"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bradley Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 332562,
+                  "imdbId": "tt1517451"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christian Bale"
+              ],
+              "movies": [
+                {
+                  "title": "Vice",
+                  "tmdbId": 429197,
+                  "imdbId": "tt6266538"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Willem Dafoe"
+              ],
+              "movies": [
+                {
+                  "title": "At Eternity's Gate",
+                  "tmdbId": 491472,
+                  "imdbId": "tt6938828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Viggo Mortensen"
+              ],
+              "movies": [
+                {
+                  "title": "Green Book",
+                  "tmdbId": 490132,
+                  "imdbId": "tt6966692"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Olivia Colman"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Glenn Close"
+              ],
+              "movies": [
+                {
+                  "title": "The Wife",
+                  "tmdbId": 340613,
+                  "imdbId": "tt3750872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yalitza Aparicio"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melissa McCarthy"
+              ],
+              "movies": [
+                {
+                  "title": "Can You Ever Forgive Me?",
+                  "tmdbId": 401847,
+                  "imdbId": "tt4595882"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lady Gaga"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 332562,
+                  "imdbId": "tt1517451"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Mahershala Ali"
+              ],
+              "movies": [
+                {
+                  "title": "Green Book",
+                  "tmdbId": 490132,
+                  "imdbId": "tt6966692"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard E. Grant"
+              ],
+              "movies": [
+                {
+                  "title": "Can You Ever Forgive Me?",
+                  "tmdbId": 401847,
+                  "imdbId": "tt4595882"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Elliot"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 332562,
+                  "imdbId": "tt1517451"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adam Driver"
+              ],
+              "movies": [
+                {
+                  "title": "BlacKkKlansman",
+                  "tmdbId": 487558,
+                  "imdbId": "tt7349662"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Rockwell"
+              ],
+              "movies": [
+                {
+                  "title": "Vice",
+                  "tmdbId": 429197,
+                  "imdbId": "tt6266538"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Regina King"
+              ],
+              "movies": [
+                {
+                  "title": "If Beale Street Could Talk",
+                  "tmdbId": 465914,
+                  "imdbId": "tt7125860"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Amy Adams"
+              ],
+              "movies": [
+                {
+                  "title": "Vice",
+                  "tmdbId": 429197,
+                  "imdbId": "tt6266538"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marina de Tavira"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rachel Weisz"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emma Stone"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Nick Vallelonga",
+                "Brian Currie",
+                "Peter Farrelly"
+              ],
+              "movies": [
+                {
+                  "title": "Green Book",
+                  "tmdbId": 490132,
+                  "imdbId": "tt6966692"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Deborah Davis",
+                "Tony McNamara"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Schrader"
+              ],
+              "movies": [
+                {
+                  "title": "First Reformed",
+                  "tmdbId": 458737,
+                  "imdbId": "tt6053438"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfonso Cuaron"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adam McKay"
+              ],
+              "movies": [
+                {
+                  "title": "Vice",
+                  "tmdbId": 429197,
+                  "imdbId": "tt6266538"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Charlie Wachtel",
+                "David Rabinowitz",
+                "Kevin Willmott",
+                "Spike Lee"
+              ],
+              "movies": [
+                {
+                  "title": "BlacKkKlansman",
+                  "tmdbId": 487558,
+                  "imdbId": "tt7349662"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joel Coen",
+                "Ethan Coen"
+              ],
+              "movies": [
+                {
+                  "title": "The Ballad of Buster Scruggs",
+                  "tmdbId": 537996,
+                  "imdbId": "tt6412452"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barry Jenkins"
+              ],
+              "movies": [
+                {
+                  "title": "If Beale Street Could Talk",
+                  "tmdbId": 465914,
+                  "imdbId": "tt7125860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicole Holofcener",
+                "Jeff Whitty"
+              ],
+              "movies": [
+                {
+                  "title": "Can You Ever Forgive Me?",
+                  "tmdbId": 401847,
+                  "imdbId": "tt4595882"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric Roth",
+                "Bradley Cooper",
+                "Will Fetters"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 332562,
+                  "imdbId": "tt1517451"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Spider-Man: Into the Spider-Verse"
+              ],
+              "movies": [
+                {
+                  "title": "Spider-Man: Into the Spider-Verse",
+                  "tmdbId": 324857,
+                  "imdbId": "tt4633694"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Incredibles 2"
+              ],
+              "movies": [
+                {
+                  "title": "Incredibles 2",
+                  "tmdbId": 260513,
+                  "imdbId": "tt3606756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mirai"
+              ],
+              "movies": [
+                {
+                  "title": "Mirai",
+                  "tmdbId": 475215,
+                  "imdbId": "tt6900448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Isle of Dogs"
+              ],
+              "movies": [
+                {
+                  "title": "Isle of Dogs",
+                  "tmdbId": 399174,
+                  "imdbId": "tt5104604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Breaks the Internet"
+              ],
+              "movies": [
+                {
+                  "title": "Ralph Breaks the Internet",
+                  "tmdbId": 404368,
+                  "imdbId": "tt5848272"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Roma"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Capernaum"
+              ],
+              "movies": [
+                {
+                  "title": "Capernaum",
+                  "tmdbId": 517814,
+                  "imdbId": "tt8267604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cold War"
+              ],
+              "movies": [
+                {
+                  "title": "Cold War",
+                  "tmdbId": 440298,
+                  "imdbId": "tt6543652"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Never Look Away"
+              ],
+              "movies": [
+                {
+                  "title": "Never Look Away",
+                  "tmdbId": 423612,
+                  "imdbId": "tt5311542"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shoplifters"
+              ],
+              "movies": [
+                {
+                  "title": "Shoplifters",
+                  "tmdbId": 505192,
+                  "imdbId": "tt8075192"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Free Solo"
+              ],
+              "movies": [
+                {
+                  "title": "Free Solo",
+                  "tmdbId": 515042,
+                  "imdbId": "tt7775622"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "RBG"
+              ],
+              "movies": [
+                {
+                  "title": "RBG",
+                  "tmdbId": 493099,
+                  "imdbId": "tt7689964"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hale County This Morning, This Evening"
+              ],
+              "movies": [
+                {
+                  "title": "Hale County This Morning, This Evening",
+                  "tmdbId": 490785,
+                  "imdbId": "tt6634646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Minding the Gap"
+              ],
+              "movies": [
+                {
+                  "title": "Minding the Gap",
+                  "tmdbId": 489985,
+                  "imdbId": "tt7476236"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Of Fathers and Sons"
+              ],
+              "movies": [
+                {
+                  "title": "Of Fathers and Sons",
+                  "tmdbId": 488740,
+                  "imdbId": "tt7519174"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Alfonso Cuaron"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robbie Ryan"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Caleb Deschanel"
+              ],
+              "movies": [
+                {
+                  "title": "Never Look Away",
+                  "tmdbId": 423612,
+                  "imdbId": "tt5311542"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lukas Zal"
+              ],
+              "movies": [
+                {
+                  "title": "Cold War",
+                  "tmdbId": 440298,
+                  "imdbId": "tt6543652"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matthew Libatique"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 332562,
+                  "imdbId": "tt1517451"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "John Ottman"
+              ],
+              "movies": [
+                {
+                  "title": "Bohemian Rhapsody",
+                  "tmdbId": 424694,
+                  "imdbId": "tt1727824"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Barry Alexander Brown"
+              ],
+              "movies": [
+                {
+                  "title": "BlacKkKlansman",
+                  "tmdbId": 487558,
+                  "imdbId": "tt7349662"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patrick J. Don Vito"
+              ],
+              "movies": [
+                {
+                  "title": "Green Book",
+                  "tmdbId": 490132,
+                  "imdbId": "tt6966692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yorgos Mavropsaridis"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hank Corwin"
+              ],
+              "movies": [
+                {
+                  "title": "Vice",
+                  "tmdbId": 429197,
+                  "imdbId": "tt6266538"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Hannah Beachler",
+                "Jay Hart"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther",
+                  "tmdbId": 284054,
+                  "imdbId": "tt1825683"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fiona Crombie",
+                "Alice Felton"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Crowley",
+                "Kathy Lucas"
+              ],
+              "movies": [
+                {
+                  "title": "First Man",
+                  "tmdbId": 369972,
+                  "imdbId": "tt1213641"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Myhre",
+                "Gordon Sim"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins Returns",
+                  "tmdbId": 400650,
+                  "imdbId": "tt5028340"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eugenio Caballero",
+                "Barbara Enriquez"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Ruth E. Carter"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther",
+                  "tmdbId": 284054,
+                  "imdbId": "tt1825683"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mary Zophres"
+              ],
+              "movies": [
+                {
+                  "title": "The Ballad of Buster Scruggs",
+                  "tmdbId": 537996,
+                  "imdbId": "tt6412452"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "The Favourite",
+                  "tmdbId": 375262,
+                  "imdbId": "tt5083738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins Returns",
+                  "tmdbId": 400650,
+                  "imdbId": "tt5028340"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexandra Byrne"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Queen of Scots",
+                  "tmdbId": 457136,
+                  "imdbId": "tt2328900"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Greg Cannom",
+                "Kate Biscoe",
+                "Patricia Dehaney"
+              ],
+              "movies": [
+                {
+                  "title": "Vice",
+                  "tmdbId": 429197,
+                  "imdbId": "tt6266538"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jenny Shircore",
+                "Marc Pilcher",
+                "Jessica Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Queen of Scots",
+                  "tmdbId": 457136,
+                  "imdbId": "tt2328900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Goran Lundstrom",
+                "Pamela Goldammer"
+              ],
+              "movies": [
+                {
+                  "title": "Border",
+                  "tmdbId": 517839,
+                  "imdbId": "tt5501104"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Paul Lambert",
+                "Ian Hunter",
+                "Tristan Myles",
+                "J. D. Schwalm"
+              ],
+              "movies": [
+                {
+                  "title": "First Man",
+                  "tmdbId": 369972,
+                  "imdbId": "tt1213641"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Christopher Lawrence",
+                "Michael Eames",
+                "Theo Jones",
+                "Chris Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Christopher Robin",
+                  "tmdbId": 420814,
+                  "imdbId": "tt4575576"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan DeLeeuw",
+                "Kelly Port",
+                "Russell Earl",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "Avengers: Infinity War",
+                  "tmdbId": 299536,
+                  "imdbId": "tt4154756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Guyett",
+                "Grady Cofer",
+                "Matthew E. Butler",
+                "Dave Shirk"
+              ],
+              "movies": [
+                {
+                  "title": "Ready Player One",
+                  "tmdbId": 333339,
+                  "imdbId": "tt1677720"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rob Bredow",
+                "Patrick Tubach",
+                "Neil Scanlan",
+                "Dominic Tuohy"
+              ],
+              "movies": [
+                {
+                  "title": "Solo: A Star Wars Story",
+                  "tmdbId": 348350,
+                  "imdbId": "tt3778644"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "John Warhurst",
+                "Nina Hartstone"
+              ],
+              "movies": [
+                {
+                  "title": "Bohemian Rhapsody",
+                  "tmdbId": 424694,
+                  "imdbId": "tt1727824"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Benjamin A. Burtt",
+                "Steve Boeddeker"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther",
+                  "tmdbId": 284054,
+                  "imdbId": "tt1825683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ai-Ling Lee",
+                "Mildred Iatrou Morgan"
+              ],
+              "movies": [
+                {
+                  "title": "First Man",
+                  "tmdbId": 369972,
+                  "imdbId": "tt1213641"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ethan Van der Ryn",
+                "Erik Aadahl"
+              ],
+              "movies": [
+                {
+                  "title": "A Quiet Place",
+                  "tmdbId": 447332,
+                  "imdbId": "tt6644200"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sergio Diaz",
+                "Skip Lievsay"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Paul Massey",
+                "Tim Cavagin",
+                "John Casali"
+              ],
+              "movies": [
+                {
+                  "title": "Bohemian Rhapsody",
+                  "tmdbId": 424694,
+                  "imdbId": "tt1727824"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Steve Boeddeker",
+                "Brandon Proctor",
+                "Peter Devlin"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther",
+                  "tmdbId": 284054,
+                  "imdbId": "tt1825683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Taylor",
+                "Frank A. Montano",
+                "Ai-Ling Lee",
+                "Mary H. Ellis"
+              ],
+              "movies": [
+                {
+                  "title": "First Man",
+                  "tmdbId": 369972,
+                  "imdbId": "tt1213641"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Ozanich",
+                "Dean Zupancic",
+                "Jason Ruder",
+                "Steve Morrow"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 332562,
+                  "imdbId": "tt1517451"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Skip Lievsay",
+                "Craig Henighan",
+                "Jose Antonio Garcia"
+              ],
+              "movies": [
+                {
+                  "title": "Roma",
+                  "tmdbId": 426426,
+                  "imdbId": "tt6155172"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Ludwig Goransson"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther",
+                  "tmdbId": 284054,
+                  "imdbId": "tt1825683"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Terence Blanchard"
+              ],
+              "movies": [
+                {
+                  "title": "BlacKkKlansman",
+                  "tmdbId": 487558,
+                  "imdbId": "tt7349662"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicholas Britell"
+              ],
+              "movies": [
+                {
+                  "title": "If Beale Street Could Talk",
+                  "tmdbId": 465914,
+                  "imdbId": "tt7125860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexandre Desplat"
+              ],
+              "movies": [
+                {
+                  "title": "Isle of Dogs",
+                  "tmdbId": 399174,
+                  "imdbId": "tt5104604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marc Shaiman"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins Returns",
+                  "tmdbId": 400650,
+                  "imdbId": "tt5028340"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Shallow"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 332562,
+                  "imdbId": "tt1517451"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All the Stars"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther",
+                  "tmdbId": 284054,
+                  "imdbId": "tt1825683"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'll Fight"
+              ],
+              "movies": [
+                {
+                  "title": "RBG",
+                  "tmdbId": 493099,
+                  "imdbId": "tt7689964"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Place Where Lost Things Go"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins Returns",
+                  "tmdbId": 400650,
+                  "imdbId": "tt5028340"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When A Cowboy Trades His Spurs for Wings"
+              ],
+              "movies": [
+                {
+                  "title": "The Ballad of Buster Scruggs",
+                  "tmdbId": 537996,
+                  "imdbId": "tt6412452"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Bao"
+              ],
+              "movies": [
+                {
+                  "title": "Bao",
+                  "tmdbId": 514754,
+                  "imdbId": "tt8075496"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Animal Behaviour"
+              ],
+              "movies": [
+                {
+                  "title": "Animal Behaviour",
+                  "tmdbId": 511138,
+                  "imdbId": "tt8615478"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Late Afternoon"
+              ],
+              "movies": [
+                {
+                  "title": "Late Afternoon",
+                  "tmdbId": 500688,
+                  "imdbId": "tt7077824"
+                }
+              ]
+            },
+            {
+              "names": [
+                "One Small Step"
+              ],
+              "movies": [
+                {
+                  "title": "One Small Step",
+                  "tmdbId": 549484,
+                  "imdbId": "tt8783042"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Weekends"
+              ],
+              "movies": [
+                {
+                  "title": "Weekends",
+                  "tmdbId": 1018418,
+                  "imdbId": "tt10075404"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Skin"
+              ],
+              "movies": [
+                {
+                  "title": "Skin",
+                  "tmdbId": 569485,
+                  "imdbId": "tt7332306"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fauve"
+              ],
+              "movies": [
+                {
+                  "title": "Fauve",
+                  "tmdbId": 504969,
+                  "imdbId": "tt7467476"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marguerite"
+              ],
+              "movies": [
+                {
+                  "title": "Marguerite",
+                  "tmdbId": 487625,
+                  "imdbId": "tt6803040"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mother"
+              ],
+              "movies": [
+                {
+                  "title": "Mother",
+                  "tmdbId": 466874,
+                  "imdbId": "tt6597824"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Detainment"
+              ],
+              "movies": [
+                {
+                  "title": "Detainment",
+                  "tmdbId": 569499,
+                  "imdbId": "tt6813264"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Period. End of Sentence."
+              ],
+              "movies": [
+                {
+                  "title": "Period. End of Sentence.",
+                  "tmdbId": 524288,
+                  "imdbId": "tt6939026"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "End Game"
+              ],
+              "movies": [
+                {
+                  "title": "End Game",
+                  "tmdbId": 510258,
+                  "imdbId": "tt7879350"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lifeboat"
+              ],
+              "movies": [
+                {
+                  "title": "Lifeboat",
+                  "tmdbId": 543809,
+                  "imdbId": "tt7446332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Night at the Garden"
+              ],
+              "movies": [
+                {
+                  "title": "A Night at the Garden",
+                  "tmdbId": 480429,
+                  "imdbId": "tt7535612"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Black Sheep"
+              ],
+              "movies": [
+                {
+                  "title": "Black Sheep",
+                  "tmdbId": 543803,
+                  "imdbId": "tt7440094"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2171 @@
+{
+  "ceremony": {
+    "ordinal": 18,
+    "ceremonyYear": 1946,
+    "ceremonyDate": "1946-03-07",
+    "filmYearLabel": "1945",
+    "slug": "1946",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Lost Weekend"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Weekend",
+                  "tmdbId": 28580,
+                  "imdbId": "tt0037884"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anchors Aweigh"
+              ],
+              "movies": [
+                {
+                  "title": "Anchors Aweigh",
+                  "tmdbId": 17889,
+                  "imdbId": "tt0037514"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Bells of St. Mary's"
+              ],
+              "movies": [
+                {
+                  "title": "The Bells of St. Mary's",
+                  "tmdbId": 32430,
+                  "imdbId": "tt0037536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mildred Pierce"
+              ],
+              "movies": [
+                {
+                  "title": "Mildred Pierce",
+                  "tmdbId": 3309,
+                  "imdbId": "tt0037913"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spellbound"
+              ],
+              "movies": [
+                {
+                  "title": "Spellbound",
+                  "tmdbId": 4174,
+                  "imdbId": "tt0038109"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Weekend",
+                  "tmdbId": 28580,
+                  "imdbId": "tt0037884"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Clarence Brown"
+              ],
+              "movies": [
+                {
+                  "title": "National Velvet",
+                  "tmdbId": 17641,
+                  "imdbId": "tt0037120"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Hitchcock"
+              ],
+              "movies": [
+                {
+                  "title": "Spellbound",
+                  "tmdbId": 4174,
+                  "imdbId": "tt0038109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leo McCarey"
+              ],
+              "movies": [
+                {
+                  "title": "The Bells of St. Mary's",
+                  "tmdbId": 32430,
+                  "imdbId": "tt0037536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Renoir"
+              ],
+              "movies": [
+                {
+                  "title": "The Southerner",
+                  "tmdbId": 45219,
+                  "imdbId": "tt0038107"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Ray Milland"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Weekend",
+                  "tmdbId": 28580,
+                  "imdbId": "tt0037884"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bing Crosby"
+              ],
+              "movies": [
+                {
+                  "title": "The Bells of St. Mary's",
+                  "tmdbId": 32430,
+                  "imdbId": "tt0037536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Kelly"
+              ],
+              "movies": [
+                {
+                  "title": "Anchors Aweigh",
+                  "tmdbId": 17889,
+                  "imdbId": "tt0037514"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregory Peck"
+              ],
+              "movies": [
+                {
+                  "title": "The Keys of the Kingdom",
+                  "tmdbId": 18050,
+                  "imdbId": "tt0036983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cornel Wilde"
+              ],
+              "movies": [
+                {
+                  "title": "A Song to Remember",
+                  "tmdbId": 119764,
+                  "imdbId": "tt0038104"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Joan Crawford"
+              ],
+              "movies": [
+                {
+                  "title": "Mildred Pierce",
+                  "tmdbId": 3309,
+                  "imdbId": "tt0037913"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ingrid Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "The Bells of St. Mary's",
+                  "tmdbId": 32430,
+                  "imdbId": "tt0037536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greer Garson"
+              ],
+              "movies": [
+                {
+                  "title": "The Valley of Decision",
+                  "tmdbId": 43610,
+                  "imdbId": "tt0038213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jennifer Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Love Letters",
+                  "tmdbId": 109881,
+                  "imdbId": "tt0037885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Tierney"
+              ],
+              "movies": [
+                {
+                  "title": "Leave Her to Heaven",
+                  "tmdbId": 17645,
+                  "imdbId": "tt0037865"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "James Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "A Tree Grows in Brooklyn",
+                  "tmdbId": 30177,
+                  "imdbId": "tt0038190"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Chekhov"
+              ],
+              "movies": [
+                {
+                  "title": "Spellbound",
+                  "tmdbId": 4174,
+                  "imdbId": "tt0038109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Dall"
+              ],
+              "movies": [
+                {
+                  "title": "The Corn Is Green",
+                  "tmdbId": 43492,
+                  "imdbId": "tt0037614"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Mitchum"
+              ],
+              "movies": [
+                {
+                  "title": "Story of G.I. Joe",
+                  "tmdbId": 46614,
+                  "imdbId": "tt0038120"
+                }
+              ]
+            },
+            {
+              "names": [
+                "J. Carrol Naish"
+              ],
+              "movies": [
+                {
+                  "title": "A Medal for Benny",
+                  "tmdbId": 114077,
+                  "imdbId": "tt0037906"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Anne Revere"
+              ],
+              "movies": [
+                {
+                  "title": "National Velvet",
+                  "tmdbId": 17641,
+                  "imdbId": "tt0037120"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eve Arden"
+              ],
+              "movies": [
+                {
+                  "title": "Mildred Pierce",
+                  "tmdbId": 3309,
+                  "imdbId": "tt0037913"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ann Blyth"
+              ],
+              "movies": [
+                {
+                  "title": "Mildred Pierce",
+                  "tmdbId": 3309,
+                  "imdbId": "tt0037913"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Angela Lansbury"
+              ],
+              "movies": [
+                {
+                  "title": "The Picture of Dorian Gray",
+                  "tmdbId": 16559,
+                  "imdbId": "tt0037988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joan Lorring"
+              ],
+              "movies": [
+                {
+                  "title": "The Corn Is Green",
+                  "tmdbId": 43492,
+                  "imdbId": "tt0037614"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Richard Schweizer"
+              ],
+              "movies": [
+                {
+                  "title": "Marie-Louise",
+                  "tmdbId": 205685,
+                  "imdbId": "tt0037899"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Myles Connolly"
+              ],
+              "movies": [
+                {
+                  "title": "Music for Millions",
+                  "tmdbId": 215299,
+                  "imdbId": "tt0037104"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milton Homes"
+              ],
+              "movies": [
+                {
+                  "title": "Salty O'Rourke",
+                  "tmdbId": 126381,
+                  "imdbId": "tt0038047"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Kurnitz"
+              ],
+              "movies": [
+                {
+                  "title": "What Next, Corporal Hargrove?",
+                  "tmdbId": 215302,
+                  "imdbId": "tt0038243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip Yordan"
+              ],
+              "movies": [
+                {
+                  "title": "Dillinger",
+                  "tmdbId": 28115,
+                  "imdbId": "tt0037644"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Charles Brackett",
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Weekend",
+                  "tmdbId": 28580,
+                  "imdbId": "tt0037884"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leopold Atlas",
+                "Guy Endore",
+                "Philip Stevenson"
+              ],
+              "movies": [
+                {
+                  "title": "Story of G.I. Joe",
+                  "tmdbId": 46614,
+                  "imdbId": "tt0038120"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Davis",
+                "Tess Slesinger"
+              ],
+              "movies": [
+                {
+                  "title": "A Tree Grows in Brooklyn",
+                  "tmdbId": 30177,
+                  "imdbId": "tt0038190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ranald MacDougall"
+              ],
+              "movies": [
+                {
+                  "title": "Mildred Pierce",
+                  "tmdbId": 3309,
+                  "imdbId": "tt0037913"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Malts"
+              ],
+              "movies": [
+                {
+                  "title": "Pride of the Marines",
+                  "tmdbId": 52337,
+                  "imdbId": "tt0038000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Charles G. Booth"
+              ],
+              "movies": [
+                {
+                  "title": "The House on 92nd Street",
+                  "tmdbId": 42295,
+                  "imdbId": "tt0037795"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alvah Bessie"
+              ],
+              "movies": [
+                {
+                  "title": "Objective, Burma!",
+                  "tmdbId": 43490,
+                  "imdbId": "tt0037954"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laszlo Gorog",
+                "Thomas Monroe"
+              ],
+              "movies": [
+                {
+                  "title": "The Affairs of Susan",
+                  "tmdbId": 192938,
+                  "imdbId": "tt0037498"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernst Marischka"
+              ],
+              "movies": [
+                {
+                  "title": "A Song to Remember",
+                  "tmdbId": 119764,
+                  "imdbId": "tt0038104"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Steinbeck",
+                "Jack Wagner"
+              ],
+              "movies": [
+                {
+                  "title": "A Medal for Benny",
+                  "tmdbId": 114077,
+                  "imdbId": "tt0037906"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The True Glory"
+              ],
+              "movies": [
+                {
+                  "title": "The True Glory",
+                  "tmdbId": 49011,
+                  "imdbId": "tt0038192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Last Bomb"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Bomb",
+                  "tmdbId": 114462,
+                  "imdbId": "tt0037861"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "Leave Her to Heaven",
+                  "tmdbId": 17645,
+                  "imdbId": "tt0037865"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "The Spanish Main",
+                  "tmdbId": 97735,
+                  "imdbId": "tt0038108"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Gaudio",
+                "Allen M. Davey"
+              ],
+              "movies": [
+                {
+                  "title": "A Song to Remember",
+                  "tmdbId": 119764,
+                  "imdbId": "tt0038104"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Planck",
+                "Charles P. Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "Anchors Aweigh",
+                  "tmdbId": 17889,
+                  "imdbId": "tt0037514"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Smith"
+              ],
+              "movies": [
+                {
+                  "title": "National Velvet",
+                  "tmdbId": 17641,
+                  "imdbId": "tt0037120"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "The Picture of Dorian Gray",
+                  "tmdbId": 16559,
+                  "imdbId": "tt0037988"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "Spellbound",
+                  "tmdbId": 4174,
+                  "imdbId": "tt0038109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Haller"
+              ],
+              "movies": [
+                {
+                  "title": "Mildred Pierce",
+                  "tmdbId": 3309,
+                  "imdbId": "tt0037913"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "The Keys of the Kingdom",
+                  "tmdbId": 18050,
+                  "imdbId": "tt0036983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John F. Seitz"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Weekend",
+                  "tmdbId": 28580,
+                  "imdbId": "tt0037884"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Robert J. Kern"
+              ],
+              "movies": [
+                {
+                  "title": "National Velvet",
+                  "tmdbId": 17641,
+                  "imdbId": "tt0037120"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Amy"
+              ],
+              "movies": [
+                {
+                  "title": "Objective, Burma!",
+                  "tmdbId": 43490,
+                  "imdbId": "tt0037954"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Doane Harrison"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Weekend",
+                  "tmdbId": 28580,
+                  "imdbId": "tt0037884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Marker"
+              ],
+              "movies": [
+                {
+                  "title": "The Bells of St. Mary's",
+                  "tmdbId": 32430,
+                  "imdbId": "tt0037536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "A Song to Remember",
+                  "tmdbId": 119764,
+                  "imdbId": "tt0038104"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Hans Dreier",
+                "Ernst Fegte",
+                "Samuel M. Comer"
+              ],
+              "movies": [
+                {
+                  "title": "Frenchman's Creek",
+                  "tmdbId": 131764,
+                  "imdbId": "tt0036840"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Urie McCleary",
+                "Edwin B. Willis",
+                "Mildred Griffiths"
+              ],
+              "movies": [
+                {
+                  "title": "National Velvet",
+                  "tmdbId": 17641,
+                  "imdbId": "tt0037120"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Goosson",
+                "Rudolph Sternad",
+                "Frank Tuttle"
+              ],
+              "movies": [
+                {
+                  "title": "A Thousand and One Nights",
+                  "tmdbId": 90984,
+                  "imdbId": "tt0038165"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted Smith",
+                "Jack McConaghy"
+              ],
+              "movies": [
+                {
+                  "title": "San Antonio",
+                  "tmdbId": 17818,
+                  "imdbId": "tt0038048"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Maurice Ransford",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "Leave Her to Heaven",
+                  "tmdbId": 17645,
+                  "imdbId": "tt0037865"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Wiard Ihnen",
+                "A. Roland Fields"
+              ],
+              "movies": [
+                {
+                  "title": "Blood on the Sun",
+                  "tmdbId": 75888,
+                  "imdbId": "tt0037547"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Basevi",
+                "William S. Darling",
+                "Thomas Little",
+                "Frank E. Hughes"
+              ],
+              "movies": [
+                {
+                  "title": "The Keys of the Kingdom",
+                  "tmdbId": 18050,
+                  "imdbId": "tt0036983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert S. D'Agostino",
+                "Jack Okey",
+                "Darrell Silvera",
+                "Claude Carpenter"
+              ],
+              "movies": [
+                {
+                  "title": "Experiment Perilous",
+                  "tmdbId": 30574,
+                  "imdbId": "tt0036807"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Roland Anderson",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Love Letters",
+                  "tmdbId": 109881,
+                  "imdbId": "tt0037885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Hans Peters",
+                "Edwin B. Willis",
+                "John Bonar",
+                "Hugh Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "The Picture of Dorian Gray",
+                  "tmdbId": 16559,
+                  "imdbId": "tt0037988"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "John P. Fulton",
+                "Arthur Johns"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder Man",
+                  "tmdbId": 34127,
+                  "imdbId": "tt0038260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lawrence W. Butler",
+                "Ray Bomba"
+              ],
+              "movies": [
+                {
+                  "title": "A Thousand and One Nights",
+                  "tmdbId": 90984,
+                  "imdbId": "tt0038165"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Cosgrove"
+              ],
+              "movies": [
+                {
+                  "title": "Spellbound",
+                  "tmdbId": 4174,
+                  "imdbId": "tt0038109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Donald Jahraus",
+                "R. A. MacDonald",
+                "Michael Steinore"
+              ],
+              "movies": [
+                {
+                  "title": "They Were Expendable",
+                  "tmdbId": 18771,
+                  "imdbId": "tt0038160"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Sersen",
+                "Sol Halperin",
+                "Roger Heman Sr.",
+                "Harry M. Leonard"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Eddie",
+                  "tmdbId": 188116,
+                  "imdbId": "tt0037575"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Stephen Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "The Bells of St. Mary's",
+                  "tmdbId": 32430,
+                  "imdbId": "tt0037536"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel J. Bloomberg"
+              ],
+              "movies": [
+                {
+                  "title": "Flame of Barbary Coast",
+                  "tmdbId": 40716,
+                  "imdbId": "tt0037702"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Lady on a Train",
+                  "tmdbId": 30022,
+                  "imdbId": "tt0037859"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Leave Her to Heaven",
+                  "tmdbId": 17645,
+                  "imdbId": "tt0037865"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Rhapsody in Blue",
+                  "tmdbId": 43491,
+                  "imdbId": "tt0038026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John P. Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "A Song to Remember",
+                  "tmdbId": 119764,
+                  "imdbId": "tt0038104"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Whitney"
+              ],
+              "movies": [
+                {
+                  "title": "The Southerner",
+                  "tmdbId": 45219,
+                  "imdbId": "tt0038107"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "They Were Expendable",
+                  "tmdbId": 18771,
+                  "imdbId": "tt0038160"
+                }
+              ]
+            },
+            {
+              "names": [
+                "C.O. Slyfield"
+              ],
+              "movies": [
+                {
+                  "title": "The Three Caballeros",
+                  "tmdbId": 15947,
+                  "imdbId": "tt0038166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "W.V. Wolfe"
+              ],
+              "movies": [
+                {
+                  "title": "3 Is a Family",
+                  "tmdbId": 217173,
+                  "imdbId": "tt0037371"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "The Unseen",
+                  "tmdbId": 44001,
+                  "imdbId": "tt0038205"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder Man",
+                  "tmdbId": 34127,
+                  "imdbId": "tt0038260"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "Spellbound",
+                  "tmdbId": 4174,
+                  "imdbId": "tt0038109"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniele Amfitheatrof"
+              ],
+              "movies": [
+                {
+                  "title": "Guest Wife",
+                  "tmdbId": 130374,
+                  "imdbId": "tt0037756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Louis Applebaum",
+                "Ann Ronell"
+              ],
+              "movies": [
+                {
+                  "title": "Story of G.I. Joe",
+                  "tmdbId": 46614,
+                  "imdbId": "tt0038120"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dale Butts",
+                "Morton Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Flame of Barbary Coast",
+                  "tmdbId": 40716,
+                  "imdbId": "tt0037702"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Emmett Dolan"
+              ],
+              "movies": [
+                {
+                  "title": "The Bells of St. Mary's",
+                  "tmdbId": 32430,
+                  "imdbId": "tt0037536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lou Forbes"
+              ],
+              "movies": [
+                {
+                  "title": "Brewster's Millions",
+                  "tmdbId": 43489,
+                  "imdbId": "tt0037557"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugo Friedhofer",
+                "Arthur Lange"
+              ],
+              "movies": [
+                {
+                  "title": "The Woman in the Window",
+                  "tmdbId": 17136,
+                  "imdbId": "tt0037469"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karl Hajos"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Walked Alone",
+                  "tmdbId": 217157,
+                  "imdbId": "tt0037893"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner Janssen"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Kidd",
+                  "tmdbId": 15401,
+                  "imdbId": "tt0037576"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner Janssen"
+              ],
+              "movies": [
+                {
+                  "title": "Guest in the House",
+                  "tmdbId": 42288,
+                  "imdbId": "tt0036886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner Janssen"
+              ],
+              "movies": [
+                {
+                  "title": "The Southerner",
+                  "tmdbId": 45219,
+                  "imdbId": "tt0038107"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward J. Kay"
+              ],
+              "movies": [
+                {
+                  "title": "G.I. Honeymoon",
+                  "tmdbId": 217159,
+                  "imdbId": "tt0037725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Keys of the Kingdom",
+                  "tmdbId": 18050,
+                  "imdbId": "tt0036983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Weekend",
+                  "tmdbId": 28580,
+                  "imdbId": "tt0037884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklos Rozsa",
+                "Morris Stoloff"
+              ],
+              "movies": [
+                {
+                  "title": "A Song to Remember",
+                  "tmdbId": 119764,
+                  "imdbId": "tt0038104"
+                }
+              ]
+            },
+            {
+              "names": [
+                "H. J. Salter"
+              ],
+              "movies": [
+                {
+                  "title": "It Rains on Our Love",
+                  "tmdbId": 96067,
+                  "imdbId": "tt0038468"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "The Valley of Decision",
+                  "tmdbId": 43610,
+                  "imdbId": "tt0038213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexandre Tansman"
+              ],
+              "movies": [
+                {
+                  "title": "Paris Underground",
+                  "tmdbId": 217162,
+                  "imdbId": "tt0037972"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "Objective, Burma!",
+                  "tmdbId": 43490,
+                  "imdbId": "tt0037954"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Webb"
+              ],
+              "movies": [
+                {
+                  "title": "The Enchanted Cottage",
+                  "tmdbId": 43494,
+                  "imdbId": "tt0037671"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Love Letters",
+                  "tmdbId": 109881,
+                  "imdbId": "tt0037885"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Georgie Stoll"
+              ],
+              "movies": [
+                {
+                  "title": "Anchors Aweigh",
+                  "tmdbId": 17889,
+                  "imdbId": "tt0037514"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Emmett Dolan"
+              ],
+              "movies": [
+                {
+                  "title": "Incendiary Blonde",
+                  "tmdbId": 116500,
+                  "imdbId": "tt0037816"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lou Forbes",
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder Man",
+                  "tmdbId": 34127,
+                  "imdbId": "tt0038260"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Greene"
+              ],
+              "movies": [
+                {
+                  "title": "Why Girls Leave Home",
+                  "tmdbId": 217163,
+                  "imdbId": "tt0038249"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf",
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Rhapsody in Blue",
+                  "tmdbId": 43491,
+                  "imdbId": "tt0038026"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Henderson",
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "State Fair",
+                  "tmdbId": 27686,
+                  "imdbId": "tt0038116"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward J. Kay"
+              ],
+              "movies": [
+                {
+                  "title": "Sunbonnet Sue",
+                  "tmdbId": 217165,
+                  "imdbId": "tt0038135"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerome Kern",
+                "H. J. Salter"
+              ],
+              "movies": [
+                {
+                  "title": "Can't Help Singing",
+                  "tmdbId": 50155,
+                  "imdbId": "tt0036692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Belle of the Yukon",
+                  "tmdbId": 44323,
+                  "imdbId": "tt0036636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Plumb",
+                "Charles Wolcott",
+                "Paul J. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "The Three Caballeros",
+                  "tmdbId": 15947,
+                  "imdbId": "tt0038166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morton Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Hitchhike to Happiness",
+                  "tmdbId": 217168,
+                  "imdbId": "tt0037782"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marlin Skiles",
+                "Morris Stoloff"
+              ],
+              "movies": [
+                {
+                  "title": "Tonight and Every Night",
+                  "tmdbId": 43497,
+                  "imdbId": "tt0038178"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "It Might as Well Be Spring"
+              ],
+              "movies": [
+                {
+                  "title": "State Fair",
+                  "tmdbId": 27686,
+                  "imdbId": "tt0038116"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Accentuate the Positive"
+              ],
+              "movies": [
+                {
+                  "title": "Here Come the Waves",
+                  "tmdbId": 43500,
+                  "imdbId": "tt0036912"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anywhere"
+              ],
+              "movies": [
+                {
+                  "title": "Tonight and Every Night",
+                  "tmdbId": 43497,
+                  "imdbId": "tt0038178"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aren't You Glad You're You?"
+              ],
+              "movies": [
+                {
+                  "title": "The Bells of St. Mary's",
+                  "tmdbId": 32430,
+                  "imdbId": "tt0037536"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Cat",
+                "the Canary"
+              ],
+              "movies": [
+                {
+                  "title": "Why Girls Leave Home",
+                  "tmdbId": 217163,
+                  "imdbId": "tt0038249"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Endlessly"
+              ],
+              "movies": [
+                {
+                  "title": "Earl Carroll Vanities",
+                  "tmdbId": 217169,
+                  "imdbId": "tt0037664"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Fall in Love Too Easily"
+              ],
+              "movies": [
+                {
+                  "title": "Anchors Aweigh",
+                  "tmdbId": 17889,
+                  "imdbId": "tt0037514"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'll Buy That Dream"
+              ],
+              "movies": [
+                {
+                  "title": "Sing Your Way Home",
+                  "tmdbId": 217172,
+                  "imdbId": "tt0038091"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Linda"
+              ],
+              "movies": [
+                {
+                  "title": "Story of G.I. Joe",
+                  "tmdbId": 46614,
+                  "imdbId": "tt0038120"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Love Letters"
+              ],
+              "movies": [
+                {
+                  "title": "Love Letters",
+                  "tmdbId": 109881,
+                  "imdbId": "tt0037885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "More",
+                "More"
+              ],
+              "movies": [
+                {
+                  "title": "Can't Help Singing",
+                  "tmdbId": 50155,
+                  "imdbId": "tt0036692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sleighride in July"
+              ],
+              "movies": [
+                {
+                  "title": "Belle of the Yukon",
+                  "tmdbId": 44323,
+                  "imdbId": "tt0036636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "So in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder Man",
+                  "tmdbId": 34127,
+                  "imdbId": "tt0038260"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Some Sunday Morning"
+              ],
+              "movies": [
+                {
+                  "title": "San Antonio",
+                  "tmdbId": 17818,
+                  "imdbId": "tt0038048"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Quiet Please!"
+              ],
+              "movies": [
+                {
+                  "title": "Quiet Please!",
+                  "tmdbId": 40164,
+                  "imdbId": "tt0038011"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Donald's Crime"
+              ],
+              "movies": [
+                {
+                  "title": "Donald's Crime",
+                  "tmdbId": 55354,
+                  "imdbId": "tt0037657"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jasper and the Beanstalk"
+              ],
+              "movies": [
+                {
+                  "title": "Jasper and the Beanstalk",
+                  "tmdbId": 236986,
+                  "imdbId": "tt0037828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life with Feathers"
+              ],
+              "movies": [
+                {
+                  "title": "Life with Feathers",
+                  "tmdbId": 202613,
+                  "imdbId": "tt0037879"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gypsy Life"
+              ],
+              "movies": [
+                {
+                  "title": "Gypsy Life",
+                  "tmdbId": 236983,
+                  "imdbId": "tt0037912"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Poet & Peasant"
+              ],
+              "movies": [
+                {
+                  "title": "The Poet & Peasant",
+                  "tmdbId": 240397,
+                  "imdbId": "tt0037994"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rippling Romance"
+              ],
+              "movies": [
+                {
+                  "title": "Rippling Romance",
+                  "tmdbId": 240398,
+                  "imdbId": "tt0038028"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Stairway to Light"
+              ],
+              "movies": [
+                {
+                  "title": "Stairway to Light",
+                  "tmdbId": 240390,
+                  "imdbId": "tt0038114"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Along the Rainbow Trail"
+              ],
+              "movies": [
+                {
+                  "title": "Along the Rainbow Trail",
+                  "tmdbId": 240391,
+                  "imdbId": "tt0037510"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Screen Snapshots (Series 25, No. 1): 25th Anniversary"
+              ],
+              "movies": [
+                {
+                  "title": "Screen Snapshots (Series 25, No. 1): 25th Anniversary",
+                  "tmdbId": 240392,
+                  "imdbId": "tt0038059"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Story of a Dog"
+              ],
+              "movies": [
+                {
+                  "title": "Story of a Dog",
+                  "tmdbId": 240394,
+                  "imdbId": "tt0038121"
+                }
+              ]
+            },
+            {
+              "names": [
+                "White Rhapsody"
+              ],
+              "movies": [
+                {
+                  "title": "White Rhapsody",
+                  "tmdbId": 240395,
+                  "imdbId": "tt0038247"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Your National Gallery"
+              ],
+              "movies": [
+                {
+                  "title": "Your National Gallery",
+                  "tmdbId": 240396,
+                  "imdbId": "tt0038265"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Star in the Night"
+              ],
+              "movies": [
+                {
+                  "title": "Star in the Night",
+                  "tmdbId": 150604,
+                  "imdbId": "tt0038115"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Gun in His Hand"
+              ],
+              "movies": [
+                {
+                  "title": "A Gun in His Hand",
+                  "tmdbId": 130357,
+                  "imdbId": "tt0037758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Jury Goes Round 'n' Round"
+              ],
+              "movies": [
+                {
+                  "title": "The Jury Goes Round 'n' Round",
+                  "tmdbId": 240387,
+                  "imdbId": "tt0037841"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Little Witch"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Witch",
+                  "tmdbId": 240388,
+                  "imdbId": "tt0037881"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Hitler Lives"
+              ],
+              "movies": [
+                {
+                  "title": "Hitler Lives",
+                  "tmdbId": 240400,
+                  "imdbId": "tt0037783"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Library of Congress"
+              ],
+              "movies": [
+                {
+                  "title": "Library of Congress",
+                  "tmdbId": 240402,
+                  "imdbId": "tt0037875"
+                }
+              ]
+            },
+            {
+              "names": [
+                "To the Shores of Iwo Jima"
+              ],
+              "movies": [
+                {
+                  "title": "To the Shores of Iwo Jima",
+                  "tmdbId": 56138,
+                  "imdbId": "tt0038175"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1514 @@
+{
+  "ceremony": {
+    "ordinal": 61,
+    "ceremonyYear": 1989,
+    "ceremonyDate": "1989-03-29",
+    "filmYearLabel": "1988",
+    "slug": "1989",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Rain Man"
+              ],
+              "movies": [
+                {
+                  "title": "Rain Man",
+                  "tmdbId": 380,
+                  "imdbId": "tt0095953"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Accidental Tourist"
+              ],
+              "movies": [
+                {
+                  "title": "The Accidental Tourist",
+                  "tmdbId": 31052,
+                  "imdbId": "tt0094606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dangerous Liaisons"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous Liaisons",
+                  "tmdbId": 859,
+                  "imdbId": "tt0094947"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mississippi Burning"
+              ],
+              "movies": [
+                {
+                  "title": "Mississippi Burning",
+                  "tmdbId": 1632,
+                  "imdbId": "tt0095647"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Working Girl"
+              ],
+              "movies": [
+                {
+                  "title": "Working Girl",
+                  "tmdbId": 3525,
+                  "imdbId": "tt0096463"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Barry Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Rain Man",
+                  "tmdbId": 380,
+                  "imdbId": "tt0095953"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Crichton"
+              ],
+              "movies": [
+                {
+                  "title": "A Fish Called Wanda",
+                  "tmdbId": 623,
+                  "imdbId": "tt0095159"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Nichols"
+              ],
+              "movies": [
+                {
+                  "title": "Working Girl",
+                  "tmdbId": 3525,
+                  "imdbId": "tt0096463"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Parker"
+              ],
+              "movies": [
+                {
+                  "title": "Mississippi Burning",
+                  "tmdbId": 1632,
+                  "imdbId": "tt0095647"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Temptation of Christ",
+                  "tmdbId": 11051,
+                  "imdbId": "tt0095497"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Dustin Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "Rain Man",
+                  "tmdbId": 380,
+                  "imdbId": "tt0095953"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gene Hackman"
+              ],
+              "movies": [
+                {
+                  "title": "Mississippi Burning",
+                  "tmdbId": 1632,
+                  "imdbId": "tt0095647"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Hanks"
+              ],
+              "movies": [
+                {
+                  "title": "Big",
+                  "tmdbId": 2280,
+                  "imdbId": "tt0094737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward James Olmos"
+              ],
+              "movies": [
+                {
+                  "title": "Stand and Deliver",
+                  "tmdbId": 29154,
+                  "imdbId": "tt0094027"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max von Sydow"
+              ],
+              "movies": [
+                {
+                  "title": "Pelle the Conqueror",
+                  "tmdbId": 11174,
+                  "imdbId": "tt0093713"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jodie Foster"
+              ],
+              "movies": [
+                {
+                  "title": "The Accused",
+                  "tmdbId": 10868,
+                  "imdbId": "tt0094608"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Glenn Close"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous Liaisons",
+                  "tmdbId": 859,
+                  "imdbId": "tt0094947"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melanie Griffith"
+              ],
+              "movies": [
+                {
+                  "title": "Working Girl",
+                  "tmdbId": 3525,
+                  "imdbId": "tt0096463"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Evil Angels",
+                  "tmdbId": 35119,
+                  "imdbId": "tt0094924"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sigourney Weaver"
+              ],
+              "movies": [
+                {
+                  "title": "Gorillas in the Mist",
+                  "tmdbId": 10130,
+                  "imdbId": "tt0095243"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Kevin Kline"
+              ],
+              "movies": [
+                {
+                  "title": "A Fish Called Wanda",
+                  "tmdbId": 623,
+                  "imdbId": "tt0095159"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alec Guinness"
+              ],
+              "movies": [
+                {
+                  "title": "Little Dorrit",
+                  "tmdbId": 47282,
+                  "imdbId": "tt0095530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Landau"
+              ],
+              "movies": [
+                {
+                  "title": "Tucker: The Man and His Dream",
+                  "tmdbId": 28176,
+                  "imdbId": "tt0096316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "River Phoenix"
+              ],
+              "movies": [
+                {
+                  "title": "Running on Empty",
+                  "tmdbId": 18197,
+                  "imdbId": "tt0096018"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dean Stockwell"
+              ],
+              "movies": [
+                {
+                  "title": "Married to the Mob",
+                  "tmdbId": 2321,
+                  "imdbId": "tt0095593"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Geena Davis"
+              ],
+              "movies": [
+                {
+                  "title": "The Accidental Tourist",
+                  "tmdbId": 31052,
+                  "imdbId": "tt0094606"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joan Cusack"
+              ],
+              "movies": [
+                {
+                  "title": "Working Girl",
+                  "tmdbId": 3525,
+                  "imdbId": "tt0096463"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frances McDormand"
+              ],
+              "movies": [
+                {
+                  "title": "Mississippi Burning",
+                  "tmdbId": 1632,
+                  "imdbId": "tt0095647"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michelle Pfeiffer"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous Liaisons",
+                  "tmdbId": 859,
+                  "imdbId": "tt0094947"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sigourney Weaver"
+              ],
+              "movies": [
+                {
+                  "title": "Working Girl",
+                  "tmdbId": 3525,
+                  "imdbId": "tt0096463"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ronald Bass",
+                "Barry Morrow"
+              ],
+              "movies": [
+                {
+                  "title": "Rain Man",
+                  "tmdbId": 380,
+                  "imdbId": "tt0095953"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gary Ross",
+                "Anne Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "Big",
+                  "tmdbId": 2280,
+                  "imdbId": "tt0094737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ron Shelton"
+              ],
+              "movies": [
+                {
+                  "title": "Bull Durham",
+                  "tmdbId": 287,
+                  "imdbId": "tt0094812"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Cleese",
+                "Charles Crichton"
+              ],
+              "movies": [
+                {
+                  "title": "A Fish Called Wanda",
+                  "tmdbId": 623,
+                  "imdbId": "tt0095159"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Naomi Foner"
+              ],
+              "movies": [
+                {
+                  "title": "Running on Empty",
+                  "tmdbId": 18197,
+                  "imdbId": "tt0096018"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Christopher Hampton"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous Liaisons",
+                  "tmdbId": 859,
+                  "imdbId": "tt0094947"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Galati"
+              ],
+              "movies": [
+                {
+                  "title": "The Accidental Tourist",
+                  "tmdbId": 31052,
+                  "imdbId": "tt0094606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anna Hamilton Phelan",
+                "Tab Murphy"
+              ],
+              "movies": [
+                {
+                  "title": "Gorillas in the Mist",
+                  "tmdbId": 10130,
+                  "imdbId": "tt0095243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christine Edzard"
+              ],
+              "movies": [
+                {
+                  "title": "Little Dorrit",
+                  "tmdbId": 47282,
+                  "imdbId": "tt0095530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean-Claude Carriere",
+                "Philip Kaufman"
+              ],
+              "movies": [
+                {
+                  "title": "The Unbearable Lightness of Being",
+                  "tmdbId": 10644,
+                  "imdbId": "tt0096332"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Pelle the Conqueror"
+              ],
+              "movies": [
+                {
+                  "title": "Pelle the Conqueror",
+                  "tmdbId": 11174,
+                  "imdbId": "tt0093713"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hanussen"
+              ],
+              "movies": [
+                {
+                  "title": "Hanussen",
+                  "tmdbId": 29932,
+                  "imdbId": "tt0095276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Music Teacher"
+              ],
+              "movies": [
+                {
+                  "title": "The Music Teacher",
+                  "tmdbId": 58558,
+                  "imdbId": "tt0095606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Salaam Bombay!"
+              ],
+              "movies": [
+                {
+                  "title": "Salaam Bombay!",
+                  "tmdbId": 45129,
+                  "imdbId": "tt0096028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Women on the Verge of a Nervous Breakdown"
+              ],
+              "movies": [
+                {
+                  "title": "Women on the Verge of a Nervous Breakdown",
+                  "tmdbId": 4203,
+                  "imdbId": "tt0095675"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Hôtel Terminus: The Life and Times of Klaus Barbie"
+              ],
+              "movies": [
+                {
+                  "title": "Hôtel Terminus: The Life and Times of Klaus Barbie",
+                  "tmdbId": 41954,
+                  "imdbId": "tt0095341"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Cry of Reason: Beyers Naude – An Afrikaner Speaks Out"
+              ],
+              "movies": [
+                {
+                  "title": "The Cry of Reason: Beyers Naude – An Afrikaner Speaks Out",
+                  "tmdbId": 149388,
+                  "imdbId": "tt0094925"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Let's Get Lost"
+              ],
+              "movies": [
+                {
+                  "title": "Let's Get Lost",
+                  "tmdbId": 37640,
+                  "imdbId": "tt0095515"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Promises to Keep"
+              ],
+              "movies": [
+                {
+                  "title": "Promises to Keep",
+                  "tmdbId": 149392,
+                  "imdbId": "tt0095918"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Who Killed Vincent Chin?"
+              ],
+              "movies": [
+                {
+                  "title": "Who Killed Vincent Chin?",
+                  "tmdbId": 123398,
+                  "imdbId": "tt0096440"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Peter Biziou"
+              ],
+              "movies": [
+                {
+                  "title": "Mississippi Burning",
+                  "tmdbId": 1632,
+                  "imdbId": "tt0095647"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Seale"
+              ],
+              "movies": [
+                {
+                  "title": "Rain Man",
+                  "tmdbId": 380,
+                  "imdbId": "tt0095953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Conrad Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Tequila Sunrise",
+                  "tmdbId": 10396,
+                  "imdbId": "tt0096244"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sven Nykvist"
+              ],
+              "movies": [
+                {
+                  "title": "The Unbearable Lightness of Being",
+                  "tmdbId": 10644,
+                  "imdbId": "tt0096332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dean Cundey"
+              ],
+              "movies": [
+                {
+                  "title": "Who Framed Roger Rabbit",
+                  "tmdbId": 856,
+                  "imdbId": "tt0096438"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Arthur Schmidt"
+              ],
+              "movies": [
+                {
+                  "title": "Who Framed Roger Rabbit",
+                  "tmdbId": 856,
+                  "imdbId": "tt0096438"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Urioste",
+                "John Link"
+              ],
+              "movies": [
+                {
+                  "title": "Die Hard",
+                  "tmdbId": 562,
+                  "imdbId": "tt0095016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerry Hambling"
+              ],
+              "movies": [
+                {
+                  "title": "Mississippi Burning",
+                  "tmdbId": 1632,
+                  "imdbId": "tt0095647"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stu Linder"
+              ],
+              "movies": [
+                {
+                  "title": "Rain Man",
+                  "tmdbId": 380,
+                  "imdbId": "tt0095953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Baird"
+              ],
+              "movies": [
+                {
+                  "title": "Gorillas in the Mist",
+                  "tmdbId": 10130,
+                  "imdbId": "tt0095243"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Stuart Craig",
+                "Gerard James"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous Liaisons",
+                  "tmdbId": 859,
+                  "imdbId": "tt0094947"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Albert Brenner",
+                "Garrett Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Beaches",
+                  "tmdbId": 15592,
+                  "imdbId": "tt0094715"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ida Random",
+                "Linda DeScenna"
+              ],
+              "movies": [
+                {
+                  "title": "Rain Man",
+                  "tmdbId": 380,
+                  "imdbId": "tt0095953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dean Tavoularis",
+                "Armin Ganz"
+              ],
+              "movies": [
+                {
+                  "title": "Tucker: The Man and His Dream",
+                  "tmdbId": 28176,
+                  "imdbId": "tt0096316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elliot Scott",
+                "Peter Howitt"
+              ],
+              "movies": [
+                {
+                  "title": "Who Framed Roger Rabbit",
+                  "tmdbId": 856,
+                  "imdbId": "tt0096438"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "James Acheson"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous Liaisons",
+                  "tmdbId": 859,
+                  "imdbId": "tt0094947"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Deborah Nadoolman Landis"
+              ],
+              "movies": [
+                {
+                  "title": "Coming to America",
+                  "tmdbId": 9602,
+                  "imdbId": "tt0094898"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Robinson"
+              ],
+              "movies": [
+                {
+                  "title": "A Handful of Dust",
+                  "tmdbId": 46021,
+                  "imdbId": "tt0095274"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patricia Norris"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset",
+                  "tmdbId": 38560,
+                  "imdbId": "tt0096193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milena Canonero"
+              ],
+              "movies": [
+                {
+                  "title": "Tucker: The Man and His Dream",
+                  "tmdbId": 28176,
+                  "imdbId": "tt0096316"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Ve Neill",
+                "Steve La Porte",
+                "Robert Short"
+              ],
+              "movies": [
+                {
+                  "title": "Beetlejuice",
+                  "tmdbId": 4011,
+                  "imdbId": "tt0094721"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rick Baker"
+              ],
+              "movies": [
+                {
+                  "title": "Coming to America",
+                  "tmdbId": 9602,
+                  "imdbId": "tt0094898"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Burman",
+                "Bari Dreiband-Burman"
+              ],
+              "movies": [
+                {
+                  "title": "Scrooged",
+                  "tmdbId": 9647,
+                  "imdbId": "tt0096061"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Ken Ralston",
+                "Richard Williams",
+                "Edward Jones",
+                "George Gibbs"
+              ],
+              "movies": [
+                {
+                  "title": "Who Framed Roger Rabbit",
+                  "tmdbId": 856,
+                  "imdbId": "tt0096438"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Edlund",
+                "Al DiSarro",
+                "Brent Boates",
+                "Thaine Morris"
+              ],
+              "movies": [
+                {
+                  "title": "Die Hard",
+                  "tmdbId": 562,
+                  "imdbId": "tt0095016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Muren",
+                "Michael McAlister",
+                "Phil Tippett",
+                "Chris Evans"
+              ],
+              "movies": [
+                {
+                  "title": "Willow",
+                  "tmdbId": 847,
+                  "imdbId": "tt0096446"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Les Fresholtz",
+                "Dick Alexander",
+                "Vern Poore",
+                "Willie Burton"
+              ],
+              "movies": [
+                {
+                  "title": "Bird",
+                  "tmdbId": 24679,
+                  "imdbId": "tt0094747"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don J. Bassman",
+                "Kevin F. Cleary",
+                "Richard Overton",
+                "Al Overton Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Die Hard",
+                  "tmdbId": 562,
+                  "imdbId": "tt0095016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Brian Saunders",
+                "Peter Handford"
+              ],
+              "movies": [
+                {
+                  "title": "Gorillas in the Mist",
+                  "tmdbId": 10130,
+                  "imdbId": "tt0095243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert J. Litt",
+                "Elliot Tyson",
+                "Rick Kline",
+                "Danny Michael"
+              ],
+              "movies": [
+                {
+                  "title": "Mississippi Burning",
+                  "tmdbId": 1632,
+                  "imdbId": "tt0095647"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Knudson",
+                "John Boyd",
+                "Don Digirolamo",
+                "Tony Dawe"
+              ],
+              "movies": [
+                {
+                  "title": "Who Framed Roger Rabbit",
+                  "tmdbId": 856,
+                  "imdbId": "tt0096438"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Charles Campbell",
+                "Louis Edemann"
+              ],
+              "movies": [
+                {
+                  "title": "Who Framed Roger Rabbit",
+                  "tmdbId": 856,
+                  "imdbId": "tt0096438"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stephen Hunter Flick",
+                "Richard Shorr"
+              ],
+              "movies": [
+                {
+                  "title": "Die Hard",
+                  "tmdbId": 562,
+                  "imdbId": "tt0095016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Burtt",
+                "Richard Hymns"
+              ],
+              "movies": [
+                {
+                  "title": "Willow",
+                  "tmdbId": 847,
+                  "imdbId": "tt0096446"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Dave Grusin"
+              ],
+              "movies": [
+                {
+                  "title": "The Milagro Beanfield War",
+                  "tmdbId": 13482,
+                  "imdbId": "tt0095638"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Accidental Tourist",
+                  "tmdbId": 31052,
+                  "imdbId": "tt0094606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Fenton"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous Liaisons",
+                  "tmdbId": 859,
+                  "imdbId": "tt0094947"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maurice Jarre"
+              ],
+              "movies": [
+                {
+                  "title": "Gorillas in the Mist",
+                  "tmdbId": 10130,
+                  "imdbId": "tt0095243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "Rain Man",
+                  "tmdbId": 380,
+                  "imdbId": "tt0095953"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Let the River Run"
+              ],
+              "movies": [
+                {
+                  "title": "Working Girl",
+                  "tmdbId": 3525,
+                  "imdbId": "tt0096463"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Calling You"
+              ],
+              "movies": [
+                {
+                  "title": "Bagdad Cafe",
+                  "tmdbId": 3543,
+                  "imdbId": "tt0095801"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Two Hearts"
+              ],
+              "movies": [
+                {
+                  "title": "Buster",
+                  "tmdbId": 24782,
+                  "imdbId": "tt0094819"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Tin Toy"
+              ],
+              "movies": [
+                {
+                  "title": "Tin Toy",
+                  "tmdbId": 13927,
+                  "imdbId": "tt0096273"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Cat Came Back"
+              ],
+              "movies": [
+                {
+                  "title": "The Cat Came Back",
+                  "tmdbId": 81424,
+                  "imdbId": "tt0094847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Technological Threat"
+              ],
+              "movies": [
+                {
+                  "title": "Technological Threat",
+                  "tmdbId": 210964,
+                  "imdbId": "tt0096238"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Appointments of Dennis Jennings"
+              ],
+              "movies": [
+                {
+                  "title": "The Appointments of Dennis Jennings",
+                  "tmdbId": 47057,
+                  "imdbId": "tt0094670"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cadillac Dreams"
+              ],
+              "movies": [
+                {
+                  "title": "Cadillac Dreams",
+                  "tmdbId": 244699,
+                  "imdbId": "tt0094825"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gullah Tales"
+              ],
+              "movies": [
+                {
+                  "title": "Gullah Tales",
+                  "tmdbId": 244700,
+                  "imdbId": "tt0095261"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "You Don't Have to Die"
+              ],
+              "movies": [
+                {
+                  "title": "You Don't Have to Die",
+                  "tmdbId": 244701,
+                  "imdbId": "tt0096484"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Children's Storefront"
+              ],
+              "movies": [
+                {
+                  "title": "The Children's Storefront",
+                  "tmdbId": 244703,
+                  "imdbId": "tt0094864"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Family Gathering"
+              ],
+              "movies": [
+                {
+                  "title": "A Family Gathering",
+                  "tmdbId": 244702,
+                  "imdbId": "tt3294916"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gang Cops"
+              ],
+              "movies": [
+                {
+                  "title": "Gang Cops",
+                  "tmdbId": 244705,
+                  "imdbId": "tt0095197"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Portrait of Imogen"
+              ],
+              "movies": [
+                {
+                  "title": "Portrait of Imogen",
+                  "tmdbId": 244706,
+                  "imdbId": "tt0095892"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

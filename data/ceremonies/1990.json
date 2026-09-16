@@ -1,0 +1,1513 @@
+{
+  "ceremony": {
+    "ordinal": 62,
+    "ceremonyYear": 1990,
+    "ceremonyDate": "1990-03-26",
+    "filmYearLabel": "1989",
+    "slug": "1990",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Driving Miss Daisy"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Born on the Fourth of July"
+              ],
+              "movies": [
+                {
+                  "title": "Born on the Fourth of July",
+                  "tmdbId": 2604,
+                  "imdbId": "tt0096969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dead Poets Society"
+              ],
+              "movies": [
+                {
+                  "title": "Dead Poets Society",
+                  "tmdbId": 207,
+                  "imdbId": "tt0097165"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Field of Dreams"
+              ],
+              "movies": [
+                {
+                  "title": "Field of Dreams",
+                  "tmdbId": 2323,
+                  "imdbId": "tt0097351"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Left Foot: The Story of Christy Brown"
+              ],
+              "movies": [
+                {
+                  "title": "My Left Foot: The Story of Christy Brown",
+                  "tmdbId": 10161,
+                  "imdbId": "tt0097937"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Oliver Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Born on the Fourth of July",
+                  "tmdbId": 2604,
+                  "imdbId": "tt0096969"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Crimes and Misdemeanors",
+                  "tmdbId": 11562,
+                  "imdbId": "tt0097123"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kenneth Branagh"
+              ],
+              "movies": [
+                {
+                  "title": "Henry V",
+                  "tmdbId": 10705,
+                  "imdbId": "tt0097499"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jim Sheridan"
+              ],
+              "movies": [
+                {
+                  "title": "My Left Foot: The Story of Christy Brown",
+                  "tmdbId": 10161,
+                  "imdbId": "tt0097937"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Weir"
+              ],
+              "movies": [
+                {
+                  "title": "Dead Poets Society",
+                  "tmdbId": 207,
+                  "imdbId": "tt0097165"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Daniel Day-Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "My Left Foot: The Story of Christy Brown",
+                  "tmdbId": 10161,
+                  "imdbId": "tt0097937"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kenneth Branagh"
+              ],
+              "movies": [
+                {
+                  "title": "Henry V",
+                  "tmdbId": 10705,
+                  "imdbId": "tt0097499"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Cruise"
+              ],
+              "movies": [
+                {
+                  "title": "Born on the Fourth of July",
+                  "tmdbId": 2604,
+                  "imdbId": "tt0096969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morgan Freeman"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robin Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Dead Poets Society",
+                  "tmdbId": 207,
+                  "imdbId": "tt0097165"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jessica Tandy"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Isabelle Adjani"
+              ],
+              "movies": [
+                {
+                  "title": "Camille Claudel",
+                  "tmdbId": 11709,
+                  "imdbId": "tt0094828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pauline Collins"
+              ],
+              "movies": [
+                {
+                  "title": "Shirley Valentine",
+                  "tmdbId": 18683,
+                  "imdbId": "tt0098319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jessica Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Music Box",
+                  "tmdbId": 2263,
+                  "imdbId": "tt0100211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michelle Pfeiffer"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabulous Baker Boys",
+                  "tmdbId": 10875,
+                  "imdbId": "tt0097322"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "Glory",
+                  "tmdbId": 9665,
+                  "imdbId": "tt0097441"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Danny Aiello"
+              ],
+              "movies": [
+                {
+                  "title": "Do the Right Thing",
+                  "tmdbId": 925,
+                  "imdbId": "tt0097216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan Aykroyd"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marlon Brando"
+              ],
+              "movies": [
+                {
+                  "title": "A Dry White Season",
+                  "tmdbId": 32075,
+                  "imdbId": "tt0097243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Landau"
+              ],
+              "movies": [
+                {
+                  "title": "Crimes and Misdemeanors",
+                  "tmdbId": 11562,
+                  "imdbId": "tt0097123"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Brenda Fricker"
+              ],
+              "movies": [
+                {
+                  "title": "My Left Foot: The Story of Christy Brown",
+                  "tmdbId": 10161,
+                  "imdbId": "tt0097937"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anjelica Huston"
+              ],
+              "movies": [
+                {
+                  "title": "Enemies, a Love Story",
+                  "tmdbId": 116014,
+                  "imdbId": "tt0097276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lena Olin"
+              ],
+              "movies": [
+                {
+                  "title": "Enemies, a Love Story",
+                  "tmdbId": 116014,
+                  "imdbId": "tt0097276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julia Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Steel Magnolias",
+                  "tmdbId": 10860,
+                  "imdbId": "tt0098384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dianne Wiest"
+              ],
+              "movies": [
+                {
+                  "title": "Parenthood",
+                  "tmdbId": 1552,
+                  "imdbId": "tt0098067"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Tom Schulman"
+              ],
+              "movies": [
+                {
+                  "title": "Dead Poets Society",
+                  "tmdbId": 207,
+                  "imdbId": "tt0097165"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Crimes and Misdemeanors",
+                  "tmdbId": 11562,
+                  "imdbId": "tt0097123"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spike Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Do the Right Thing",
+                  "tmdbId": 925,
+                  "imdbId": "tt0097216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Soderbergh"
+              ],
+              "movies": [
+                {
+                  "title": "sex, lies, and videotape",
+                  "tmdbId": 1412,
+                  "imdbId": "tt0098724"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nora Ephron"
+              ],
+              "movies": [
+                {
+                  "title": "When Harry Met Sally...",
+                  "tmdbId": 639,
+                  "imdbId": "tt0098635"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alfred Uhry"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Oliver Stone",
+                "Ron Kovic"
+              ],
+              "movies": [
+                {
+                  "title": "Born on the Fourth of July",
+                  "tmdbId": 2604,
+                  "imdbId": "tt0096969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger L. Simon",
+                "Paul Mazursky"
+              ],
+              "movies": [
+                {
+                  "title": "Enemies, a Love Story",
+                  "tmdbId": 116014,
+                  "imdbId": "tt0097276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Phil Alden Robinson"
+              ],
+              "movies": [
+                {
+                  "title": "Field of Dreams",
+                  "tmdbId": 2323,
+                  "imdbId": "tt0097351"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jim Sheridan",
+                "Shane Connaughton"
+              ],
+              "movies": [
+                {
+                  "title": "My Left Foot: The Story of Christy Brown",
+                  "tmdbId": 10161,
+                  "imdbId": "tt0097937"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Cinema Paradiso"
+              ],
+              "movies": [
+                {
+                  "title": "Cinema Paradiso",
+                  "tmdbId": 11216,
+                  "imdbId": "tt0095765"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Camille Claudel"
+              ],
+              "movies": [
+                {
+                  "title": "Camille Claudel",
+                  "tmdbId": 11709,
+                  "imdbId": "tt0094828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jesus of Montreal"
+              ],
+              "movies": [
+                {
+                  "title": "Jesus of Montreal",
+                  "tmdbId": 4486,
+                  "imdbId": "tt0097635"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Memories of a Marriage"
+              ],
+              "movies": [
+                {
+                  "title": "Memories of a Marriage",
+                  "tmdbId": 41929,
+                  "imdbId": "tt0097155"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lo que le pasó a Santiago"
+              ],
+              "movies": [
+                {
+                  "title": "Lo que le pasó a Santiago",
+                  "tmdbId": 202792,
+                  "imdbId": "tt0097766"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Common Threads: Stories from the Quilt"
+              ],
+              "movies": [
+                {
+                  "title": "Common Threads: Stories from the Quilt",
+                  "tmdbId": 114524,
+                  "imdbId": "tt0097099"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adam Clayton Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Adam Clayton Powell",
+                  "tmdbId": 136652,
+                  "imdbId": "tt0096761"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Crack USA: County Under Siege"
+              ],
+              "movies": [
+                {
+                  "title": "Crack USA: County Under Siege",
+                  "tmdbId": 149393,
+                  "imdbId": "tt0097120"
+                }
+              ]
+            },
+            {
+              "names": [
+                "For All Mankind"
+              ],
+              "movies": [
+                {
+                  "title": "For All Mankind",
+                  "tmdbId": 20423,
+                  "imdbId": "tt0097372"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Super Chief: The Life and Legacy of Earl Warren"
+              ],
+              "movies": [
+                {
+                  "title": "Super Chief: The Life and Legacy of Earl Warren",
+                  "tmdbId": 136651,
+                  "imdbId": "tt0098413"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Freddie Francis"
+              ],
+              "movies": [
+                {
+                  "title": "Glory",
+                  "tmdbId": 9665,
+                  "imdbId": "tt0097441"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mikael Salomon"
+              ],
+              "movies": [
+                {
+                  "title": "The Abyss",
+                  "tmdbId": 2756,
+                  "imdbId": "tt0096754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Haskell Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "Blaze",
+                  "tmdbId": 22711,
+                  "imdbId": "tt0096943"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Born on the Fourth of July",
+                  "tmdbId": 2604,
+                  "imdbId": "tt0096969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Ballhaus"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabulous Baker Boys",
+                  "tmdbId": 10875,
+                  "imdbId": "tt0097322"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "David Brenner",
+                "Joe Hutshing"
+              ],
+              "movies": [
+                {
+                  "title": "Born on the Fourth of July",
+                  "tmdbId": 2604,
+                  "imdbId": "tt0096969"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Noelle Boisson"
+              ],
+              "movies": [
+                {
+                  "title": "The Bear",
+                  "tmdbId": 2383,
+                  "imdbId": "tt0095800"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Warner"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Steinkamp"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabulous Baker Boys",
+                  "tmdbId": 10875,
+                  "imdbId": "tt0097322"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Rosenblum"
+              ],
+              "movies": [
+                {
+                  "title": "Glory",
+                  "tmdbId": 9665,
+                  "imdbId": "tt0097441"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Anton Furst",
+                "Peter Young"
+              ],
+              "movies": [
+                {
+                  "title": "Batman",
+                  "tmdbId": 268,
+                  "imdbId": "tt0096895"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leslie Dilley",
+                "Anne Julian"
+              ],
+              "movies": [
+                {
+                  "title": "The Abyss",
+                  "tmdbId": 2756,
+                  "imdbId": "tt0096754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dante Ferretti",
+                "Francesca Lo Schiavo"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Baron Munchausen",
+                  "tmdbId": 14506,
+                  "imdbId": "tt0096764"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bruno Rubeo",
+                "Crispian Sallis"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Garwood",
+                "Garrett Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Glory",
+                  "tmdbId": 9665,
+                  "imdbId": "tt0097441"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Phyllis Dalton"
+              ],
+              "movies": [
+                {
+                  "title": "Henry V",
+                  "tmdbId": 10705,
+                  "imdbId": "tt0097499"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gabriella Pescucci"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Baron Munchausen",
+                  "tmdbId": 14506,
+                  "imdbId": "tt0096764"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elizabeth McBride"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Tompkins"
+              ],
+              "movies": [
+                {
+                  "title": "Harlem Nights",
+                  "tmdbId": 9085,
+                  "imdbId": "tt0097481"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theodor Pistek"
+              ],
+              "movies": [
+                {
+                  "title": "Valmont",
+                  "tmdbId": 37606,
+                  "imdbId": "tt0098575"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Manlio Rocchetti",
+                "Lynn Barber",
+                "Kevin Haney"
+              ],
+              "movies": [
+                {
+                  "title": "Driving Miss Daisy",
+                  "tmdbId": 403,
+                  "imdbId": "tt0097239"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dick Smith",
+                "Ken Diaz",
+                "Greg Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "Dad",
+                  "tmdbId": 21291,
+                  "imdbId": "tt0097142"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maggie Weston",
+                "Fabrizio Sforza"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Baron Munchausen",
+                  "tmdbId": 14506,
+                  "imdbId": "tt0096764"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "John Bruno",
+                "Dennis Muren",
+                "Hoyt Yeatman",
+                "Dennis Skotak"
+              ],
+              "movies": [
+                {
+                  "title": "The Abyss",
+                  "tmdbId": 2756,
+                  "imdbId": "tt0096754"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Conway",
+                "Kent Houston"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Baron Munchausen",
+                  "tmdbId": 14506,
+                  "imdbId": "tt0096764"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ken Ralston",
+                "Michael Lantieri",
+                "John Bell",
+                "Steve Gawley"
+              ],
+              "movies": [
+                {
+                  "title": "Back to the Future Part II",
+                  "tmdbId": 165,
+                  "imdbId": "tt0096874"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Gregg Rudloff",
+                "Elliot Tyson",
+                "Russell Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Glory",
+                  "tmdbId": 9665,
+                  "imdbId": "tt0097441"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don J. Bassman",
+                "Kevin F. Cleary",
+                "Richard Overton",
+                "Lee Orloff"
+              ],
+              "movies": [
+                {
+                  "title": "The Abyss",
+                  "tmdbId": 2756,
+                  "imdbId": "tt0096754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Keith A. Wester"
+              ],
+              "movies": [
+                {
+                  "title": "Black Rain",
+                  "tmdbId": 4105,
+                  "imdbId": "tt0096933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Minkler",
+                "Gregory H. Watkins",
+                "Wylie Stateman",
+                "Tod A. Maitland"
+              ],
+              "movies": [
+                {
+                  "title": "Born on the Fourth of July",
+                  "tmdbId": 2604,
+                  "imdbId": "tt0096969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Burtt",
+                "Gary Summers",
+                "Shawn Murphy",
+                "Tony Dawe"
+              ],
+              "movies": [
+                {
+                  "title": "Indiana Jones and the Last Crusade",
+                  "tmdbId": 89,
+                  "imdbId": "tt0097576"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Ben Burtt",
+                "Richard Hymns"
+              ],
+              "movies": [
+                {
+                  "title": "Indiana Jones and the Last Crusade",
+                  "tmdbId": 89,
+                  "imdbId": "tt0097576"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Milton Burrow",
+                "William Manger"
+              ],
+              "movies": [
+                {
+                  "title": "Black Rain",
+                  "tmdbId": 4105,
+                  "imdbId": "tt0096933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Henderson",
+                "Alan Robert Murray"
+              ],
+              "movies": [
+                {
+                  "title": "Lethal Weapon 2",
+                  "tmdbId": 942,
+                  "imdbId": "tt0097733"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Alan Menken"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Mermaid",
+                  "tmdbId": 10144,
+                  "imdbId": "tt0097757"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dave Grusin"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabulous Baker Boys",
+                  "tmdbId": 10875,
+                  "imdbId": "tt0097322"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Horner"
+              ],
+              "movies": [
+                {
+                  "title": "Field of Dreams",
+                  "tmdbId": 2323,
+                  "imdbId": "tt0097351"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Indiana Jones and the Last Crusade",
+                  "tmdbId": 89,
+                  "imdbId": "tt0097576"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Born on the Fourth of July",
+                  "tmdbId": 2604,
+                  "imdbId": "tt0096969"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Under the Sea"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Mermaid",
+                  "tmdbId": 10144,
+                  "imdbId": "tt0097757"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "After All"
+              ],
+              "movies": [
+                {
+                  "title": "Chances Are",
+                  "tmdbId": 3064,
+                  "imdbId": "tt0097044"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Love to See You Smile"
+              ],
+              "movies": [
+                {
+                  "title": "Parenthood",
+                  "tmdbId": 1552,
+                  "imdbId": "tt0098067"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Girl Who Used to Be Me"
+              ],
+              "movies": [
+                {
+                  "title": "Shirley Valentine",
+                  "tmdbId": 18683,
+                  "imdbId": "tt0098319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kiss the Girl"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Mermaid",
+                  "tmdbId": 10144,
+                  "imdbId": "tt0097757"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Balance"
+              ],
+              "movies": [
+                {
+                  "title": "Balance",
+                  "tmdbId": 44338,
+                  "imdbId": "tt0096880"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Cowboy and the Frenchman"
+              ],
+              "movies": [
+                {
+                  "title": "The Cowboy and the Frenchman",
+                  "tmdbId": 94295,
+                  "imdbId": "tt0190327"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hill Farm"
+              ],
+              "movies": [
+                {
+                  "title": "The Hill Farm",
+                  "tmdbId": 209528,
+                  "imdbId": "tt0097509"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Work Experience"
+              ],
+              "movies": [
+                {
+                  "title": "Work Experience",
+                  "tmdbId": 244708,
+                  "imdbId": "tt0098677"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Amazon Diary"
+              ],
+              "movies": [
+                {
+                  "title": "Amazon Diary",
+                  "tmdbId": 244709,
+                  "imdbId": "tt0096798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Childeater"
+              ],
+              "movies": [
+                {
+                  "title": "The Childeater",
+                  "tmdbId": 244710,
+                  "imdbId": "tt0097057"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Johnstown Flood"
+              ],
+              "movies": [
+                {
+                  "title": "The Johnstown Flood",
+                  "tmdbId": 244712,
+                  "imdbId": "tt0097628"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fine Food, Fine Pastries, Open 6 to 9"
+              ],
+              "movies": [
+                {
+                  "title": "Fine Food, Fine Pastries, Open 6 to 9",
+                  "tmdbId": 244714,
+                  "imdbId": "tt0097356"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yad Vashem: Preserving the Past to Ensure the Future"
+              ],
+              "movies": [
+                {
+                  "title": "Yad Vashem: Preserving the Past to Ensure the Future",
+                  "tmdbId": 244716,
+                  "imdbId": "tt0098685"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

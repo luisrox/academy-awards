@@ -1,0 +1,2175 @@
+{
+  "ceremony": {
+    "ordinal": 13,
+    "ceremonyYear": 1941,
+    "ceremonyDate": "1941-02-27",
+    "filmYearLabel": "1940",
+    "slug": "1941",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Rebecca"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All This, and Heaven Too"
+              ],
+              "movies": [
+                {
+                  "title": "All This, and Heaven Too",
+                  "tmdbId": 43807,
+                  "imdbId": "tt0032194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Foreign Correspondent"
+              ],
+              "movies": [
+                {
+                  "title": "Foreign Correspondent",
+                  "tmdbId": 25670,
+                  "imdbId": "tt0032484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Grapes of Wrath"
+              ],
+              "movies": [
+                {
+                  "title": "The Grapes of Wrath",
+                  "tmdbId": 596,
+                  "imdbId": "tt0032551"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Great Dictator"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Dictator",
+                  "tmdbId": 914,
+                  "imdbId": "tt0032553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kitty Foyle"
+              ],
+              "movies": [
+                {
+                  "title": "Kitty Foyle",
+                  "tmdbId": 77744,
+                  "imdbId": "tt0032671"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Letter"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter",
+                  "tmdbId": 17801,
+                  "imdbId": "tt0032701"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Long Voyage Home"
+              ],
+              "movies": [
+                {
+                  "title": "The Long Voyage Home",
+                  "tmdbId": 52859,
+                  "imdbId": "tt0032728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Our Town"
+              ],
+              "movies": [
+                {
+                  "title": "Our Town",
+                  "tmdbId": 23283,
+                  "imdbId": "tt0032881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Philadelphia Story"
+              ],
+              "movies": [
+                {
+                  "title": "The Philadelphia Story",
+                  "tmdbId": 981,
+                  "imdbId": "tt0032904"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "John Ford"
+              ],
+              "movies": [
+                {
+                  "title": "The Grapes of Wrath",
+                  "tmdbId": 596,
+                  "imdbId": "tt0032551"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Cukor"
+              ],
+              "movies": [
+                {
+                  "title": "The Philadelphia Story",
+                  "tmdbId": 981,
+                  "imdbId": "tt0032904"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Hitchcock"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Wood"
+              ],
+              "movies": [
+                {
+                  "title": "Kitty Foyle",
+                  "tmdbId": 77744,
+                  "imdbId": "tt0032671"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter",
+                  "tmdbId": 17801,
+                  "imdbId": "tt0032701"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "James Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "The Philadelphia Story",
+                  "tmdbId": 981,
+                  "imdbId": "tt0032904"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charlie Chaplin"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Dictator",
+                  "tmdbId": 914,
+                  "imdbId": "tt0032553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "The Grapes of Wrath",
+                  "tmdbId": 596,
+                  "imdbId": "tt0032551"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raymond Massey"
+              ],
+              "movies": [
+                {
+                  "title": "Abe Lincoln in Illinois",
+                  "tmdbId": 43806,
+                  "imdbId": "tt0032181"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Ginger Rogers"
+              ],
+              "movies": [
+                {
+                  "title": "Kitty Foyle",
+                  "tmdbId": 77744,
+                  "imdbId": "tt0032671"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter",
+                  "tmdbId": 17801,
+                  "imdbId": "tt0032701"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joan Fontaine"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "The Philadelphia Story",
+                  "tmdbId": 981,
+                  "imdbId": "tt0032904"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martha Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Our Town",
+                  "tmdbId": 23283,
+                  "imdbId": "tt0032881"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Walter Brennan"
+              ],
+              "movies": [
+                {
+                  "title": "The Westerner",
+                  "tmdbId": 14710,
+                  "imdbId": "tt0033253"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Albert Bassermann"
+              ],
+              "movies": [
+                {
+                  "title": "Foreign Correspondent",
+                  "tmdbId": 25670,
+                  "imdbId": "tt0032484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Gargan"
+              ],
+              "movies": [
+                {
+                  "title": "They Knew What They Wanted",
+                  "tmdbId": 95046,
+                  "imdbId": "tt0033150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Oakie"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Dictator",
+                  "tmdbId": 914,
+                  "imdbId": "tt0032553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Stephenson"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter",
+                  "tmdbId": 17801,
+                  "imdbId": "tt0032701"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Jane Darwell"
+              ],
+              "movies": [
+                {
+                  "title": "The Grapes of Wrath",
+                  "tmdbId": 596,
+                  "imdbId": "tt0032551"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judith Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth Hussey"
+              ],
+              "movies": [
+                {
+                  "title": "The Philadelphia Story",
+                  "tmdbId": 981,
+                  "imdbId": "tt0032904"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara O'Neil"
+              ],
+              "movies": [
+                {
+                  "title": "All This, and Heaven Too",
+                  "tmdbId": 43807,
+                  "imdbId": "tt0032194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marjorie Rambeau"
+              ],
+              "movies": [
+                {
+                  "title": "Primrose Path",
+                  "tmdbId": 80054,
+                  "imdbId": "tt0032946"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Preston Sturges"
+              ],
+              "movies": [
+                {
+                  "title": "The Great McGinty",
+                  "tmdbId": 36495,
+                  "imdbId": "tt0032554"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Bennett",
+                "Joan Harrison"
+              ],
+              "movies": [
+                {
+                  "title": "Foreign Correspondent",
+                  "tmdbId": 25670,
+                  "imdbId": "tt0032484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Burnside",
+                "Heinz Herald",
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Ehrlich's Magic Bullet",
+                  "tmdbId": 88192,
+                  "imdbId": "tt0032413"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charlie Chaplin"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Dictator",
+                  "tmdbId": 914,
+                  "imdbId": "tt0032553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Hecht"
+              ],
+              "movies": [
+                {
+                  "title": "Angels Over Broadway",
+                  "tmdbId": 42756,
+                  "imdbId": "tt0032209"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Donald Ogden Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "The Philadelphia Story",
+                  "tmdbId": 981,
+                  "imdbId": "tt0032904"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nunnally Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "The Grapes of Wrath",
+                  "tmdbId": 596,
+                  "imdbId": "tt0032551"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dudley Nichols"
+              ],
+              "movies": [
+                {
+                  "title": "The Long Voyage Home",
+                  "tmdbId": 52859,
+                  "imdbId": "tt0032728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert E. Sherwood",
+                "Joan Harrison"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dalton Trumbo"
+              ],
+              "movies": [
+                {
+                  "title": "Kitty Foyle",
+                  "tmdbId": 77744,
+                  "imdbId": "tt0032671"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Benjamin Glazer",
+                "John Toldy"
+              ],
+              "movies": [
+                {
+                  "title": "Arise, My Love",
+                  "tmdbId": 131770,
+                  "imdbId": "tt0032220"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hugo Butler",
+                "Dore Schary"
+              ],
+              "movies": [
+                {
+                  "title": "Edison, the Man",
+                  "tmdbId": 43811,
+                  "imdbId": "tt0032432"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart N. Lake"
+              ],
+              "movies": [
+                {
+                  "title": "The Westerner",
+                  "tmdbId": 14710,
+                  "imdbId": "tt0033253"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leo McCarey",
+                "Samuel Spewack",
+                "Bella Spewack"
+              ],
+              "movies": [
+                {
+                  "title": "My Favorite Wife",
+                  "tmdbId": 41463,
+                  "imdbId": "tt0029284"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Reisch"
+              ],
+              "movies": [
+                {
+                  "title": "Comrade X",
+                  "tmdbId": 32194,
+                  "imdbId": "tt0032349"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Georges Perinal"
+              ],
+              "movies": [
+                {
+                  "title": "The Thief of Bagdad",
+                  "tmdbId": 12232,
+                  "imdbId": "tt0033152"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Oliver T. Marsh",
+                "Allen Davey"
+              ],
+              "movies": [
+                {
+                  "title": "Bitter Sweet",
+                  "tmdbId": 121695,
+                  "imdbId": "tt0032256"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur C. Miller",
+                "Ray Rennahan"
+              ],
+              "movies": [
+                {
+                  "title": "The Blue Bird",
+                  "tmdbId": 60400,
+                  "imdbId": "tt0032264"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Milner",
+                "W. Howard Greene"
+              ],
+              "movies": [
+                {
+                  "title": "North West Mounted Police",
+                  "tmdbId": 83360,
+                  "imdbId": "tt0032850"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leon Shamroy",
+                "Ray Rennahan"
+              ],
+              "movies": [
+                {
+                  "title": "Down Argentine Way",
+                  "tmdbId": 43810,
+                  "imdbId": "tt0032410"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Wagner",
+                "William V. Skall"
+              ],
+              "movies": [
+                {
+                  "title": "Northwest Passage",
+                  "tmdbId": 43805,
+                  "imdbId": "tt0032851"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "George Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gaetano Gaudio"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter",
+                  "tmdbId": 17801,
+                  "imdbId": "tt0032701"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Haller"
+              ],
+              "movies": [
+                {
+                  "title": "All This, and Heaven Too",
+                  "tmdbId": 43807,
+                  "imdbId": "tt0032194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Wong Howe"
+              ],
+              "movies": [
+                {
+                  "title": "Abe Lincoln in Illinois",
+                  "tmdbId": 43806,
+                  "imdbId": "tt0032181"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles B. Lang Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Arise, My Love",
+                  "tmdbId": 131770,
+                  "imdbId": "tt0032220"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rudolph Mate"
+              ],
+              "movies": [
+                {
+                  "title": "Foreign Correspondent",
+                  "tmdbId": 25670,
+                  "imdbId": "tt0032484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold Rosson"
+              ],
+              "movies": [
+                {
+                  "title": "Boom Town",
+                  "tmdbId": 55604,
+                  "imdbId": "tt0032273"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Ruttenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Waterloo Bridge",
+                  "tmdbId": 43824,
+                  "imdbId": "tt0033238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregg Toland"
+              ],
+              "movies": [
+                {
+                  "title": "The Long Voyage Home",
+                  "tmdbId": 52859,
+                  "imdbId": "tt0032728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Valentine"
+              ],
+              "movies": [
+                {
+                  "title": "Spring Parade",
+                  "tmdbId": 218312,
+                  "imdbId": "tt0033095"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Anne Bauchens"
+              ],
+              "movies": [
+                {
+                  "title": "North West Mounted Police",
+                  "tmdbId": 83360,
+                  "imdbId": "tt0032850"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hal C. Kern"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warren Low"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter",
+                  "tmdbId": 17801,
+                  "imdbId": "tt0032701"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert L. Simpson"
+              ],
+              "movies": [
+                {
+                  "title": "The Grapes of Wrath",
+                  "tmdbId": 596,
+                  "imdbId": "tt0032551"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sherman Todd"
+              ],
+              "movies": [
+                {
+                  "title": "The Long Voyage Home",
+                  "tmdbId": 52859,
+                  "imdbId": "tt0032728"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Vincent Korda"
+              ],
+              "movies": [
+                {
+                  "title": "The Thief of Bagdad",
+                  "tmdbId": 12232,
+                  "imdbId": "tt0033152"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Day",
+                "Joseph C. Wright"
+              ],
+              "movies": [
+                {
+                  "title": "Down Argentine Way",
+                  "tmdbId": 43810,
+                  "imdbId": "tt0032410"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Roland Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "North West Mounted Police",
+                  "tmdbId": 83360,
+                  "imdbId": "tt0032850"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "John S. Detlie"
+              ],
+              "movies": [
+                {
+                  "title": "Bitter Sweet",
+                  "tmdbId": 121695,
+                  "imdbId": "tt0032256"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Richard Day",
+                "Paul Groesse"
+              ],
+              "movies": [
+                {
+                  "title": "Pride and Prejudice",
+                  "tmdbId": 43818,
+                  "imdbId": "tt0032943"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lionel Banks",
+                "Robert Peterson"
+              ],
+              "movies": [
+                {
+                  "title": "Arizona",
+                  "tmdbId": 35561,
+                  "imdbId": "tt0032221"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Basevi"
+              ],
+              "movies": [
+                {
+                  "title": "The Westerner",
+                  "tmdbId": 14710,
+                  "imdbId": "tt0033253"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Day",
+                "Joseph C. Wright"
+              ],
+              "movies": [
+                {
+                  "title": "Lillian Russell",
+                  "tmdbId": 204604,
+                  "imdbId": "tt0032710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Robert Usher"
+              ],
+              "movies": [
+                {
+                  "title": "Arise, My Love",
+                  "tmdbId": 131770,
+                  "imdbId": "tt0032220"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John DuCasse Schulze"
+              ],
+              "movies": [
+                {
+                  "title": "My Son, My Son!",
+                  "tmdbId": 218317,
+                  "imdbId": "tt0032831"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Golitzen"
+              ],
+              "movies": [
+                {
+                  "title": "Foreign Correspondent",
+                  "tmdbId": 25670,
+                  "imdbId": "tt0032484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anton Grot"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Hawk",
+                  "tmdbId": 26201,
+                  "imdbId": "tt0033028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Victor MacKay"
+              ],
+              "movies": [
+                {
+                  "title": "Dark Command",
+                  "tmdbId": 40639,
+                  "imdbId": "tt0032383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Otterson"
+              ],
+              "movies": [
+                {
+                  "title": "The Boys from Syracuse",
+                  "tmdbId": 188123,
+                  "imdbId": "tt0032276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Van Nest Polglase",
+                "Mark-Lee Kirk"
+              ],
+              "movies": [
+                {
+                  "title": "My Favorite Wife",
+                  "tmdbId": 41463,
+                  "imdbId": "tt0029284"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lewis J. Rachmil"
+              ],
+              "movies": [
+                {
+                  "title": "Our Town",
+                  "tmdbId": 23283,
+                  "imdbId": "tt0032881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "N/A"
+              ],
+              "movies": [
+                {
+                  "title": "Sis Hopkins",
+                  "tmdbId": 181742,
+                  "imdbId": "tt0034193"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Lawrence W. Butler",
+                "Jack Whitney"
+              ],
+              "movies": [
+                {
+                  "title": "The Thief of Bagdad",
+                  "tmdbId": 12232,
+                  "imdbId": "tt0033152"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jack Cosgrove",
+                "Arthur Johns"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Eagler",
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Foreign Correspondent",
+                  "tmdbId": 25670,
+                  "imdbId": "tt0032484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Farciot Edouart",
+                "Gordon Jennings"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Cyclops",
+                  "tmdbId": 3593,
+                  "imdbId": "tt0032412"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren Ryder",
+                "Farciot Edouart",
+                "Gordon Jennings"
+              ],
+              "movies": [
+                {
+                  "title": "Typhoon",
+                  "tmdbId": 188127,
+                  "imdbId": "tt0033196"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John P. Fulton",
+                "Bernard B. Brown",
+                "Joe Lapis"
+              ],
+              "movies": [
+                {
+                  "title": "The Boys from Syracuse",
+                  "tmdbId": 188123,
+                  "imdbId": "tt0032276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard B. Brown",
+                "John P. Fulton",
+                "William Hedgcock"
+              ],
+              "movies": [
+                {
+                  "title": "The Invisible Man Returns",
+                  "tmdbId": 28421,
+                  "imdbId": "tt0032635"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Boom Town",
+                  "tmdbId": 55604,
+                  "imdbId": "tt0032273"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Byron Haskin",
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Hawk",
+                  "tmdbId": 26201,
+                  "imdbId": "tt0033028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "R. T. Layton",
+                "Ray Binger",
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The Long Voyage Home",
+                  "tmdbId": 52859,
+                  "imdbId": "tt0032728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard J. Lydecker",
+                "William Bradford",
+                "Ellis J. Thackery",
+                "Herbert Norsch"
+              ],
+              "movies": [
+                {
+                  "title": "Women in War",
+                  "tmdbId": 188132,
+                  "imdbId": "tt0033274"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Seawright",
+                "Elmer A. Raguse"
+              ],
+              "movies": [
+                {
+                  "title": "One Million B.C.",
+                  "tmdbId": 3592,
+                  "imdbId": "tt0032871"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Sersen",
+                "Edmund H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "The Blue Bird",
+                  "tmdbId": 60400,
+                  "imdbId": "tt0032264"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vernon L. Walker",
+                "John O. Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "Swiss Family Robinson",
+                  "tmdbId": 188125,
+                  "imdbId": "tt0033124"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Strike Up the Band",
+                  "tmdbId": 43819,
+                  "imdbId": "tt0033110"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles L. Lootens"
+              ],
+              "movies": [
+                {
+                  "title": "Behind the News",
+                  "tmdbId": 218310,
+                  "imdbId": "tt0032246"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Raguse"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Caution",
+                  "tmdbId": 151970,
+                  "imdbId": "tt0032304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "The Grapes of Wrath",
+                  "tmdbId": 596,
+                  "imdbId": "tt0032551"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Whitney"
+              ],
+              "movies": [
+                {
+                  "title": "The Howards of Virginia",
+                  "tmdbId": 52360,
+                  "imdbId": "tt0032612"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "Kitty Foyle",
+                  "tmdbId": 77744,
+                  "imdbId": "tt0032671"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "North West Mounted Police",
+                  "tmdbId": 83360,
+                  "imdbId": "tt0032850"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Our Town",
+                  "tmdbId": 23283,
+                  "imdbId": "tt0032881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Hawk",
+                  "tmdbId": 26201,
+                  "imdbId": "tt0033028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Spring Parade",
+                  "tmdbId": 218312,
+                  "imdbId": "tt0033095"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "Too Many Husbands",
+                  "tmdbId": 120109,
+                  "imdbId": "tt0033174"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Leigh Harline",
+                "Paul J. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Pinocchio",
+                  "tmdbId": 10895,
+                  "imdbId": "tt0032910"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Aaron Copland"
+              ],
+              "movies": [
+                {
+                  "title": "Our Town",
+                  "tmdbId": 23283,
+                  "imdbId": "tt0032881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Louis Gruenberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Fight for Life",
+                  "tmdbId": 218315,
+                  "imdbId": "tt0032465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Hageman"
+              ],
+              "movies": [
+                {
+                  "title": "The Howards of Virginia",
+                  "tmdbId": 52360,
+                  "imdbId": "tt0032612"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Hageman"
+              ],
+              "movies": [
+                {
+                  "title": "The Long Voyage Home",
+                  "tmdbId": 52859,
+                  "imdbId": "tt0032728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner Heymann"
+              ],
+              "movies": [
+                {
+                  "title": "One Million B.C.",
+                  "tmdbId": 3592,
+                  "imdbId": "tt0032871"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Mark of Zorro",
+                  "tmdbId": 32093,
+                  "imdbId": "tt0032762"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "The Thief of Bagdad",
+                  "tmdbId": 12232,
+                  "imdbId": "tt0033152"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Skinner"
+              ],
+              "movies": [
+                {
+                  "title": "The House of the Seven Gables",
+                  "tmdbId": 28373,
+                  "imdbId": "tt0032610"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter",
+                  "tmdbId": 17801,
+                  "imdbId": "tt0032701"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "Waterloo Bridge",
+                  "tmdbId": 43824,
+                  "imdbId": "tt0033238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "Rebecca",
+                  "tmdbId": 223,
+                  "imdbId": "tt0032976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Webb"
+              ],
+              "movies": [
+                {
+                  "title": "My Favorite Wife",
+                  "tmdbId": 41463,
+                  "imdbId": "tt0029284"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meredith Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Dictator",
+                  "tmdbId": 914,
+                  "imdbId": "tt0032553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Arizona",
+                  "tmdbId": 35561,
+                  "imdbId": "tt0032221"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Dark Command",
+                  "tmdbId": 40639,
+                  "imdbId": "tt0032383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "North West Mounted Police",
+                  "tmdbId": 83360,
+                  "imdbId": "tt0032850"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Tin Pan Alley",
+                  "tmdbId": 108222,
+                  "imdbId": "tt0033167"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anthony Collins"
+              ],
+              "movies": [
+                {
+                  "title": "Irene",
+                  "tmdbId": 109481,
+                  "imdbId": "tt0032638"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aaron Copland"
+              ],
+              "movies": [
+                {
+                  "title": "Our Town",
+                  "tmdbId": 23283,
+                  "imdbId": "tt0032881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cy Feuer"
+              ],
+              "movies": [
+                {
+                  "title": "Hit Parade of 1941",
+                  "tmdbId": 218313,
+                  "imdbId": "tt0032600"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Erich Wolfgang Korngold"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Hawk",
+                  "tmdbId": 26201,
+                  "imdbId": "tt0033028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Previn"
+              ],
+              "movies": [
+                {
+                  "title": "Spring Parade",
+                  "tmdbId": 218312,
+                  "imdbId": "tt0033095"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Artie Shaw"
+              ],
+              "movies": [
+                {
+                  "title": "Second Chorus",
+                  "tmdbId": 23627,
+                  "imdbId": "tt0033029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Georgie Stoll",
+                "Roger Edens"
+              ],
+              "movies": [
+                {
+                  "title": "Strike Up the Band",
+                  "tmdbId": 43819,
+                  "imdbId": "tt0033110"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Arise, My Love",
+                  "tmdbId": 131770,
+                  "imdbId": "tt0032220"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "When You Wish upon a Star"
+              ],
+              "movies": [
+                {
+                  "title": "Pinocchio",
+                  "tmdbId": 10895,
+                  "imdbId": "tt0032910"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Down Argentine Way"
+              ],
+              "movies": [
+                {
+                  "title": "Down Argentine Way",
+                  "tmdbId": 43810,
+                  "imdbId": "tt0032410"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'd Know You Anywhere"
+              ],
+              "movies": [
+                {
+                  "title": "You'll Find Out",
+                  "tmdbId": 80720,
+                  "imdbId": "tt0033283"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It's a Blue World"
+              ],
+              "movies": [
+                {
+                  "title": "Music in My Heart",
+                  "tmdbId": 130365,
+                  "imdbId": "tt0032823"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Love of My Life"
+              ],
+              "movies": [
+                {
+                  "title": "Second Chorus",
+                  "tmdbId": 23627,
+                  "imdbId": "tt0033029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Only Forever"
+              ],
+              "movies": [
+                {
+                  "title": "Rhythm on the River",
+                  "tmdbId": 128669,
+                  "imdbId": "tt0032986"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Our Love Affair"
+              ],
+              "movies": [
+                {
+                  "title": "Strike Up the Band",
+                  "tmdbId": 43819,
+                  "imdbId": "tt0033110"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Waltzing in the Clouds"
+              ],
+              "movies": [
+                {
+                  "title": "Spring Parade",
+                  "tmdbId": 218312,
+                  "imdbId": "tt0033095"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Who Am I?"
+              ],
+              "movies": [
+                {
+                  "title": "Hit Parade of 1941",
+                  "tmdbId": 218313,
+                  "imdbId": "tt0032600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Milky Way"
+              ],
+              "movies": [
+                {
+                  "title": "The Milky Way",
+                  "tmdbId": 163882,
+                  "imdbId": "tt0032794"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Puss Gets the Boot"
+              ],
+              "movies": [
+                {
+                  "title": "Puss Gets the Boot",
+                  "tmdbId": 40372,
+                  "imdbId": "tt0032953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Wild Hare"
+              ],
+              "movies": [
+                {
+                  "title": "A Wild Hare",
+                  "tmdbId": 144904,
+                  "imdbId": "tt0033260"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Quicker'n a Wink"
+              ],
+              "movies": [
+                {
+                  "title": "Quicker'n a Wink",
+                  "tmdbId": 236799,
+                  "imdbId": "tt0032960"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "London Can Take It!"
+              ],
+              "movies": [
+                {
+                  "title": "London Can Take It!",
+                  "tmdbId": 145011,
+                  "imdbId": "tt0032723"
+                }
+              ]
+            },
+            {
+              "names": [
+                "More About Nostradamus"
+              ],
+              "movies": [
+                {
+                  "title": "More About Nostradamus",
+                  "tmdbId": 226405,
+                  "imdbId": "tt0032810"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Siege"
+              ],
+              "movies": [
+                {
+                  "title": "Siege",
+                  "tmdbId": 147364,
+                  "imdbId": "tt0033050"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Teddy the Rough Rider"
+              ],
+              "movies": [
+                {
+                  "title": "Teddy the Rough Rider",
+                  "tmdbId": 236795,
+                  "imdbId": "tt0033138"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eyes of the Navy"
+              ],
+              "movies": [
+                {
+                  "title": "Eyes of the Navy",
+                  "tmdbId": 130363,
+                  "imdbId": "tt0032449"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Service with the Colors"
+              ],
+              "movies": [
+                {
+                  "title": "Service with the Colors",
+                  "tmdbId": 236796,
+                  "imdbId": "tt0033037"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1732 @@
+{
+  "ceremony": {
+    "ordinal": 94,
+    "ceremonyYear": 2022,
+    "ceremonyDate": "2022-03-27",
+    "filmYearLabel": "2021",
+    "slug": "2022",
+    "decade": "2020s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "CODA"
+              ],
+              "movies": [
+                {
+                  "title": "CODA",
+                  "tmdbId": 776503,
+                  "imdbId": "tt10366460"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Belfast"
+              ],
+              "movies": [
+                {
+                  "title": "Belfast",
+                  "tmdbId": 777270,
+                  "imdbId": "tt12789558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Don't Look Up"
+              ],
+              "movies": [
+                {
+                  "title": "Don't Look Up",
+                  "tmdbId": 646380,
+                  "imdbId": "tt11286314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Drive My Car"
+              ],
+              "movies": [
+                {
+                  "title": "Drive My Car",
+                  "tmdbId": 758866,
+                  "imdbId": "tt14039582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dune"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "King Richard"
+              ],
+              "movies": [
+                {
+                  "title": "King Richard",
+                  "tmdbId": 614917,
+                  "imdbId": "tt9620288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Licorice Pizza"
+              ],
+              "movies": [
+                {
+                  "title": "Licorice Pizza",
+                  "tmdbId": 718032,
+                  "imdbId": "tt11271038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nightmare Alley"
+              ],
+              "movies": [
+                {
+                  "title": "Nightmare Alley",
+                  "tmdbId": 597208,
+                  "imdbId": "tt7740496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Power of the Dog"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "West Side Story"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 511809,
+                  "imdbId": "tt3581652"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Jane Campion"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kenneth Branagh"
+              ],
+              "movies": [
+                {
+                  "title": "Belfast",
+                  "tmdbId": 777270,
+                  "imdbId": "tt12789558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ryusuke Hamaguchi"
+              ],
+              "movies": [
+                {
+                  "title": "Drive My Car",
+                  "tmdbId": 758866,
+                  "imdbId": "tt14039582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Thomas Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Licorice Pizza",
+                  "tmdbId": 718032,
+                  "imdbId": "tt11271038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 511809,
+                  "imdbId": "tt3581652"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Will Smith"
+              ],
+              "movies": [
+                {
+                  "title": "King Richard",
+                  "tmdbId": 614917,
+                  "imdbId": "tt9620288"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Javier Bardem"
+              ],
+              "movies": [
+                {
+                  "title": "Being the Ricardos",
+                  "tmdbId": 517088,
+                  "imdbId": "tt4995540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Benedict Cumberbatch"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andrew Garfield"
+              ],
+              "movies": [
+                {
+                  "title": "tick, tick... BOOM!",
+                  "tmdbId": 537116,
+                  "imdbId": "tt8721424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "The Tragedy of Macbeth",
+                  "tmdbId": 591538,
+                  "imdbId": "tt10095582"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jessica Chastain"
+              ],
+              "movies": [
+                {
+                  "title": "The Eyes of Tammy Faye",
+                  "tmdbId": 601470,
+                  "imdbId": "tt9115530"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Olivia Colman"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Daughter",
+                  "tmdbId": 554230,
+                  "imdbId": "tt9100054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Penelope Cruz"
+              ],
+              "movies": [
+                {
+                  "title": "Parallel Mothers",
+                  "tmdbId": 766798,
+                  "imdbId": "tt12618926"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicole Kidman"
+              ],
+              "movies": [
+                {
+                  "title": "Being the Ricardos",
+                  "tmdbId": 517088,
+                  "imdbId": "tt4995540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kristen Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "Spencer",
+                  "tmdbId": 716612,
+                  "imdbId": "tt12536294"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Troy Kotsur"
+              ],
+              "movies": [
+                {
+                  "title": "CODA",
+                  "tmdbId": 776503,
+                  "imdbId": "tt10366460"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ciaran Hinds"
+              ],
+              "movies": [
+                {
+                  "title": "Belfast",
+                  "tmdbId": 777270,
+                  "imdbId": "tt12789558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jesse Plemons"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "J.K. Simmons"
+              ],
+              "movies": [
+                {
+                  "title": "Being the Ricardos",
+                  "tmdbId": 517088,
+                  "imdbId": "tt4995540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kodi Smit-McPhee"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Ariana DeBose"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 511809,
+                  "imdbId": "tt3581652"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jessie Buckley"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Daughter",
+                  "tmdbId": 554230,
+                  "imdbId": "tt9100054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judi Dench"
+              ],
+              "movies": [
+                {
+                  "title": "Belfast",
+                  "tmdbId": 777270,
+                  "imdbId": "tt12789558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kirsten Dunst"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aunjanue Ellis"
+              ],
+              "movies": [
+                {
+                  "title": "King Richard",
+                  "tmdbId": 614917,
+                  "imdbId": "tt9620288"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Kenneth Branagh"
+              ],
+              "movies": [
+                {
+                  "title": "Belfast",
+                  "tmdbId": 777270,
+                  "imdbId": "tt12789558"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adam McKay",
+                "David Sirota"
+              ],
+              "movies": [
+                {
+                  "title": "Don't Look Up",
+                  "tmdbId": 646380,
+                  "imdbId": "tt11286314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Zach Baylin"
+              ],
+              "movies": [
+                {
+                  "title": "King Richard",
+                  "tmdbId": 614917,
+                  "imdbId": "tt9620288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Thomas Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Licorice Pizza",
+                  "tmdbId": 718032,
+                  "imdbId": "tt11271038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eskil Vogt",
+                "Joachim Trier"
+              ],
+              "movies": [
+                {
+                  "title": "The Worst Person in the World",
+                  "tmdbId": 660120,
+                  "imdbId": "tt10370710"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Sian Heder"
+              ],
+              "movies": [
+                {
+                  "title": "CODA",
+                  "tmdbId": 776503,
+                  "imdbId": "tt10366460"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ryusuke Hamaguchi",
+                "Takamasa Oe"
+              ],
+              "movies": [
+                {
+                  "title": "Drive My Car",
+                  "tmdbId": 758866,
+                  "imdbId": "tt14039582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Spaihts",
+                "Denis Villeneuve",
+                "Eric Roth"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maggie Gyllenhaal"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Daughter",
+                  "tmdbId": 554230,
+                  "imdbId": "tt9100054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Campion"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Encanto"
+              ],
+              "movies": [
+                {
+                  "title": "Encanto",
+                  "tmdbId": 568124,
+                  "imdbId": "tt2953050"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Flee"
+              ],
+              "movies": [
+                {
+                  "title": "Flee",
+                  "tmdbId": 680813,
+                  "imdbId": "tt8430054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luca"
+              ],
+              "movies": [
+                {
+                  "title": "Luca",
+                  "tmdbId": 508943,
+                  "imdbId": "tt12801262"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Mitchells vs. the Machines"
+              ],
+              "movies": [
+                {
+                  "title": "The Mitchells vs. the Machines",
+                  "tmdbId": 501929,
+                  "imdbId": "tt7979580"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raya and the Last Dragon"
+              ],
+              "movies": [
+                {
+                  "title": "Raya and the Last Dragon",
+                  "tmdbId": 527774,
+                  "imdbId": "tt5109280"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best International Feature Film",
+          "winners": [
+            {
+              "names": [
+                "Drive My Car"
+              ],
+              "movies": [
+                {
+                  "title": "Drive My Car",
+                  "tmdbId": 758866,
+                  "imdbId": "tt14039582"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Flee"
+              ],
+              "movies": [
+                {
+                  "title": "Flee",
+                  "tmdbId": 680813,
+                  "imdbId": "tt8430054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hand of God"
+              ],
+              "movies": [
+                {
+                  "title": "The Hand of God",
+                  "tmdbId": 722778,
+                  "imdbId": "tt12680684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lunana: A Yak in the Classroom"
+              ],
+              "movies": [
+                {
+                  "title": "Lunana: A Yak in the Classroom",
+                  "tmdbId": 627087,
+                  "imdbId": "tt10189300"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Worst Person in the World"
+              ],
+              "movies": [
+                {
+                  "title": "The Worst Person in the World",
+                  "tmdbId": 660120,
+                  "imdbId": "tt10370710"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+              ],
+              "movies": [
+                {
+                  "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+                  "tmdbId": 776527,
+                  "imdbId": "tt11422728"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ascension"
+              ],
+              "movies": [
+                {
+                  "title": "Ascension",
+                  "tmdbId": 822138,
+                  "imdbId": "tt14505430"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Attica"
+              ],
+              "movies": [
+                {
+                  "title": "Attica",
+                  "tmdbId": 858059,
+                  "imdbId": "tt12482898"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Flee"
+              ],
+              "movies": [
+                {
+                  "title": "Flee",
+                  "tmdbId": 680813,
+                  "imdbId": "tt8430054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Writing with Fire"
+              ],
+              "movies": [
+                {
+                  "title": "Writing with Fire",
+                  "tmdbId": 776557,
+                  "imdbId": "tt13630174"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Greig Fraser"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dan Laustsen"
+              ],
+              "movies": [
+                {
+                  "title": "Nightmare Alley",
+                  "tmdbId": 597208,
+                  "imdbId": "tt7740496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ari Wegner"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bruno Delbonnel"
+              ],
+              "movies": [
+                {
+                  "title": "The Tragedy of Macbeth",
+                  "tmdbId": 591538,
+                  "imdbId": "tt10095582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janusz Kaminski"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 511809,
+                  "imdbId": "tt3581652"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Joe Walker"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hank Corwin"
+              ],
+              "movies": [
+                {
+                  "title": "Don't Look Up",
+                  "tmdbId": 646380,
+                  "imdbId": "tt11286314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pamela Martin"
+              ],
+              "movies": [
+                {
+                  "title": "King Richard",
+                  "tmdbId": 614917,
+                  "imdbId": "tt9620288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Sciberras"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Myron Kerstein",
+                "Andrew Weisblum"
+              ],
+              "movies": [
+                {
+                  "title": "tick, tick... BOOM!",
+                  "tmdbId": 537116,
+                  "imdbId": "tt8721424"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Patrice Vermette",
+                "Zsuzsanna Sipos"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tamara Deverell",
+                "Shane Vieau"
+              ],
+              "movies": [
+                {
+                  "title": "Nightmare Alley",
+                  "tmdbId": 597208,
+                  "imdbId": "tt7740496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Grant Major",
+                "Amber Richards"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stefan Dechant",
+                "Nancy Haigh"
+              ],
+              "movies": [
+                {
+                  "title": "The Tragedy of Macbeth",
+                  "tmdbId": 591538,
+                  "imdbId": "tt10095582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adam Stockhausen",
+                "Rena DeAngelo"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 511809,
+                  "imdbId": "tt3581652"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Jenny Beavan"
+              ],
+              "movies": [
+                {
+                  "title": "Cruella",
+                  "tmdbId": 337404,
+                  "imdbId": "tt3228774"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Massimo Cantini Parrini"
+              ],
+              "movies": [
+                {
+                  "title": "Cyrano",
+                  "tmdbId": 730047,
+                  "imdbId": "tt12889404"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacqueline West",
+                "Bob Morgan"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luis Sequeira"
+              ],
+              "movies": [
+                {
+                  "title": "Nightmare Alley",
+                  "tmdbId": 597208,
+                  "imdbId": "tt7740496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Tazewell"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 511809,
+                  "imdbId": "tt3581652"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Linda Dowds",
+                "Stephanie Ingram",
+                "Justin Raleigh"
+              ],
+              "movies": [
+                {
+                  "title": "The Eyes of Tammy Faye",
+                  "tmdbId": 601470,
+                  "imdbId": "tt9115530"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mike Marino",
+                "Stacey Morris",
+                "Carla Farmer"
+              ],
+              "movies": [
+                {
+                  "title": "Coming 2 America",
+                  "tmdbId": 484718,
+                  "imdbId": "tt6802400"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nadia Stacey",
+                "Naomi Donne",
+                "Julia Vernon"
+              ],
+              "movies": [
+                {
+                  "title": "Cruella",
+                  "tmdbId": 337404,
+                  "imdbId": "tt3228774"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald Mowat",
+                "Love Larson",
+                "Eva von Bahr"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Goran Lundstrom",
+                "Anna Carin Lock",
+                "Frederic Aspiras"
+              ],
+              "movies": [
+                {
+                  "title": "House of Gucci",
+                  "tmdbId": 644495,
+                  "imdbId": "tt11214590"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Paul Lambert",
+                "Tristen Myles",
+                "Brian Connor",
+                "Gerd Nefzer"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Swen Gillberg",
+                "Bryan Grill",
+                "Nikos Kalaitzidis",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "Free Guy",
+                  "tmdbId": 550988,
+                  "imdbId": "tt6264654"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charlie Noble",
+                "Joel Green",
+                "Jonathan Fawkner",
+                "Chris Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "No Time to Die",
+                  "tmdbId": 370172,
+                  "imdbId": "tt2382320"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Townsend",
+                "Joe Farrell",
+                "Sean Noel Walker",
+                "Dan Oliver"
+              ],
+              "movies": [
+                {
+                  "title": "Shang-Chi and the Legend of the Ten Rings",
+                  "tmdbId": 566525,
+                  "imdbId": "tt9376612"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kelly Port",
+                "Chris Waegner",
+                "Scott Edelstein",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "Spider-Man: No Way Home",
+                  "tmdbId": 634649,
+                  "imdbId": "tt10872600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Mac Ruth",
+                "Mark Mangini",
+                "Theo Green",
+                "Doug Hemphill",
+                "Ron Bartlett"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Denise Yarde",
+                "Simon Chase",
+                "James Mather",
+                "Niv Adiri"
+              ],
+              "movies": [
+                {
+                  "title": "Belfast",
+                  "tmdbId": 777270,
+                  "imdbId": "tt12789558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Simon Hayes",
+                "Oliver Tarney",
+                "James Harrison",
+                "Paul Massey",
+                "Mark Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "No Time to Die",
+                  "tmdbId": 370172,
+                  "imdbId": "tt2382320"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Flynn",
+                "Robert Mackenzie",
+                "Tara Webb"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tod A. Maitland",
+                "Gary Rydstrom",
+                "Brian Chumney",
+                "Andy Nelson",
+                "Shawn Murphy"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 511809,
+                  "imdbId": "tt3581652"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "Dune",
+                  "tmdbId": 438631,
+                  "imdbId": "tt1160419"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nicholas Britell"
+              ],
+              "movies": [
+                {
+                  "title": "Don't Look Up",
+                  "tmdbId": 646380,
+                  "imdbId": "tt11286314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Germaine Franco"
+              ],
+              "movies": [
+                {
+                  "title": "Encanto",
+                  "tmdbId": 568124,
+                  "imdbId": "tt2953050"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alberto Iglesias"
+              ],
+              "movies": [
+                {
+                  "title": "Parallel Mothers",
+                  "tmdbId": 766798,
+                  "imdbId": "tt12618926"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonny Greenwood"
+              ],
+              "movies": [
+                {
+                  "title": "The Power of the Dog",
+                  "tmdbId": 600583,
+                  "imdbId": "tt10293406"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "No Time to Die"
+              ],
+              "movies": [
+                {
+                  "title": "No Time to Die",
+                  "tmdbId": 370172,
+                  "imdbId": "tt2382320"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Be Alive"
+              ],
+              "movies": [
+                {
+                  "title": "King Richard",
+                  "tmdbId": 614917,
+                  "imdbId": "tt9620288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dos Oruguitas"
+              ],
+              "movies": [
+                {
+                  "title": "Encanto",
+                  "tmdbId": 568124,
+                  "imdbId": "tt2953050"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Down to Joy"
+              ],
+              "movies": [
+                {
+                  "title": "Belfast",
+                  "tmdbId": 777270,
+                  "imdbId": "tt12789558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Somehow You Do"
+              ],
+              "movies": [
+                {
+                  "title": "Four Good Days",
+                  "tmdbId": 641960,
+                  "imdbId": "tt10344522"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Windshield Wiper"
+              ],
+              "movies": [
+                {
+                  "title": "The Windshield Wiper",
+                  "tmdbId": 601329,
+                  "imdbId": "tt9464038"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Affairs of the Art"
+              ],
+              "movies": [
+                {
+                  "title": "Affairs of the Art",
+                  "tmdbId": 742843,
+                  "imdbId": "tt14293560"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bestia"
+              ],
+              "movies": [
+                {
+                  "title": "Bestia",
+                  "tmdbId": 828751,
+                  "imdbId": "tt14825950"
+                }
+              ]
+            },
+            {
+              "names": [
+                "BoxBallet"
+              ],
+              "movies": [
+                {
+                  "title": "BoxBallet",
+                  "tmdbId": 746080,
+                  "imdbId": "tt14825972"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robin Robin"
+              ],
+              "movies": [
+                {
+                  "title": "Robin Robin",
+                  "tmdbId": 649928,
+                  "imdbId": "tt11332850"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Long Goodbye"
+              ],
+              "movies": [
+                {
+                  "title": "The Long Goodbye",
+                  "tmdbId": 681015,
+                  "imdbId": "tt11924384"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Take and Run"
+              ],
+              "movies": [
+                {
+                  "title": "Take and Run",
+                  "tmdbId": 853760,
+                  "imdbId": "tt7914938"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Dress"
+              ],
+              "movies": [
+                {
+                  "title": "The Dress",
+                  "tmdbId": 737496,
+                  "imdbId": "tt12299764"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On My Mind"
+              ],
+              "movies": [
+                {
+                  "title": "On My Mind",
+                  "tmdbId": 918627,
+                  "imdbId": "tt15289736"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Please Hold"
+              ],
+              "movies": [
+                {
+                  "title": "Please Hold",
+                  "tmdbId": 741607,
+                  "imdbId": "tt11383280"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Queen of Basketball"
+              ],
+              "movies": [
+                {
+                  "title": "The Queen of Basketball",
+                  "tmdbId": 822582,
+                  "imdbId": "tt14513236"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Audible"
+              ],
+              "movies": [
+                {
+                  "title": "Audible",
+                  "tmdbId": 820492,
+                  "imdbId": "tt12771540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lead Me Home"
+              ],
+              "movies": [
+                {
+                  "title": "Lead Me Home",
+                  "tmdbId": 869602,
+                  "imdbId": "tt15339848"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Three Songs for Benazir"
+              ],
+              "movies": [
+                {
+                  "title": "Three Songs for Benazir",
+                  "tmdbId": 826740,
+                  "imdbId": "tt14608922"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When We Were Bullies"
+              ],
+              "movies": [
+                {
+                  "title": "When We Were Bullies",
+                  "tmdbId": 776769,
+                  "imdbId": "tt13796488"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

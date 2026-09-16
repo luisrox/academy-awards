@@ -1,0 +1,1496 @@
+{
+  "ceremony": {
+    "ordinal": 49,
+    "ceremonyYear": 1977,
+    "ceremonyDate": "1977-03-28",
+    "filmYearLabel": "1976",
+    "slug": "1977",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Rocky"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All the President's Men"
+              ],
+              "movies": [
+                {
+                  "title": "All the President's Men",
+                  "tmdbId": 891,
+                  "imdbId": "tt0074119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bound for Glory"
+              ],
+              "movies": [
+                {
+                  "title": "Bound for Glory",
+                  "tmdbId": 42232,
+                  "imdbId": "tt0074235"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Network"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Taxi Driver"
+              ],
+              "movies": [
+                {
+                  "title": "Taxi Driver",
+                  "tmdbId": 103,
+                  "imdbId": "tt0075314"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "John G. Avildsen"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ingmar Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Face to Face",
+                  "tmdbId": 29454,
+                  "imdbId": "tt0074147"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Lumet"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan J. Pakula"
+              ],
+              "movies": [
+                {
+                  "title": "All the President's Men",
+                  "tmdbId": 891,
+                  "imdbId": "tt0074119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lina Wertmuller"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Beauties",
+                  "tmdbId": 37550,
+                  "imdbId": "tt0075040"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Peter Finch"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert De Niro"
+              ],
+              "movies": [
+                {
+                  "title": "Taxi Driver",
+                  "tmdbId": 103,
+                  "imdbId": "tt0075314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Giancarlo Giannini"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Beauties",
+                  "tmdbId": 37550,
+                  "imdbId": "tt0075040"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Holden"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sylvester Stallone"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Faye Dunaway"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marie-Christine Barrault"
+              ],
+              "movies": [
+                {
+                  "title": "Cousin, Cousine",
+                  "tmdbId": 5618,
+                  "imdbId": "tt0072826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Talia Shire"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sissy Spacek"
+              ],
+              "movies": [
+                {
+                  "title": "Carrie",
+                  "tmdbId": 7340,
+                  "imdbId": "tt0074285"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Liv Ullmann"
+              ],
+              "movies": [
+                {
+                  "title": "Face to Face",
+                  "tmdbId": 29454,
+                  "imdbId": "tt0074147"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Jason Robards"
+              ],
+              "movies": [
+                {
+                  "title": "All the President's Men",
+                  "tmdbId": 891,
+                  "imdbId": "tt0074119"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ned Beatty"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Burgess Meredith"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Marathon Man",
+                  "tmdbId": 10518,
+                  "imdbId": "tt0074860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Burt Young"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Beatrice Straight"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jane Alexander"
+              ],
+              "movies": [
+                {
+                  "title": "All the President's Men",
+                  "tmdbId": 891,
+                  "imdbId": "tt0074119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jodie Foster"
+              ],
+              "movies": [
+                {
+                  "title": "Taxi Driver",
+                  "tmdbId": 103,
+                  "imdbId": "tt0075314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Grant"
+              ],
+              "movies": [
+                {
+                  "title": "Voyage of the Damned",
+                  "tmdbId": 75641,
+                  "imdbId": "tt0075406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piper Laurie"
+              ],
+              "movies": [
+                {
+                  "title": "Carrie",
+                  "tmdbId": 7340,
+                  "imdbId": "tt0074285"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Paddy Chayefsky"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jean-Charles Tacchella",
+                "Daniele Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "Cousin, Cousine",
+                  "tmdbId": 5618,
+                  "imdbId": "tt0072826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "The Front",
+                  "tmdbId": 1723,
+                  "imdbId": "tt0074554"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sylvester Stallone"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lina Wertmuller"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Beauties",
+                  "tmdbId": 37550,
+                  "imdbId": "tt0075040"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "William Goldman"
+              ],
+              "movies": [
+                {
+                  "title": "All the President's Men",
+                  "tmdbId": 891,
+                  "imdbId": "tt0074119"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Getchell"
+              ],
+              "movies": [
+                {
+                  "title": "Bound for Glory",
+                  "tmdbId": 42232,
+                  "imdbId": "tt0074235"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Federico Fellini",
+                "Bernardino Zapponi"
+              ],
+              "movies": [
+                {
+                  "title": "Fellini's Casanova",
+                  "tmdbId": 42236,
+                  "imdbId": "tt0074291"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicholas Meyer"
+              ],
+              "movies": [
+                {
+                  "title": "The Seven-Per-Cent Solution",
+                  "tmdbId": 29578,
+                  "imdbId": "tt0075194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Butler",
+                "Steve Shagan"
+              ],
+              "movies": [
+                {
+                  "title": "Voyage of the Damned",
+                  "tmdbId": 75641,
+                  "imdbId": "tt0075406"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Black and White in Color"
+              ],
+              "movies": [
+                {
+                  "title": "Black and White in Color",
+                  "tmdbId": 42238,
+                  "imdbId": "tt0074972"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cousin, Cousine"
+              ],
+              "movies": [
+                {
+                  "title": "Cousin, Cousine",
+                  "tmdbId": 5618,
+                  "imdbId": "tt0072826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacob the Liar"
+              ],
+              "movies": [
+                {
+                  "title": "Jacob the Liar",
+                  "tmdbId": 2200,
+                  "imdbId": "tt0071688"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nights and Days"
+              ],
+              "movies": [
+                {
+                  "title": "Nights and Days",
+                  "tmdbId": 110369,
+                  "imdbId": "tt0073460"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Seven Beauties"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Beauties",
+                  "tmdbId": 37550,
+                  "imdbId": "tt0075040"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Harlan County U.S.A."
+              ],
+              "movies": [
+                {
+                  "title": "Harlan County U.S.A.",
+                  "tmdbId": 33324,
+                  "imdbId": "tt0074605"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hollywood on Trial"
+              ],
+              "movies": [
+                {
+                  "title": "Hollywood on Trial",
+                  "tmdbId": 136716,
+                  "imdbId": "tt0074635"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Off the Edge"
+              ],
+              "movies": [
+                {
+                  "title": "Off the Edge",
+                  "tmdbId": 149344,
+                  "imdbId": "tt0074997"
+                }
+              ]
+            },
+            {
+              "names": [
+                "People of the Wind"
+              ],
+              "movies": [
+                {
+                  "title": "People of the Wind",
+                  "tmdbId": 149347,
+                  "imdbId": "tt0075052"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Volcano: An Inquiry into the Life and Death of Malcolm Lowry"
+              ],
+              "movies": [
+                {
+                  "title": "Volcano: An Inquiry into the Life and Death of Malcolm Lowry",
+                  "tmdbId": 149348,
+                  "imdbId": "tt0070889"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Haskell Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "Bound for Glory",
+                  "tmdbId": 42232,
+                  "imdbId": "tt0074235"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard H. Kline"
+              ],
+              "movies": [
+                {
+                  "title": "King Kong",
+                  "tmdbId": 10730,
+                  "imdbId": "tt0074751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Laszlo"
+              ],
+              "movies": [
+                {
+                  "title": "Logan's Run",
+                  "tmdbId": 10803,
+                  "imdbId": "tt0074812"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Owen Roizman"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert L. Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 19610,
+                  "imdbId": "tt0075265"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Richard Halsey",
+                "Scott Conrad"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert L. Wolfe"
+              ],
+              "movies": [
+                {
+                  "title": "All the President's Men",
+                  "tmdbId": 891,
+                  "imdbId": "tt0074119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert C. Jones",
+                "Pembroke J. Herring"
+              ],
+              "movies": [
+                {
+                  "title": "Bound for Glory",
+                  "tmdbId": 42232,
+                  "imdbId": "tt0074235"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eve Newman",
+                "Walter Hannemann"
+              ],
+              "movies": [
+                {
+                  "title": "Two-Minute Warning",
+                  "tmdbId": 6883,
+                  "imdbId": "tt0075359"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Heim"
+              ],
+              "movies": [
+                {
+                  "title": "Network",
+                  "tmdbId": 10774,
+                  "imdbId": "tt0074958"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "George Jenkins",
+                "George Gaines"
+              ],
+              "movies": [
+                {
+                  "title": "All the President's Men",
+                  "tmdbId": 891,
+                  "imdbId": "tt0074119"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elliot Scott",
+                "Norman Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "The Incredible Sarah",
+                  "tmdbId": 147362,
+                  "imdbId": "tt0074678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Callahan",
+                "Jack Collis",
+                "Jerry Wunderlich"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Tycoon",
+                  "tmdbId": 37774,
+                  "imdbId": "tt0074777"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dale Hennesy",
+                "Robert De Vestel"
+              ],
+              "movies": [
+                {
+                  "title": "Logan's Run",
+                  "tmdbId": 10803,
+                  "imdbId": "tt0074812"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert F. Boyle",
+                "Arthur Jeph"
+              ],
+              "movies": [
+                {
+                  "title": "The Shootist",
+                  "tmdbId": 12584,
+                  "imdbId": "tt0075213"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Danilo Donati"
+              ],
+              "movies": [
+                {
+                  "title": "Fellini's Casanova",
+                  "tmdbId": 42236,
+                  "imdbId": "tt0074291"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Ware Theiss"
+              ],
+              "movies": [
+                {
+                  "title": "Bound for Glory",
+                  "tmdbId": 42232,
+                  "imdbId": "tt0074235"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Mendleson"
+              ],
+              "movies": [
+                {
+                  "title": "The Incredible Sarah",
+                  "tmdbId": 147362,
+                  "imdbId": "tt0074678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mary Wills"
+              ],
+              "movies": [
+                {
+                  "title": "The Passover Plot",
+                  "tmdbId": 152256,
+                  "imdbId": "tt0075043"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Barrett"
+              ],
+              "movies": [
+                {
+                  "title": "The Seven-Per-Cent Solution",
+                  "tmdbId": 29578,
+                  "imdbId": "tt0075194"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Carlo Rambaldi",
+                "Glen Robinson",
+                "Frank Van der Veer"
+              ],
+              "movies": [
+                {
+                  "title": "King Kong",
+                  "tmdbId": 10730,
+                  "imdbId": "tt0074751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "L. B. Abbott",
+                "Glen Robinson",
+                "Matthew Yuricich"
+              ],
+              "movies": [
+                {
+                  "title": "Logan's Run",
+                  "tmdbId": 10803,
+                  "imdbId": "tt0074812"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Arthur Piantadosi",
+                "Les Fresholtz",
+                "Dick Alexander",
+                "Jim Webb"
+              ],
+              "movies": [
+                {
+                  "title": "All the President's Men",
+                  "tmdbId": 891,
+                  "imdbId": "tt0074119"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry W. Tetrick",
+                "William McCaughey",
+                "Aaron Rochin",
+                "Jack Solomon"
+              ],
+              "movies": [
+                {
+                  "title": "King Kong",
+                  "tmdbId": 10730,
+                  "imdbId": "tt0074751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry W. Tetrick",
+                "William McCaughey",
+                "Lyle J. Burbridge",
+                "Bud Alper"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Douglas O. Williams",
+                "Richard Tyler",
+                "Harold M. Etherington"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Streak",
+                  "tmdbId": 11558,
+                  "imdbId": "tt0075223"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Knudson",
+                "Dan Wallin",
+                "Robert Glass",
+                "Tom Overton"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 19610,
+                  "imdbId": "tt0075265"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "The Omen",
+                  "tmdbId": 794,
+                  "imdbId": "tt0075005"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bernard Herrmann"
+              ],
+              "movies": [
+                {
+                  "title": "Obsession",
+                  "tmdbId": 4780,
+                  "imdbId": "tt0074991"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Fielding"
+              ],
+              "movies": [
+                {
+                  "title": "The Outlaw Josey Wales",
+                  "tmdbId": 10747,
+                  "imdbId": "tt0075029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard Herrmann"
+              ],
+              "movies": [
+                {
+                  "title": "Taxi Driver",
+                  "tmdbId": 103,
+                  "imdbId": "tt0075314"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lalo Schifrin"
+              ],
+              "movies": [
+                {
+                  "title": "Voyage of the Damned",
+                  "tmdbId": 75641,
+                  "imdbId": "tt0075406"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Leonard Rosenman"
+              ],
+              "movies": [
+                {
+                  "title": "Bound for Glory",
+                  "tmdbId": 42232,
+                  "imdbId": "tt0074235"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Bugsy Malone",
+                  "tmdbId": 8446,
+                  "imdbId": "tt0074256"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Kellaway"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 19610,
+                  "imdbId": "tt0075265"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Evergreen"
+              ],
+              "movies": [
+                {
+                  "title": "A Star Is Born",
+                  "tmdbId": 19610,
+                  "imdbId": "tt0075265"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A World That Never Was"
+              ],
+              "movies": [
+                {
+                  "title": "Half a House",
+                  "tmdbId": 216458,
+                  "imdbId": "tt0074601"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ave Satani"
+              ],
+              "movies": [
+                {
+                  "title": "The Omen",
+                  "tmdbId": 794,
+                  "imdbId": "tt0075005"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Come to Me"
+              ],
+              "movies": [
+                {
+                  "title": "The Pink Panther Strikes Again",
+                  "tmdbId": 12268,
+                  "imdbId": "tt0075066"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gonna Fly Now"
+              ],
+              "movies": [
+                {
+                  "title": "Rocky",
+                  "tmdbId": 1366,
+                  "imdbId": "tt0075148"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Leisure"
+              ],
+              "movies": [
+                {
+                  "title": "Leisure",
+                  "tmdbId": 207437,
+                  "imdbId": "tt0074787"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Labyrinth"
+              ],
+              "movies": [
+                {
+                  "title": "Labyrinth",
+                  "tmdbId": 243418,
+                  "imdbId": "tt0074386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Street"
+              ],
+              "movies": [
+                {
+                  "title": "The Street",
+                  "tmdbId": 95380,
+                  "imdbId": "tt0075273"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "In the Region of Ice"
+              ],
+              "movies": [
+                {
+                  "title": "In the Region of Ice",
+                  "tmdbId": 243579,
+                  "imdbId": "tt0074675"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kudzu"
+              ],
+              "movies": [
+                {
+                  "title": "Kudzu",
+                  "tmdbId": 243580,
+                  "imdbId": "tt0074765"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Morning Spider"
+              ],
+              "movies": [
+                {
+                  "title": "The Morning Spider",
+                  "tmdbId": 243581,
+                  "imdbId": "tt0074919"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nightlife"
+              ],
+              "movies": [
+                {
+                  "title": "Nightlife",
+                  "tmdbId": 243583,
+                  "imdbId": "tt0074966"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Number One"
+              ],
+              "movies": [
+                {
+                  "title": "Number One",
+                  "tmdbId": 243585,
+                  "imdbId": "tt0074986"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Number Our Days"
+              ],
+              "movies": [
+                {
+                  "title": "Number Our Days",
+                  "tmdbId": 243586,
+                  "imdbId": "tt0074987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "American Shoeshine"
+              ],
+              "movies": [
+                {
+                  "title": "American Shoeshine",
+                  "tmdbId": 243587,
+                  "imdbId": "tt0074134"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Blackwood"
+              ],
+              "movies": [
+                {
+                  "title": "Blackwood",
+                  "tmdbId": 243589,
+                  "imdbId": "tt0074215"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The End of the Road"
+              ],
+              "movies": [
+                {
+                  "title": "The End of the Road",
+                  "tmdbId": 243591,
+                  "imdbId": "tt0074482"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Universe"
+              ],
+              "movies": [
+                {
+                  "title": "Universe",
+                  "tmdbId": 243593,
+                  "imdbId": "tt0075373"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

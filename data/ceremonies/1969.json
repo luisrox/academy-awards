@@ -1,0 +1,1521 @@
+{
+  "ceremony": {
+    "ordinal": 41,
+    "ceremonyYear": 1969,
+    "ceremonyDate": "1969-04-14",
+    "filmYearLabel": "1968",
+    "slug": "1969",
+    "decade": "1960s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Oliver!"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Funny Girl"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Girl",
+                  "tmdbId": 16085,
+                  "imdbId": "tt0062994"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Lion in Winter"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion in Winter",
+                  "tmdbId": 18988,
+                  "imdbId": "tt0063227"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rachel, Rachel"
+              ],
+              "movies": [
+                {
+                  "title": "Rachel, Rachel",
+                  "tmdbId": 42635,
+                  "imdbId": "tt0063483"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Romeo and Juliet"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo and Juliet",
+                  "tmdbId": 6003,
+                  "imdbId": "tt0063518"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Carol Reed"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anthony Harvey"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion in Winter",
+                  "tmdbId": 18988,
+                  "imdbId": "tt0063227"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Kubrick"
+              ],
+              "movies": [
+                {
+                  "title": "2001: A Space Odyssey",
+                  "tmdbId": 62,
+                  "imdbId": "tt0062622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gillo Pontecorvo"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle of Algiers",
+                  "tmdbId": 17295,
+                  "imdbId": "tt0058946"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franco Zeffirelli"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo and Juliet",
+                  "tmdbId": 6003,
+                  "imdbId": "tt0063518"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Cliff Robertson"
+              ],
+              "movies": [
+                {
+                  "title": "Charly",
+                  "tmdbId": 29146,
+                  "imdbId": "tt0062794"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alan Arkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Heart Is a Lonely Hunter",
+                  "tmdbId": 22176,
+                  "imdbId": "tt0063050"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Bates"
+              ],
+              "movies": [
+                {
+                  "title": "The Fixer",
+                  "tmdbId": 87267,
+                  "imdbId": "tt0062977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ron Moody"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter O'Toole"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion in Winter",
+                  "tmdbId": 18988,
+                  "imdbId": "tt0063227"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion in Winter",
+                  "tmdbId": 18988,
+                  "imdbId": "tt0063227"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbra Streisand"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Girl",
+                  "tmdbId": 16085,
+                  "imdbId": "tt0062994"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Patricia Neal"
+              ],
+              "movies": [
+                {
+                  "title": "The Subject Was Roses",
+                  "tmdbId": 118872,
+                  "imdbId": "tt0063654"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vanessa Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "Isadora",
+                  "tmdbId": 42626,
+                  "imdbId": "tt0063141"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joanne Woodward"
+              ],
+              "movies": [
+                {
+                  "title": "Rachel, Rachel",
+                  "tmdbId": 42635,
+                  "imdbId": "tt0063483"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Jack Albertson"
+              ],
+              "movies": [
+                {
+                  "title": "The Subject Was Roses",
+                  "tmdbId": 118872,
+                  "imdbId": "tt0063654"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Seymour Cassel"
+              ],
+              "movies": [
+                {
+                  "title": "Faces",
+                  "tmdbId": 753,
+                  "imdbId": "tt0062952"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Massey"
+              ],
+              "movies": [
+                {
+                  "title": "Star!",
+                  "tmdbId": 52959,
+                  "imdbId": "tt0063642"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Wild"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "The Producers",
+                  "tmdbId": 30197,
+                  "imdbId": "tt0063462"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Ruth Gordon"
+              ],
+              "movies": [
+                {
+                  "title": "Rosemary's Baby",
+                  "tmdbId": 805,
+                  "imdbId": "tt0063522"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lynn Carlin"
+              ],
+              "movies": [
+                {
+                  "title": "Faces",
+                  "tmdbId": 753,
+                  "imdbId": "tt0062952"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sondra Locke"
+              ],
+              "movies": [
+                {
+                  "title": "The Heart Is a Lonely Hunter",
+                  "tmdbId": 22176,
+                  "imdbId": "tt0063050"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kay Medford"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Girl",
+                  "tmdbId": 16085,
+                  "imdbId": "tt0062994"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Estelle Parsons"
+              ],
+              "movies": [
+                {
+                  "title": "Rachel, Rachel",
+                  "tmdbId": 42635,
+                  "imdbId": "tt0063483"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Mel Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "The Producers",
+                  "tmdbId": 30197,
+                  "imdbId": "tt0063462"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Cassavetes"
+              ],
+              "movies": [
+                {
+                  "title": "Faces",
+                  "tmdbId": 753,
+                  "imdbId": "tt0062952"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Kubrick",
+                "Arthur C. Clarke"
+              ],
+              "movies": [
+                {
+                  "title": "2001: A Space Odyssey",
+                  "tmdbId": 62,
+                  "imdbId": "tt0062622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francos Solinas",
+                "Gillo Pontecorvo"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle of Algiers",
+                  "tmdbId": 17295,
+                  "imdbId": "tt0058946"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ira Wallach",
+                "Peter Ustinov"
+              ],
+              "movies": [
+                {
+                  "title": "Hot Millions",
+                  "tmdbId": 26186,
+                  "imdbId": "tt0063094"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "James Goldman"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion in Winter",
+                  "tmdbId": 18988,
+                  "imdbId": "tt0063227"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Vernon Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roman Polanski"
+              ],
+              "movies": [
+                {
+                  "title": "Rosemary's Baby",
+                  "tmdbId": 805,
+                  "imdbId": "tt0063522"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Neil Simon"
+              ],
+              "movies": [
+                {
+                  "title": "The Odd Couple",
+                  "tmdbId": 11356,
+                  "imdbId": "tt0063374"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stewart Stern"
+              ],
+              "movies": [
+                {
+                  "title": "Rachel, Rachel",
+                  "tmdbId": 42635,
+                  "imdbId": "tt0063483"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "War and Peace"
+              ],
+              "movies": [
+                {
+                  "title": "War and Peace",
+                  "tmdbId": 29266,
+                  "imdbId": "tt0063794"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Boys of Paul Street"
+              ],
+              "movies": [
+                {
+                  "title": "The Boys of Paul Street",
+                  "tmdbId": 41064,
+                  "imdbId": "tt0062164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Firemen's Ball"
+              ],
+              "movies": [
+                {
+                  "title": "The Firemen's Ball",
+                  "tmdbId": 38442,
+                  "imdbId": "tt0061781"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Girl with a Pistol"
+              ],
+              "movies": [
+                {
+                  "title": "The Girl with a Pistol",
+                  "tmdbId": 56233,
+                  "imdbId": "tt0063485"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stolen Kisses"
+              ],
+              "movies": [
+                {
+                  "title": "Stolen Kisses",
+                  "tmdbId": 255,
+                  "imdbId": "tt0062695"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Young Americans",
+                "Journey Into Self"
+              ],
+              "movies": [
+                {
+                  "title": "Young Americans",
+                  "tmdbId": 149308,
+                  "imdbId": "tt0062515"
+                },
+                {
+                  "title": "Journey Into Self",
+                  "tmdbId": 114511,
+                  "imdbId": "tt0063160"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Few Notes on Our Food Problem"
+              ],
+              "movies": [
+                {
+                  "title": "A Few Notes on Our Food Problem",
+                  "tmdbId": 149310,
+                  "imdbId": "tt0062968"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Legendary Champions"
+              ],
+              "movies": [
+                {
+                  "title": "Legendary Champions",
+                  "tmdbId": 149311,
+                  "imdbId": "tt0063222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Other Voices"
+              ],
+              "movies": [
+                {
+                  "title": "Other Voices",
+                  "tmdbId": 149314,
+                  "imdbId": "tt0064773"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Pasqualino De Santis"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo and Juliet",
+                  "tmdbId": 6003,
+                  "imdbId": "tt0063518"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel L. Fapp"
+              ],
+              "movies": [
+                {
+                  "title": "Ice Station Zebra",
+                  "tmdbId": 17657,
+                  "imdbId": "tt0063121"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Laszlo"
+              ],
+              "movies": [
+                {
+                  "title": "Star!",
+                  "tmdbId": 52959,
+                  "imdbId": "tt0063642"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oswald Morris"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Stradling Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Funny Girl",
+                  "tmdbId": 16085,
+                  "imdbId": "tt0062994"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Frank P. Keller"
+              ],
+              "movies": [
+                {
+                  "title": "Bullitt",
+                  "tmdbId": 916,
+                  "imdbId": "tt0062765"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Bracht"
+              ],
+              "movies": [
+                {
+                  "title": "The Odd Couple",
+                  "tmdbId": 11356,
+                  "imdbId": "tt0063374"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Feitshans",
+                "Eve Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Wild in the Streets",
+                  "tmdbId": 42688,
+                  "imdbId": "tt0063808"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Kemplen"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Swink",
+                "Maury Winetrobe",
+                "William Sands"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Girl",
+                  "tmdbId": 16085,
+                  "imdbId": "tt0062994"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "John Box",
+                "Terence Marsh",
+                "Vernon Dixon",
+                "Ken Muggleston"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mikhail Bogdanov",
+                "Gennady Myasnikov",
+                "Georgi Koshelev",
+                "Vladimir Uvarov"
+              ],
+              "movies": [
+                {
+                  "title": "War and Peace",
+                  "tmdbId": 29266,
+                  "imdbId": "tt0063794"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George W. Davis",
+                "Edward Carfagno"
+              ],
+              "movies": [
+                {
+                  "title": "The Shoes of the Fisherman",
+                  "tmdbId": 17665,
+                  "imdbId": "tt0063599"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boris Leven",
+                "Walter M. Scott",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "Star!",
+                  "tmdbId": 52959,
+                  "imdbId": "tt0063642"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Masters",
+                "Harry Lange",
+                "Ernie Archer"
+              ],
+              "movies": [
+                {
+                  "title": "2001: A Space Odyssey",
+                  "tmdbId": 62,
+                  "imdbId": "tt0062622"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Danilo Donati"
+              ],
+              "movies": [
+                {
+                  "title": "Romeo and Juliet",
+                  "tmdbId": 6003,
+                  "imdbId": "tt0063518"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Donald Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Star!",
+                  "tmdbId": 52959,
+                  "imdbId": "tt0063642"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Phyllis Dalton"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margaret Furse"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion in Winter",
+                  "tmdbId": 18988,
+                  "imdbId": "tt0063227"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morton Haack"
+              ],
+              "movies": [
+                {
+                  "title": "Planet of the Apes",
+                  "tmdbId": 871,
+                  "imdbId": "tt0063442"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "John Chambers"
+              ],
+              "movies": [
+                {
+                  "title": "Planet of the Apes",
+                  "tmdbId": 871,
+                  "imdbId": "tt0063442"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Stanley Kubrick"
+              ],
+              "movies": [
+                {
+                  "title": "2001: A Space Odyssey",
+                  "tmdbId": 62,
+                  "imdbId": "tt0062622"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hal Miller",
+                "J. McMillan Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "Ice Station Zebra",
+                  "tmdbId": 17657,
+                  "imdbId": "tt0063121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Shepperton Studios Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warner Bros.-Seven Arts Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "Bullitt",
+                  "tmdbId": 916,
+                  "imdbId": "tt0062765"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warner Bros.-Seven Arts Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "Finian's Rainbow",
+                  "tmdbId": 42622,
+                  "imdbId": "tt0062974"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Columbia Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Girl",
+                  "tmdbId": 16085,
+                  "imdbId": "tt0062994"
+                }
+              ]
+            },
+            {
+              "names": [
+                "20th Century-Fox Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "Star!",
+                  "tmdbId": 52959,
+                  "imdbId": "tt0063642"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Barry"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion in Winter",
+                  "tmdbId": 18988,
+                  "imdbId": "tt0063227"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Planet of the Apes",
+                  "tmdbId": 871,
+                  "imdbId": "tt0063442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michel Legrand"
+              ],
+              "movies": [
+                {
+                  "title": "The Thomas Crown Affair",
+                  "tmdbId": 912,
+                  "imdbId": "tt0063688"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "The Shoes of the Fisherman",
+                  "tmdbId": 17665,
+                  "imdbId": "tt0063599"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lalo Schifrin"
+              ],
+              "movies": [
+                {
+                  "title": "The Fox",
+                  "tmdbId": 74896,
+                  "imdbId": "tt0062990"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Johnny Green"
+              ],
+              "movies": [
+                {
+                  "title": "Oliver!",
+                  "tmdbId": 17917,
+                  "imdbId": "tt0063385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lenny Hayton"
+              ],
+              "movies": [
+                {
+                  "title": "Star!",
+                  "tmdbId": 52959,
+                  "imdbId": "tt0063642"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "Finian's Rainbow",
+                  "tmdbId": 42622,
+                  "imdbId": "tt0062974"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michel Legrand",
+                "Jacques Demy"
+              ],
+              "movies": [
+                {
+                  "title": "The Young Girls of Rochefort",
+                  "tmdbId": 2433,
+                  "imdbId": "tt0062873"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Scharf"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Girl",
+                  "tmdbId": 16085,
+                  "imdbId": "tt0062994"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "The Windmills of Your Mind"
+              ],
+              "movies": [
+                {
+                  "title": "The Thomas Crown Affair",
+                  "tmdbId": 912,
+                  "imdbId": "tt0063688"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chitty Chitty Bang Bang"
+              ],
+              "movies": [
+                {
+                  "title": "Chitty Chitty Bang Bang",
+                  "tmdbId": 11708,
+                  "imdbId": "tt0062803"
+                }
+              ]
+            },
+            {
+              "names": [
+                "For Love of Ivy"
+              ],
+              "movies": [
+                {
+                  "title": "For Love of Ivy",
+                  "tmdbId": 70591,
+                  "imdbId": "tt0062985"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Funny Girl"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Girl",
+                  "tmdbId": 16085,
+                  "imdbId": "tt0062994"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Star!"
+              ],
+              "movies": [
+                {
+                  "title": "Star!",
+                  "tmdbId": 52959,
+                  "imdbId": "tt0063642"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Winnie the Pooh and the Blustery Day"
+              ],
+              "movies": [
+                {
+                  "title": "Winnie the Pooh and the Blustery Day",
+                  "tmdbId": 81310,
+                  "imdbId": "tt0063819"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The House That Jack Built"
+              ],
+              "movies": [
+                {
+                  "title": "The House That Jack Built",
+                  "tmdbId": 243322,
+                  "imdbId": "tt0063262"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Magic Pear Tree"
+              ],
+              "movies": [
+                {
+                  "title": "The Magic Pear Tree",
+                  "tmdbId": 243323,
+                  "imdbId": "tt0063257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Windy Day"
+              ],
+              "movies": [
+                {
+                  "title": "Windy Day",
+                  "tmdbId": 122829,
+                  "imdbId": "tt0063816"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Robert Kennedy Remembered"
+              ],
+              "movies": [
+                {
+                  "title": "Robert Kennedy Remembered",
+                  "tmdbId": 243319,
+                  "imdbId": "tt0063514"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Dove Must Not Fly"
+              ],
+              "movies": [
+                {
+                  "title": "The Dove Must Not Fly",
+                  "tmdbId": 193784,
+                  "imdbId": "tt0066929"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Duo"
+              ],
+              "movies": [
+                {
+                  "title": "Duo",
+                  "tmdbId": 981902
+                }
+              ]
+            },
+            {
+              "names": [
+                "Prelude"
+              ],
+              "movies": [
+                {
+                  "title": "Prelude",
+                  "tmdbId": 243321,
+                  "imdbId": "tt0063454"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Why Man Creates"
+              ],
+              "movies": [
+                {
+                  "title": "Why Man Creates",
+                  "tmdbId": 72585,
+                  "imdbId": "tt0063804"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The House That Ananda Built"
+              ],
+              "movies": [
+                {
+                  "title": "The House That Ananda Built",
+                  "tmdbId": 243324,
+                  "imdbId": "tt0063096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Revolving Door"
+              ],
+              "movies": [
+                {
+                  "title": "The Revolving Door",
+                  "tmdbId": 243325,
+                  "imdbId": "tt0063504"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Space to Grow"
+              ],
+              "movies": [
+                {
+                  "title": "A Space to Grow",
+                  "tmdbId": 243326,
+                  "imdbId": "tt0063632"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Way Out of the Wilderness"
+              ],
+              "movies": [
+                {
+                  "title": "A Way Out of the Wilderness",
+                  "tmdbId": 243327,
+                  "imdbId": "tt0063796"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

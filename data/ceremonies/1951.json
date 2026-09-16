@@ -1,0 +1,1613 @@
+{
+  "ceremony": {
+    "ordinal": 23,
+    "ceremonyYear": 1951,
+    "ceremonyDate": "1951-03-29",
+    "filmYearLabel": "1950",
+    "slug": "1951",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "All About Eve"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Born Yesterday"
+              ],
+              "movies": [
+                {
+                  "title": "Born Yesterday",
+                  "tmdbId": 24481,
+                  "imdbId": "tt0042276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Father of the Bride"
+              ],
+              "movies": [
+                {
+                  "title": "Father of the Bride",
+                  "tmdbId": 20758,
+                  "imdbId": "tt0042451"
+                }
+              ]
+            },
+            {
+              "names": [
+                "King Solomon's Mines"
+              ],
+              "movies": [
+                {
+                  "title": "King Solomon's Mines",
+                  "tmdbId": 43388,
+                  "imdbId": "tt0042646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sunset Boulevard"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Joseph L. Mankiewicz"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Cukor"
+              ],
+              "movies": [
+                {
+                  "title": "Born Yesterday",
+                  "tmdbId": 24481,
+                  "imdbId": "tt0042276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The Asphalt Jungle",
+                  "tmdbId": 16958,
+                  "imdbId": "tt0042208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carol Reed"
+              ],
+              "movies": [
+                {
+                  "title": "The Third Man",
+                  "tmdbId": 1092,
+                  "imdbId": "tt0041959"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Jose Ferrer"
+              ],
+              "movies": [
+                {
+                  "title": "Cyrano de Bergerac",
+                  "tmdbId": 43386,
+                  "imdbId": "tt0042367"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Louis Calhern"
+              ],
+              "movies": [
+                {
+                  "title": "The Magnificent Yankee",
+                  "tmdbId": 101653,
+                  "imdbId": "tt0042702"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Holden"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "Harvey",
+                  "tmdbId": 11787,
+                  "imdbId": "tt0042546"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "Father of the Bride",
+                  "tmdbId": 20758,
+                  "imdbId": "tt0042451"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Judy Holliday"
+              ],
+              "movies": [
+                {
+                  "title": "Born Yesterday",
+                  "tmdbId": 24481,
+                  "imdbId": "tt0042276"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anne Baxter"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eleanor Parker"
+              ],
+              "movies": [
+                {
+                  "title": "Caged",
+                  "tmdbId": 29381,
+                  "imdbId": "tt0042296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gloria Swanson"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "George Sanders"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jeff Chandler"
+              ],
+              "movies": [
+                {
+                  "title": "Broken Arrow",
+                  "tmdbId": 37292,
+                  "imdbId": "tt0042286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edmund Gwenn"
+              ],
+              "movies": [
+                {
+                  "title": "Mister 880",
+                  "tmdbId": 102144,
+                  "imdbId": "tt0042742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Jaffe"
+              ],
+              "movies": [
+                {
+                  "title": "The Asphalt Jungle",
+                  "tmdbId": 16958,
+                  "imdbId": "tt0042208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Erich von Stroheim"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Josephine Hull"
+              ],
+              "movies": [
+                {
+                  "title": "Harvey",
+                  "tmdbId": 11787,
+                  "imdbId": "tt0042546"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hope Emerson"
+              ],
+              "movies": [
+                {
+                  "title": "Caged",
+                  "tmdbId": 29381,
+                  "imdbId": "tt0042296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Celeste Holm"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nancy Olson"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thelma Ritter"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Charles Brackett",
+                "D.M. Marshman Jr.",
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ruth Gordon",
+                "Garson Kanin"
+              ],
+              "movies": [
+                {
+                  "title": "Adam's Rib",
+                  "tmdbId": 25431,
+                  "imdbId": "tt0041090"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Virginia Kellogg",
+                "Bernard C. Schoenfeld"
+              ],
+              "movies": [
+                {
+                  "title": "Caged",
+                  "tmdbId": 29381,
+                  "imdbId": "tt0042296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carl Foreman"
+              ],
+              "movies": [
+                {
+                  "title": "The Men",
+                  "tmdbId": 1882,
+                  "imdbId": "tt0042727"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph L. Mankiewicz",
+                "Lesser Samuels"
+              ],
+              "movies": [
+                {
+                  "title": "No Way Out",
+                  "tmdbId": 28433,
+                  "imdbId": "tt0042792"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Joseph L. Mankiewicz"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ben Maddow",
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The Asphalt Jungle",
+                  "tmdbId": 16958,
+                  "imdbId": "tt0042208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Mannheimer"
+              ],
+              "movies": [
+                {
+                  "title": "Born Yesterday",
+                  "tmdbId": 24481,
+                  "imdbId": "tt0042276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Blankfort (Albert Maltz)"
+              ],
+              "movies": [
+                {
+                  "title": "Broken Arrow",
+                  "tmdbId": 37292,
+                  "imdbId": "tt0042286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frances Goodrich",
+                "Albert Hackett"
+              ],
+              "movies": [
+                {
+                  "title": "Father of the Bride",
+                  "tmdbId": 20758,
+                  "imdbId": "tt0042451"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Edna",
+                "Edward Anhalt"
+              ],
+              "movies": [
+                {
+                  "title": "Panic in the Streets",
+                  "tmdbId": 32078,
+                  "imdbId": "tt0042832"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Giuseppe De Santis",
+                "Carlo Lizzani"
+              ],
+              "movies": [
+                {
+                  "title": "Bitter Rice",
+                  "tmdbId": 31058,
+                  "imdbId": "tt0040737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Bowers",
+                "Andre de Toth"
+              ],
+              "movies": [
+                {
+                  "title": "The Gunfighter",
+                  "tmdbId": 17409,
+                  "imdbId": "tt0042531"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Spiegelglass"
+              ],
+              "movies": [
+                {
+                  "title": "Mystery Street",
+                  "tmdbId": 19170,
+                  "imdbId": "tt0042771"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sy Gomberg"
+              ],
+              "movies": [
+                {
+                  "title": "When Willie Comes Marching Home",
+                  "tmdbId": 54615,
+                  "imdbId": "tt0043129"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Walls of Malapaga"
+              ],
+              "movies": [
+                {
+                  "title": "The Walls of Malapaga",
+                  "tmdbId": 65718,
+                  "imdbId": "tt0040137"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Titan: Story of Michelangelo"
+              ],
+              "movies": [
+                {
+                  "title": "The Titan: Story of Michelangelo",
+                  "tmdbId": 114498,
+                  "imdbId": "tt0043050"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "With These Hands"
+              ],
+              "movies": [
+                {
+                  "title": "With These Hands",
+                  "tmdbId": 149253,
+                  "imdbId": "tt0043138"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Robert Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "King Solomon's Mines",
+                  "tmdbId": 43388,
+                  "imdbId": "tt0042646"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Rosher"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Get Your Gun",
+                  "tmdbId": 25209,
+                  "imdbId": "tt0042200"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Palmer"
+              ],
+              "movies": [
+                {
+                  "title": "Broken Arrow",
+                  "tmdbId": 37292,
+                  "imdbId": "tt0042286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Haller"
+              ],
+              "movies": [
+                {
+                  "title": "The Flame and the Arrow",
+                  "tmdbId": 32563,
+                  "imdbId": "tt0042464"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "Samson and Delilah",
+                  "tmdbId": 29993,
+                  "imdbId": "tt0041838"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Robert Krasker"
+              ],
+              "movies": [
+                {
+                  "title": "The Third Man",
+                  "tmdbId": 1092,
+                  "imdbId": "tt0041959"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Milton R. Krasner"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold Rosson"
+              ],
+              "movies": [
+                {
+                  "title": "The Asphalt Jungle",
+                  "tmdbId": 16958,
+                  "imdbId": "tt0042208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Milner"
+              ],
+              "movies": [
+                {
+                  "title": "The Furies",
+                  "tmdbId": 28304,
+                  "imdbId": "tt0042490"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John F. Seitz"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Ralph E. Winters",
+                "Conrad A. Nervig"
+              ],
+              "movies": [
+                {
+                  "title": "King Solomon's Mines",
+                  "tmdbId": 43388,
+                  "imdbId": "tt0042646"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Barbara McLean"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James E. Newcom"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Get Your Gun",
+                  "tmdbId": 25209,
+                  "imdbId": "tt0042200"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Schmidt",
+                "Doane Harrison"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oswald Hafenrichter"
+              ],
+              "movies": [
+                {
+                  "title": "The Third Man",
+                  "tmdbId": 1092,
+                  "imdbId": "tt0041959"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Hans Dreier",
+                "Walter Tyler",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Samson and Delilah",
+                  "tmdbId": 29993,
+                  "imdbId": "tt0041838"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Paul Groesse",
+                "Edwin B. Willis",
+                "Richard A. Pefferle"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Get Your Gun",
+                  "tmdbId": 25209,
+                  "imdbId": "tt0042200"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernst Fegte",
+                "George Sawley"
+              ],
+              "movies": [
+                {
+                  "title": "Destination Moon",
+                  "tmdbId": 25392,
+                  "imdbId": "tt0042393"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Hans Dreier",
+                "John Meehan",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lyle Wheeler",
+                "George W. Davis",
+                "Thomas Little",
+                "Walter M. Scott"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Hans Peters",
+                "Edwin B. Willis",
+                "Hugh Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Danube",
+                  "tmdbId": 36633,
+                  "imdbId": "tt0041788"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Edith Head",
+                "Charles LeMaire",
+                "Dorothy Jeakins",
+                "Elois Jenssen",
+                "Gile Steele",
+                "Gwen Wakeling"
+              ],
+              "movies": [
+                {
+                  "title": "Samson and Delilah",
+                  "tmdbId": 29993,
+                  "imdbId": "tt0041838"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Whittaker"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Rose",
+                  "tmdbId": 44398,
+                  "imdbId": "tt0042256"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Plunkett",
+                "Valles"
+              ],
+              "movies": [
+                {
+                  "title": "That Forsyte Woman",
+                  "tmdbId": 43187,
+                  "imdbId": "tt0041955"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Edith Head",
+                "Charles LeMaire"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Born Yesterday",
+                  "tmdbId": 24481,
+                  "imdbId": "tt0042276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Plunkett"
+              ],
+              "movies": [
+                {
+                  "title": "The Magnificent Yankee",
+                  "tmdbId": 101653,
+                  "imdbId": "tt0042702"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "George Pal Productions"
+              ],
+              "movies": [
+                {
+                  "title": "Destination Moon",
+                  "tmdbId": 25392,
+                  "imdbId": "tt0042393"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cecil B. Demille Productions"
+              ],
+              "movies": [
+                {
+                  "title": "Samson and Delilah",
+                  "tmdbId": 29993,
+                  "imdbId": "tt0041838"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Thomas Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "C.O. Slyfield"
+              ],
+              "movies": [
+                {
+                  "title": "Cinderella",
+                  "tmdbId": 11224,
+                  "imdbId": "tt0042332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leslie I. Carey"
+              ],
+              "movies": [
+                {
+                  "title": "Louisa",
+                  "tmdbId": 99492,
+                  "imdbId": "tt0042687"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "Our Very Own",
+                  "tmdbId": 97332,
+                  "imdbId": "tt0042819"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cyril Crowhurst"
+              ],
+              "movies": [
+                {
+                  "title": "Trio",
+                  "tmdbId": 134168,
+                  "imdbId": "tt0042752"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "Sunset Boulevard",
+                  "tmdbId": 599,
+                  "imdbId": "tt0043014"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "All About Eve",
+                  "tmdbId": 705,
+                  "imdbId": "tt0042192"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "The Flame and the Arrow",
+                  "tmdbId": 32563,
+                  "imdbId": "tt0042464"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Duning"
+              ],
+              "movies": [
+                {
+                  "title": "No Sad Songs for Me",
+                  "tmdbId": 179057,
+                  "imdbId": "tt0042790"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Samson and Delilah",
+                  "tmdbId": 29993,
+                  "imdbId": "tt0041838"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Adolph Deutsch",
+                "Roger Edens"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Get Your Gun",
+                  "tmdbId": 25209,
+                  "imdbId": "tt0042200"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Oliver Wallace",
+                "Paul J. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Cinderella",
+                  "tmdbId": 11224,
+                  "imdbId": "tt0042332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lionel Newman"
+              ],
+              "movies": [
+                {
+                  "title": "I'll Get By",
+                  "tmdbId": 217185,
+                  "imdbId": "tt0042589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andre Previn"
+              ],
+              "movies": [
+                {
+                  "title": "Three Little Words",
+                  "tmdbId": 42767,
+                  "imdbId": "tt0043044"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "The West Point Story",
+                  "tmdbId": 52848,
+                  "imdbId": "tt0043123"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Mona Lisa"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Carey, U.S.A.",
+                  "tmdbId": 129529,
+                  "imdbId": "tt0042310"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Be My Love"
+              ],
+              "movies": [
+                {
+                  "title": "The Toast of New Orleans",
+                  "tmdbId": 52847,
+                  "imdbId": "tt0043053"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bibbidi-Bobbidi-Boo"
+              ],
+              "movies": [
+                {
+                  "title": "Cinderella",
+                  "tmdbId": 11224,
+                  "imdbId": "tt0042332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mule Train"
+              ],
+              "movies": [
+                {
+                  "title": "Singing Guns",
+                  "tmdbId": 147862,
+                  "imdbId": "tt0042970"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wilhelmina"
+              ],
+              "movies": [
+                {
+                  "title": "Wabash Avenue",
+                  "tmdbId": 110669,
+                  "imdbId": "tt0043116"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Gerald McBoing-Boing"
+              ],
+              "movies": [
+                {
+                  "title": "Gerald McBoing-Boing",
+                  "tmdbId": 46990,
+                  "imdbId": "tt0043581"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jerry's Cousin"
+              ],
+              "movies": [
+                {
+                  "title": "Jerry's Cousin",
+                  "tmdbId": 68630,
+                  "imdbId": "tt0043685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Trouble Indemnity"
+              ],
+              "movies": [
+                {
+                  "title": "Trouble Indemnity",
+                  "tmdbId": 242967,
+                  "imdbId": "tt0043073"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Grandad of Races"
+              ],
+              "movies": [
+                {
+                  "title": "Grandad of Races",
+                  "tmdbId": 242964,
+                  "imdbId": "tt0042518"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blaze Busters"
+              ],
+              "movies": [
+                {
+                  "title": "Blaze Busters",
+                  "tmdbId": 242965,
+                  "imdbId": "tt0042259"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wrong Way Butch"
+              ],
+              "movies": [
+                {
+                  "title": "Wrong Way Butch",
+                  "tmdbId": 242966,
+                  "imdbId": "tt0043148"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Beaver Valley"
+              ],
+              "movies": [
+                {
+                  "title": "Beaver Valley",
+                  "tmdbId": 162352,
+                  "imdbId": "tt0042592"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Grandma Moses"
+              ],
+              "movies": [
+                {
+                  "title": "Grandma Moses",
+                  "tmdbId": 242960,
+                  "imdbId": "tt0042520"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Country 'Tis of Thee"
+              ],
+              "movies": [
+                {
+                  "title": "My Country 'Tis of Thee",
+                  "tmdbId": 242961,
+                  "imdbId": "tt0042768"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Why Korea?"
+              ],
+              "movies": [
+                {
+                  "title": "Why Korea?",
+                  "tmdbId": 242968,
+                  "imdbId": "tt0043135"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Fight: Science Against Cancer"
+              ],
+              "movies": [
+                {
+                  "title": "The Fight: Science Against Cancer",
+                  "tmdbId": 242969,
+                  "imdbId": "tt0042460"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Stairs"
+              ],
+              "movies": [
+                {
+                  "title": "The Stairs",
+                  "tmdbId": 1110185
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

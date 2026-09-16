@@ -1,0 +1,1419 @@
+{
+  "ceremony": {
+    "ordinal": 53,
+    "ceremonyYear": 1981,
+    "ceremonyDate": "1981-03-31",
+    "filmYearLabel": "1980",
+    "slug": "1981",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Ordinary People"
+              ],
+              "movies": [
+                {
+                  "title": "Ordinary People",
+                  "tmdbId": 16619,
+                  "imdbId": "tt0081283"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Coal Miner's Daughter"
+              ],
+              "movies": [
+                {
+                  "title": "Coal Miner's Daughter",
+                  "tmdbId": 16769,
+                  "imdbId": "tt0080549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Elephant Man"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Man",
+                  "tmdbId": 1955,
+                  "imdbId": "tt0080678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raging Bull"
+              ],
+              "movies": [
+                {
+                  "title": "Raging Bull",
+                  "tmdbId": 1578,
+                  "imdbId": "tt0081398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tess"
+              ],
+              "movies": [
+                {
+                  "title": "Tess",
+                  "tmdbId": 11121,
+                  "imdbId": "tt0080009"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Robert Redford"
+              ],
+              "movies": [
+                {
+                  "title": "Ordinary People",
+                  "tmdbId": 16619,
+                  "imdbId": "tt0081283"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Lynch"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Man",
+                  "tmdbId": 1955,
+                  "imdbId": "tt0080678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "Raging Bull",
+                  "tmdbId": 1578,
+                  "imdbId": "tt0081398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Rush"
+              ],
+              "movies": [
+                {
+                  "title": "The Stunt Man",
+                  "tmdbId": 42160,
+                  "imdbId": "tt0081568"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roman Polanski"
+              ],
+              "movies": [
+                {
+                  "title": "Tess",
+                  "tmdbId": 11121,
+                  "imdbId": "tt0080009"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Robert De Niro"
+              ],
+              "movies": [
+                {
+                  "title": "Raging Bull",
+                  "tmdbId": 1578,
+                  "imdbId": "tt0081398"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Duvall"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Santini",
+                  "tmdbId": 21887,
+                  "imdbId": "tt0079239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Hurt"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Man",
+                  "tmdbId": 1955,
+                  "imdbId": "tt0080678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Lemmon"
+              ],
+              "movies": [
+                {
+                  "title": "Tribute",
+                  "tmdbId": 130917,
+                  "imdbId": "tt0081656"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter O'Toole"
+              ],
+              "movies": [
+                {
+                  "title": "The Stunt Man",
+                  "tmdbId": 42160,
+                  "imdbId": "tt0081568"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Sissy Spacek"
+              ],
+              "movies": [
+                {
+                  "title": "Coal Miner's Daughter",
+                  "tmdbId": 16769,
+                  "imdbId": "tt0080549"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ellen Burstyn"
+              ],
+              "movies": [
+                {
+                  "title": "Resurrection",
+                  "tmdbId": 98864,
+                  "imdbId": "tt0081414"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Goldie Hawn"
+              ],
+              "movies": [
+                {
+                  "title": "Private Benjamin",
+                  "tmdbId": 10765,
+                  "imdbId": "tt0081375"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mary Tyler Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Ordinary People",
+                  "tmdbId": 16619,
+                  "imdbId": "tt0081283"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gena Rowlands"
+              ],
+              "movies": [
+                {
+                  "title": "Gloria",
+                  "tmdbId": 10889,
+                  "imdbId": "tt0080798"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Timothy Hutton"
+              ],
+              "movies": [
+                {
+                  "title": "Ordinary People",
+                  "tmdbId": 16619,
+                  "imdbId": "tt0081283"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judd Hirsch"
+              ],
+              "movies": [
+                {
+                  "title": "Ordinary People",
+                  "tmdbId": 16619,
+                  "imdbId": "tt0081283"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael O'Keefe"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Santini",
+                  "tmdbId": 21887,
+                  "imdbId": "tt0079239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Pesci"
+              ],
+              "movies": [
+                {
+                  "title": "Raging Bull",
+                  "tmdbId": 1578,
+                  "imdbId": "tt0081398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jason Robards"
+              ],
+              "movies": [
+                {
+                  "title": "Melvin and Howard",
+                  "tmdbId": 38772,
+                  "imdbId": "tt0081150"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Mary Steenburgen"
+              ],
+              "movies": [
+                {
+                  "title": "Melvin and Howard",
+                  "tmdbId": 38772,
+                  "imdbId": "tt0081150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eileen Brennan"
+              ],
+              "movies": [
+                {
+                  "title": "Private Benjamin",
+                  "tmdbId": 10765,
+                  "imdbId": "tt0081375"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eva Le Gallienne"
+              ],
+              "movies": [
+                {
+                  "title": "Resurrection",
+                  "tmdbId": 98864,
+                  "imdbId": "tt0081414"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cathy Moriarty"
+              ],
+              "movies": [
+                {
+                  "title": "Raging Bull",
+                  "tmdbId": 1578,
+                  "imdbId": "tt0081398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Diana Scarwid"
+              ],
+              "movies": [
+                {
+                  "title": "Inside Moves",
+                  "tmdbId": 39503,
+                  "imdbId": "tt0080928"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Bo Goldman"
+              ],
+              "movies": [
+                {
+                  "title": "Melvin and Howard",
+                  "tmdbId": 38772,
+                  "imdbId": "tt0081150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "W. D. Richter",
+                "Arthur Ross"
+              ],
+              "movies": [
+                {
+                  "title": "Brubaker",
+                  "tmdbId": 1623,
+                  "imdbId": "tt0080474"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Gore"
+              ],
+              "movies": [
+                {
+                  "title": "Fame",
+                  "tmdbId": 3537,
+                  "imdbId": "tt0080716"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Gruault"
+              ],
+              "movies": [
+                {
+                  "title": "My American Uncle",
+                  "tmdbId": 39543,
+                  "imdbId": "tt0081176"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nancy Meyers",
+                "Charles Shyer",
+                "Harvey Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Private Benjamin",
+                  "tmdbId": 10765,
+                  "imdbId": "tt0081375"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alvin Sargent"
+              ],
+              "movies": [
+                {
+                  "title": "Ordinary People",
+                  "tmdbId": 16619,
+                  "imdbId": "tt0081283"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jonathan Hardy",
+                "David Stevens",
+                "Bruce Beresford"
+              ],
+              "movies": [
+                {
+                  "title": "Breaker Morant",
+                  "tmdbId": 13783,
+                  "imdbId": "tt0080310"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Rickman"
+              ],
+              "movies": [
+                {
+                  "title": "Coal Miner's Daughter",
+                  "tmdbId": 16769,
+                  "imdbId": "tt0080549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher De Vore",
+                "Eric Bergren",
+                "David Lynch"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Man",
+                  "tmdbId": 1955,
+                  "imdbId": "tt0080678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lawrence B. Marcus",
+                "Richard Rush"
+              ],
+              "movies": [
+                {
+                  "title": "The Stunt Man",
+                  "tmdbId": 42160,
+                  "imdbId": "tt0081568"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Moscow Does Not Believe in Tears"
+              ],
+              "movies": [
+                {
+                  "title": "Moscow Does Not Believe in Tears",
+                  "tmdbId": 21028,
+                  "imdbId": "tt0079579"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Confidence"
+              ],
+              "movies": [
+                {
+                  "title": "Confidence",
+                  "tmdbId": 49139,
+                  "imdbId": "tt0078868"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kagemusha"
+              ],
+              "movies": [
+                {
+                  "title": "Kagemusha",
+                  "tmdbId": 11953,
+                  "imdbId": "tt0080979"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Last Metro"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Metro",
+                  "tmdbId": 1716,
+                  "imdbId": "tt0080610"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Nest"
+              ],
+              "movies": [
+                {
+                  "title": "The Nest",
+                  "tmdbId": 136676,
+                  "imdbId": "tt0079625"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "From Mao to Mozart: Isaac Stern in China"
+              ],
+              "movies": [
+                {
+                  "title": "From Mao to Mozart: Isaac Stern in China",
+                  "tmdbId": 113815,
+                  "imdbId": "tt0080762"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Agee"
+              ],
+              "movies": [
+                {
+                  "title": "Agee",
+                  "tmdbId": 136682,
+                  "imdbId": "tt0080337"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Day After Trinity"
+              ],
+              "movies": [
+                {
+                  "title": "The Day After Trinity",
+                  "tmdbId": 59314,
+                  "imdbId": "tt0080594"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Front Line"
+              ],
+              "movies": [
+                {
+                  "title": "Front Line",
+                  "tmdbId": 149364,
+                  "imdbId": "tt0080763"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Yellow Star: The Persecution of the Jews in Europe - 1933-1945"
+              ],
+              "movies": [
+                {
+                  "title": "The Yellow Star: The Persecution of the Jews in Europe - 1933-1945",
+                  "tmdbId": 136678,
+                  "imdbId": "tt0080780"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Geoffrey Unsworth",
+                "Ghislain Cloquet"
+              ],
+              "movies": [
+                {
+                  "title": "Tess",
+                  "tmdbId": 11121,
+                  "imdbId": "tt0080009"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nestor Almendros"
+              ],
+              "movies": [
+                {
+                  "title": "The Blue Lagoon",
+                  "tmdbId": 5689,
+                  "imdbId": "tt0080453"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralf D. Bode"
+              ],
+              "movies": [
+                {
+                  "title": "Coal Miner's Daughter",
+                  "tmdbId": 16769,
+                  "imdbId": "tt0080549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Crabe"
+              ],
+              "movies": [
+                {
+                  "title": "The Formula",
+                  "tmdbId": 31603,
+                  "imdbId": "tt0080754"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Chapman"
+              ],
+              "movies": [
+                {
+                  "title": "Raging Bull",
+                  "tmdbId": 1578,
+                  "imdbId": "tt0081398"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Thelma Schoonmaker"
+              ],
+              "movies": [
+                {
+                  "title": "Raging Bull",
+                  "tmdbId": 1578,
+                  "imdbId": "tt0081398"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Schmidt"
+              ],
+              "movies": [
+                {
+                  "title": "Coal Miner's Daughter",
+                  "tmdbId": 16769,
+                  "imdbId": "tt0080549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Blewitt"
+              ],
+              "movies": [
+                {
+                  "title": "The Competition",
+                  "tmdbId": 42158,
+                  "imdbId": "tt0080556"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne V. Coates"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Man",
+                  "tmdbId": 1955,
+                  "imdbId": "tt0080678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerry Hambling"
+              ],
+              "movies": [
+                {
+                  "title": "Fame",
+                  "tmdbId": 3537,
+                  "imdbId": "tt0080716"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Pierre Guffroy",
+                "Jack Stephens"
+              ],
+              "movies": [
+                {
+                  "title": "Tess",
+                  "tmdbId": 11121,
+                  "imdbId": "tt0080009"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John W. Corso",
+                "John M. Dwyer"
+              ],
+              "movies": [
+                {
+                  "title": "Coal Miner's Daughter",
+                  "tmdbId": 16769,
+                  "imdbId": "tt0080549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Craig",
+                "Robert Cartwright",
+                "Hugh Scaife"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Man",
+                  "tmdbId": 1955,
+                  "imdbId": "tt0080678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Reynolds",
+                "Leslie Dilley",
+                "Harry Lange",
+                "Alan Tompkins",
+                "Michael D. Ford"
+              ],
+              "movies": [
+                {
+                  "title": "The Empire Strikes Back",
+                  "tmdbId": 1891,
+                  "imdbId": "tt0080684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yoshiro Muraki"
+              ],
+              "movies": [
+                {
+                  "title": "Kagemusha",
+                  "tmdbId": 11953,
+                  "imdbId": "tt0080979"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Anthony Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Tess",
+                  "tmdbId": 11121,
+                  "imdbId": "tt0080009"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Patricia Norris"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Man",
+                  "tmdbId": 1955,
+                  "imdbId": "tt0080678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anna Senior"
+              ],
+              "movies": [
+                {
+                  "title": "My Brilliant Career",
+                  "tmdbId": 16659,
+                  "imdbId": "tt0079596"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean-Pierre Dorleac"
+              ],
+              "movies": [
+                {
+                  "title": "Somewhere in Time",
+                  "tmdbId": 16633,
+                  "imdbId": "tt0081534"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Zastupnevich"
+              ],
+              "movies": [
+                {
+                  "title": "When Time Ran Out...",
+                  "tmdbId": 47942,
+                  "imdbId": "tt0081747"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Brian Johnson",
+                "Richard Edlund",
+                "Dennis Muren",
+                "Bruce Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "The Empire Strikes Back",
+                  "tmdbId": 1891,
+                  "imdbId": "tt0080684"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Bill Varney",
+                "Steve Maslow",
+                "Gregg Landaker",
+                "Peter Sutton"
+              ],
+              "movies": [
+                {
+                  "title": "The Empire Strikes Back",
+                  "tmdbId": 1891,
+                  "imdbId": "tt0080684"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Piantadosi",
+                "Les Frescholtz",
+                "Michael Minkler",
+                "Willie D. Burton"
+              ],
+              "movies": [
+                {
+                  "title": "Altered States",
+                  "tmdbId": 11542,
+                  "imdbId": "tt0080360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Portman",
+                "Roger Heman",
+                "James R. Alexander"
+              ],
+              "movies": [
+                {
+                  "title": "Coal Miner's Daughter",
+                  "tmdbId": 16769,
+                  "imdbId": "tt0080549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael J. Kohut",
+                "Aaron Rochin",
+                "Jay M. Harding",
+                "Christopher Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Fame",
+                  "tmdbId": 3537,
+                  "imdbId": "tt0080716"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Bill Nicholson",
+                "David J. Kimball",
+                "Les Lazarowitz"
+              ],
+              "movies": [
+                {
+                  "title": "Raging Bull",
+                  "tmdbId": 1578,
+                  "imdbId": "tt0081398"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Michael Gore"
+              ],
+              "movies": [
+                {
+                  "title": "Fame",
+                  "tmdbId": 3537,
+                  "imdbId": "tt0080716"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Corigliano"
+              ],
+              "movies": [
+                {
+                  "title": "Altered States",
+                  "tmdbId": 11542,
+                  "imdbId": "tt0080360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Morris"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Man",
+                  "tmdbId": 1955,
+                  "imdbId": "tt0080678"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Empire Strikes Back",
+                  "tmdbId": 1891,
+                  "imdbId": "tt0080684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philippe Sarde"
+              ],
+              "movies": [
+                {
+                  "title": "Tess",
+                  "tmdbId": 11121,
+                  "imdbId": "tt0080009"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Fame"
+              ],
+              "movies": [
+                {
+                  "title": "Fame",
+                  "tmdbId": 3537,
+                  "imdbId": "tt0080716"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nine to Five"
+              ],
+              "movies": [
+                {
+                  "title": "Nine to Five",
+                  "tmdbId": 19494,
+                  "imdbId": "tt0080319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On the Road Again"
+              ],
+              "movies": [
+                {
+                  "title": "Honeysuckle Rose",
+                  "tmdbId": 22288,
+                  "imdbId": "tt0080888"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Out Here on My Own"
+              ],
+              "movies": [
+                {
+                  "title": "Fame",
+                  "tmdbId": 3537,
+                  "imdbId": "tt0080716"
+                }
+              ]
+            },
+            {
+              "names": [
+                "People Alone"
+              ],
+              "movies": [
+                {
+                  "title": "The Competition",
+                  "tmdbId": 42158,
+                  "imdbId": "tt0080556"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Fly"
+              ],
+              "movies": [
+                {
+                  "title": "The Fly",
+                  "tmdbId": 581750,
+                  "imdbId": "tt6651942"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All Nothing"
+              ],
+              "movies": [
+                {
+                  "title": "All Nothing",
+                  "tmdbId": 90826,
+                  "imdbId": "tt0080351"
+                }
+              ]
+            },
+            {
+              "names": [
+                "History of the World in Three Minutes Flat"
+              ],
+              "movies": [
+                {
+                  "title": "History of the World in Three Minutes Flat",
+                  "tmdbId": 244362,
+                  "imdbId": "tt0080879"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Dollar Bottom"
+              ],
+              "movies": [
+                {
+                  "title": "The Dollar Bottom",
+                  "tmdbId": 244363,
+                  "imdbId": "tt0080643"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fall Line"
+              ],
+              "movies": [
+                {
+                  "title": "Fall Line",
+                  "tmdbId": 244369,
+                  "imdbId": "tt0080713"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Jury of Her Peers"
+              ],
+              "movies": [
+                {
+                  "title": "A Jury of Her Peers",
+                  "tmdbId": 244372,
+                  "imdbId": "tt0080974"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Karl Hess: Toward Liberty"
+              ],
+              "movies": [
+                {
+                  "title": "Karl Hess: Toward Liberty",
+                  "tmdbId": 244373,
+                  "imdbId": "tt0080987"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don't Mess with Bill"
+              ],
+              "movies": [
+                {
+                  "title": "Don't Mess with Bill",
+                  "tmdbId": 244376,
+                  "imdbId": "tt0080647"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Eruption of Mount St. Helens!"
+              ],
+              "movies": [
+                {
+                  "title": "The Eruption of Mount St. Helens!",
+                  "tmdbId": 31753,
+                  "imdbId": "tt0080694"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It's the Same World"
+              ],
+              "movies": [
+                {
+                  "title": "It's the Same World",
+                  "tmdbId": 244379,
+                  "imdbId": "tt0080937"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luther Metke at 94"
+              ],
+              "movies": [
+                {
+                  "title": "Luther Metke at 94",
+                  "tmdbId": 244380,
+                  "imdbId": "tt0081091"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

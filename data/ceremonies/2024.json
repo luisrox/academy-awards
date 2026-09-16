@@ -1,0 +1,1727 @@
+{
+  "ceremony": {
+    "ordinal": 96,
+    "ceremonyYear": 2024,
+    "ceremonyDate": "2024-03-10",
+    "filmYearLabel": "2023",
+    "slug": "2024",
+    "decade": "2020s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Oppenheimer"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "American Fiction"
+              ],
+              "movies": [
+                {
+                  "title": "American Fiction",
+                  "tmdbId": 1056360,
+                  "imdbId": "tt23561236"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anatomy of a Fall"
+              ],
+              "movies": [
+                {
+                  "title": "Anatomy of a Fall",
+                  "tmdbId": 915935,
+                  "imdbId": "tt17009710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbie"
+              ],
+              "movies": [
+                {
+                  "title": "Barbie",
+                  "tmdbId": 346698,
+                  "imdbId": "tt1517268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Holdovers"
+              ],
+              "movies": [
+                {
+                  "title": "The Holdovers",
+                  "tmdbId": 840430,
+                  "imdbId": "tt14849194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Killers of the Flower Moon"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maestro"
+              ],
+              "movies": [
+                {
+                  "title": "Maestro",
+                  "tmdbId": 523607,
+                  "imdbId": "tt5535276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Past Lives"
+              ],
+              "movies": [
+                {
+                  "title": "Past Lives",
+                  "tmdbId": 666277,
+                  "imdbId": "tt13238346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Poor Things"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Zone of Interest"
+              ],
+              "movies": [
+                {
+                  "title": "The Zone of Interest",
+                  "tmdbId": 467244,
+                  "imdbId": "tt7160372"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Christopher Nolan"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Justine Triet"
+              ],
+              "movies": [
+                {
+                  "title": "Anatomy of a Fall",
+                  "tmdbId": 915935,
+                  "imdbId": "tt17009710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yorgos Lanthimos"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonathan Glazer"
+              ],
+              "movies": [
+                {
+                  "title": "The Zone of Interest",
+                  "tmdbId": 467244,
+                  "imdbId": "tt7160372"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Cillian Murphy"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bradley Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "Maestro",
+                  "tmdbId": 523607,
+                  "imdbId": "tt5535276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colman Domingo"
+              ],
+              "movies": [
+                {
+                  "title": "Rustin",
+                  "tmdbId": 898713,
+                  "imdbId": "tt14160834"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Giamatti"
+              ],
+              "movies": [
+                {
+                  "title": "The Holdovers",
+                  "tmdbId": 840430,
+                  "imdbId": "tt14849194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeffrey Wright"
+              ],
+              "movies": [
+                {
+                  "title": "American Fiction",
+                  "tmdbId": 1056360,
+                  "imdbId": "tt23561236"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Emma Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Annette Bening"
+              ],
+              "movies": [
+                {
+                  "title": "NYAD",
+                  "tmdbId": 895549,
+                  "imdbId": "tt5302918"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lily Gladstone"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandra Huller"
+              ],
+              "movies": [
+                {
+                  "title": "Anatomy of a Fall",
+                  "tmdbId": 915935,
+                  "imdbId": "tt17009710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carey Mulligan"
+              ],
+              "movies": [
+                {
+                  "title": "Maestro",
+                  "tmdbId": 523607,
+                  "imdbId": "tt5535276"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Robert Downey Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sterling K. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "American Fiction",
+                  "tmdbId": 1056360,
+                  "imdbId": "tt23561236"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert De Niro"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ryan Gosling"
+              ],
+              "movies": [
+                {
+                  "title": "Barbie",
+                  "tmdbId": 346698,
+                  "imdbId": "tt1517268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Ruffalo"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Da'Vine Joy Randolph"
+              ],
+              "movies": [
+                {
+                  "title": "The Holdovers",
+                  "tmdbId": 840430,
+                  "imdbId": "tt14849194"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Emily Blunt"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Danielle Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "The Color Purple",
+                  "tmdbId": 558915,
+                  "imdbId": "tt1200263"
+                }
+              ]
+            },
+            {
+              "names": [
+                "America Ferrera"
+              ],
+              "movies": [
+                {
+                  "title": "Barbie",
+                  "tmdbId": 346698,
+                  "imdbId": "tt1517268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jodie Foster"
+              ],
+              "movies": [
+                {
+                  "title": "NYAD",
+                  "tmdbId": 895549,
+                  "imdbId": "tt5302918"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Justine Triet",
+                "Arthur Harari"
+              ],
+              "movies": [
+                {
+                  "title": "Anatomy of a Fall",
+                  "tmdbId": 915935,
+                  "imdbId": "tt17009710"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Hemingson"
+              ],
+              "movies": [
+                {
+                  "title": "The Holdovers",
+                  "tmdbId": 840430,
+                  "imdbId": "tt14849194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bradley Cooper",
+                "Josh Singer"
+              ],
+              "movies": [
+                {
+                  "title": "Maestro",
+                  "tmdbId": 523607,
+                  "imdbId": "tt5535276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Samy Burch",
+                "Alex Mechanik"
+              ],
+              "movies": [
+                {
+                  "title": "May December",
+                  "tmdbId": 839369,
+                  "imdbId": "tt13651794"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Celine Song"
+              ],
+              "movies": [
+                {
+                  "title": "Past Lives",
+                  "tmdbId": 666277,
+                  "imdbId": "tt13238346"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Cord Jefferson"
+              ],
+              "movies": [
+                {
+                  "title": "American Fiction",
+                  "tmdbId": 1056360,
+                  "imdbId": "tt23561236"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Greta Gerwig",
+                "Noah Baumbach"
+              ],
+              "movies": [
+                {
+                  "title": "Barbie",
+                  "tmdbId": 346698,
+                  "imdbId": "tt1517268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Nolan"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony McNamara"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonathan Glazer"
+              ],
+              "movies": [
+                {
+                  "title": "The Zone of Interest",
+                  "tmdbId": 467244,
+                  "imdbId": "tt7160372"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "The Boy and the Heron"
+              ],
+              "movies": [
+                {
+                  "title": "The Boy and the Heron",
+                  "tmdbId": 508883,
+                  "imdbId": "tt6587046"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elemental"
+              ],
+              "movies": [
+                {
+                  "title": "Elemental",
+                  "tmdbId": 976573,
+                  "imdbId": "tt15789038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nimona"
+              ],
+              "movies": [
+                {
+                  "title": "Nimona",
+                  "tmdbId": 961323,
+                  "imdbId": "tt19500164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robot Dreams"
+              ],
+              "movies": [
+                {
+                  "title": "Robot Dreams",
+                  "tmdbId": 838240,
+                  "imdbId": "tt13429870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spider-Man: Across the Spider-Verse"
+              ],
+              "movies": [
+                {
+                  "title": "Spider-Man: Across the Spider-Verse",
+                  "tmdbId": 569094,
+                  "imdbId": "tt9362722"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best International Feature Film",
+          "winners": [
+            {
+              "names": [
+                "The Zone of Interest"
+              ],
+              "movies": [
+                {
+                  "title": "The Zone of Interest",
+                  "tmdbId": 467244,
+                  "imdbId": "tt7160372"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Io Capitano"
+              ],
+              "movies": [
+                {
+                  "title": "Io Capitano",
+                  "tmdbId": 937746,
+                  "imdbId": "tt14225838"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Perfect Days"
+              ],
+              "movies": [
+                {
+                  "title": "Perfect Days",
+                  "tmdbId": 976893,
+                  "imdbId": "tt27503384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Society of the Snow"
+              ],
+              "movies": [
+                {
+                  "title": "Society of the Snow",
+                  "tmdbId": 906126,
+                  "imdbId": "tt16277242"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Teachers' Lounge"
+              ],
+              "movies": [
+                {
+                  "title": "The Teachers' Lounge",
+                  "tmdbId": 998022,
+                  "imdbId": "tt26612950"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature Film",
+          "winners": [
+            {
+              "names": [
+                "20 Days in Mariupol"
+              ],
+              "movies": [
+                {
+                  "title": "20 Days in Mariupol",
+                  "tmdbId": 1058616,
+                  "imdbId": "tt24082438"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bobi Wine: The People's President"
+              ],
+              "movies": [
+                {
+                  "title": "Bobi Wine: The People's President",
+                  "tmdbId": 1004683,
+                  "imdbId": "tt21376900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Eternal Memory"
+              ],
+              "movies": [
+                {
+                  "title": "The Eternal Memory",
+                  "tmdbId": 1032760,
+                  "imdbId": "tt24082488"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Four Daughters"
+              ],
+              "movies": [
+                {
+                  "title": "Four Daughters",
+                  "tmdbId": 1069193,
+                  "imdbId": "tt27502426"
+                }
+              ]
+            },
+            {
+              "names": [
+                "To Kill a Tiger"
+              ],
+              "movies": [
+                {
+                  "title": "To Kill a Tiger",
+                  "tmdbId": 1015356,
+                  "imdbId": "tt21688772"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Hoyte van Hoytema"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edward Lachman"
+              ],
+              "movies": [
+                {
+                  "title": "El Conde",
+                  "tmdbId": 991708,
+                  "imdbId": "tt21113540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rodrigo Prieto"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matthew Libatique"
+              ],
+              "movies": [
+                {
+                  "title": "Maestro",
+                  "tmdbId": 523607,
+                  "imdbId": "tt5535276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robbie Ryan"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Jennifer Lame"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Laurent Senechal"
+              ],
+              "movies": [
+                {
+                  "title": "Anatomy of a Fall",
+                  "tmdbId": 915935,
+                  "imdbId": "tt17009710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin Tent"
+              ],
+              "movies": [
+                {
+                  "title": "The Holdovers",
+                  "tmdbId": 840430,
+                  "imdbId": "tt14849194"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thelma Schoonmaker"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yorgos Mavropsaridis"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "James Price",
+                "Shona Heath",
+                "Zsuzsa Mihalek"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sarah Greenwood",
+                "Katie Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Barbie",
+                  "tmdbId": 346698,
+                  "imdbId": "tt1517268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Fisk",
+                "Adam Willis"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Max",
+                "Elli Griff"
+              ],
+              "movies": [
+                {
+                  "title": "Napoleon",
+                  "tmdbId": 753342,
+                  "imdbId": "tt13287846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth De Jong",
+                "Claire Kaufman"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Holly Waddington"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jacqueline Durran"
+              ],
+              "movies": [
+                {
+                  "title": "Barbie",
+                  "tmdbId": 346698,
+                  "imdbId": "tt1517268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacqueline West"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janty Yates",
+                "Dave Crossman"
+              ],
+              "movies": [
+                {
+                  "title": "Napoleon",
+                  "tmdbId": 753342,
+                  "imdbId": "tt13287846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ellen Mirojnick"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Nadia Stacey",
+                "Mark Coulier",
+                "Josh Weston"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Karen Hartley Thomas",
+                "Suzi Battersby",
+                "Ashra Kelly-Blue"
+              ],
+              "movies": [
+                {
+                  "title": "Golda",
+                  "tmdbId": 899524,
+                  "imdbId": "tt14454876"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kazu Hiro",
+                "Kay Georgiou",
+                "Lori McCoy-Bell"
+              ],
+              "movies": [
+                {
+                  "title": "Maestro",
+                  "tmdbId": 523607,
+                  "imdbId": "tt5535276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luisa Abel"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ana Lopez-Puigcerver",
+                "David Marti",
+                "Montse Ribe"
+              ],
+              "movies": [
+                {
+                  "title": "Society of the Snow",
+                  "tmdbId": 906126,
+                  "imdbId": "tt16277242"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Takashi Yamazaki",
+                "Kiyoko Shibuya",
+                "Masaki Takahashi",
+                "Tatsuji Nojima"
+              ],
+              "movies": [
+                {
+                  "title": "Godzilla Minus One",
+                  "tmdbId": 940721,
+                  "imdbId": "tt23289160"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jay Cooper",
+                "Ian Comley",
+                "Andrew Roberts",
+                "Neil Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "The Creator",
+                  "tmdbId": 670292,
+                  "imdbId": "tt11858890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephane Ceretti",
+                "Alexis Wajsbrot",
+                "Guy Williams",
+                "Theo Bialek"
+              ],
+              "movies": [
+                {
+                  "title": "Guardians of the Galaxy Vol. 3",
+                  "tmdbId": 447365,
+                  "imdbId": "tt6791350"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex Wuttke",
+                "Simone Coco",
+                "Jeff Sutherland",
+                "Neil Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Mission: Impossible - Dead Reckoning Part One",
+                  "tmdbId": 575264,
+                  "imdbId": "tt9603212"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charley Henley",
+                "Luc-Ewen Martin-Fenouillet",
+                "Simone Coco",
+                "Neil Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Napoleon",
+                  "tmdbId": 753342,
+                  "imdbId": "tt13287846"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Tarn Willers",
+                "Johnnie Burn"
+              ],
+              "movies": [
+                {
+                  "title": "The Zone of Interest",
+                  "tmdbId": 467244,
+                  "imdbId": "tt7160372"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ian Voigt",
+                "Erik Aadahl",
+                "Ethan Van der Ryn",
+                "Tom Ozanich",
+                "Dean Zupancic"
+              ],
+              "movies": [
+                {
+                  "title": "The Creator",
+                  "tmdbId": 670292,
+                  "imdbId": "tt11858890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven A. Morrow",
+                "Richard King",
+                "Jason Ruder",
+                "Tom Ozanich",
+                "Dean Zupancic"
+              ],
+              "movies": [
+                {
+                  "title": "Maestro",
+                  "tmdbId": 523607,
+                  "imdbId": "tt5535276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chris Munro",
+                "James H. Mather",
+                "Chris Burdon",
+                "Mark Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "Mission: Impossible - Dead Reckoning Part One",
+                  "tmdbId": 575264,
+                  "imdbId": "tt9603212"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Willie Burton",
+                "Richard King",
+                "Gary A. Rizzo",
+                "Kevin O'Connell"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Ludwig Goransson"
+              ],
+              "movies": [
+                {
+                  "title": "Oppenheimer",
+                  "tmdbId": 872585,
+                  "imdbId": "tt15398776"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Laura Karpman"
+              ],
+              "movies": [
+                {
+                  "title": "American Fiction",
+                  "tmdbId": 1056360,
+                  "imdbId": "tt23561236"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Indiana Jones and the Dial of Destiny",
+                  "tmdbId": 335977,
+                  "imdbId": "tt1462764"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robbie Robertson"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerskin Fendrix"
+              ],
+              "movies": [
+                {
+                  "title": "Poor Things",
+                  "tmdbId": 792307,
+                  "imdbId": "tt14230458"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "What Was I Made For?"
+              ],
+              "movies": [
+                {
+                  "title": "Barbie",
+                  "tmdbId": 346698,
+                  "imdbId": "tt1517268"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Fire Inside"
+              ],
+              "movies": [
+                {
+                  "title": "Flamin' Hot",
+                  "tmdbId": 626332,
+                  "imdbId": "tt8105234"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'm Just Ken"
+              ],
+              "movies": [
+                {
+                  "title": "Barbie",
+                  "tmdbId": 346698,
+                  "imdbId": "tt1517268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It Never Went Away"
+              ],
+              "movies": [
+                {
+                  "title": "American Symphony",
+                  "tmdbId": 1171816,
+                  "imdbId": "tt28865980"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wahzhazhe (A Song for My People)"
+              ],
+              "movies": [
+                {
+                  "title": "Killers of the Flower Moon",
+                  "tmdbId": 466420,
+                  "imdbId": "tt5537002"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "WAR IS OVER! Inspired by the Music of John & Yoko"
+              ],
+              "movies": [
+                {
+                  "title": "WAR IS OVER! Inspired by the Music of John & Yoko",
+                  "tmdbId": 1214020,
+                  "imdbId": "tt29795707"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Letter to a Pig"
+              ],
+              "movies": [
+                {
+                  "title": "Letter to a Pig",
+                  "tmdbId": 950810,
+                  "imdbId": "tt10346066"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ninety-Five Senses"
+              ],
+              "movies": [
+                {
+                  "title": "Ninety-Five Senses",
+                  "tmdbId": 1040371,
+                  "imdbId": "tt11020596"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Our Uniform"
+              ],
+              "movies": [
+                {
+                  "title": "Our Uniform",
+                  "tmdbId": 1140605,
+                  "imdbId": "tt28058015"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pachyderm"
+              ],
+              "movies": [
+                {
+                  "title": "Pachyderm",
+                  "tmdbId": 950822,
+                  "imdbId": "tt20862526"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Wonderful Story of Henry Sugar"
+              ],
+              "movies": [
+                {
+                  "title": "The Wonderful Story of Henry Sugar",
+                  "tmdbId": 923939,
+                  "imdbId": "tt16968450"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The After"
+              ],
+              "movies": [
+                {
+                  "title": "The After",
+                  "tmdbId": 1169455,
+                  "imdbId": "tt28532006"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Invincible"
+              ],
+              "movies": [
+                {
+                  "title": "Invincible",
+                  "tmdbId": 1084765,
+                  "imdbId": "tt22749100"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Knight of Fortune"
+              ],
+              "movies": [
+                {
+                  "title": "Knight of Fortune",
+                  "tmdbId": 971468,
+                  "imdbId": "tt26600054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Red, White and Blue"
+              ],
+              "movies": [
+                {
+                  "title": "Red, White and Blue",
+                  "tmdbId": 1194636,
+                  "imdbId": "tt27759823"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Last Repair Shop"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Repair Shop",
+                  "tmdbId": 1171861,
+                  "imdbId": "tt29118186"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The ABCs of Book Banning"
+              ],
+              "movies": [
+                {
+                  "title": "The ABCs of Book Banning",
+                  "tmdbId": 1186227,
+                  "imdbId": "tt29361805"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Barber of Little Rock"
+              ],
+              "movies": [
+                {
+                  "title": "The Barber of Little Rock",
+                  "tmdbId": 1186247,
+                  "imdbId": "tt28627868"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Island in Between"
+              ],
+              "movies": [
+                {
+                  "title": "Island in Between",
+                  "tmdbId": 1203439,
+                  "imdbId": "tt30523942"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nǎi Nai & Wài Pó"
+              ],
+              "movies": [
+                {
+                  "title": "Nǎi Nai & Wài Pó",
+                  "tmdbId": 1085779,
+                  "imdbId": "tt26218316"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

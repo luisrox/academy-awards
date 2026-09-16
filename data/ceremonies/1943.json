@@ -1,0 +1,2365 @@
+{
+  "ceremony": {
+    "ordinal": 15,
+    "ceremonyYear": 1943,
+    "ceremonyDate": "1943-03-04",
+    "filmYearLabel": "1942",
+    "slug": "1943",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Mrs. Miniver"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "49th Parallel"
+              ],
+              "movies": [
+                {
+                  "title": "49th Parallel",
+                  "tmdbId": 21735,
+                  "imdbId": "tt0033627"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kings Row"
+              ],
+              "movies": [
+                {
+                  "title": "Kings Row",
+                  "tmdbId": 53779,
+                  "imdbId": "tt0034946"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Magnificent Ambersons"
+              ],
+              "movies": [
+                {
+                  "title": "The Magnificent Ambersons",
+                  "tmdbId": 965,
+                  "imdbId": "tt0035015"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Pied Piper"
+              ],
+              "movies": [
+                {
+                  "title": "The Pied Piper",
+                  "tmdbId": 84085,
+                  "imdbId": "tt0035189"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Pride of the Yankees"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Random Harvest"
+              ],
+              "movies": [
+                {
+                  "title": "Random Harvest",
+                  "tmdbId": 22387,
+                  "imdbId": "tt0035238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Talk of the Town"
+              ],
+              "movies": [
+                {
+                  "title": "The Talk of the Town",
+                  "tmdbId": 23159,
+                  "imdbId": "tt0035417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wake Island"
+              ],
+              "movies": [
+                {
+                  "title": "Wake Island",
+                  "tmdbId": 43786,
+                  "imdbId": "tt0035530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yankee Doodle Dandy"
+              ],
+              "movies": [
+                {
+                  "title": "Yankee Doodle Dandy",
+                  "tmdbId": 3087,
+                  "imdbId": "tt0035575"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Curtiz"
+              ],
+              "movies": [
+                {
+                  "title": "Yankee Doodle Dandy",
+                  "tmdbId": 3087,
+                  "imdbId": "tt0035575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Farrow"
+              ],
+              "movies": [
+                {
+                  "title": "Wake Island",
+                  "tmdbId": 43786,
+                  "imdbId": "tt0035530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mervyn LeRoy"
+              ],
+              "movies": [
+                {
+                  "title": "Random Harvest",
+                  "tmdbId": 22387,
+                  "imdbId": "tt0035238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Wood"
+              ],
+              "movies": [
+                {
+                  "title": "Kings Row",
+                  "tmdbId": 53779,
+                  "imdbId": "tt0034946"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "James Cagney"
+              ],
+              "movies": [
+                {
+                  "title": "Yankee Doodle Dandy",
+                  "tmdbId": 3087,
+                  "imdbId": "tt0035575"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ronald Colman"
+              ],
+              "movies": [
+                {
+                  "title": "Random Harvest",
+                  "tmdbId": 22387,
+                  "imdbId": "tt0035238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Pidgeon"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Monty Woolley"
+              ],
+              "movies": [
+                {
+                  "title": "The Pied Piper",
+                  "tmdbId": 84085,
+                  "imdbId": "tt0035189"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Greer Garson"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Now, Voyager",
+                  "tmdbId": 32847,
+                  "imdbId": "tt0035140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "Woman of the Year",
+                  "tmdbId": 20640,
+                  "imdbId": "tt0035567"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rosalind Russell"
+              ],
+              "movies": [
+                {
+                  "title": "My Sister Eileen",
+                  "tmdbId": 33052,
+                  "imdbId": "tt0035105"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Teresa Wright"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Van Heflin"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Eager",
+                  "tmdbId": 41495,
+                  "imdbId": "tt0033774"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Bendix"
+              ],
+              "movies": [
+                {
+                  "title": "Wake Island",
+                  "tmdbId": 43786,
+                  "imdbId": "tt0035530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Huston"
+              ],
+              "movies": [
+                {
+                  "title": "Yankee Doodle Dandy",
+                  "tmdbId": 3087,
+                  "imdbId": "tt0035575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Morgan"
+              ],
+              "movies": [
+                {
+                  "title": "Tortilla Flat",
+                  "tmdbId": 79372,
+                  "imdbId": "tt0035460"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Travers"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Teresa Wright"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gladys Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "Now, Voyager",
+                  "tmdbId": 32847,
+                  "imdbId": "tt0035140"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Agnes Moorehead"
+              ],
+              "movies": [
+                {
+                  "title": "The Magnificent Ambersons",
+                  "tmdbId": 965,
+                  "imdbId": "tt0035015"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Peters"
+              ],
+              "movies": [
+                {
+                  "title": "Random Harvest",
+                  "tmdbId": 22387,
+                  "imdbId": "tt0035238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dame May Whitty"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Michael Kanin",
+                "Ring Lardner Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Woman of the Year",
+                  "tmdbId": 20640,
+                  "imdbId": "tt0035567"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "W. R. Burnett",
+                "Frank Butler"
+              ],
+              "movies": [
+                {
+                  "title": "Wake Island",
+                  "tmdbId": 43786,
+                  "imdbId": "tt0035530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Butler",
+                "Don Hartman"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Morocco",
+                  "tmdbId": 31805,
+                  "imdbId": "tt0035262"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Oppenheimer"
+              ],
+              "movies": [
+                {
+                  "title": "The War Against Mrs. Hadley",
+                  "tmdbId": 100528,
+                  "imdbId": "tt0035531"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Powell",
+                "Emeric Pressburger"
+              ],
+              "movies": [
+                {
+                  "title": "One of Our Aircraft Is Missing",
+                  "tmdbId": 43780,
+                  "imdbId": "tt0035153"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "George Froeschl",
+                "James Hilton",
+                "Claudine West",
+                "Arthur Wimperis"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rodney Ackland",
+                "Emeric Pressburger"
+              ],
+              "movies": [
+                {
+                  "title": "The Invaders",
+                  "tmdbId": 1088679,
+                  "imdbId": "tt23622738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Buchman",
+                "Irwin Shaw"
+              ],
+              "movies": [
+                {
+                  "title": "The Talk of the Town",
+                  "tmdbId": 23159,
+                  "imdbId": "tt0035417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Froeschl",
+                "Claudine West",
+                "Arthur Wimperis"
+              ],
+              "movies": [
+                {
+                  "title": "Random Harvest",
+                  "tmdbId": 22387,
+                  "imdbId": "tt0035238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herman J. Mankiewicz",
+                "Jo Swerling"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Emeric Pressburger"
+              ],
+              "movies": [
+                {
+                  "title": "49th Parallel",
+                  "tmdbId": 21735,
+                  "imdbId": "tt0033627"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irving Berlin"
+              ],
+              "movies": [
+                {
+                  "title": "Holiday Inn",
+                  "tmdbId": 13485,
+                  "imdbId": "tt0034862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Buckner"
+              ],
+              "movies": [
+                {
+                  "title": "Yankee Doodle Dandy",
+                  "tmdbId": 3087,
+                  "imdbId": "tt0035575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Gallico"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Harman"
+              ],
+              "movies": [
+                {
+                  "title": "The Talk of the Town",
+                  "tmdbId": 23159,
+                  "imdbId": "tt0035417"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Battle of Midway",
+                "Kokoda Front Line!",
+                "Moscow Strikes Back",
+                "Prelude to War"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle of Midway",
+                  "tmdbId": 56143,
+                  "imdbId": "tt0034498"
+                },
+                {
+                  "title": "Kokoda Front Line!",
+                  "tmdbId": 93331,
+                  "imdbId": "tt0034951"
+                },
+                {
+                  "title": "Moscow Strikes Back",
+                  "tmdbId": 93333,
+                  "imdbId": "tt0035085"
+                },
+                {
+                  "title": "Prelude to War",
+                  "tmdbId": 23336,
+                  "imdbId": "tt0035209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Africa, Prelude to Victory",
+                "Combat Report",
+                "Conquer by the Clock",
+                "The Grain That Built a Hemisphere",
+                "Henry Browne, Farmer"
+              ],
+              "movies": [
+                {
+                  "title": "Africa, Prelude to Victory",
+                  "tmdbId": 236844,
+                  "imdbId": "tt0034434"
+                },
+                {
+                  "title": "Combat Report",
+                  "tmdbId": 236846,
+                  "imdbId": "tt0034608"
+                },
+                {
+                  "title": "Conquer by the Clock",
+                  "tmdbId": 236847,
+                  "imdbId": "tt0034610"
+                },
+                {
+                  "title": "The Grain That Built a Hemisphere",
+                  "tmdbId": 64698,
+                  "imdbId": "tt0034806"
+                },
+                {
+                  "title": "Henry Browne, Farmer",
+                  "tmdbId": 236848,
+                  "imdbId": "tt0034843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "High Over the Borders",
+                "High Stakes in the East",
+                "Inside Fighting China",
+                "It's Everybody's War",
+                "Listen to Britain"
+              ],
+              "movies": [
+                {
+                  "title": "High Over the Borders",
+                  "tmdbId": 236849,
+                  "imdbId": "tt0034851"
+                },
+                {
+                  "title": "High Stakes in the East",
+                  "tmdbId": 236850,
+                  "imdbId": "tt0034852"
+                },
+                {
+                  "title": "Inside Fighting China",
+                  "tmdbId": 236851,
+                  "imdbId": "tt0034897"
+                },
+                {
+                  "title": "It's Everybody's War",
+                  "tmdbId": 236852,
+                  "imdbId": "tt0034906"
+                },
+                {
+                  "title": "Listen to Britain",
+                  "tmdbId": 88609,
+                  "imdbId": "tt0034978"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Little Belgium",
+                "Little Isles of Freedom",
+                "Mr. Blabbermouth!",
+                "Mr. Gardenia Jones",
+                "The New Spirit",
+                "The Price of Victory"
+              ],
+              "movies": [
+                {
+                  "title": "Little Belgium",
+                  "tmdbId": 236853,
+                  "imdbId": "tt0034979"
+                },
+                {
+                  "title": "Little Isles of Freedom",
+                  "tmdbId": 236854,
+                  "imdbId": "tt0034981"
+                },
+                {
+                  "title": "Mr. Blabbermouth!",
+                  "tmdbId": 100255,
+                  "imdbId": "tt0035088"
+                },
+                {
+                  "title": "Mr. Gardenia Jones",
+                  "tmdbId": 236855,
+                  "imdbId": "tt0035091"
+                },
+                {
+                  "title": "The New Spirit",
+                  "tmdbId": 64701,
+                  "imdbId": "tt0035120"
+                },
+                {
+                  "title": "The Price of Victory",
+                  "tmdbId": 236856,
+                  "imdbId": "tt0035210"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Ship Is Born",
+                "Twenty-One Miles",
+                "We Refuse to Die",
+                "The White Eagle",
+                "Winning Your Wings"
+              ],
+              "movies": [
+                {
+                  "title": "A Ship Is Born",
+                  "tmdbId": 236857,
+                  "imdbId": "tt0035321"
+                },
+                {
+                  "title": "Twenty-One Miles",
+                  "tmdbId": 236858,
+                  "imdbId": "tt0035478"
+                },
+                {
+                  "title": "We Refuse to Die",
+                  "tmdbId": 236859,
+                  "imdbId": "tt0035536"
+                },
+                {
+                  "title": "The White Eagle",
+                  "tmdbId": 236861,
+                  "imdbId": "tt0035554"
+                },
+                {
+                  "title": "Winning Your Wings",
+                  "tmdbId": 152237,
+                  "imdbId": "tt0035565"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Swan",
+                  "tmdbId": 29882,
+                  "imdbId": "tt0034522"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edward Cronjager",
+                "William V. Skall"
+              ],
+              "movies": [
+                {
+                  "title": "To the Shores of Tripoli",
+                  "tmdbId": 58035,
+                  "imdbId": "tt0035447"
+                }
+              ]
+            },
+            {
+              "names": [
+                "W. Howard Greene"
+              ],
+              "movies": [
+                {
+                  "title": "Jungle Book",
+                  "tmdbId": 23033,
+                  "imdbId": "tt0034928"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milton Krasner",
+                "William V. Skall",
+                "W. Howard Greene"
+              ],
+              "movies": [
+                {
+                  "title": "Arabian Nights",
+                  "tmdbId": 60488,
+                  "imdbId": "tt0034465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Milner",
+                "William V. Skall"
+              ],
+              "movies": [
+                {
+                  "title": "Reap the Wild Wind",
+                  "tmdbId": 63617,
+                  "imdbId": "tt0035244"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sol Polito"
+              ],
+              "movies": [
+                {
+                  "title": "Captains of the Clouds",
+                  "tmdbId": 32921,
+                  "imdbId": "tt0034578"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Joseph Ruttenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles G. Clarke"
+              ],
+              "movies": [
+                {
+                  "title": "Moontide",
+                  "tmdbId": 42062,
+                  "imdbId": "tt0035082"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Cortez"
+              ],
+              "movies": [
+                {
+                  "title": "The Magnificent Ambersons",
+                  "tmdbId": 965,
+                  "imdbId": "tt0035015"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Cronjager"
+              ],
+              "movies": [
+                {
+                  "title": "The Pied Piper",
+                  "tmdbId": 84085,
+                  "imdbId": "tt0035189"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Wong Howe"
+              ],
+              "movies": [
+                {
+                  "title": "Kings Row",
+                  "tmdbId": 53779,
+                  "imdbId": "tt0034946"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rudolph Mate"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Mescall"
+              ],
+              "movies": [
+                {
+                  "title": "Take a Letter, Darling",
+                  "tmdbId": 121010,
+                  "imdbId": "tt0035413"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "This Above All",
+                  "tmdbId": 110628,
+                  "imdbId": "tt0035431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "Ten Gentlemen from West Point",
+                  "tmdbId": 218302,
+                  "imdbId": "tt0035421"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted Tetzlaff"
+              ],
+              "movies": [
+                {
+                  "title": "The Talk of the Town",
+                  "tmdbId": 23159,
+                  "imdbId": "tt0035417"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Daniel Mandell"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Amy"
+              ],
+              "movies": [
+                {
+                  "title": "Yankee Doodle Dandy",
+                  "tmdbId": 3087,
+                  "imdbId": "tt0035575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold F. Kress"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Otto Meyer"
+              ],
+              "movies": [
+                {
+                  "title": "The Talk of the Town",
+                  "tmdbId": 23159,
+                  "imdbId": "tt0035417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter A. Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "This Above All",
+                  "tmdbId": 110628,
+                  "imdbId": "tt0035431"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Richard Day",
+                "Joseph Wright",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "My Gal Sal",
+                  "tmdbId": 109933,
+                  "imdbId": "tt0035103"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hans Dreier",
+                "Roland Anderson",
+                "George Sawley"
+              ],
+              "movies": [
+                {
+                  "title": "Reap the Wild Wind",
+                  "tmdbId": 63617,
+                  "imdbId": "tt0035244"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Golitzen",
+                "Jack Otterson",
+                "Russell A. Gausman",
+                "Ira S. Webb"
+              ],
+              "movies": [
+                {
+                  "title": "Arabian Nights",
+                  "tmdbId": 60488,
+                  "imdbId": "tt0034465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vincent Korda",
+                "Julia Heron"
+              ],
+              "movies": [
+                {
+                  "title": "Jungle Book",
+                  "tmdbId": 23033,
+                  "imdbId": "tt0034928"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted Smith",
+                "Casey Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Captains of the Clouds",
+                  "tmdbId": 32921,
+                  "imdbId": "tt0034578"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Richard Day",
+                "Joseph Wright",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "This Above All",
+                  "tmdbId": 110628,
+                  "imdbId": "tt0035431"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lionel Banks",
+                "Rudolph Sternad",
+                "Fay Babcock"
+              ],
+              "movies": [
+                {
+                  "title": "The Talk of the Town",
+                  "tmdbId": 23159,
+                  "imdbId": "tt0035417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Berger",
+                "Emile Kuri"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Queen",
+                  "tmdbId": 110306,
+                  "imdbId": "tt0035335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert S. D'Agostino",
+                "Al Fields",
+                "Darrell Silvera"
+              ],
+              "movies": [
+                {
+                  "title": "The Magnificent Ambersons",
+                  "tmdbId": 965,
+                  "imdbId": "tt0035015"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Roland Anderson",
+                "Samuel M. Comer"
+              ],
+              "movies": [
+                {
+                  "title": "Take a Letter, Darling",
+                  "tmdbId": 121010,
+                  "imdbId": "tt0035413"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Perry Ferguson",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Randall Duell",
+                "Edwin B. Willis",
+                "Jack Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Random Harvest",
+                  "tmdbId": 22387,
+                  "imdbId": "tt0035238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boris Leven"
+              ],
+              "movies": [
+                {
+                  "title": "The Shanghai Gesture",
+                  "tmdbId": 42678,
+                  "imdbId": "tt0034175"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Parker",
+                "Mark-Lee Kirk",
+                "Casey Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "George Washington Slept Here",
+                  "tmdbId": 35262,
+                  "imdbId": "tt0034780"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John B. Goodman",
+                "Jack Otterson",
+                "Russell A. Gausman",
+                "Edward Ray Robinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Spoilers",
+                  "tmdbId": 43785,
+                  "imdbId": "tt0035369"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Farciot Edouart",
+                "Gordon Jennings",
+                "William L. Pereira",
+                "Louis Mesenko"
+              ],
+              "movies": [
+                {
+                  "title": "Reap the Wild Wind",
+                  "tmdbId": 63617,
+                  "imdbId": "tt0035244"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lawrence W. Butler",
+                "William H. Wilmarth"
+              ],
+              "movies": [
+                {
+                  "title": "Jungle Book",
+                  "tmdbId": 23033,
+                  "imdbId": "tt0034928"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Cosgrove",
+                "Ray Binger",
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John P. Fulton",
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Invisible Agent",
+                  "tmdbId": 28426,
+                  "imdbId": "tt0034902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Warren Newcombe",
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Byron Haskin",
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Desperate Journey",
+                  "tmdbId": 55236,
+                  "imdbId": "tt0034646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard Lydecker",
+                "Daniel J. Bloomberg"
+              ],
+              "movies": [
+                {
+                  "title": "Flying Tigers",
+                  "tmdbId": 29372,
+                  "imdbId": "tt0034742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ronald Neame",
+                "C. C. Stevens"
+              ],
+              "movies": [
+                {
+                  "title": "One of Our Aircraft Is Missing",
+                  "tmdbId": 43780,
+                  "imdbId": "tt0035153"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Sersen",
+                "Roger Heman Sr.",
+                "George Leverett"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Swan",
+                  "tmdbId": 29882,
+                  "imdbId": "tt0034522"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vernon L. Walker",
+                "James G. Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "The Navy Comes Through",
+                  "tmdbId": 99674,
+                  "imdbId": "tt0035113"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Yankee Doodle Dandy",
+                  "tmdbId": 3087,
+                  "imdbId": "tt0035575"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Arabian Nights",
+                  "tmdbId": 60488,
+                  "imdbId": "tt0034465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Slyfield"
+              ],
+              "movies": [
+                {
+                  "title": "Bambi",
+                  "tmdbId": 3170,
+                  "imdbId": "tt0034492"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Bloomberg"
+              ],
+              "movies": [
+                {
+                  "title": "Flying Tigers",
+                  "tmdbId": 29372,
+                  "imdbId": "tt0034742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Whitney"
+              ],
+              "movies": [
+                {
+                  "title": "Friendly Enemies",
+                  "tmdbId": 98195,
+                  "imdbId": "tt0034757"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James L. Fields"
+              ],
+              "movies": [
+                {
+                  "title": "The Gold Brick",
+                  "tmdbId": 100740,
+                  "imdbId": "tt0154539"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Miniver",
+                  "tmdbId": 27367,
+                  "imdbId": "tt0035093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "Once Upon a Honeymoon",
+                  "tmdbId": 43779,
+                  "imdbId": "tt0035151"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Morocco",
+                  "tmdbId": 31805,
+                  "imdbId": "tt0035262"
+                }
+              ]
+            },
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "This Above All",
+                  "tmdbId": 110628,
+                  "imdbId": "tt0035431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "You Were Never Lovelier",
+                  "tmdbId": 43787,
+                  "imdbId": "tt0035583"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Now, Voyager",
+                  "tmdbId": 32847,
+                  "imdbId": "tt0035140"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Churchill",
+                "Edward Plumb"
+              ],
+              "movies": [
+                {
+                  "title": "Bambi",
+                  "tmdbId": 3170,
+                  "imdbId": "tt0034492"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Hageman"
+              ],
+              "movies": [
+                {
+                  "title": "The Shanghai Gesture",
+                  "tmdbId": 42678,
+                  "imdbId": "tt0034175"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leigh Harline"
+              ],
+              "movies": [
+                {
+                  "title": "The Pride of the Yankees",
+                  "tmdbId": 19140,
+                  "imdbId": "tt0035211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner Heymann"
+              ],
+              "movies": [
+                {
+                  "title": "To Be or Not to Be",
+                  "tmdbId": 198,
+                  "imdbId": "tt0035446"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederick Hollander",
+                "Morris Stoloff"
+              ],
+              "movies": [
+                {
+                  "title": "The Talk of the Town",
+                  "tmdbId": 23159,
+                  "imdbId": "tt0035417"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Kay"
+              ],
+              "movies": [
+                {
+                  "title": "Klondike Fury",
+                  "tmdbId": 218289,
+                  "imdbId": "tt0034948"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Black Swan",
+                  "tmdbId": 29882,
+                  "imdbId": "tt0034522"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "Jungle Book",
+                  "tmdbId": 23033,
+                  "imdbId": "tt0034928"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Skinner"
+              ],
+              "movies": [
+                {
+                  "title": "Arabian Nights",
+                  "tmdbId": 60488,
+                  "imdbId": "tt0034465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "Random Harvest",
+                  "tmdbId": 22387,
+                  "imdbId": "tt0035238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Terr"
+              ],
+              "movies": [
+                {
+                  "title": "The Gold Brick",
+                  "tmdbId": 100740,
+                  "imdbId": "tt0154539"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Corsican Brothers",
+                  "tmdbId": 43800,
+                  "imdbId": "tt0033490"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Webb"
+              ],
+              "movies": [
+                {
+                  "title": "I Married a Witch",
+                  "tmdbId": 25970,
+                  "imdbId": "tt0034881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Webb"
+              ],
+              "movies": [
+                {
+                  "title": "Joan of Paris",
+                  "tmdbId": 45801,
+                  "imdbId": "tt0034919"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Flying Tigers",
+                  "tmdbId": 29372,
+                  "imdbId": "tt0034742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Queen",
+                  "tmdbId": 110306,
+                  "imdbId": "tt0035335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Take a Letter, Darling",
+                  "tmdbId": 121010,
+                  "imdbId": "tt0035413"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Ray Heindorf",
+                "Heinz Roemheld"
+              ],
+              "movies": [
+                {
+                  "title": "Yankee Doodle Dandy",
+                  "tmdbId": 3087,
+                  "imdbId": "tt0035575"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Roger Edens",
+                "Georgie Stoll"
+              ],
+              "movies": [
+                {
+                  "title": "For Me and My Gal",
+                  "tmdbId": 27017,
+                  "imdbId": "tt0034746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Emmett Dolan"
+              ],
+              "movies": [
+                {
+                  "title": "Holiday Inn",
+                  "tmdbId": 13485,
+                  "imdbId": "tt0034862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leigh Harline"
+              ],
+              "movies": [
+                {
+                  "title": "You Were Never Lovelier",
+                  "tmdbId": 43787,
+                  "imdbId": "tt0035583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "My Gal Sal",
+                  "tmdbId": 109933,
+                  "imdbId": "tt0035103"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Previn",
+                "Hans Salter"
+              ],
+              "movies": [
+                {
+                  "title": "It Started with Eve",
+                  "tmdbId": 33112,
+                  "imdbId": "tt0033766"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Scharf"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Doughboy",
+                  "tmdbId": 218294,
+                  "imdbId": "tt0034921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Ward"
+              ],
+              "movies": [
+                {
+                  "title": "Flying with Music",
+                  "tmdbId": 110189,
+                  "imdbId": "tt0034743"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "White Christmas"
+              ],
+              "movies": [
+                {
+                  "title": "Holiday Inn",
+                  "tmdbId": 13485,
+                  "imdbId": "tt0034862"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Always in My Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Always in My Heart",
+                  "tmdbId": 97767,
+                  "imdbId": "tt0034454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dearly Beloved"
+              ],
+              "movies": [
+                {
+                  "title": "You Were Never Lovelier",
+                  "tmdbId": 43787,
+                  "imdbId": "tt0035583"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How About You?"
+              ],
+              "movies": [
+                {
+                  "title": "Babes on Broadway",
+                  "tmdbId": 43790,
+                  "imdbId": "tt0034485"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It Seems I Heard That Song Before"
+              ],
+              "movies": [
+                {
+                  "title": "Youth on Parade",
+                  "tmdbId": 218298,
+                  "imdbId": "tt0035587"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I've Got a Gal in Kalamazoo"
+              ],
+              "movies": [
+                {
+                  "title": "Orchestra Wives",
+                  "tmdbId": 43781,
+                  "imdbId": "tt0035157"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Love is a Song"
+              ],
+              "movies": [
+                {
+                  "title": "Bambi",
+                  "tmdbId": 3170,
+                  "imdbId": "tt0034492"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pennies for Peppino"
+              ],
+              "movies": [
+                {
+                  "title": "Flying with Music",
+                  "tmdbId": 110189,
+                  "imdbId": "tt0034743"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pig Foot Pete"
+              ],
+              "movies": [
+                {
+                  "title": "Hellzapoppin'",
+                  "tmdbId": 19136,
+                  "imdbId": "tt0033704"
+                }
+              ]
+            },
+            {
+              "names": [
+                "There's a Breeze on Lake Louise"
+              ],
+              "movies": [
+                {
+                  "title": "The Mayor of 44th Street",
+                  "tmdbId": 218299,
+                  "imdbId": "tt0035048"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Der Fuehrer's Face"
+              ],
+              "movies": [
+                {
+                  "title": "Der Fuehrer's Face",
+                  "tmdbId": 33600,
+                  "imdbId": "tt0035794"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All Out for 'V'"
+              ],
+              "movies": [
+                {
+                  "title": "All Out for 'V'",
+                  "tmdbId": 236843,
+                  "imdbId": "tt0034448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Blitz Wolf"
+              ],
+              "movies": [
+                {
+                  "title": "Blitz Wolf",
+                  "tmdbId": 84669,
+                  "imdbId": "tt0034524"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Juke Box Jamboree"
+              ],
+              "movies": [
+                {
+                  "title": "Juke Box Jamboree",
+                  "tmdbId": 236612,
+                  "imdbId": "tt0034925"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pigs in a Polka"
+              ],
+              "movies": [
+                {
+                  "title": "Pigs in a Polka",
+                  "tmdbId": 100323,
+                  "imdbId": "tt0036264"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tulips Shall Grow"
+              ],
+              "movies": [
+                {
+                  "title": "Tulips Shall Grow",
+                  "tmdbId": 146928,
+                  "imdbId": "tt0035476"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Speaking of Animals and Their Families"
+              ],
+              "movies": [
+                {
+                  "title": "Speaking of Animals and Their Families",
+                  "tmdbId": 236838,
+                  "imdbId": "tt0035366"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Desert Wonderland"
+              ],
+              "movies": [
+                {
+                  "title": "Desert Wonderland",
+                  "tmdbId": 236839,
+                  "imdbId": "tt0034644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marines in the Making"
+              ],
+              "movies": [
+                {
+                  "title": "Marines in the Making",
+                  "tmdbId": 236840,
+                  "imdbId": "tt0035041"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The United States Marine Band"
+              ],
+              "movies": [
+                {
+                  "title": "The United States Marine Band",
+                  "tmdbId": 236842,
+                  "imdbId": "tt0035493"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Beyond the Line of Duty"
+              ],
+              "movies": [
+                {
+                  "title": "Beyond the Line of Duty",
+                  "tmdbId": 236836,
+                  "imdbId": "tt0034511"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don't Talk"
+              ],
+              "movies": [
+                {
+                  "title": "Don't Talk",
+                  "tmdbId": 131801,
+                  "imdbId": "tt0034666"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Private Smith of the U.S.A."
+              ],
+              "movies": [
+                {
+                  "title": "Private Smith of the U.S.A.",
+                  "tmdbId": 236837,
+                  "imdbId": "tt0035219"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

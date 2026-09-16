@@ -1,0 +1,1545 @@
+{
+  "ceremony": {
+    "ordinal": 73,
+    "ceremonyYear": 2001,
+    "ceremonyDate": "2001-03-25",
+    "filmYearLabel": "2000",
+    "slug": "2001",
+    "decade": "2000s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Gladiator"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chocolat"
+              ],
+              "movies": [
+                {
+                  "title": "Chocolat",
+                  "tmdbId": 392,
+                  "imdbId": "tt0241303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Crouching Tiger, Hidden Dragon"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Erin Brockovich"
+              ],
+              "movies": [
+                {
+                  "title": "Erin Brockovich",
+                  "tmdbId": 462,
+                  "imdbId": "tt0195685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Traffic"
+              ],
+              "movies": [
+                {
+                  "title": "Traffic",
+                  "tmdbId": 1900,
+                  "imdbId": "tt0181865"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Steven Soderbergh"
+              ],
+              "movies": [
+                {
+                  "title": "Traffic",
+                  "tmdbId": 1900,
+                  "imdbId": "tt0181865"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stephen Daldry"
+              ],
+              "movies": [
+                {
+                  "title": "Billy Elliot",
+                  "tmdbId": 71,
+                  "imdbId": "tt0249462"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ang Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Soderbergh"
+              ],
+              "movies": [
+                {
+                  "title": "Erin Brockovich",
+                  "tmdbId": 462,
+                  "imdbId": "tt0195685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ridley Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Russell Crowe"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Javier Bardem"
+              ],
+              "movies": [
+                {
+                  "title": "Before Night Falls",
+                  "tmdbId": 5001,
+                  "imdbId": "tt0247196"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Hanks"
+              ],
+              "movies": [
+                {
+                  "title": "Cast Away",
+                  "tmdbId": 8358,
+                  "imdbId": "tt0162222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ed Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Pollock",
+                  "tmdbId": 12509,
+                  "imdbId": "tt0183659"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geoffrey Rush"
+              ],
+              "movies": [
+                {
+                  "title": "Quills",
+                  "tmdbId": 10876,
+                  "imdbId": "tt0180073"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Julia Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Erin Brockovich",
+                  "tmdbId": 462,
+                  "imdbId": "tt0195685"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joan Allen"
+              ],
+              "movies": [
+                {
+                  "title": "The Contender",
+                  "tmdbId": 6521,
+                  "imdbId": "tt0208874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Juliette Binoche"
+              ],
+              "movies": [
+                {
+                  "title": "Chocolat",
+                  "tmdbId": 392,
+                  "imdbId": "tt0241303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ellen Burstyn"
+              ],
+              "movies": [
+                {
+                  "title": "Requiem for a Dream",
+                  "tmdbId": 641,
+                  "imdbId": "tt0180093"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laura Linney"
+              ],
+              "movies": [
+                {
+                  "title": "You Can Count on Me",
+                  "tmdbId": 14295,
+                  "imdbId": "tt0203230"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Benicio del Toro"
+              ],
+              "movies": [
+                {
+                  "title": "Traffic",
+                  "tmdbId": 1900,
+                  "imdbId": "tt0181865"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jeff Bridges"
+              ],
+              "movies": [
+                {
+                  "title": "The Contender",
+                  "tmdbId": 6521,
+                  "imdbId": "tt0208874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Willem Dafoe"
+              ],
+              "movies": [
+                {
+                  "title": "Shadow of the Vampire",
+                  "tmdbId": 10873,
+                  "imdbId": "tt0189998"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Finney"
+              ],
+              "movies": [
+                {
+                  "title": "Erin Brockovich",
+                  "tmdbId": 462,
+                  "imdbId": "tt0195685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joaquin Phoenix"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Marcia Gay Harden"
+              ],
+              "movies": [
+                {
+                  "title": "Pollock",
+                  "tmdbId": 12509,
+                  "imdbId": "tt0183659"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judi Dench"
+              ],
+              "movies": [
+                {
+                  "title": "Chocolat",
+                  "tmdbId": 392,
+                  "imdbId": "tt0241303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kate Hudson"
+              ],
+              "movies": [
+                {
+                  "title": "Almost Famous",
+                  "tmdbId": 786,
+                  "imdbId": "tt0181875"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frances McDormand"
+              ],
+              "movies": [
+                {
+                  "title": "Almost Famous",
+                  "tmdbId": 786,
+                  "imdbId": "tt0181875"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julie Waters"
+              ],
+              "movies": [
+                {
+                  "title": "Billy Elliot",
+                  "tmdbId": 71,
+                  "imdbId": "tt0249462"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Cameron Crowe"
+              ],
+              "movies": [
+                {
+                  "title": "Almost Famous",
+                  "tmdbId": 786,
+                  "imdbId": "tt0181875"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lee Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Billy Elliot",
+                  "tmdbId": 71,
+                  "imdbId": "tt0249462"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susannah Grant"
+              ],
+              "movies": [
+                {
+                  "title": "Erin Brockovich",
+                  "tmdbId": 462,
+                  "imdbId": "tt0195685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Franzoni",
+                "John Logan",
+                "William Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kenneth Lonergan"
+              ],
+              "movies": [
+                {
+                  "title": "You Can Count on Me",
+                  "tmdbId": 14295,
+                  "imdbId": "tt0203230"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Stephen Gaghan"
+              ],
+              "movies": [
+                {
+                  "title": "Traffic",
+                  "tmdbId": 1900,
+                  "imdbId": "tt0181865"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Nelson Jacobs"
+              ],
+              "movies": [
+                {
+                  "title": "Chocolat",
+                  "tmdbId": 392,
+                  "imdbId": "tt0241303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Schamus",
+                "Kuo Jung Tsai",
+                "Hui-Ling Wang"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joel Coen",
+                "Ethan Coen"
+              ],
+              "movies": [
+                {
+                  "title": "O Brother, Where Art Thou?",
+                  "tmdbId": 134,
+                  "imdbId": "tt0190590"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Kloves"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder Boys",
+                  "tmdbId": 11004,
+                  "imdbId": "tt0185014"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Crouching Tiger, Hidden Dragon"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Amores Perros"
+              ],
+              "movies": [
+                {
+                  "title": "Amores Perros",
+                  "tmdbId": 55,
+                  "imdbId": "tt0245712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Divided We Fall"
+              ],
+              "movies": [
+                {
+                  "title": "Divided We Fall",
+                  "tmdbId": 29937,
+                  "imdbId": "tt0234288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Everybody's Famous!"
+              ],
+              "movies": [
+                {
+                  "title": "Everybody's Famous!",
+                  "tmdbId": 58886,
+                  "imdbId": "tt0209037"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Taste of Others"
+              ],
+              "movies": [
+                {
+                  "title": "The Taste of Others",
+                  "tmdbId": 10697,
+                  "imdbId": "tt0216787"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Into the Arms of Strangers: Stories of the Kindertransport"
+              ],
+              "movies": [
+                {
+                  "title": "Into the Arms of Strangers: Stories of the Kindertransport",
+                  "tmdbId": 58062,
+                  "imdbId": "tt0248912"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Legacy"
+              ],
+              "movies": [
+                {
+                  "title": "Legacy",
+                  "tmdbId": 26779,
+                  "imdbId": "tt0188028"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Long Night's Journey Into Day"
+              ],
+              "movies": [
+                {
+                  "title": "Long Night's Journey Into Day",
+                  "tmdbId": 95682,
+                  "imdbId": "tt0236447"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scottsboro: An American Tragedy"
+              ],
+              "movies": [
+                {
+                  "title": "Scottsboro: An American Tragedy",
+                  "tmdbId": 70564,
+                  "imdbId": "tt0240885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sound and Fury"
+              ],
+              "movies": [
+                {
+                  "title": "Sound and Fury",
+                  "tmdbId": 62529,
+                  "imdbId": "tt0240912"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Peter Pau"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Mathieson"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lajos Koltai"
+              ],
+              "movies": [
+                {
+                  "title": "Malena",
+                  "tmdbId": 10867,
+                  "imdbId": "tt0213847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "O Brother, Where Art Thou?",
+                  "tmdbId": 134,
+                  "imdbId": "tt0190590"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Caleb Deschanel"
+              ],
+              "movies": [
+                {
+                  "title": "The Patriot",
+                  "tmdbId": 2024,
+                  "imdbId": "tt0187393"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Stephen Mirrione"
+              ],
+              "movies": [
+                {
+                  "title": "Traffic",
+                  "tmdbId": 1900,
+                  "imdbId": "tt0181865"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joe Hutshing",
+                "Saar Klein"
+              ],
+              "movies": [
+                {
+                  "title": "Almost Famous",
+                  "tmdbId": 786,
+                  "imdbId": "tt0181875"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tim Squyres"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pietro Scalia"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dede Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder Boys",
+                  "tmdbId": 11004,
+                  "imdbId": "tt0185014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Timmy Yip"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Corenblith",
+                "Merideth Boswell"
+              ],
+              "movies": [
+                {
+                  "title": "How the Grinch Stole Christmas",
+                  "tmdbId": 8871,
+                  "imdbId": "tt0170016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Max",
+                "Crispian Sallis"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Childs",
+                "Jill Quertier"
+              ],
+              "movies": [
+                {
+                  "title": "Quills",
+                  "tmdbId": 10876,
+                  "imdbId": "tt0180073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Rabasse",
+                "Francoise Benoit-Fresco"
+              ],
+              "movies": [
+                {
+                  "title": "Vatel",
+                  "tmdbId": 7093,
+                  "imdbId": "tt0190861"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Janty Yates"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tim Yip"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rita Ryack"
+              ],
+              "movies": [
+                {
+                  "title": "How the Grinch Stole Christmas",
+                  "tmdbId": 8871,
+                  "imdbId": "tt0170016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Powell"
+              ],
+              "movies": [
+                {
+                  "title": "102 Dalmatians",
+                  "tmdbId": 10481,
+                  "imdbId": "tt0211181"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacqueline West"
+              ],
+              "movies": [
+                {
+                  "title": "Quills",
+                  "tmdbId": 10876,
+                  "imdbId": "tt0180073"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Rick Baker",
+                "Gail Rowell-Ryan"
+              ],
+              "movies": [
+                {
+                  "title": "How the Grinch Stole Christmas",
+                  "tmdbId": 8871,
+                  "imdbId": "tt0170016"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michele Burke",
+                "Edouard F. Henriques"
+              ],
+              "movies": [
+                {
+                  "title": "The Cell",
+                  "tmdbId": 8843,
+                  "imdbId": "tt0209958"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ann Buchanan",
+                "Amber Sibley"
+              ],
+              "movies": [
+                {
+                  "title": "Shadow of the Vampire",
+                  "tmdbId": 10873,
+                  "imdbId": "tt0189998"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "John Nelson",
+                "Neil Corbould",
+                "Tim Burke",
+                "Rob Harvey"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Scott E. Anderson",
+                "Craig Hayes",
+                "Scott Stokdyk",
+                "Stan Parks"
+              ],
+              "movies": [
+                {
+                  "title": "Hollow Man",
+                  "tmdbId": 9383,
+                  "imdbId": "tt0164052"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stefen Fangmeier",
+                "Habib Zargarpour"
+              ],
+              "movies": [
+                {
+                  "title": "The Perfect Storm",
+                  "tmdbId": 2133,
+                  "imdbId": "tt0177971"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Bob Beemer",
+                "Scott Millan",
+                "Ken Weston"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Randy Thom",
+                "Tom Johnson",
+                "Dennis S. Sands",
+                "William B. Kaplan"
+              ],
+              "movies": [
+                {
+                  "title": "Cast Away",
+                  "tmdbId": 8358,
+                  "imdbId": "tt0162222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Lee Orloff"
+              ],
+              "movies": [
+                {
+                  "title": "The Patriot",
+                  "tmdbId": 2024,
+                  "imdbId": "tt0187393"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John T. Reitz",
+                "Gregg Rudloff",
+                "David E. Campbell",
+                "Keith A. Wester"
+              ],
+              "movies": [
+                {
+                  "title": "The Perfect Storm",
+                  "tmdbId": 2133,
+                  "imdbId": "tt0177971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Maslow",
+                "Gregg Landaker",
+                "Rick Kline",
+                "Ivan Sharrock"
+              ],
+              "movies": [
+                {
+                  "title": "U-571",
+                  "tmdbId": 3536,
+                  "imdbId": "tt0141926"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Jon Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "U-571",
+                  "tmdbId": 3536,
+                  "imdbId": "tt0141926"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bub Asman",
+                "Alan Robert Murray"
+              ],
+              "movies": [
+                {
+                  "title": "Space Cowboys",
+                  "tmdbId": 5551,
+                  "imdbId": "tt0186566"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Tan Dun"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rachel Portman"
+              ],
+              "movies": [
+                {
+                  "title": "Chocolat",
+                  "tmdbId": 392,
+                  "imdbId": "tt0241303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "Gladiator",
+                  "tmdbId": 98,
+                  "imdbId": "tt0172495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ennio Morricone"
+              ],
+              "movies": [
+                {
+                  "title": "Malena",
+                  "tmdbId": 10867,
+                  "imdbId": "tt0213847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Patriot",
+                  "tmdbId": 2024,
+                  "imdbId": "tt0187393"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Things Have Changed"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder Boys",
+                  "tmdbId": 11004,
+                  "imdbId": "tt0185014"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Fool in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Meet the Parents",
+                  "tmdbId": 1597,
+                  "imdbId": "tt0212338"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I've Seen It All"
+              ],
+              "movies": [
+                {
+                  "title": "Dancer in the Dark",
+                  "tmdbId": 16,
+                  "imdbId": "tt0168629"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Love Before Time"
+              ],
+              "movies": [
+                {
+                  "title": "Crouching Tiger, Hidden Dragon",
+                  "tmdbId": 146,
+                  "imdbId": "tt0190332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Funny Friend",
+                "Me"
+              ],
+              "movies": [
+                {
+                  "title": "The Emperor's New Groove",
+                  "tmdbId": 11688,
+                  "imdbId": "tt0120917"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Father and Daughter"
+              ],
+              "movies": [
+                {
+                  "title": "Father and Daughter",
+                  "tmdbId": 48617,
+                  "imdbId": "tt0279079"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Periwig-Maker"
+              ],
+              "movies": [
+                {
+                  "title": "The Periwig-Maker",
+                  "tmdbId": 48522,
+                  "imdbId": "tt0239797"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rejected"
+              ],
+              "movies": [
+                {
+                  "title": "Rejected",
+                  "tmdbId": 32536,
+                  "imdbId": "tt0234588"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "I Want to Be"
+              ],
+              "movies": [
+                {
+                  "title": "I Want to Be",
+                  "tmdbId": 244954,
+                  "imdbId": "tt0216131"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "By Courier"
+              ],
+              "movies": [
+                {
+                  "title": "By Courier",
+                  "tmdbId": 244957,
+                  "imdbId": "tt0278378"
+                }
+              ]
+            },
+            {
+              "names": [
+                "One Day Crossing"
+              ],
+              "movies": [
+                {
+                  "title": "One Day Crossing",
+                  "tmdbId": 244958,
+                  "imdbId": "tt0269658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Seraglio"
+              ],
+              "movies": [
+                {
+                  "title": "Seraglio",
+                  "tmdbId": 244960,
+                  "imdbId": "tt0262758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Soccer Story"
+              ],
+              "movies": [
+                {
+                  "title": "A Soccer Story",
+                  "tmdbId": 244962,
+                  "imdbId": "tt0207112"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Big Mama"
+              ],
+              "movies": [
+                {
+                  "title": "Big Mama",
+                  "tmdbId": 244965,
+                  "imdbId": "tt0280353"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Curtain Call"
+              ],
+              "movies": [
+                {
+                  "title": "Curtain Call",
+                  "tmdbId": 244969,
+                  "imdbId": "tt0280580"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dolphins"
+              ],
+              "movies": [
+                {
+                  "title": "Dolphins",
+                  "tmdbId": 19356,
+                  "imdbId": "tt0263278"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Man on Lincoln's Nose"
+              ],
+              "movies": [
+                {
+                  "title": "The Man on Lincoln's Nose",
+                  "tmdbId": 136955,
+                  "imdbId": "tt0271628"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On Tiptoe: Gentle Steps to Freedom"
+              ],
+              "movies": [
+                {
+                  "title": "On Tiptoe: Gentle Steps to Freedom",
+                  "tmdbId": 244972,
+                  "imdbId": "tt0254621"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

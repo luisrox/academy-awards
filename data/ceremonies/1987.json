@@ -1,0 +1,1532 @@
+{
+  "ceremony": {
+    "ordinal": 59,
+    "ceremonyYear": 1987,
+    "ceremonyDate": "1987-03-30",
+    "filmYearLabel": "1986",
+    "slug": "1987",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Platoon"
+              ],
+              "movies": [
+                {
+                  "title": "Platoon",
+                  "tmdbId": 792,
+                  "imdbId": "tt0091763"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Children of a Lesser God"
+              ],
+              "movies": [
+                {
+                  "title": "Children of a Lesser God",
+                  "tmdbId": 1890,
+                  "imdbId": "tt0090830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hannah and Her Sisters"
+              ],
+              "movies": [
+                {
+                  "title": "Hannah and Her Sisters",
+                  "tmdbId": 5143,
+                  "imdbId": "tt0091167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Mission"
+              ],
+              "movies": [
+                {
+                  "title": "The Mission",
+                  "tmdbId": 11416,
+                  "imdbId": "tt0091530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Room with a View"
+              ],
+              "movies": [
+                {
+                  "title": "A Room with a View",
+                  "tmdbId": 11257,
+                  "imdbId": "tt0091867"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Oliver Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Platoon",
+                  "tmdbId": 792,
+                  "imdbId": "tt0091763"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Hannah and Her Sisters",
+                  "tmdbId": 5143,
+                  "imdbId": "tt0091167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Ivory"
+              ],
+              "movies": [
+                {
+                  "title": "A Room with a View",
+                  "tmdbId": 11257,
+                  "imdbId": "tt0091867"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roland Joffe"
+              ],
+              "movies": [
+                {
+                  "title": "The Mission",
+                  "tmdbId": 11416,
+                  "imdbId": "tt0091530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lynch"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Velvet",
+                  "tmdbId": 793,
+                  "imdbId": "tt0090756"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Paul Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Color of Money",
+                  "tmdbId": 11873,
+                  "imdbId": "tt0090863"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dexter Gordon"
+              ],
+              "movies": [
+                {
+                  "title": "'Round Midnight",
+                  "tmdbId": 14670,
+                  "imdbId": "tt0090557"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bob Hoskins"
+              ],
+              "movies": [
+                {
+                  "title": "Mona Lisa",
+                  "tmdbId": 10002,
+                  "imdbId": "tt0091538"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Hurt"
+              ],
+              "movies": [
+                {
+                  "title": "Children of a Lesser God",
+                  "tmdbId": 1890,
+                  "imdbId": "tt0090830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Woods"
+              ],
+              "movies": [
+                {
+                  "title": "Salvador",
+                  "tmdbId": 6106,
+                  "imdbId": "tt0091886"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Marlee Matlin"
+              ],
+              "movies": [
+                {
+                  "title": "Children of a Lesser God",
+                  "tmdbId": 1890,
+                  "imdbId": "tt0090830"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jane Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "The Morning After",
+                  "tmdbId": 31924,
+                  "imdbId": "tt0091554"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sissy Spacek"
+              ],
+              "movies": [
+                {
+                  "title": "Crimes of the Heart",
+                  "tmdbId": 48259,
+                  "imdbId": "tt0090886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kathleen Turner"
+              ],
+              "movies": [
+                {
+                  "title": "Peggy Sue Got Married",
+                  "tmdbId": 10013,
+                  "imdbId": "tt0091738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sigourney Weaver"
+              ],
+              "movies": [
+                {
+                  "title": "Aliens",
+                  "tmdbId": 679,
+                  "imdbId": "tt0090605"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Michael Caine"
+              ],
+              "movies": [
+                {
+                  "title": "Hannah and Her Sisters",
+                  "tmdbId": 5143,
+                  "imdbId": "tt0091167"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Berenger"
+              ],
+              "movies": [
+                {
+                  "title": "Platoon",
+                  "tmdbId": 792,
+                  "imdbId": "tt0091763"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Willem Dafoe"
+              ],
+              "movies": [
+                {
+                  "title": "Platoon",
+                  "tmdbId": 792,
+                  "imdbId": "tt0091763"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denholm Elliott"
+              ],
+              "movies": [
+                {
+                  "title": "A Room with a View",
+                  "tmdbId": 11257,
+                  "imdbId": "tt0091867"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Hopper"
+              ],
+              "movies": [
+                {
+                  "title": "Hoosiers",
+                  "tmdbId": 5693,
+                  "imdbId": "tt0091217"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Dianne Wiest"
+              ],
+              "movies": [
+                {
+                  "title": "Hannah and Her Sisters",
+                  "tmdbId": 5143,
+                  "imdbId": "tt0091167"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tess Harper"
+              ],
+              "movies": [
+                {
+                  "title": "Crimes of the Heart",
+                  "tmdbId": 48259,
+                  "imdbId": "tt0090886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piper Laurie"
+              ],
+              "movies": [
+                {
+                  "title": "Children of a Lesser God",
+                  "tmdbId": 1890,
+                  "imdbId": "tt0090830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mary Elizabeth Mastrantonio"
+              ],
+              "movies": [
+                {
+                  "title": "The Color of Money",
+                  "tmdbId": 11873,
+                  "imdbId": "tt0090863"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maggie Smith"
+              ],
+              "movies": [
+                {
+                  "title": "A Room with a View",
+                  "tmdbId": 11257,
+                  "imdbId": "tt0091867"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Hannah and Her Sisters",
+                  "tmdbId": 5143,
+                  "imdbId": "tt0091167"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Hogan",
+                "Ken Shadie",
+                "John Cornell"
+              ],
+              "movies": [
+                {
+                  "title": "Crocodile Dundee",
+                  "tmdbId": 9671,
+                  "imdbId": "tt0090555"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hanif Kureishi"
+              ],
+              "movies": [
+                {
+                  "title": "My Beautiful Laundrette",
+                  "tmdbId": 11240,
+                  "imdbId": "tt0091578"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Platoon",
+                  "tmdbId": 792,
+                  "imdbId": "tt0091763"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Stone",
+                "Rick Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "Salvador",
+                  "tmdbId": 6106,
+                  "imdbId": "tt0091886"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ruth Prawer Jhabvala"
+              ],
+              "movies": [
+                {
+                  "title": "A Room with a View",
+                  "tmdbId": 11257,
+                  "imdbId": "tt0091867"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hesper Anderson",
+                "Mark Medoff"
+              ],
+              "movies": [
+                {
+                  "title": "Children of a Lesser God",
+                  "tmdbId": 1890,
+                  "imdbId": "tt0090830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Price"
+              ],
+              "movies": [
+                {
+                  "title": "The Color of Money",
+                  "tmdbId": 11873,
+                  "imdbId": "tt0090863"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Beth Henley"
+              ],
+              "movies": [
+                {
+                  "title": "Crimes of the Heart",
+                  "tmdbId": 48259,
+                  "imdbId": "tt0090886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raynold Gideon",
+                "Bruce A. Evans"
+              ],
+              "movies": [
+                {
+                  "title": "Stand by Me",
+                  "tmdbId": 235,
+                  "imdbId": "tt0092005"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Assault"
+              ],
+              "movies": [
+                {
+                  "title": "The Assault",
+                  "tmdbId": 2753,
+                  "imdbId": "tt0090576"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Betty Blue"
+              ],
+              "movies": [
+                {
+                  "title": "Betty Blue",
+                  "tmdbId": 11986,
+                  "imdbId": "tt0090563"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Decline of the American Empire"
+              ],
+              "movies": [
+                {
+                  "title": "The Decline of the American Empire",
+                  "tmdbId": 18499,
+                  "imdbId": "tt0090985"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Sweet Little Village"
+              ],
+              "movies": [
+                {
+                  "title": "My Sweet Little Village",
+                  "tmdbId": 31410,
+                  "imdbId": "tt0090257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "'38 - Vienna Before the Fall"
+              ],
+              "movies": [
+                {
+                  "title": "'38 - Vienna Before the Fall",
+                  "tmdbId": 42016,
+                  "imdbId": "tt0090554"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Artie Shaw: Time Is All You've Got",
+                "Down and Out in America"
+              ],
+              "movies": [
+                {
+                  "title": "Artie Shaw: Time Is All You've Got",
+                  "tmdbId": 114521,
+                  "imdbId": "tt0088740"
+                },
+                {
+                  "title": "Down and Out in America",
+                  "tmdbId": 114522,
+                  "imdbId": "tt0090965"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chile: Hasta Cuando?"
+              ],
+              "movies": [
+                {
+                  "title": "Chile: Hasta Cuando?",
+                  "tmdbId": 136519,
+                  "imdbId": "tt0090831"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Isaac in America: A Journey with Isaac Bashevis Singer"
+              ],
+              "movies": [
+                {
+                  "title": "Isaac in America: A Journey with Isaac Bashevis Singer",
+                  "tmdbId": 132700,
+                  "imdbId": "tt0091279"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Witness to Apartheid"
+              ],
+              "movies": [
+                {
+                  "title": "Witness to Apartheid",
+                  "tmdbId": 136655,
+                  "imdbId": "tt0092229"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Chris Menges"
+              ],
+              "movies": [
+                {
+                  "title": "The Mission",
+                  "tmdbId": 11416,
+                  "imdbId": "tt0091530"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jordan Cronenweth"
+              ],
+              "movies": [
+                {
+                  "title": "Peggy Sue Got Married",
+                  "tmdbId": 10013,
+                  "imdbId": "tt0091738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Platoon",
+                  "tmdbId": 792,
+                  "imdbId": "tt0091763"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Pierce-Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "A Room with a View",
+                  "tmdbId": 11257,
+                  "imdbId": "tt0091867"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Don Peterman"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek IV: The Voyage Home",
+                  "tmdbId": 168,
+                  "imdbId": "tt0092007"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Claire Simpson"
+              ],
+              "movies": [
+                {
+                  "title": "Platoon",
+                  "tmdbId": 792,
+                  "imdbId": "tt0091763"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ray Lovejoy"
+              ],
+              "movies": [
+                {
+                  "title": "Aliens",
+                  "tmdbId": 679,
+                  "imdbId": "tt0090605"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Morse"
+              ],
+              "movies": [
+                {
+                  "title": "Hannah and Her Sisters",
+                  "tmdbId": 5143,
+                  "imdbId": "tt0091167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jim Clark"
+              ],
+              "movies": [
+                {
+                  "title": "The Mission",
+                  "tmdbId": 11416,
+                  "imdbId": "tt0091530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Weber"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun",
+                  "tmdbId": 744,
+                  "imdbId": "tt0092099"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Gianni Quaranta",
+                "Brian Ackland-Snow",
+                "Brian Savage",
+                "Elio Altamura"
+              ],
+              "movies": [
+                {
+                  "title": "A Room with a View",
+                  "tmdbId": 11257,
+                  "imdbId": "tt0091867"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Lamont",
+                "Crispian Sallis"
+              ],
+              "movies": [
+                {
+                  "title": "Aliens",
+                  "tmdbId": 679,
+                  "imdbId": "tt0090605"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boris Leven",
+                "Karen O'Hara"
+              ],
+              "movies": [
+                {
+                  "title": "The Color of Money",
+                  "tmdbId": 11873,
+                  "imdbId": "tt0090863"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Wurtzel",
+                "Carol Joffe"
+              ],
+              "movies": [
+                {
+                  "title": "Hannah and Her Sisters",
+                  "tmdbId": 5143,
+                  "imdbId": "tt0091167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Craig",
+                "Jack Stephens"
+              ],
+              "movies": [
+                {
+                  "title": "The Mission",
+                  "tmdbId": 11416,
+                  "imdbId": "tt0091530"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Jenny Beavan",
+                "John Bright"
+              ],
+              "movies": [
+                {
+                  "title": "A Room with a View",
+                  "tmdbId": 11257,
+                  "imdbId": "tt0091867"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Enrico Sabbatini"
+              ],
+              "movies": [
+                {
+                  "title": "The Mission",
+                  "tmdbId": 11416,
+                  "imdbId": "tt0091530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anna Anni",
+                "Maurizio Millenotti"
+              ],
+              "movies": [
+                {
+                  "title": "Otello",
+                  "tmdbId": 198469,
+                  "imdbId": "tt0091699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theadora Van Runkle"
+              ],
+              "movies": [
+                {
+                  "title": "Peggy Sue Got Married",
+                  "tmdbId": 10013,
+                  "imdbId": "tt0091738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Pirates",
+                  "tmdbId": 11483,
+                  "imdbId": "tt0091757"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Chris Walas",
+                "Stephan Dupuis"
+              ],
+              "movies": [
+                {
+                  "title": "The Fly",
+                  "tmdbId": 9426,
+                  "imdbId": "tt0091064"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael George Westmore",
+                "Michele Burke"
+              ],
+              "movies": [
+                {
+                  "title": "The Clan of the Cave Bear",
+                  "tmdbId": 13853,
+                  "imdbId": "tt0090848"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rob Bottin",
+                "Peter Robb King"
+              ],
+              "movies": [
+                {
+                  "title": "Legend",
+                  "tmdbId": 11976,
+                  "imdbId": "tt0089469"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Robert Skotak",
+                "Stan Winston",
+                "John Richardson",
+                "Suzanne Benson"
+              ],
+              "movies": [
+                {
+                  "title": "Aliens",
+                  "tmdbId": 679,
+                  "imdbId": "tt0090605"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lyle Conway",
+                "Bran Ferren",
+                "Martin Gutteridge"
+              ],
+              "movies": [
+                {
+                  "title": "Little Shop of Horrors",
+                  "tmdbId": 10776,
+                  "imdbId": "tt0091419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Edlund",
+                "John Bruno",
+                "Garry Waller",
+                "William Neil"
+              ],
+              "movies": [
+                {
+                  "title": "Poltergeist II: The Other Side",
+                  "tmdbId": 11133,
+                  "imdbId": "tt0091778"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "John Wilkinson",
+                "Richard Rogers",
+                "Charles Grenzbach",
+                "Simon Kaye"
+              ],
+              "movies": [
+                {
+                  "title": "Platoon",
+                  "tmdbId": 792,
+                  "imdbId": "tt0091763"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Graham V. Hartstone",
+                "Nicolas Le Messurier",
+                "Michael A. Carter",
+                "Roy Charman"
+              ],
+              "movies": [
+                {
+                  "title": "Aliens",
+                  "tmdbId": 679,
+                  "imdbId": "tt0090605"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Les Fresholtz",
+                "Dick Alexander",
+                "Vern Poore",
+                "Bill Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "Heartbreak Ridge",
+                  "tmdbId": 10015,
+                  "imdbId": "tt0091187"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terry Porter",
+                "David J. Hudson",
+                "Mel Metcalfe",
+                "Gene Cantamessa"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek IV: The Voyage Home",
+                  "tmdbId": 168,
+                  "imdbId": "tt0092007"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Kevin O'Connell",
+                "Rick Kline",
+                "William B. Kaplan"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun",
+                  "tmdbId": 744,
+                  "imdbId": "tt0092099"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Don Sharpe"
+              ],
+              "movies": [
+                {
+                  "title": "Aliens",
+                  "tmdbId": 679,
+                  "imdbId": "tt0090605"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mark Mangini"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek IV: The Voyage Home",
+                  "tmdbId": 168,
+                  "imdbId": "tt0092007"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cecelia Hall",
+                "George Watters"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun",
+                  "tmdbId": 744,
+                  "imdbId": "tt0092099"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Herbie Hancock"
+              ],
+              "movies": [
+                {
+                  "title": "'Round Midnight",
+                  "tmdbId": 14670,
+                  "imdbId": "tt0090557"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Horner"
+              ],
+              "movies": [
+                {
+                  "title": "Aliens",
+                  "tmdbId": 679,
+                  "imdbId": "tt0090605"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Hoosiers",
+                  "tmdbId": 5693,
+                  "imdbId": "tt0091217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ennio Morricone"
+              ],
+              "movies": [
+                {
+                  "title": "The Mission",
+                  "tmdbId": 11416,
+                  "imdbId": "tt0091530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Rosenman"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek IV: The Voyage Home",
+                  "tmdbId": 168,
+                  "imdbId": "tt0092007"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Take My Breath Away"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun",
+                  "tmdbId": 744,
+                  "imdbId": "tt0092099"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Glory of Love"
+              ],
+              "movies": [
+                {
+                  "title": "The Karate Kid Part II",
+                  "tmdbId": 8856,
+                  "imdbId": "tt0091326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life in a Looking Glass"
+              ],
+              "movies": [
+                {
+                  "title": "That's Life",
+                  "tmdbId": 1161288
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mean Green Mother from Outer Space"
+              ],
+              "movies": [
+                {
+                  "title": "Little Shop of Horrors",
+                  "tmdbId": 10776,
+                  "imdbId": "tt0091419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Somewhere Out There"
+              ],
+              "movies": [
+                {
+                  "title": "An American Tail",
+                  "tmdbId": 4978,
+                  "imdbId": "tt0090633"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "A Greek Tragedy"
+              ],
+              "movies": [
+                {
+                  "title": "A Greek Tragedy",
+                  "tmdbId": 48698,
+                  "imdbId": "tt0091152"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Frog, the Dog, and the Devil"
+              ],
+              "movies": [
+                {
+                  "title": "The Frog, the Dog, and the Devil",
+                  "tmdbId": 209660,
+                  "imdbId": "tt0091082"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luxo Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Luxo Jr.",
+                  "tmdbId": 13925,
+                  "imdbId": "tt0091455"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Precious Images"
+              ],
+              "movies": [
+                {
+                  "title": "Precious Images",
+                  "tmdbId": 147081,
+                  "imdbId": "tt0091787"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Exit"
+              ],
+              "movies": [
+                {
+                  "title": "Exit",
+                  "tmdbId": 244676,
+                  "imdbId": "tt0091021"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Love Struck"
+              ],
+              "movies": [
+                {
+                  "title": "Love Struck",
+                  "tmdbId": 244678,
+                  "imdbId": "tt0091438"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Women - For America, For the World"
+              ],
+              "movies": [
+                {
+                  "title": "Women - For America, For the World",
+                  "tmdbId": 115505,
+                  "imdbId": "tt0092235"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Debonair Dancers"
+              ],
+              "movies": [
+                {
+                  "title": "Debonair Dancers",
+                  "tmdbId": 244679,
+                  "imdbId": "tt0090921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Masters of Disaster"
+              ],
+              "movies": [
+                {
+                  "title": "The Masters of Disaster",
+                  "tmdbId": 244680,
+                  "imdbId": "tt0091494"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Red Grooms: Sunflower in a Hothouse"
+              ],
+              "movies": [
+                {
+                  "title": "Red Grooms: Sunflower in a Hothouse",
+                  "tmdbId": 244681,
+                  "imdbId": "tt0091833"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam"
+              ],
+              "movies": [
+                {
+                  "title": "Sam",
+                  "tmdbId": 244683,
+                  "imdbId": "tt0091887"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

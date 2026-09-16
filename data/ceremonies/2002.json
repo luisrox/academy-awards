@@ -1,0 +1,1599 @@
+{
+  "ceremony": {
+    "ordinal": 74,
+    "ceremonyYear": 2002,
+    "ceremonyDate": "2002-03-24",
+    "filmYearLabel": "2001",
+    "slug": "2002",
+    "decade": "2000s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "A Beautiful Mind"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Mind",
+                  "tmdbId": 453,
+                  "imdbId": "tt0268978"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gosford Park"
+              ],
+              "movies": [
+                {
+                  "title": "Gosford Park",
+                  "tmdbId": 5279,
+                  "imdbId": "tt0280707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In the Bedroom"
+              ],
+              "movies": [
+                {
+                  "title": "In the Bedroom",
+                  "tmdbId": 1999,
+                  "imdbId": "tt0247425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Lord of the Rings: The Fellowship of the Ring"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moulin Rouge!"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge!",
+                  "tmdbId": 824,
+                  "imdbId": "tt0203009"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Ron Howard"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Mind",
+                  "tmdbId": 453,
+                  "imdbId": "tt0268978"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Altman"
+              ],
+              "movies": [
+                {
+                  "title": "Gosford Park",
+                  "tmdbId": 5279,
+                  "imdbId": "tt0280707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lynch"
+              ],
+              "movies": [
+                {
+                  "title": "Mulholland Drive",
+                  "tmdbId": 1018,
+                  "imdbId": "tt0166924"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ridley Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Black Hawk Down",
+                  "tmdbId": 855,
+                  "imdbId": "tt0265086"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "Training Day",
+                  "tmdbId": 2034,
+                  "imdbId": "tt0139654"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Russell Crowe"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Mind",
+                  "tmdbId": 453,
+                  "imdbId": "tt0268978"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sean Penn"
+              ],
+              "movies": [
+                {
+                  "title": "I Am Sam",
+                  "tmdbId": 10950,
+                  "imdbId": "tt0277027"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Will Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Ali",
+                  "tmdbId": 8489,
+                  "imdbId": "tt0248667"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Wilkinson"
+              ],
+              "movies": [
+                {
+                  "title": "In the Bedroom",
+                  "tmdbId": 1999,
+                  "imdbId": "tt0247425"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Halle Berry"
+              ],
+              "movies": [
+                {
+                  "title": "Monster's Ball",
+                  "tmdbId": 1365,
+                  "imdbId": "tt0285742"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judi Dench"
+              ],
+              "movies": [
+                {
+                  "title": "Iris",
+                  "tmdbId": 11889,
+                  "imdbId": "tt0280778"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicole Kidman"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge!",
+                  "tmdbId": 824,
+                  "imdbId": "tt0203009"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sissy Spacek"
+              ],
+              "movies": [
+                {
+                  "title": "In the Bedroom",
+                  "tmdbId": 1999,
+                  "imdbId": "tt0247425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Renee Zellweger"
+              ],
+              "movies": [
+                {
+                  "title": "Bridget Jones's Diary",
+                  "tmdbId": 634,
+                  "imdbId": "tt0243155"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Jim Broadbent"
+              ],
+              "movies": [
+                {
+                  "title": "Iris",
+                  "tmdbId": 11889,
+                  "imdbId": "tt0280778"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ethan Hawke"
+              ],
+              "movies": [
+                {
+                  "title": "Training Day",
+                  "tmdbId": 2034,
+                  "imdbId": "tt0139654"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Kingsley"
+              ],
+              "movies": [
+                {
+                  "title": "Sexy Beast",
+                  "tmdbId": 11826,
+                  "imdbId": "tt0203119"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ian McKellen"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Voight"
+              ],
+              "movies": [
+                {
+                  "title": "Ali",
+                  "tmdbId": 8489,
+                  "imdbId": "tt0248667"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Jennifer Connelly"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Mind",
+                  "tmdbId": 453,
+                  "imdbId": "tt0268978"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Helen Mirren"
+              ],
+              "movies": [
+                {
+                  "title": "Gosford Park",
+                  "tmdbId": 5279,
+                  "imdbId": "tt0280707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maggie Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Gosford Park",
+                  "tmdbId": 5279,
+                  "imdbId": "tt0280707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marisa Tomei"
+              ],
+              "movies": [
+                {
+                  "title": "In the Bedroom",
+                  "tmdbId": 1999,
+                  "imdbId": "tt0247425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kate Winslet"
+              ],
+              "movies": [
+                {
+                  "title": "Iris",
+                  "tmdbId": 11889,
+                  "imdbId": "tt0280778"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Julian Fellowes"
+              ],
+              "movies": [
+                {
+                  "title": "Gosford Park",
+                  "tmdbId": 5279,
+                  "imdbId": "tt0280707"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Guillaume Laurant",
+                "Jean-Pierre Jeunet"
+              ],
+              "movies": [
+                {
+                  "title": "Amélie",
+                  "tmdbId": 194,
+                  "imdbId": "tt0211915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Nolan",
+                "Jonathan Nolan"
+              ],
+              "movies": [
+                {
+                  "title": "Memento",
+                  "tmdbId": 77,
+                  "imdbId": "tt0209144"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milo Addica",
+                "Will Rokos"
+              ],
+              "movies": [
+                {
+                  "title": "Monster's Ball",
+                  "tmdbId": 1365,
+                  "imdbId": "tt0285742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wes Anderson",
+                "Owen Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "The Royal Tenenbaums",
+                  "tmdbId": 9428,
+                  "imdbId": "tt0265666"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Akiva Goldsman"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Mind",
+                  "tmdbId": 453,
+                  "imdbId": "tt0268978"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel Clowes",
+                "Terry Zwigoff"
+              ],
+              "movies": [
+                {
+                  "title": "Ghost World",
+                  "tmdbId": 1548,
+                  "imdbId": "tt0162346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Todd Field",
+                "Robert Festinger"
+              ],
+              "movies": [
+                {
+                  "title": "In the Bedroom",
+                  "tmdbId": 1999,
+                  "imdbId": "tt0247425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Jackson",
+                "Fran Walsh",
+                "Philippa Boyens"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted Elliott",
+                "Terry Rossio",
+                "Joe Stillman",
+                "Roger S. H. Schulman"
+              ],
+              "movies": [
+                {
+                  "title": "Shrek",
+                  "tmdbId": 808,
+                  "imdbId": "tt0126029"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Shrek"
+              ],
+              "movies": [
+                {
+                  "title": "Shrek",
+                  "tmdbId": 808,
+                  "imdbId": "tt0126029"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jimmy Neutron: Boy Genius"
+              ],
+              "movies": [
+                {
+                  "title": "Jimmy Neutron: Boy Genius",
+                  "tmdbId": 12589,
+                  "imdbId": "tt0268397"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Monsters, Inc."
+              ],
+              "movies": [
+                {
+                  "title": "Monsters, Inc.",
+                  "tmdbId": 585,
+                  "imdbId": "tt0198781"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "No Man's Land"
+              ],
+              "movies": [
+                {
+                  "title": "No Man's Land",
+                  "tmdbId": 8342,
+                  "imdbId": "tt0283509"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Amélie"
+              ],
+              "movies": [
+                {
+                  "title": "Amélie",
+                  "tmdbId": 194,
+                  "imdbId": "tt0211915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elling"
+              ],
+              "movies": [
+                {
+                  "title": "Elling",
+                  "tmdbId": 6007,
+                  "imdbId": "tt0279064"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lagaan: Once Upon a Time in India"
+              ],
+              "movies": [
+                {
+                  "title": "Lagaan: Once Upon a Time in India",
+                  "tmdbId": 19666,
+                  "imdbId": "tt0169102"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Son of the Bride"
+              ],
+              "movies": [
+                {
+                  "title": "Son of the Bride",
+                  "tmdbId": 19460,
+                  "imdbId": "tt0292542"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Murder on a Sunday Morning"
+              ],
+              "movies": [
+                {
+                  "title": "Murder on a Sunday Morning",
+                  "tmdbId": 51391,
+                  "imdbId": "tt0307197"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Children Underground"
+              ],
+              "movies": [
+                {
+                  "title": "Children Underground",
+                  "tmdbId": 51722,
+                  "imdbId": "tt0264476"
+                }
+              ]
+            },
+            {
+              "names": [
+                "LaLee's Kin: The Legacy of Cotton"
+              ],
+              "movies": [
+                {
+                  "title": "LaLee's Kin: The Legacy of Cotton",
+                  "tmdbId": 112906,
+                  "imdbId": "tt0274622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Promises"
+              ],
+              "movies": [
+                {
+                  "title": "Promises",
+                  "tmdbId": 38880,
+                  "imdbId": "tt0282864"
+                }
+              ]
+            },
+            {
+              "names": [
+                "War Photographer"
+              ],
+              "movies": [
+                {
+                  "title": "War Photographer",
+                  "tmdbId": 12722,
+                  "imdbId": "tt0309061"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Andrew Lesnie"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bruno Delbonnel"
+              ],
+              "movies": [
+                {
+                  "title": "Amélie",
+                  "tmdbId": 194,
+                  "imdbId": "tt0211915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sławomir Idziak"
+              ],
+              "movies": [
+                {
+                  "title": "Black Hawk Down",
+                  "tmdbId": 855,
+                  "imdbId": "tt0265086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Wasn't There",
+                  "tmdbId": 10778,
+                  "imdbId": "tt0243133"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald M. McAlpine"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge!",
+                  "tmdbId": 824,
+                  "imdbId": "tt0203009"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Pietro Scalia"
+              ],
+              "movies": [
+                {
+                  "title": "Black Hawk Down",
+                  "tmdbId": 855,
+                  "imdbId": "tt0265086"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mike Hill",
+                "Dan Hanley"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Mind",
+                  "tmdbId": 453,
+                  "imdbId": "tt0268978"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Gilbert"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dody Dorn"
+              ],
+              "movies": [
+                {
+                  "title": "Memento",
+                  "tmdbId": 77,
+                  "imdbId": "tt0209144"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jill Bilcock"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge!",
+                  "tmdbId": 824,
+                  "imdbId": "tt0203009"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Catherine Martin",
+                "Brigitte Broch"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge!",
+                  "tmdbId": 824,
+                  "imdbId": "tt0203009"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Aline Bonetto",
+                "Marie-Laure Valla"
+              ],
+              "movies": [
+                {
+                  "title": "Amélie",
+                  "tmdbId": 194,
+                  "imdbId": "tt0211915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Altman",
+                "Anna Pinnock"
+              ],
+              "movies": [
+                {
+                  "title": "Gosford Park",
+                  "tmdbId": 5279,
+                  "imdbId": "tt0280707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Craig",
+                "Stephenie McMillan"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Philosopher's Stone",
+                  "tmdbId": 671,
+                  "imdbId": "tt0241527"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Grant Major",
+                "Dan Hennah"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Catherine Martin",
+                "Angus Strathie"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge!",
+                  "tmdbId": 824,
+                  "imdbId": "tt0203009"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Milena Canonero"
+              ],
+              "movies": [
+                {
+                  "title": "The Affair of the Necklace",
+                  "tmdbId": 19076,
+                  "imdbId": "tt0242252"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jenny Beavan"
+              ],
+              "movies": [
+                {
+                  "title": "Gosford Park",
+                  "tmdbId": 5279,
+                  "imdbId": "tt0280707"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judianna Makovsky"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Philosopher's Stone",
+                  "tmdbId": 671,
+                  "imdbId": "tt0241527"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ngila Dickson",
+                "Richard Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Peter Owen",
+                "Richard Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Greg Cannom",
+                "Colleen Callaghan"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Mind",
+                  "tmdbId": 453,
+                  "imdbId": "tt0268978"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maurizio Silvi",
+                "Aldo Signoretti"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge!",
+                  "tmdbId": 824,
+                  "imdbId": "tt0203009"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Jim Rygiel",
+                "Randall William Cook",
+                "Richard Taylor",
+                "Mark Stetson"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dennis Muren",
+                "Scott Farrar",
+                "Stan Winston",
+                "Michael Lantieri"
+              ],
+              "movies": [
+                {
+                  "title": "A.I. Artificial Intelligence",
+                  "tmdbId": 644,
+                  "imdbId": "tt0212720"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric Brevig",
+                "John Frazier",
+                "Ed Hirsch",
+                "Ben Snow"
+              ],
+              "movies": [
+                {
+                  "title": "Pearl Harbor",
+                  "tmdbId": 676,
+                  "imdbId": "tt0213149"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Michael Minkler",
+                "Chris Munro",
+                "Myron Nettinga"
+              ],
+              "movies": [
+                {
+                  "title": "Black Hawk Down",
+                  "tmdbId": 855,
+                  "imdbId": "tt0265086"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Vincent Arnardi",
+                "Guillaume Leriche",
+                "Jean Umansky"
+              ],
+              "movies": [
+                {
+                  "title": "Amélie",
+                  "tmdbId": 194,
+                  "imdbId": "tt0211915"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Boyes",
+                "Michael Semanick",
+                "Gethin Creagh",
+                "Hammond Peek"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Anna Behlmer",
+                "Roger Savage",
+                "Guntis Sics"
+              ],
+              "movies": [
+                {
+                  "title": "Moulin Rouge!",
+                  "tmdbId": 824,
+                  "imdbId": "tt0203009"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greg P. Russell",
+                "Peter J. Devlin",
+                "Kevin O'Connell"
+              ],
+              "movies": [
+                {
+                  "title": "Pearl Harbor",
+                  "tmdbId": 676,
+                  "imdbId": "tt0213149"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "George Watters",
+                "Christopher Boyes"
+              ],
+              "movies": [
+                {
+                  "title": "Pearl Harbor",
+                  "tmdbId": 676,
+                  "imdbId": "tt0213149"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Michael Silvers"
+              ],
+              "movies": [
+                {
+                  "title": "Monsters, Inc.",
+                  "tmdbId": 585,
+                  "imdbId": "tt0198781"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Howard Shore"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Horner"
+              ],
+              "movies": [
+                {
+                  "title": "A Beautiful Mind",
+                  "tmdbId": 453,
+                  "imdbId": "tt0268978"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Philosopher's Stone",
+                  "tmdbId": 671,
+                  "imdbId": "tt0241527"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Monsters, Inc.",
+                  "tmdbId": 585,
+                  "imdbId": "tt0198781"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "A.I. Artificial Intelligence",
+                  "tmdbId": 644,
+                  "imdbId": "tt0212720"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "If I Didn't Have You"
+              ],
+              "movies": [
+                {
+                  "title": "Monsters, Inc.",
+                  "tmdbId": 585,
+                  "imdbId": "tt0198781"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "May It Be"
+              ],
+              "movies": [
+                {
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "tmdbId": 120,
+                  "imdbId": "tt0120737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "There You'll Be"
+              ],
+              "movies": [
+                {
+                  "title": "Pearl Harbor",
+                  "tmdbId": 676,
+                  "imdbId": "tt0213149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Until..."
+              ],
+              "movies": [
+                {
+                  "title": "Kate & Leopold",
+                  "tmdbId": 11232,
+                  "imdbId": "tt0035423"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vanilla Sky"
+              ],
+              "movies": [
+                {
+                  "title": "Vanilla Sky",
+                  "tmdbId": 1903,
+                  "imdbId": "tt0259711"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "For the Birds"
+              ],
+              "movies": [
+                {
+                  "title": "For the Birds",
+                  "tmdbId": 13930,
+                  "imdbId": "tt0248808"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fifty Percent Grey"
+              ],
+              "movies": [
+                {
+                  "title": "Fifty Percent Grey",
+                  "tmdbId": 85358,
+                  "imdbId": "tt0303336"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Give Up Yer Aul Sins"
+              ],
+              "movies": [
+                {
+                  "title": "Give Up Yer Aul Sins",
+                  "tmdbId": 89671,
+                  "imdbId": "tt0308317"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Strange Invaders"
+              ],
+              "movies": [
+                {
+                  "title": "Strange Invaders",
+                  "tmdbId": 48488,
+                  "imdbId": "tt0296874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stubble Trouble"
+              ],
+              "movies": [
+                {
+                  "title": "Stubble Trouble",
+                  "tmdbId": 89672,
+                  "imdbId": "tt0309121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Accountant"
+              ],
+              "movies": [
+                {
+                  "title": "The Accountant",
+                  "tmdbId": 36733,
+                  "imdbId": "tt0222675"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Copy Shop"
+              ],
+              "movies": [
+                {
+                  "title": "Copy Shop",
+                  "tmdbId": 53981,
+                  "imdbId": "tt0182014"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregor's Greatest Invention"
+              ],
+              "movies": [
+                {
+                  "title": "Gregor's Greatest Invention",
+                  "tmdbId": 244973,
+                  "imdbId": "tt0304107"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Man Thing"
+              ],
+              "movies": [
+                {
+                  "title": "A Man Thing",
+                  "tmdbId": 122388,
+                  "imdbId": "tt0304394"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Speed for Thespians"
+              ],
+              "movies": [
+                {
+                  "title": "Speed for Thespians",
+                  "tmdbId": 244975,
+                  "imdbId": "tt0269899"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Thoth"
+              ],
+              "movies": [
+                {
+                  "title": "Thoth",
+                  "tmdbId": 87292,
+                  "imdbId": "tt0299178"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Artists and Orphans: A True Drama"
+              ],
+              "movies": [
+                {
+                  "title": "Artists and Orphans: A True Drama",
+                  "tmdbId": 244976,
+                  "imdbId": "tt0289073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sing!"
+              ],
+              "movies": [
+                {
+                  "title": "Sing!",
+                  "tmdbId": 244978,
+                  "imdbId": "tt0308899"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

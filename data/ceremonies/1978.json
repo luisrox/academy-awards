@@ -1,0 +1,1553 @@
+{
+  "ceremony": {
+    "ordinal": 50,
+    "ceremonyYear": 1978,
+    "ceremonyDate": "1978-04-03",
+    "filmYearLabel": "1977",
+    "slug": "1978",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Annie Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Hall",
+                  "tmdbId": 703,
+                  "imdbId": "tt0075686"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Goodbye Girl"
+              ],
+              "movies": [
+                {
+                  "title": "The Goodbye Girl",
+                  "tmdbId": 14741,
+                  "imdbId": "tt0076095"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julia"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Star Wars"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Turning Point"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Hall",
+                  "tmdbId": 703,
+                  "imdbId": "tt0075686"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Zinnemann"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Lucas"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Ross"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Richard Dreyfuss"
+              ],
+              "movies": [
+                {
+                  "title": "The Goodbye Girl",
+                  "tmdbId": 14741,
+                  "imdbId": "tt0076095"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Hall",
+                  "tmdbId": 703,
+                  "imdbId": "tt0075686"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Burton"
+              ],
+              "movies": [
+                {
+                  "title": "Equus",
+                  "tmdbId": 37258,
+                  "imdbId": "tt0075995"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marcello Mastroianni"
+              ],
+              "movies": [
+                {
+                  "title": "A Special Day",
+                  "tmdbId": 42229,
+                  "imdbId": "tt0076085"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Travolta"
+              ],
+              "movies": [
+                {
+                  "title": "Saturday Night Fever",
+                  "tmdbId": 11009,
+                  "imdbId": "tt0076666"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Diane Keaton"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Hall",
+                  "tmdbId": 703,
+                  "imdbId": "tt0075686"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anne Bancroft"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shirley MacLaine"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marsha Mason"
+              ],
+              "movies": [
+                {
+                  "title": "The Goodbye Girl",
+                  "tmdbId": 14741,
+                  "imdbId": "tt0076095"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Jason Robards"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mikhail Baryshnikov"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Firth"
+              ],
+              "movies": [
+                {
+                  "title": "Equus",
+                  "tmdbId": 37258,
+                  "imdbId": "tt0075995"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alec Guinness"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maximilian Schell"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Vanessa Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leslie Browne"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quinn Cummings"
+              ],
+              "movies": [
+                {
+                  "title": "The Goodbye Girl",
+                  "tmdbId": 14741,
+                  "imdbId": "tt0076095"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melinda Dillon"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tuesday Weld"
+              ],
+              "movies": [
+                {
+                  "title": "Looking for Mr. Goodbar",
+                  "tmdbId": 37749,
+                  "imdbId": "tt0076327"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Woody Allen",
+                "Marshall Brickman"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Hall",
+                  "tmdbId": 703,
+                  "imdbId": "tt0075686"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Neil Simon"
+              ],
+              "movies": [
+                {
+                  "title": "The Goodbye Girl",
+                  "tmdbId": 14741,
+                  "imdbId": "tt0076095"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Benton"
+              ],
+              "movies": [
+                {
+                  "title": "The Late Show",
+                  "tmdbId": 42228,
+                  "imdbId": "tt0076301"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Lucas"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Laurents"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alvin Sargent"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Shaffer"
+              ],
+              "movies": [
+                {
+                  "title": "Equus",
+                  "tmdbId": 37258,
+                  "imdbId": "tt0075995"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gavin Lambert",
+                "Lewis John Carlino"
+              ],
+              "movies": [
+                {
+                  "title": "I Never Promised You a Rose Garden",
+                  "tmdbId": 66092,
+                  "imdbId": "tt0076172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Larry Gelbart"
+              ],
+              "movies": [
+                {
+                  "title": "Oh, God!",
+                  "tmdbId": 24032,
+                  "imdbId": "tt0076489"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luis Bunuel",
+                "Jean-Claude Carriere"
+              ],
+              "movies": [
+                {
+                  "title": "That Obscure Object of Desire",
+                  "tmdbId": 5781,
+                  "imdbId": "tt0075824"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Madame Rosa"
+              ],
+              "movies": [
+                {
+                  "title": "Madame Rosa",
+                  "tmdbId": 42223,
+                  "imdbId": "tt0076348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Iphigenia"
+              ],
+              "movies": [
+                {
+                  "title": "Iphigenia",
+                  "tmdbId": 46278,
+                  "imdbId": "tt0076208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Operation Thunderbolt"
+              ],
+              "movies": [
+                {
+                  "title": "Operation Thunderbolt",
+                  "tmdbId": 26113,
+                  "imdbId": "tt0076398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Special Day"
+              ],
+              "movies": [
+                {
+                  "title": "A Special Day",
+                  "tmdbId": 42229,
+                  "imdbId": "tt0076085"
+                }
+              ]
+            },
+            {
+              "names": [
+                "That Obscure Object of Desire"
+              ],
+              "movies": [
+                {
+                  "title": "That Obscure Object of Desire",
+                  "tmdbId": 5781,
+                  "imdbId": "tt0075824"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Who Are the DeBolts? And Where Did They Get Nineteen Kids?"
+              ],
+              "movies": [
+                {
+                  "title": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
+                  "tmdbId": 114514,
+                  "imdbId": "tt0076918"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Children of Theatre Street"
+              ],
+              "movies": [
+                {
+                  "title": "The Children of Theatre Street",
+                  "tmdbId": 149349,
+                  "imdbId": "tt0075839"
+                }
+              ]
+            },
+            {
+              "names": [
+                "High Grass Circus"
+              ],
+              "movies": [
+                {
+                  "title": "High Grass Circus",
+                  "tmdbId": 149351,
+                  "imdbId": "tt0076142"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Homage to Chagall: The Colours of Love"
+              ],
+              "movies": [
+                {
+                  "title": "Homage to Chagall: The Colours of Love",
+                  "tmdbId": 136653,
+                  "imdbId": "tt0076151"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Union Maids"
+              ],
+              "movies": [
+                {
+                  "title": "Union Maids",
+                  "tmdbId": 136530,
+                  "imdbId": "tt0075372"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Vilmos Zsigmond"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William A. Fraker"
+              ],
+              "movies": [
+                {
+                  "title": "Looking for Mr. Goodbar",
+                  "tmdbId": 37749,
+                  "imdbId": "tt0076327"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred. J. Koenekamp"
+              ],
+              "movies": [
+                {
+                  "title": "Islands in the Stream",
+                  "tmdbId": 70926,
+                  "imdbId": "tt0076211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Slocombe"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Surtees"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Paul Hirsch",
+                "Marcia Lucas",
+                "Richard Chew"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Hannemann",
+                "Angelo Ross"
+              ],
+              "movies": [
+                {
+                  "title": "Smokey and the Bandit",
+                  "tmdbId": 11006,
+                  "imdbId": "tt0076729"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Murch"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "John Barry",
+                "Norman Reynolds",
+                "Leslie Dilley",
+                "Roger Christian"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ken Adam",
+                "Peter Lamont",
+                "Hugh Scaife"
+              ],
+              "movies": [
+                {
+                  "title": "The Spy Who Loved Me",
+                  "tmdbId": 691,
+                  "imdbId": "tt0076752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Alves",
+                "Dan Lomino",
+                "Phil Abramson"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Brenner",
+                "Marvin March"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George C. Webb",
+                "Mickey S. Michaels"
+              ],
+              "movies": [
+                {
+                  "title": "Airport '77",
+                  "tmdbId": 7227,
+                  "imdbId": "tt0075648"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "John Mollo"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edith Head",
+                "Burton Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Airport '77",
+                  "tmdbId": 7227,
+                  "imdbId": "tt0075648"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Florence Klotz"
+              ],
+              "movies": [
+                {
+                  "title": "A Little Night Music",
+                  "tmdbId": 77078,
+                  "imdbId": "tt0076319"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "The Other Side of Midnight",
+                  "tmdbId": 80844,
+                  "imdbId": "tt0076507"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthea Sylbert"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "John Stears",
+                "John Dykstra",
+                "Richard Edlund",
+                "Grant McCune",
+                "Robert Blalack"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Roy Arbogast",
+                "Douglas Trumbull",
+                "Matthew Yuricich",
+                "Gregory Jein",
+                "Richard Yuricich"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Don MacDougall",
+                "Ray West",
+                "Bob Minkler",
+                "Derek Ball"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Knudson",
+                "Robert Glass",
+                "Don MacDougall",
+                "Gene Cantamessa"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Goss",
+                "Dick Alexander",
+                "Tom Beckert",
+                "Robin Gregory"
+              ],
+              "movies": [
+                {
+                  "title": "The Deep",
+                  "tmdbId": 20416,
+                  "imdbId": "tt0075925"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Knudson",
+                "Robert Glass",
+                "Richard Tyler",
+                "Jean-Louis Ducarme"
+              ],
+              "movies": [
+                {
+                  "title": "Sorcerer",
+                  "tmdbId": 38985,
+                  "imdbId": "tt0076740"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theodore Soderberg",
+                "Paul Wells",
+                "Douglas O. Williams",
+                "Jerry Jost"
+              ],
+              "movies": [
+                {
+                  "title": "The Turning Point",
+                  "tmdbId": 61280,
+                  "imdbId": "tt0076843"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Frank E. Warner"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Benjamin Burtt Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars",
+                  "tmdbId": 11,
+                  "imdbId": "tt0076759"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Georges Delerue"
+              ],
+              "movies": [
+                {
+                  "title": "Julia",
+                  "tmdbId": 42222,
+                  "imdbId": "tt0076245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marvin Hamlisch"
+              ],
+              "movies": [
+                {
+                  "title": "The Spy Who Loved Me",
+                  "tmdbId": 691,
+                  "imdbId": "tt0076752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maurice Jarre"
+              ],
+              "movies": [
+                {
+                  "title": "The Message",
+                  "tmdbId": 26842,
+                  "imdbId": "tt0074896"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Close Encounters of the Third Kind",
+                  "tmdbId": 840,
+                  "imdbId": "tt0075860"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Jonathan Tunick"
+              ],
+              "movies": [
+                {
+                  "title": "A Little Night Music",
+                  "tmdbId": 77078,
+                  "imdbId": "tt0076319"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Al Kasha",
+                "Joel Hirschhorn",
+                "Irwin Kostal"
+              ],
+              "movies": [
+                {
+                  "title": "Pete's Dragon",
+                  "tmdbId": 11114,
+                  "imdbId": "tt0076538"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Sherman",
+                "Robert Sherman",
+                "Angela Morley"
+              ],
+              "movies": [
+                {
+                  "title": "The Slipper and the Rose",
+                  "tmdbId": 16176,
+                  "imdbId": "tt0075232"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "You Light Up My Life"
+              ],
+              "movies": [
+                {
+                  "title": "You Light Up My Life",
+                  "tmdbId": 42231,
+                  "imdbId": "tt0076941"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Candle on the Water"
+              ],
+              "movies": [
+                {
+                  "title": "Pete's Dragon",
+                  "tmdbId": 11114,
+                  "imdbId": "tt0076538"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Someone's Waiting for You"
+              ],
+              "movies": [
+                {
+                  "title": "The Rescuers",
+                  "tmdbId": 11319,
+                  "imdbId": "tt0076618"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Slipper",
+                "the Rose Waltz (He Danced With Me/She Danced with Me)"
+              ],
+              "movies": [
+                {
+                  "title": "The Slipper and the Rose",
+                  "tmdbId": 16176,
+                  "imdbId": "tt0075232"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nobody Does It Better"
+              ],
+              "movies": [
+                {
+                  "title": "The Spy Who Loved Me",
+                  "tmdbId": 691,
+                  "imdbId": "tt0076752"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Sand Castle"
+              ],
+              "movies": [
+                {
+                  "title": "The Sand Castle",
+                  "tmdbId": 148514,
+                  "imdbId": "tt0075847"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Bead Game"
+              ],
+              "movies": [
+                {
+                  "title": "The Bead Game",
+                  "tmdbId": 115036,
+                  "imdbId": "tt0075732"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Doonesbury Special"
+              ],
+              "movies": [
+                {
+                  "title": "A Doonesbury Special",
+                  "tmdbId": 243600,
+                  "imdbId": "tt0075953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jimmy the C"
+              ],
+              "movies": [
+                {
+                  "title": "Jimmy the C",
+                  "tmdbId": 210968,
+                  "imdbId": "tt0076230"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "I'll Find a Way"
+              ],
+              "movies": [
+                {
+                  "title": "I'll Find a Way",
+                  "tmdbId": 127390,
+                  "imdbId": "tt0076173"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Absent-Minded Waiter"
+              ],
+              "movies": [
+                {
+                  "title": "The Absent-Minded Waiter",
+                  "tmdbId": 21102,
+                  "imdbId": "tt0075626"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Floating Free"
+              ],
+              "movies": [
+                {
+                  "title": "Floating Free",
+                  "tmdbId": 243602,
+                  "imdbId": "tt0076036"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Notes on the Popular Arts"
+              ],
+              "movies": [
+                {
+                  "title": "Notes on the Popular Arts",
+                  "tmdbId": 243603,
+                  "imdbId": "tt0076467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spaceborne"
+              ],
+              "movies": [
+                {
+                  "title": "Spaceborne",
+                  "tmdbId": 243604,
+                  "imdbId": "tt0076742"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Gravity Is My Enemy"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity Is My Enemy",
+                  "tmdbId": 243605,
+                  "imdbId": "tt0076105"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Agueda Martinez: Our People, Our Country"
+              ],
+              "movies": [
+                {
+                  "title": "Agueda Martinez: Our People, Our Country",
+                  "tmdbId": 243608,
+                  "imdbId": "tt0075645"
+                }
+              ]
+            },
+            {
+              "names": [
+                "First Edition"
+              ],
+              "movies": [
+                {
+                  "title": "First Edition",
+                  "tmdbId": 243609,
+                  "imdbId": "tt0076032"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Of Time, Tombs and Treasures"
+              ],
+              "movies": [
+                {
+                  "title": "Of Time, Tombs and Treasures",
+                  "tmdbId": 243614,
+                  "imdbId": "tt0076488"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Shetland Experience"
+              ],
+              "movies": [
+                {
+                  "title": "The Shetland Experience",
+                  "tmdbId": 243615,
+                  "imdbId": "tt0076700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1654 @@
+{
+  "ceremony": {
+    "ordinal": 70,
+    "ceremonyYear": 1998,
+    "ceremonyDate": "1998-03-23",
+    "filmYearLabel": "1997",
+    "slug": "1998",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Titanic"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "As Good as It Gets"
+              ],
+              "movies": [
+                {
+                  "title": "As Good as It Gets",
+                  "tmdbId": 2898,
+                  "imdbId": "tt0119822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Full Monty"
+              ],
+              "movies": [
+                {
+                  "title": "The Full Monty",
+                  "tmdbId": 9427,
+                  "imdbId": "tt0119164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Good Will Hunting"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "L.A. Confidential"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "James Cameron"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Cattaneo"
+              ],
+              "movies": [
+                {
+                  "title": "The Full Monty",
+                  "tmdbId": 9427,
+                  "imdbId": "tt0119164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Atom Egoyan"
+              ],
+              "movies": [
+                {
+                  "title": "The Sweet Hereafter",
+                  "tmdbId": 10217,
+                  "imdbId": "tt0120255"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Curtis Hanson"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gus Van Sant"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "As Good as It Gets",
+                  "tmdbId": 2898,
+                  "imdbId": "tt0119822"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Matt Damon"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Duvall"
+              ],
+              "movies": [
+                {
+                  "title": "The Apostle",
+                  "tmdbId": 2895,
+                  "imdbId": "tt0118632"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "Ulee's Gold",
+                  "tmdbId": 55306,
+                  "imdbId": "tt0120402"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dustin Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "Wag the Dog",
+                  "tmdbId": 586,
+                  "imdbId": "tt0120885"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Helen Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "As Good as It Gets",
+                  "tmdbId": 2898,
+                  "imdbId": "tt0119822"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Helena Bonham Carter"
+              ],
+              "movies": [
+                {
+                  "title": "The Wings of the Dove",
+                  "tmdbId": 45609,
+                  "imdbId": "tt0120520"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julie Christie"
+              ],
+              "movies": [
+                {
+                  "title": "Afterglow",
+                  "tmdbId": 26941,
+                  "imdbId": "tt0118566"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judi Dench"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs Brown",
+                  "tmdbId": 17589,
+                  "imdbId": "tt0119280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kate Winslet"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Robin Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Forster"
+              ],
+              "movies": [
+                {
+                  "title": "Jackie Brown",
+                  "tmdbId": 184,
+                  "imdbId": "tt0119396"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Amistad",
+                  "tmdbId": 11831,
+                  "imdbId": "tt0118607"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greg Kinnear"
+              ],
+              "movies": [
+                {
+                  "title": "As Good as It Gets",
+                  "tmdbId": 2898,
+                  "imdbId": "tt0119822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Burt Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "Boogie Nights",
+                  "tmdbId": 4995,
+                  "imdbId": "tt0118749"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Kim Basinger"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joan Cusack"
+              ],
+              "movies": [
+                {
+                  "title": "In & Out",
+                  "tmdbId": 10806,
+                  "imdbId": "tt0119360"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Minnie Driver"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julianne Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Boogie Nights",
+                  "tmdbId": 4995,
+                  "imdbId": "tt0118749"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gloria Stuart"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ben Affleck",
+                "Matt Damon"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mark Andrus",
+                "James L. Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "As Good as It Gets",
+                  "tmdbId": 2898,
+                  "imdbId": "tt0119822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Deconstructing Harry",
+                  "tmdbId": 2639,
+                  "imdbId": "tt0118954"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Simon Beaufoy"
+              ],
+              "movies": [
+                {
+                  "title": "The Full Monty",
+                  "tmdbId": 9427,
+                  "imdbId": "tt0119164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Thomas Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Boogie Nights",
+                  "tmdbId": 4995,
+                  "imdbId": "tt0118749"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Curtis Hanson",
+                "Brian Helgeland"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Attanasio"
+              ],
+              "movies": [
+                {
+                  "title": "Donnie Brasco",
+                  "tmdbId": 9366,
+                  "imdbId": "tt0119008"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Atom Egoyan"
+              ],
+              "movies": [
+                {
+                  "title": "The Sweet Hereafter",
+                  "tmdbId": 10217,
+                  "imdbId": "tt0120255"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Mamet",
+                "Hilary Henkin"
+              ],
+              "movies": [
+                {
+                  "title": "Wag the Dog",
+                  "tmdbId": 586,
+                  "imdbId": "tt0120885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hossein Amini"
+              ],
+              "movies": [
+                {
+                  "title": "The Wings of the Dove",
+                  "tmdbId": 45609,
+                  "imdbId": "tt0120520"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Character"
+              ],
+              "movies": [
+                {
+                  "title": "Character",
+                  "tmdbId": 17139,
+                  "imdbId": "tt0119448"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Beyond Silence"
+              ],
+              "movies": [
+                {
+                  "title": "Beyond Silence",
+                  "tmdbId": 312,
+                  "imdbId": "tt0116692"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Four Days in September"
+              ],
+              "movies": [
+                {
+                  "title": "Four Days in September",
+                  "tmdbId": 21253,
+                  "imdbId": "tt0119815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Secrets of the Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Secrets of the Heart",
+                  "tmdbId": 92603,
+                  "imdbId": "tt0120090"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Thief"
+              ],
+              "movies": [
+                {
+                  "title": "The Thief",
+                  "tmdbId": 46187,
+                  "imdbId": "tt0124207"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Long Way Home"
+              ],
+              "movies": [
+                {
+                  "title": "The Long Way Home",
+                  "tmdbId": 113290,
+                  "imdbId": "tt0119561"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ayn Rand: A Sense of Life"
+              ],
+              "movies": [
+                {
+                  "title": "Ayn Rand: A Sense of Life",
+                  "tmdbId": 49645,
+                  "imdbId": "tt0118662"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colors Straight Up"
+              ],
+              "movies": [
+                {
+                  "title": "Colors Straight Up",
+                  "tmdbId": 113287,
+                  "imdbId": "tt0126249"
+                }
+              ]
+            },
+            {
+              "names": [
+                "4 Little Girls"
+              ],
+              "movies": [
+                {
+                  "title": "4 Little Girls",
+                  "tmdbId": 26580,
+                  "imdbId": "tt0118540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Waco: The Rules of Engagement"
+              ],
+              "movies": [
+                {
+                  "title": "Waco: The Rules of Engagement",
+                  "tmdbId": 34044,
+                  "imdbId": "tt0120472"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Russell Carpenter"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dante Spinotti"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eduardo Serra"
+              ],
+              "movies": [
+                {
+                  "title": "The Wings of the Dove",
+                  "tmdbId": 45609,
+                  "imdbId": "tt0120520"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janusz Kaminski"
+              ],
+              "movies": [
+                {
+                  "title": "Amistad",
+                  "tmdbId": 11831,
+                  "imdbId": "tt0118607"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "Kundun",
+                  "tmdbId": 9746,
+                  "imdbId": "tt0119485"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Conrad Buff",
+                "James Cameron",
+                "Richard A. Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Honess"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pietro Scalia"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Francis-Bruce"
+              ],
+              "movies": [
+                {
+                  "title": "Air Force One",
+                  "tmdbId": 9772,
+                  "imdbId": "tt0118571"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Marks"
+              ],
+              "movies": [
+                {
+                  "title": "As Good as It Gets",
+                  "tmdbId": 2898,
+                  "imdbId": "tt0119822"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Peter Lamont",
+                "Michael D. Ford"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bo Welch",
+                "Cheryl Carasik"
+              ],
+              "movies": [
+                {
+                  "title": "Men in Black",
+                  "tmdbId": 607,
+                  "imdbId": "tt0119654"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dante Ferretti",
+                "Francesca Lo Schiavo"
+              ],
+              "movies": [
+                {
+                  "title": "Kundun",
+                  "tmdbId": 9746,
+                  "imdbId": "tt0119485"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jan Roelfs",
+                "Nancy Nye"
+              ],
+              "movies": [
+                {
+                  "title": "Gattaca",
+                  "tmdbId": 782,
+                  "imdbId": "tt0119177"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeannine Oppewall",
+                "Jay Hart"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Deborah Lynn Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dante Ferretti"
+              ],
+              "movies": [
+                {
+                  "title": "Kundun",
+                  "tmdbId": 9746,
+                  "imdbId": "tt0119485"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janet Patterson"
+              ],
+              "movies": [
+                {
+                  "title": "Oscar and Lucinda",
+                  "tmdbId": 39780,
+                  "imdbId": "tt0119843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth E. Carter"
+              ],
+              "movies": [
+                {
+                  "title": "Amistad",
+                  "tmdbId": 11831,
+                  "imdbId": "tt0118607"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "The Wings of the Dove",
+                  "tmdbId": 45609,
+                  "imdbId": "tt0120520"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Rick Baker",
+                "David LeRoy Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Men in Black",
+                  "tmdbId": 607,
+                  "imdbId": "tt0119654"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lisa Westcott",
+                "Veronica Brebner",
+                "Beverley Binda"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs Brown",
+                  "tmdbId": 17589,
+                  "imdbId": "tt0119280"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tina Earnshaw",
+                "Greg Cannom",
+                "Simon Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Robert Legato",
+                "Mark Lasoff",
+                "Thomas L. Fisher",
+                "Michael Kanfer"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dennis Muren",
+                "Stan Winston",
+                "Randal M. Dutra",
+                "Michael Lantieri"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost World: Jurassic Park",
+                  "tmdbId": 330,
+                  "imdbId": "tt0119567"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Phil Tippett",
+                "Scott E. Anderson",
+                "Alec Gillis",
+                "John Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Starship Troopers",
+                  "tmdbId": 563,
+                  "imdbId": "tt0120201"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Tom Johnson",
+                "Gary Summers",
+                "Mark Ulano"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Massey",
+                "Rick Kline",
+                "Doug Hemphill",
+                "Keith A. Wester"
+              ],
+              "movies": [
+                {
+                  "title": "Air Force One",
+                  "tmdbId": 9772,
+                  "imdbId": "tt0118571"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Art Rochester"
+              ],
+              "movies": [
+                {
+                  "title": "Con Air",
+                  "tmdbId": 1701,
+                  "imdbId": "tt0118880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Thom",
+                "Tom Johnson Dennis S. Sands",
+                "William B. Kaplan"
+              ],
+              "movies": [
+                {
+                  "title": "Contact",
+                  "tmdbId": 686,
+                  "imdbId": "tt0118884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Anna Behlmer",
+                "Kirk Francis"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Tom Bellfort",
+                "Christopher Boyes"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mark Stoeckinger",
+                "Per Hallberg"
+              ],
+              "movies": [
+                {
+                  "title": "Mighty Ducks the Movie: The First Face-Off",
+                  "tmdbId": 59091,
+                  "imdbId": "tt0179976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Mangini"
+              ],
+              "movies": [
+                {
+                  "title": "The Fifth Element",
+                  "tmdbId": 18,
+                  "imdbId": "tt0119116"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "James Horner"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Danny Elfman"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "L.A. Confidential",
+                  "tmdbId": 2118,
+                  "imdbId": "tt0119488"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Amistad",
+                  "tmdbId": 11831,
+                  "imdbId": "tt0118607"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip Glass"
+              ],
+              "movies": [
+                {
+                  "title": "Kundun",
+                  "tmdbId": 9746,
+                  "imdbId": "tt0119485"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Anne Dudley"
+              ],
+              "movies": [
+                {
+                  "title": "The Full Monty",
+                  "tmdbId": 9427,
+                  "imdbId": "tt0119164"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Danny Elfman"
+              ],
+              "movies": [
+                {
+                  "title": "Men in Black",
+                  "tmdbId": 607,
+                  "imdbId": "tt0119654"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "As Good as It Gets",
+                  "tmdbId": 2898,
+                  "imdbId": "tt0119822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Newton Howard"
+              ],
+              "movies": [
+                {
+                  "title": "My Best Friend's Wedding",
+                  "tmdbId": 8874,
+                  "imdbId": "tt0119738"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Flaherty",
+                "Lynn Ahrens",
+                "David Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Anastasia",
+                  "tmdbId": 9444,
+                  "imdbId": "tt0118617"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "My Heart Will Go On"
+              ],
+              "movies": [
+                {
+                  "title": "Titanic",
+                  "tmdbId": 597,
+                  "imdbId": "tt0120338"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Journey to the Past"
+              ],
+              "movies": [
+                {
+                  "title": "Anastasia",
+                  "tmdbId": 9444,
+                  "imdbId": "tt0118617"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How Do I Live"
+              ],
+              "movies": [
+                {
+                  "title": "Con Air",
+                  "tmdbId": 1701,
+                  "imdbId": "tt0118880"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miss Misery"
+              ],
+              "movies": [
+                {
+                  "title": "Good Will Hunting",
+                  "tmdbId": 489,
+                  "imdbId": "tt0119217"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Go the Distance"
+              ],
+              "movies": [
+                {
+                  "title": "Hercules",
+                  "tmdbId": 11970,
+                  "imdbId": "tt0119282"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Geri's Game"
+              ],
+              "movies": [
+                {
+                  "title": "Geri's Game",
+                  "tmdbId": 13929,
+                  "imdbId": "tt0131409"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Famous Fred"
+              ],
+              "movies": [
+                {
+                  "title": "Famous Fred",
+                  "tmdbId": 224445,
+                  "imdbId": "tt0141005"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Old Lady and the Pigeons"
+              ],
+              "movies": [
+                {
+                  "title": "The Old Lady and the Pigeons",
+                  "tmdbId": 48347,
+                  "imdbId": "tt0127710"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Redux Riding Hood"
+              ],
+              "movies": [
+                {
+                  "title": "Redux Riding Hood",
+                  "tmdbId": 121076,
+                  "imdbId": "tt0141560"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rusalka (1909)"
+              ],
+              "movies": [
+                {
+                  "title": "Rusalka (1909)",
+                  "tmdbId": 1262731
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Visas and Virtue"
+              ],
+              "movies": [
+                {
+                  "title": "Visas and Virtue",
+                  "tmdbId": 244914,
+                  "imdbId": "tt0141963"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dance Lexie Dance"
+              ],
+              "movies": [
+                {
+                  "title": "Dance Lexie Dance",
+                  "tmdbId": 244915,
+                  "imdbId": "tt0140934"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It's Good to Talk"
+              ],
+              "movies": [
+                {
+                  "title": "It's Good to Talk",
+                  "tmdbId": 244916,
+                  "imdbId": "tt0141401"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sweethearts?"
+              ],
+              "movies": [
+                {
+                  "title": "Sweethearts?",
+                  "tmdbId": 210607,
+                  "imdbId": "tt0141868"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wolfgang"
+              ],
+              "movies": [
+                {
+                  "title": "Wolfgang",
+                  "tmdbId": 244918,
+                  "imdbId": "tt0141995"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "A Story of Healing"
+              ],
+              "movies": [
+                {
+                  "title": "A Story of Healing",
+                  "tmdbId": 244919,
+                  "imdbId": "tt0141858"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alaska: Spirit of the Wild"
+              ],
+              "movies": [
+                {
+                  "title": "Alaska: Spirit of the Wild",
+                  "tmdbId": 13795,
+                  "imdbId": "tt0130445"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Amazon"
+              ],
+              "movies": [
+                {
+                  "title": "Amazon",
+                  "tmdbId": 13796,
+                  "imdbId": "tt0140803"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daughter of the Bride"
+              ],
+              "movies": [
+                {
+                  "title": "Daughter of the Bride",
+                  "tmdbId": 244920,
+                  "imdbId": "tt0129918"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Still Kicking: The Fabulous Palm Springs Follies"
+              ],
+              "movies": [
+                {
+                  "title": "Still Kicking: The Fabulous Palm Springs Follies",
+                  "tmdbId": 244921,
+                  "imdbId": "tt0141856"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

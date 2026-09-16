@@ -1,0 +1,1749 @@
+{
+  "ceremony": {
+    "ordinal": 88,
+    "ceremonyYear": 2016,
+    "ceremonyDate": "2016-02-28",
+    "filmYearLabel": "2015",
+    "slug": "2016",
+    "decade": "2010s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Spotlight"
+              ],
+              "movies": [
+                {
+                  "title": "Spotlight",
+                  "tmdbId": 314365,
+                  "imdbId": "tt1895587"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bridge of Spies"
+              ],
+              "movies": [
+                {
+                  "title": "Bridge of Spies",
+                  "tmdbId": 296098,
+                  "imdbId": "tt3682448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brooklyn"
+              ],
+              "movies": [
+                {
+                  "title": "Brooklyn",
+                  "tmdbId": 167073,
+                  "imdbId": "tt2381111"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Big Short"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Short",
+                  "tmdbId": 318846,
+                  "imdbId": "tt1596363"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mad Max: Fury Road"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Martian"
+              ],
+              "movies": [
+                {
+                  "title": "The Martian",
+                  "tmdbId": 286217,
+                  "imdbId": "tt3659388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Revenant"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Room"
+              ],
+              "movies": [
+                {
+                  "title": "Room",
+                  "tmdbId": 264644,
+                  "imdbId": "tt3170832"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Alejandro G. Inarritu"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lenny Abrahamson"
+              ],
+              "movies": [
+                {
+                  "title": "Room",
+                  "tmdbId": 264644,
+                  "imdbId": "tt3170832"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom McCarthy"
+              ],
+              "movies": [
+                {
+                  "title": "Spotlight",
+                  "tmdbId": 314365,
+                  "imdbId": "tt1895587"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adam McKay"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Short",
+                  "tmdbId": 318846,
+                  "imdbId": "tt1596363"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Leonardo DiCaprio"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bryan Cranston"
+              ],
+              "movies": [
+                {
+                  "title": "Trumbo",
+                  "tmdbId": 294016,
+                  "imdbId": "tt3203606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matt Damon"
+              ],
+              "movies": [
+                {
+                  "title": "The Martian",
+                  "tmdbId": 286217,
+                  "imdbId": "tt3659388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Fassbender"
+              ],
+              "movies": [
+                {
+                  "title": "Steve Jobs",
+                  "tmdbId": 321697,
+                  "imdbId": "tt2080374"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eddie Redmayne"
+              ],
+              "movies": [
+                {
+                  "title": "The Danish Girl",
+                  "tmdbId": 306819,
+                  "imdbId": "tt0810819"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Brie Larson"
+              ],
+              "movies": [
+                {
+                  "title": "Room",
+                  "tmdbId": 264644,
+                  "imdbId": "tt3170832"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cate Blanchett"
+              ],
+              "movies": [
+                {
+                  "title": "Carol",
+                  "tmdbId": 258480,
+                  "imdbId": "tt2402927"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jennifer Lawrence"
+              ],
+              "movies": [
+                {
+                  "title": "Joy",
+                  "tmdbId": 274479,
+                  "imdbId": "tt2446980"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charlotte Rampling"
+              ],
+              "movies": [
+                {
+                  "title": "45 Years",
+                  "tmdbId": 311291,
+                  "imdbId": "tt3544082"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Saoirse Ronan"
+              ],
+              "movies": [
+                {
+                  "title": "Brooklyn",
+                  "tmdbId": 167073,
+                  "imdbId": "tt2381111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Mark Rylance"
+              ],
+              "movies": [
+                {
+                  "title": "Bridge of Spies",
+                  "tmdbId": 296098,
+                  "imdbId": "tt3682448"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Christian Bale"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Short",
+                  "tmdbId": 318846,
+                  "imdbId": "tt1596363"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Hardy"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Ruffalo"
+              ],
+              "movies": [
+                {
+                  "title": "Spotlight",
+                  "tmdbId": 314365,
+                  "imdbId": "tt1895587"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sylvester Stallone"
+              ],
+              "movies": [
+                {
+                  "title": "Creed",
+                  "tmdbId": 312221,
+                  "imdbId": "tt3076658"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Alicia Vikander"
+              ],
+              "movies": [
+                {
+                  "title": "The Danish Girl",
+                  "tmdbId": 306819,
+                  "imdbId": "tt0810819"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jennifer Jason Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "The Hateful Eight",
+                  "tmdbId": 273248,
+                  "imdbId": "tt3460252"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rooney Mara"
+              ],
+              "movies": [
+                {
+                  "title": "Carol",
+                  "tmdbId": 258480,
+                  "imdbId": "tt2402927"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rachel McAdams"
+              ],
+              "movies": [
+                {
+                  "title": "Spotlight",
+                  "tmdbId": 314365,
+                  "imdbId": "tt1895587"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kate Winslet"
+              ],
+              "movies": [
+                {
+                  "title": "Steve Jobs",
+                  "tmdbId": 321697,
+                  "imdbId": "tt2080374"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Josh Singer",
+                "Tom McCarthy"
+              ],
+              "movies": [
+                {
+                  "title": "Spotlight",
+                  "tmdbId": 314365,
+                  "imdbId": "tt1895587"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Matt Charman",
+                "Ethan Coen",
+                "Joel Coen"
+              ],
+              "movies": [
+                {
+                  "title": "Bridge of Spies",
+                  "tmdbId": 296098,
+                  "imdbId": "tt3682448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex Garland"
+              ],
+              "movies": [
+                {
+                  "title": "Ex Machina",
+                  "tmdbId": 264660,
+                  "imdbId": "tt0470752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pete Docter",
+                "Meg LeFauve",
+                "Ronnie del Carmen",
+                "Josh Cooley"
+              ],
+              "movies": [
+                {
+                  "title": "Inside Out",
+                  "tmdbId": 150540,
+                  "imdbId": "tt2096673"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonathan Herman",
+                "Andrea Berloff",
+                "S. Leigh Savidge",
+                "Alan Wenkus"
+              ],
+              "movies": [
+                {
+                  "title": "Straight Outta Compton",
+                  "tmdbId": 277216,
+                  "imdbId": "tt1398426"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Charles Randolph",
+                "Adam McKay"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Short",
+                  "tmdbId": 318846,
+                  "imdbId": "tt1596363"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Phyllis Nagy"
+              ],
+              "movies": [
+                {
+                  "title": "Carol",
+                  "tmdbId": 258480,
+                  "imdbId": "tt2402927"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Drew Goddard"
+              ],
+              "movies": [
+                {
+                  "title": "The Martian",
+                  "tmdbId": 286217,
+                  "imdbId": "tt3659388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emma Donoghue"
+              ],
+              "movies": [
+                {
+                  "title": "Room",
+                  "tmdbId": 264644,
+                  "imdbId": "tt3170832"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nick Hornby"
+              ],
+              "movies": [
+                {
+                  "title": "Brooklyn",
+                  "tmdbId": 167073,
+                  "imdbId": "tt2381111"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Inside Out"
+              ],
+              "movies": [
+                {
+                  "title": "Inside Out",
+                  "tmdbId": 150540,
+                  "imdbId": "tt2096673"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Shaun the Sheep Movie"
+              ],
+              "movies": [
+                {
+                  "title": "Shaun the Sheep Movie",
+                  "tmdbId": 263109,
+                  "imdbId": "tt2872750"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When Marnie Was There"
+              ],
+              "movies": [
+                {
+                  "title": "When Marnie Was There",
+                  "tmdbId": 242828,
+                  "imdbId": "tt3398268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anomalisa"
+              ],
+              "movies": [
+                {
+                  "title": "Anomalisa",
+                  "tmdbId": 291270,
+                  "imdbId": "tt2401878"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boy & the World"
+              ],
+              "movies": [
+                {
+                  "title": "Boy & the World",
+                  "tmdbId": 223706,
+                  "imdbId": "tt3183630"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Son of Saul"
+              ],
+              "movies": [
+                {
+                  "title": "Son of Saul",
+                  "tmdbId": 336050,
+                  "imdbId": "tt3808342"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mustang"
+              ],
+              "movies": [
+                {
+                  "title": "Mustang",
+                  "tmdbId": 336804,
+                  "imdbId": "tt3966404"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theeb"
+              ],
+              "movies": [
+                {
+                  "title": "Theeb",
+                  "tmdbId": 287628,
+                  "imdbId": "tt3170902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A War"
+              ],
+              "movies": [
+                {
+                  "title": "A War",
+                  "tmdbId": 348674,
+                  "imdbId": "tt3830162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Embrace of the Serpent"
+              ],
+              "movies": [
+                {
+                  "title": "Embrace of the Serpent",
+                  "tmdbId": 336808,
+                  "imdbId": "tt4285496"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Amy"
+              ],
+              "movies": [
+                {
+                  "title": "Amy",
+                  "tmdbId": 331781,
+                  "imdbId": "tt2870648"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cartel Land"
+              ],
+              "movies": [
+                {
+                  "title": "Cartel Land",
+                  "tmdbId": 317952,
+                  "imdbId": "tt4126304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Look of Silence"
+              ],
+              "movies": [
+                {
+                  "title": "The Look of Silence",
+                  "tmdbId": 267480,
+                  "imdbId": "tt3521134"
+                }
+              ]
+            },
+            {
+              "names": [
+                "What Happened, Miss Simone?"
+              ],
+              "movies": [
+                {
+                  "title": "What Happened, Miss Simone?",
+                  "tmdbId": 318044,
+                  "imdbId": "tt4284010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Winter on Fire: Ukraine's Fight for Freedom"
+              ],
+              "movies": [
+                {
+                  "title": "Winter on Fire: Ukraine's Fight for Freedom",
+                  "tmdbId": 355020,
+                  "imdbId": "tt4908644"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Emmanuel Lubezki"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ed Lachman"
+              ],
+              "movies": [
+                {
+                  "title": "Carol",
+                  "tmdbId": 258480,
+                  "imdbId": "tt2402927"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "The Hateful Eight",
+                  "tmdbId": 273248,
+                  "imdbId": "tt3460252"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Seale"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "Sicario",
+                  "tmdbId": 273481,
+                  "imdbId": "tt3397884"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Margaret Sixel"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hank Corwin"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Short",
+                  "tmdbId": 318846,
+                  "imdbId": "tt1596363"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Mirrione"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom McArdle"
+              ],
+              "movies": [
+                {
+                  "title": "Spotlight",
+                  "tmdbId": 314365,
+                  "imdbId": "tt1895587"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maryann Brandon",
+                "Mary Jo Markey"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Force Awakens",
+                  "tmdbId": 140607,
+                  "imdbId": "tt2488496"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Colin Gibson",
+                "Lisa Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adam Stockhausen",
+                "Rena DeAngelo",
+                "Bernhard Henrich"
+              ],
+              "movies": [
+                {
+                  "title": "Bridge of Spies",
+                  "tmdbId": 296098,
+                  "imdbId": "tt3682448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eve Stewart",
+                "Michael Standish"
+              ],
+              "movies": [
+                {
+                  "title": "The Danish Girl",
+                  "tmdbId": 306819,
+                  "imdbId": "tt0810819"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Max",
+                "Celia Bobak"
+              ],
+              "movies": [
+                {
+                  "title": "The Martian",
+                  "tmdbId": 286217,
+                  "imdbId": "tt3659388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Fisk",
+                "Hamish Purdy"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Jenny Beavan"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Carol",
+                  "tmdbId": 258480,
+                  "imdbId": "tt2402927"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Cinderella",
+                  "tmdbId": 150689,
+                  "imdbId": "tt1661199"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paco Delgado"
+              ],
+              "movies": [
+                {
+                  "title": "The Danish Girl",
+                  "tmdbId": 306819,
+                  "imdbId": "tt0810819"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacqueline West"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Lesley Vanderwalt",
+                "Elka Wardega",
+                "Damian Martin"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Love Larson",
+                "Eva von Bahr"
+              ],
+              "movies": [
+                {
+                  "title": "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+                  "tmdbId": 145247,
+                  "imdbId": "tt2113681"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sian Grigg",
+                "Duncan Jarman",
+                "Robert Pandini"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Andrew Whitehurst",
+                "Paul Norris",
+                "Mark Ardington",
+                "Sara Bennett"
+              ],
+              "movies": [
+                {
+                  "title": "Ex Machina",
+                  "tmdbId": 264660,
+                  "imdbId": "tt0470752"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Andrew Jackson",
+                "Tom Wood",
+                "Dan Oliver",
+                "Andy Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Stammers",
+                "Anders Langlands",
+                "Chris Lawrence",
+                "Steven Warner"
+              ],
+              "movies": [
+                {
+                  "title": "The Martian",
+                  "tmdbId": 286217,
+                  "imdbId": "tt3659388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Guyett",
+                "Patrick Tubach",
+                "Neal Scanlan",
+                "Chris Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Force Awakens",
+                  "tmdbId": 140607,
+                  "imdbId": "tt2488496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rich McBride",
+                "Matthew Shumway",
+                "Jason Smith",
+                "Cameron Waldbauer"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Chris Jenkins",
+                "Gregg Rudloff",
+                "Ben Osmo"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Andy Nelson",
+                "Gary Rydstrom",
+                "Drew Kunin"
+              ],
+              "movies": [
+                {
+                  "title": "Bridge of Spies",
+                  "tmdbId": 296098,
+                  "imdbId": "tt3682448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Massey",
+                "Mark Taylor",
+                "Mac Ruth"
+              ],
+              "movies": [
+                {
+                  "title": "The Martian",
+                  "tmdbId": 286217,
+                  "imdbId": "tt3659388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Taylor",
+                "Frank A. Montano",
+                "Randy Thom",
+                "Chris Duesterdiek"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Christopher Scarabosio",
+                "Stuart Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Force Awakens",
+                  "tmdbId": 140607,
+                  "imdbId": "tt2488496"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Mark Mangini",
+                "David White"
+              ],
+              "movies": [
+                {
+                  "title": "Mad Max: Fury Road",
+                  "tmdbId": 76341,
+                  "imdbId": "tt1392190"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Matthew Wood",
+                "David Acord"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Force Awakens",
+                  "tmdbId": 140607,
+                  "imdbId": "tt2488496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Tarney"
+              ],
+              "movies": [
+                {
+                  "title": "The Martian",
+                  "tmdbId": 286217,
+                  "imdbId": "tt3659388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Hernandez",
+                "Lon Bender"
+              ],
+              "movies": [
+                {
+                  "title": "The Revenant",
+                  "tmdbId": 281957,
+                  "imdbId": "tt1663202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Robert Murray"
+              ],
+              "movies": [
+                {
+                  "title": "Sicario",
+                  "tmdbId": 273481,
+                  "imdbId": "tt3397884"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Ennio Morricone"
+              ],
+              "movies": [
+                {
+                  "title": "The Hateful Eight",
+                  "tmdbId": 273248,
+                  "imdbId": "tt3460252"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Bridge of Spies",
+                  "tmdbId": 296098,
+                  "imdbId": "tt3682448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carter Burwell"
+              ],
+              "movies": [
+                {
+                  "title": "Carol",
+                  "tmdbId": 258480,
+                  "imdbId": "tt2402927"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Johann Johannsson"
+              ],
+              "movies": [
+                {
+                  "title": "Sicario",
+                  "tmdbId": 273481,
+                  "imdbId": "tt3397884"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: The Force Awakens",
+                  "tmdbId": 140607,
+                  "imdbId": "tt2488496"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Writing's On The Wall"
+              ],
+              "movies": [
+                {
+                  "title": "Spectre",
+                  "tmdbId": 206647,
+                  "imdbId": "tt2379713"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Earned It"
+              ],
+              "movies": [
+                {
+                  "title": "Fifty Shades of Grey",
+                  "tmdbId": 216015,
+                  "imdbId": "tt2322441"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Manta Ray"
+              ],
+              "movies": [
+                {
+                  "title": "Racing Extinction",
+                  "tmdbId": 300792,
+                  "imdbId": "tt1618448"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Simple Song #3"
+              ],
+              "movies": [
+                {
+                  "title": "Youth",
+                  "tmdbId": 310593,
+                  "imdbId": "tt3312830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Til It Happens to You"
+              ],
+              "movies": [
+                {
+                  "title": "The Hunting Ground",
+                  "tmdbId": 319091,
+                  "imdbId": "tt4185572"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Bear Story"
+              ],
+              "movies": [
+                {
+                  "title": "Bear Story",
+                  "tmdbId": 351981,
+                  "imdbId": "tt3829254"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Prologue"
+              ],
+              "movies": [
+                {
+                  "title": "Prologue",
+                  "tmdbId": 359549,
+                  "imdbId": "tt4955294"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sanjay's Super Team"
+              ],
+              "movies": [
+                {
+                  "title": "Sanjay's Super Team",
+                  "tmdbId": 345637,
+                  "imdbId": "tt4661600"
+                }
+              ]
+            },
+            {
+              "names": [
+                "We Can't Live Without Cosmos"
+              ],
+              "movies": [
+                {
+                  "title": "We Can't Live Without Cosmos",
+                  "tmdbId": 329063,
+                  "imdbId": "tt3965660"
+                }
+              ]
+            },
+            {
+              "names": [
+                "World of Tomorrow"
+              ],
+              "movies": [
+                {
+                  "title": "World of Tomorrow",
+                  "tmdbId": 303867,
+                  "imdbId": "tt4171032"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Stutterer"
+              ],
+              "movies": [
+                {
+                  "title": "Stutterer",
+                  "tmdbId": 369373,
+                  "imdbId": "tt4817576"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ave Maria"
+              ],
+              "movies": [
+                {
+                  "title": "Ave Maria",
+                  "tmdbId": 348396,
+                  "imdbId": "tt4419794"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Day One"
+              ],
+              "movies": [
+                {
+                  "title": "Day One",
+                  "tmdbId": 335026,
+                  "imdbId": "tt4122886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Everything Will Be Okay"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Will Be Okay",
+                  "tmdbId": 365909,
+                  "imdbId": "tt4324518"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Friend"
+              ],
+              "movies": [
+                {
+                  "title": "Friend",
+                  "tmdbId": 366736,
+                  "imdbId": "tt4273570"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "A Girl in the River: The Price of Forgiveness"
+              ],
+              "movies": [
+                {
+                  "title": "A Girl in the River: The Price of Forgiveness",
+                  "tmdbId": 369364,
+                  "imdbId": "tt5144072"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Body Team 12"
+              ],
+              "movies": [
+                {
+                  "title": "Body Team 12",
+                  "tmdbId": 365447,
+                  "imdbId": "tt4430002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chau, Beyond the Lines"
+              ],
+              "movies": [
+                {
+                  "title": "Chau, Beyond the Lines",
+                  "tmdbId": 369362,
+                  "imdbId": "tt4084844"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claude Lanzmann: Spectres of the Shoah"
+              ],
+              "movies": [
+                {
+                  "title": "Claude Lanzmann: Spectres of the Shoah",
+                  "tmdbId": 369363,
+                  "imdbId": "tt4815426"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Last Day of Freedom"
+              ],
+              "movies": [
+                {
+                  "title": "Last Day of Freedom",
+                  "tmdbId": 369366,
+                  "imdbId": "tt4172096"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

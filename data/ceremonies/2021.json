@@ -1,0 +1,1716 @@
+{
+  "ceremony": {
+    "ordinal": 93,
+    "ceremonyYear": 2021,
+    "ceremonyDate": "2021-04-25",
+    "filmYearLabel": "2020",
+    "slug": "2021",
+    "decade": "2020s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Nomadland"
+              ],
+              "movies": [
+                {
+                  "title": "Nomadland",
+                  "tmdbId": 581734,
+                  "imdbId": "tt9770150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Father"
+              ],
+              "movies": [
+                {
+                  "title": "The Father",
+                  "tmdbId": 600354,
+                  "imdbId": "tt10272386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judas and the Black Messiah"
+              ],
+              "movies": [
+                {
+                  "title": "Judas and the Black Messiah",
+                  "tmdbId": 583406,
+                  "imdbId": "tt9784798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mank"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Minari"
+              ],
+              "movies": [
+                {
+                  "title": "Minari",
+                  "tmdbId": 615643,
+                  "imdbId": "tt10633456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Promising Young Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Promising Young Woman",
+                  "tmdbId": 582014,
+                  "imdbId": "tt9620292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sound of Metal"
+              ],
+              "movies": [
+                {
+                  "title": "Sound of Metal",
+                  "tmdbId": 502033,
+                  "imdbId": "tt5363618"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Trial of the Chicago 7"
+              ],
+              "movies": [
+                {
+                  "title": "The Trial of the Chicago 7",
+                  "tmdbId": 556984,
+                  "imdbId": "tt1070874"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Chloe Zhao"
+              ],
+              "movies": [
+                {
+                  "title": "Nomadland",
+                  "tmdbId": 581734,
+                  "imdbId": "tt9770150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lee Isaac Chung"
+              ],
+              "movies": [
+                {
+                  "title": "Minari",
+                  "tmdbId": 615643,
+                  "imdbId": "tt10633456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emerald Fennell"
+              ],
+              "movies": [
+                {
+                  "title": "Promising Young Woman",
+                  "tmdbId": 582014,
+                  "imdbId": "tt9620292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Fincher"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Vinterberg"
+              ],
+              "movies": [
+                {
+                  "title": "Another Round",
+                  "tmdbId": 580175,
+                  "imdbId": "tt10288566"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Anthony Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "The Father",
+                  "tmdbId": 600354,
+                  "imdbId": "tt10272386"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Riz Ahmed"
+              ],
+              "movies": [
+                {
+                  "title": "Sound of Metal",
+                  "tmdbId": 502033,
+                  "imdbId": "tt5363618"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chadwick Boseman"
+              ],
+              "movies": [
+                {
+                  "title": "Ma Rainey's Black Bottom",
+                  "tmdbId": 615667,
+                  "imdbId": "tt10514222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Oldman"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Yeun"
+              ],
+              "movies": [
+                {
+                  "title": "Minari",
+                  "tmdbId": 615643,
+                  "imdbId": "tt10633456"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Frances McDormand"
+              ],
+              "movies": [
+                {
+                  "title": "Nomadland",
+                  "tmdbId": 581734,
+                  "imdbId": "tt9770150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Viola Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Ma Rainey's Black Bottom",
+                  "tmdbId": 615667,
+                  "imdbId": "tt10514222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andra Day"
+              ],
+              "movies": [
+                {
+                  "title": "The United States vs. Billie Holiday",
+                  "tmdbId": 566076,
+                  "imdbId": "tt8521718"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vanessa Kirby"
+              ],
+              "movies": [
+                {
+                  "title": "Pieces of a Woman",
+                  "tmdbId": 641662,
+                  "imdbId": "tt11161474"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carey Mulligan"
+              ],
+              "movies": [
+                {
+                  "title": "Promising Young Woman",
+                  "tmdbId": 582014,
+                  "imdbId": "tt9620292"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Daniel Kaluuya"
+              ],
+              "movies": [
+                {
+                  "title": "Judas and the Black Messiah",
+                  "tmdbId": 583406,
+                  "imdbId": "tt9784798"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sacha Baron Cohen"
+              ],
+              "movies": [
+                {
+                  "title": "The Trial of the Chicago 7",
+                  "tmdbId": 556984,
+                  "imdbId": "tt1070874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leslie Odom Jr."
+              ],
+              "movies": [
+                {
+                  "title": "One Night in Miami...",
+                  "tmdbId": 661914,
+                  "imdbId": "tt10612922"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Raci"
+              ],
+              "movies": [
+                {
+                  "title": "Sound of Metal",
+                  "tmdbId": 502033,
+                  "imdbId": "tt5363618"
+                }
+              ]
+            },
+            {
+              "names": [
+                "LaKeith Stanfield"
+              ],
+              "movies": [
+                {
+                  "title": "Judas and the Black Messiah",
+                  "tmdbId": 583406,
+                  "imdbId": "tt9784798"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Youn Yuh-jung"
+              ],
+              "movies": [
+                {
+                  "title": "Minari",
+                  "tmdbId": 615643,
+                  "imdbId": "tt10633456"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Maria Bakalova"
+              ],
+              "movies": [
+                {
+                  "title": "Borat Subsequent Moviefilm",
+                  "tmdbId": 740985,
+                  "imdbId": "tt13143964"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Glenn Close"
+              ],
+              "movies": [
+                {
+                  "title": "Hillbilly Elegy",
+                  "tmdbId": 592984,
+                  "imdbId": "tt6772802"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Olivia Colman"
+              ],
+              "movies": [
+                {
+                  "title": "The Father",
+                  "tmdbId": 600354,
+                  "imdbId": "tt10272386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Amanda Seyfried"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Emerald Fennell"
+              ],
+              "movies": [
+                {
+                  "title": "Promising Young Woman",
+                  "tmdbId": 582014,
+                  "imdbId": "tt9620292"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Will Berson",
+                "Shaka King",
+                "Keith Lucas",
+                "Kenny Lucas"
+              ],
+              "movies": [
+                {
+                  "title": "Judas and the Black Messiah",
+                  "tmdbId": 583406,
+                  "imdbId": "tt9784798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Isaac Chung"
+              ],
+              "movies": [
+                {
+                  "title": "Minari",
+                  "tmdbId": 615643,
+                  "imdbId": "tt10633456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Darius Marder",
+                "Abraham Marder",
+                "Derek Cianfrance"
+              ],
+              "movies": [
+                {
+                  "title": "Sound of Metal",
+                  "tmdbId": 502033,
+                  "imdbId": "tt5363618"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aaron Sorkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Trial of the Chicago 7",
+                  "tmdbId": 556984,
+                  "imdbId": "tt1070874"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Christopher Hampton",
+                "Florian Zeller"
+              ],
+              "movies": [
+                {
+                  "title": "The Father",
+                  "tmdbId": 600354,
+                  "imdbId": "tt10272386"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sacha Baron Cohen",
+                "Anthony Hines",
+                "Dan Swimer",
+                "Peter Baynham",
+                "Erica Rivinoja",
+                "Dan Mazer",
+                "Jena Friedman",
+                "Lee Kern",
+                "Nina Pedrad"
+              ],
+              "movies": [
+                {
+                  "title": "Borat Subsequent Moviefilm",
+                  "tmdbId": 740985,
+                  "imdbId": "tt13143964"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chloe Zhao"
+              ],
+              "movies": [
+                {
+                  "title": "Nomadland",
+                  "tmdbId": 581734,
+                  "imdbId": "tt9770150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kemp Powers"
+              ],
+              "movies": [
+                {
+                  "title": "One Night in Miami...",
+                  "tmdbId": 661914,
+                  "imdbId": "tt10612922"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ramin Bahrani"
+              ],
+              "movies": [
+                {
+                  "title": "The White Tiger",
+                  "tmdbId": 628534,
+                  "imdbId": "tt6571548"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Soul"
+              ],
+              "movies": [
+                {
+                  "title": "Soul",
+                  "tmdbId": 508442,
+                  "imdbId": "tt2948372"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Onward"
+              ],
+              "movies": [
+                {
+                  "title": "Onward",
+                  "tmdbId": 508439,
+                  "imdbId": "tt7146812"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Over the Moon"
+              ],
+              "movies": [
+                {
+                  "title": "Over the Moon",
+                  "tmdbId": 560050,
+                  "imdbId": "tt7488208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Shaun the Sheep Movie: Farmageddon"
+              ],
+              "movies": [
+                {
+                  "title": "A Shaun the Sheep Movie: Farmageddon",
+                  "tmdbId": 422803,
+                  "imdbId": "tt6193408"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wolfwalkers"
+              ],
+              "movies": [
+                {
+                  "title": "Wolfwalkers",
+                  "tmdbId": 441130,
+                  "imdbId": "tt5198068"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best International Feature Film",
+          "winners": [
+            {
+              "names": [
+                "Another Round"
+              ],
+              "movies": [
+                {
+                  "title": "Another Round",
+                  "tmdbId": 580175,
+                  "imdbId": "tt10288566"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Better Days"
+              ],
+              "movies": [
+                {
+                  "title": "Better Days",
+                  "tmdbId": 575813,
+                  "imdbId": "tt9586294"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Collective"
+              ],
+              "movies": [
+                {
+                  "title": "Collective",
+                  "tmdbId": 618363,
+                  "imdbId": "tt10706602"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Man Who Sold His Skin"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Sold His Skin",
+                  "tmdbId": 669363,
+                  "imdbId": "tt10360862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quo Vadis, Aida?"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis, Aida?",
+                  "tmdbId": 728118,
+                  "imdbId": "tt8633462"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "My Octopus Teacher"
+              ],
+              "movies": [
+                {
+                  "title": "My Octopus Teacher",
+                  "tmdbId": 682110,
+                  "imdbId": "tt12888462"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Collective"
+              ],
+              "movies": [
+                {
+                  "title": "Collective",
+                  "tmdbId": 618363,
+                  "imdbId": "tt10706602"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Crip Camp: A Disability Revolution"
+              ],
+              "movies": [
+                {
+                  "title": "Crip Camp: A Disability Revolution",
+                  "tmdbId": 653725,
+                  "imdbId": "tt8923484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Mole Agent"
+              ],
+              "movies": [
+                {
+                  "title": "The Mole Agent",
+                  "tmdbId": 653756,
+                  "imdbId": "tt11394298"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Time"
+              ],
+              "movies": [
+                {
+                  "title": "Time",
+                  "tmdbId": 653729,
+                  "imdbId": "tt11416746"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Erik Messerschmidt"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sean Bobbitt"
+              ],
+              "movies": [
+                {
+                  "title": "Judas and the Black Messiah",
+                  "tmdbId": 583406,
+                  "imdbId": "tt9784798"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dariusz Wolski"
+              ],
+              "movies": [
+                {
+                  "title": "News of the World",
+                  "tmdbId": 581032,
+                  "imdbId": "tt6878306"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joshua James Richards"
+              ],
+              "movies": [
+                {
+                  "title": "Nomadland",
+                  "tmdbId": 581734,
+                  "imdbId": "tt9770150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Phedon Papamichael"
+              ],
+              "movies": [
+                {
+                  "title": "The Trial of the Chicago 7",
+                  "tmdbId": 556984,
+                  "imdbId": "tt1070874"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Mikkel E. G. Nielsen"
+              ],
+              "movies": [
+                {
+                  "title": "Sound of Metal",
+                  "tmdbId": 502033,
+                  "imdbId": "tt5363618"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Yorgos Lamprinos"
+              ],
+              "movies": [
+                {
+                  "title": "The Father",
+                  "tmdbId": 600354,
+                  "imdbId": "tt10272386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chloe Zhao"
+              ],
+              "movies": [
+                {
+                  "title": "Nomadland",
+                  "tmdbId": 581734,
+                  "imdbId": "tt9770150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic Thorval"
+              ],
+              "movies": [
+                {
+                  "title": "Promising Young Woman",
+                  "tmdbId": 582014,
+                  "imdbId": "tt9620292"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Baumgarten"
+              ],
+              "movies": [
+                {
+                  "title": "The Trial of the Chicago 7",
+                  "tmdbId": 556984,
+                  "imdbId": "tt1070874"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Donald Graham Burt",
+                "Jan Pascale"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Feancis",
+                "Cathy Featherstone"
+              ],
+              "movies": [
+                {
+                  "title": "The Father",
+                  "tmdbId": 600354,
+                  "imdbId": "tt10272386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Ricker",
+                "Karen O'Hara",
+                "Diana Sroughton"
+              ],
+              "movies": [
+                {
+                  "title": "Ma Rainey's Black Bottom",
+                  "tmdbId": 615667,
+                  "imdbId": "tt10514222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Crank",
+                "Elizabeth Keenan"
+              ],
+              "movies": [
+                {
+                  "title": "News of the World",
+                  "tmdbId": 581032,
+                  "imdbId": "tt6878306"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Crowley",
+                "Kathy Lucas"
+              ],
+              "movies": [
+                {
+                  "title": "Tenet",
+                  "tmdbId": 577922,
+                  "imdbId": "tt6723592"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Ann Roth"
+              ],
+              "movies": [
+                {
+                  "title": "Ma Rainey's Black Bottom",
+                  "tmdbId": 615667,
+                  "imdbId": "tt10514222"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alexandra Byrne"
+              ],
+              "movies": [
+                {
+                  "title": "Emma.",
+                  "tmdbId": 556678,
+                  "imdbId": "tt9214832"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Trish Summerville"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bina Daigeler"
+              ],
+              "movies": [
+                {
+                  "title": "Mulan",
+                  "tmdbId": 337401,
+                  "imdbId": "tt4566758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Massimo Cantini Parrini"
+              ],
+              "movies": [
+                {
+                  "title": "Pinocchio",
+                  "tmdbId": 413518,
+                  "imdbId": "tt8333746"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Matiki Anoff",
+                "Mia Neal",
+                "Larry M. Cherry"
+              ],
+              "movies": [
+                {
+                  "title": "Ma Rainey's Black Bottom",
+                  "tmdbId": 615667,
+                  "imdbId": "tt10514222"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marese Langan",
+                "Laura Allen",
+                "Claudia Stolze"
+              ],
+              "movies": [
+                {
+                  "title": "Emma.",
+                  "tmdbId": 556678,
+                  "imdbId": "tt9214832"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eryn Krueger Mekash",
+                "Patricia Dehaney",
+                "Matthew Mungle"
+              ],
+              "movies": [
+                {
+                  "title": "Hillbilly Elegy",
+                  "tmdbId": 592984,
+                  "imdbId": "tt6772802"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kimberly Piteri",
+                "Gigi Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dalia Colli",
+                "Mark Coulier",
+                "Francesco Pegoretti"
+              ],
+              "movies": [
+                {
+                  "title": "Pinocchio",
+                  "tmdbId": 413518,
+                  "imdbId": "tt8333746"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Andrew Jackson",
+                "David Lee",
+                "Andrew Lockley",
+                "Scott Fisher"
+              ],
+              "movies": [
+                {
+                  "title": "Tenet",
+                  "tmdbId": 577922,
+                  "imdbId": "tt6723592"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Matt Sloan",
+                "Genevieve Camailleri",
+                "Matt Everitt",
+                "Brian Cox"
+              ],
+              "movies": [
+                {
+                  "title": "Love and Monsters",
+                  "tmdbId": 590223,
+                  "imdbId": "tt2222042"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matthew Kasmir",
+                "Christopher Lawren",
+                "Max Solomon",
+                "David Watkins"
+              ],
+              "movies": [
+                {
+                  "title": "The Midnight Sky",
+                  "tmdbId": 614911,
+                  "imdbId": "tt10539608"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sean Faden",
+                "Anders Langlands",
+                "Seth Maury",
+                "Steven Ingram"
+              ],
+              "movies": [
+                {
+                  "title": "Mulan",
+                  "tmdbId": 337401,
+                  "imdbId": "tt4566758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nick Davis",
+                "Greg Fiher",
+                "Ben Jones",
+                "Santiago Colomo Martinez"
+              ],
+              "movies": [
+                {
+                  "title": "The One and Only Ivan",
+                  "tmdbId": 508570,
+                  "imdbId": "tt3661394"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Nicolas Becker",
+                "Jaime Baksht",
+                "Michelle Couttolenc",
+                "Carlos Cortes",
+                "Philip Bladh"
+              ],
+              "movies": [
+                {
+                  "title": "Sound of Metal",
+                  "tmdbId": 502033,
+                  "imdbId": "tt5363618"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Warren Shaw",
+                "Michael Minkler",
+                "Beau Borders",
+                "David Wyman"
+              ],
+              "movies": [
+                {
+                  "title": "Greyhound",
+                  "tmdbId": 516486,
+                  "imdbId": "tt6048922"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ren Klyce",
+                "Jeremy Molod",
+                "David Parker",
+                "Nathan Nance",
+                "Drew Kunin"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Tarney",
+                "MIke Prestwood Smith",
+                "William Miller",
+                "John Pritchett"
+              ],
+              "movies": [
+                {
+                  "title": "News of the World",
+                  "tmdbId": 581032,
+                  "imdbId": "tt6878306"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ren Klyce",
+                "Coya Elliot",
+                "David Parker"
+              ],
+              "movies": [
+                {
+                  "title": "Soul",
+                  "tmdbId": 508442,
+                  "imdbId": "tt2948372"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Trent Reznor",
+                "Atticus Ross",
+                "Jon Batiste"
+              ],
+              "movies": [
+                {
+                  "title": "Soul",
+                  "tmdbId": 508442,
+                  "imdbId": "tt2948372"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Terence Blanchard"
+              ],
+              "movies": [
+                {
+                  "title": "Da 5 Bloods",
+                  "tmdbId": 581859,
+                  "imdbId": "tt9777644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Trent Reznor",
+                "Atticus Ross"
+              ],
+              "movies": [
+                {
+                  "title": "Mank",
+                  "tmdbId": 614560,
+                  "imdbId": "tt10618286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emile Mosseri"
+              ],
+              "movies": [
+                {
+                  "title": "Minari",
+                  "tmdbId": 615643,
+                  "imdbId": "tt10633456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Newton Howard"
+              ],
+              "movies": [
+                {
+                  "title": "News of the World",
+                  "tmdbId": 581032,
+                  "imdbId": "tt6878306"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Fight for You"
+              ],
+              "movies": [
+                {
+                  "title": "Judas and the Black Messiah",
+                  "tmdbId": 583406,
+                  "imdbId": "tt9784798"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hear My Voice"
+              ],
+              "movies": [
+                {
+                  "title": "The Trial of the Chicago 7",
+                  "tmdbId": 556984,
+                  "imdbId": "tt1070874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Husavik"
+              ],
+              "movies": [
+                {
+                  "title": "Eurovision Song Contest: The Story of Fire Saga",
+                  "tmdbId": 531454,
+                  "imdbId": "tt8580274"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Io Si (Seen)"
+              ],
+              "movies": [
+                {
+                  "title": "The Life Ahead",
+                  "tmdbId": 667869,
+                  "imdbId": "tt10627584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Speak Now"
+              ],
+              "movies": [
+                {
+                  "title": "One Night in Miami...",
+                  "tmdbId": 661914,
+                  "imdbId": "tt10612922"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "If Anything Happens I Love You"
+              ],
+              "movies": [
+                {
+                  "title": "If Anything Happens I Love You",
+                  "tmdbId": 713776,
+                  "imdbId": "tt11768948"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Burrow"
+              ],
+              "movies": [
+                {
+                  "title": "Burrow",
+                  "tmdbId": 747059,
+                  "imdbId": "tt13167288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Genius Loci"
+              ],
+              "movies": [
+                {
+                  "title": "Genius Loci",
+                  "tmdbId": 663881,
+                  "imdbId": "tt11884670"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Opera"
+              ],
+              "movies": [
+                {
+                  "title": "Opera",
+                  "tmdbId": 750249,
+                  "imdbId": "tt14039636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yes-People"
+              ],
+              "movies": [
+                {
+                  "title": "Yes-People",
+                  "tmdbId": 663343,
+                  "imdbId": "tt12706728"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Two Distant Strangers"
+              ],
+              "movies": [
+                {
+                  "title": "Two Distant Strangers",
+                  "tmdbId": 787428,
+                  "imdbId": "tt13472984"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Feeling Through"
+              ],
+              "movies": [
+                {
+                  "title": "Feeling Through",
+                  "tmdbId": 689676,
+                  "imdbId": "tt9280166"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Letter Room"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter Room",
+                  "tmdbId": 762632,
+                  "imdbId": "tt11962160"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Present"
+              ],
+              "movies": [
+                {
+                  "title": "The Present",
+                  "tmdbId": 708049
+                }
+              ]
+            },
+            {
+              "names": [
+                "White Eye"
+              ],
+              "movies": [
+                {
+                  "title": "White Eye",
+                  "tmdbId": 675235,
+                  "imdbId": "tt10538710"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Colette"
+              ],
+              "movies": [
+                {
+                  "title": "Colette",
+                  "tmdbId": 741845,
+                  "imdbId": "tt11643154"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Concerto Is a Conversation"
+              ],
+              "movies": [
+                {
+                  "title": "A Concerto Is a Conversation",
+                  "tmdbId": 776751,
+                  "imdbId": "tt13793326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Do Not Split"
+              ],
+              "movies": [
+                {
+                  "title": "Do Not Split",
+                  "tmdbId": 655154,
+                  "imdbId": "tt11512676"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hunger Ward"
+              ],
+              "movies": [
+                {
+                  "title": "Hunger Ward",
+                  "tmdbId": 757697,
+                  "imdbId": "tt12979636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Love Song for Latasha"
+              ],
+              "movies": [
+                {
+                  "title": "A Love Song for Latasha",
+                  "tmdbId": 631344,
+                  "imdbId": "tt8993180"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1568 @@
+{
+  "ceremony": {
+    "ordinal": 66,
+    "ceremonyYear": 1994,
+    "ceremonyDate": "1994-03-21",
+    "filmYearLabel": "1993",
+    "slug": "1994",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Schindler's List"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Fugitive"
+              ],
+              "movies": [
+                {
+                  "title": "The Fugitive",
+                  "tmdbId": 5503,
+                  "imdbId": "tt0106977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In the Name of the Father"
+              ],
+              "movies": [
+                {
+                  "title": "In the Name of the Father",
+                  "tmdbId": 7984,
+                  "imdbId": "tt0107207"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Piano"
+              ],
+              "movies": [
+                {
+                  "title": "The Piano",
+                  "tmdbId": 713,
+                  "imdbId": "tt0107822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Remains of the Day"
+              ],
+              "movies": [
+                {
+                  "title": "The Remains of the Day",
+                  "tmdbId": 1245,
+                  "imdbId": "tt0107943"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Altman"
+              ],
+              "movies": [
+                {
+                  "title": "Short Cuts",
+                  "tmdbId": 695,
+                  "imdbId": "tt0108122"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Campion"
+              ],
+              "movies": [
+                {
+                  "title": "The Piano",
+                  "tmdbId": 713,
+                  "imdbId": "tt0107822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Ivory"
+              ],
+              "movies": [
+                {
+                  "title": "The Remains of the Day",
+                  "tmdbId": 1245,
+                  "imdbId": "tt0107943"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jim Sheridan"
+              ],
+              "movies": [
+                {
+                  "title": "In the Name of the Father",
+                  "tmdbId": 7984,
+                  "imdbId": "tt0107207"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Tom Hanks"
+              ],
+              "movies": [
+                {
+                  "title": "Philadelphia",
+                  "tmdbId": 9800,
+                  "imdbId": "tt0107818"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel Day-Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "In the Name of the Father",
+                  "tmdbId": 7984,
+                  "imdbId": "tt0107207"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Fishburne"
+              ],
+              "movies": [
+                {
+                  "title": "What's Love Got to Do with It",
+                  "tmdbId": 15765,
+                  "imdbId": "tt0108551"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "The Remains of the Day",
+                  "tmdbId": 1245,
+                  "imdbId": "tt0107943"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Liam Neeson"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Holly Hunter"
+              ],
+              "movies": [
+                {
+                  "title": "The Piano",
+                  "tmdbId": 713,
+                  "imdbId": "tt0107822"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Angela Bassett"
+              ],
+              "movies": [
+                {
+                  "title": "What's Love Got to Do with It",
+                  "tmdbId": 15765,
+                  "imdbId": "tt0108551"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stockard Channing"
+              ],
+              "movies": [
+                {
+                  "title": "Six Degrees of Separation",
+                  "tmdbId": 23210,
+                  "imdbId": "tt0108149"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emma Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "The Remains of the Day",
+                  "tmdbId": 1245,
+                  "imdbId": "tt0107943"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Debra Winger"
+              ],
+              "movies": [
+                {
+                  "title": "Shadowlands",
+                  "tmdbId": 10445,
+                  "imdbId": "tt0108101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Tommy Lee Jones"
+              ],
+              "movies": [
+                {
+                  "title": "The Fugitive",
+                  "tmdbId": 5503,
+                  "imdbId": "tt0106977"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leonardo DiCaprio"
+              ],
+              "movies": [
+                {
+                  "title": "What's Eating Gilbert Grape",
+                  "tmdbId": 1587,
+                  "imdbId": "tt0108550"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Fiennes"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Malkovich"
+              ],
+              "movies": [
+                {
+                  "title": "In the Line of Fire",
+                  "tmdbId": 9386,
+                  "imdbId": "tt0107206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pete Postlethwaite"
+              ],
+              "movies": [
+                {
+                  "title": "In the Name of the Father",
+                  "tmdbId": 7984,
+                  "imdbId": "tt0107207"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Anna Paquin"
+              ],
+              "movies": [
+                {
+                  "title": "The Piano",
+                  "tmdbId": 713,
+                  "imdbId": "tt0107822"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Holly Hunter"
+              ],
+              "movies": [
+                {
+                  "title": "The Firm",
+                  "tmdbId": 37233,
+                  "imdbId": "tt0106918"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rosie Perez"
+              ],
+              "movies": [
+                {
+                  "title": "Fearless",
+                  "tmdbId": 10443,
+                  "imdbId": "tt0106881"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Winona Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "The Age of Innocence",
+                  "tmdbId": 10436,
+                  "imdbId": "tt0106226"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emma Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "In the Name of the Father",
+                  "tmdbId": 7984,
+                  "imdbId": "tt0107207"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Jane Campion"
+              ],
+              "movies": [
+                {
+                  "title": "The Piano",
+                  "tmdbId": 713,
+                  "imdbId": "tt0107822"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gary Ross"
+              ],
+              "movies": [
+                {
+                  "title": "Dave",
+                  "tmdbId": 11566,
+                  "imdbId": "tt0106673"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeff Maguire"
+              ],
+              "movies": [
+                {
+                  "title": "In the Line of Fire",
+                  "tmdbId": 9386,
+                  "imdbId": "tt0107206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ron Nyswaner"
+              ],
+              "movies": [
+                {
+                  "title": "Philadelphia",
+                  "tmdbId": 9800,
+                  "imdbId": "tt0107818"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nora Ephron",
+                "Jeff Arch",
+                "David S. Ward"
+              ],
+              "movies": [
+                {
+                  "title": "Sleepless in Seattle",
+                  "tmdbId": 858,
+                  "imdbId": "tt0108160"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Steve Zaillian"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Martin Scorsese",
+                "Jay Cocks"
+              ],
+              "movies": [
+                {
+                  "title": "The Age of Innocence",
+                  "tmdbId": 10436,
+                  "imdbId": "tt0106226"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jim Sheridan",
+                "Terry George"
+              ],
+              "movies": [
+                {
+                  "title": "In the Name of the Father",
+                  "tmdbId": 7984,
+                  "imdbId": "tt0107207"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth Prawer Jhabvala"
+              ],
+              "movies": [
+                {
+                  "title": "The Remains of the Day",
+                  "tmdbId": 1245,
+                  "imdbId": "tt0107943"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Shadowlands",
+                  "tmdbId": 10445,
+                  "imdbId": "tt0108101"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Belle Époque"
+              ],
+              "movies": [
+                {
+                  "title": "Belle Époque",
+                  "tmdbId": 2470,
+                  "imdbId": "tt0103791"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Farewell My Concubine"
+              ],
+              "movies": [
+                {
+                  "title": "Farewell My Concubine",
+                  "tmdbId": 10997,
+                  "imdbId": "tt0106332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hedd Wyn"
+              ],
+              "movies": [
+                {
+                  "title": "Hedd Wyn",
+                  "tmdbId": 151489,
+                  "imdbId": "tt0104403"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Scent of Green Papaya"
+              ],
+              "movies": [
+                {
+                  "title": "The Scent of Green Papaya",
+                  "tmdbId": 19552,
+                  "imdbId": "tt0107617"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wedding Banquet"
+              ],
+              "movies": [
+                {
+                  "title": "The Wedding Banquet",
+                  "tmdbId": 9261,
+                  "imdbId": "tt0107156"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "I Am a Promise: The Children of Stanton Elementary School"
+              ],
+              "movies": [
+                {
+                  "title": "I Am a Promise: The Children of Stanton Elementary School",
+                  "tmdbId": 114526,
+                  "imdbId": "tt0107177"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Broadcast Tapes of Dr. Peter"
+              ],
+              "movies": [
+                {
+                  "title": "The Broadcast Tapes of Dr. Peter",
+                  "tmdbId": 136704,
+                  "imdbId": "tt0106485"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Children of Fate: Life and Death in a Sicilian Family"
+              ],
+              "movies": [
+                {
+                  "title": "Children of Fate: Life and Death in a Sicilian Family",
+                  "tmdbId": 149405,
+                  "imdbId": "tt0106556"
+                }
+              ]
+            },
+            {
+              "names": [
+                "For Better or for Worse"
+              ],
+              "movies": [
+                {
+                  "title": "For Better or for Worse",
+                  "tmdbId": 136523,
+                  "imdbId": "tt0106939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The War Room"
+              ],
+              "movies": [
+                {
+                  "title": "The War Room",
+                  "tmdbId": 26408,
+                  "imdbId": "tt0108515"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Janusz Kaminski"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Conrad Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Searching for Bobby Fischer",
+                  "tmdbId": 14291,
+                  "imdbId": "tt0108065"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gu Changwei"
+              ],
+              "movies": [
+                {
+                  "title": "Farewell My Concubine",
+                  "tmdbId": 10997,
+                  "imdbId": "tt0106332"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Chapman"
+              ],
+              "movies": [
+                {
+                  "title": "The Fugitive",
+                  "tmdbId": 5503,
+                  "imdbId": "tt0106977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Dryburgh"
+              ],
+              "movies": [
+                {
+                  "title": "The Piano",
+                  "tmdbId": 713,
+                  "imdbId": "tt0107822"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Michael Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anne Coates"
+              ],
+              "movies": [
+                {
+                  "title": "In the Line of Fire",
+                  "tmdbId": 9386,
+                  "imdbId": "tt0107206"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Virkler",
+                "David Finfer",
+                "Dean Goodhill",
+                "Don Brochu",
+                "Richard Nord",
+                "Dov Hoenig"
+              ],
+              "movies": [
+                {
+                  "title": "The Fugitive",
+                  "tmdbId": 5503,
+                  "imdbId": "tt0106977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerry Hambling"
+              ],
+              "movies": [
+                {
+                  "title": "In the Name of the Father",
+                  "tmdbId": 7984,
+                  "imdbId": "tt0107207"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Veronika Jenet"
+              ],
+              "movies": [
+                {
+                  "title": "The Piano",
+                  "tmdbId": 713,
+                  "imdbId": "tt0107822"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Allan Starski",
+                "Ewa Braun"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ken Adams",
+                "Marvin March"
+              ],
+              "movies": [
+                {
+                  "title": "Addams Family Values",
+                  "tmdbId": 2758,
+                  "imdbId": "tt0106220"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dante Ferretti",
+                "Robert J. Franco"
+              ],
+              "movies": [
+                {
+                  "title": "The Age of Innocence",
+                  "tmdbId": 10436,
+                  "imdbId": "tt0106226"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Van Os",
+                "Jan Roelfs"
+              ],
+              "movies": [
+                {
+                  "title": "Orlando",
+                  "tmdbId": 9300,
+                  "imdbId": "tt0107756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Luciana Arrighi",
+                "Ian Whittaker"
+              ],
+              "movies": [
+                {
+                  "title": "The Remains of the Day",
+                  "tmdbId": 1245,
+                  "imdbId": "tt0107943"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Gabriella Pescucci"
+              ],
+              "movies": [
+                {
+                  "title": "The Age of Innocence",
+                  "tmdbId": 10436,
+                  "imdbId": "tt0106226"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anna Biedrzycka Sheppard"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Orlando",
+                  "tmdbId": 9300,
+                  "imdbId": "tt0107756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janet Patterson"
+              ],
+              "movies": [
+                {
+                  "title": "The Piano",
+                  "tmdbId": 713,
+                  "imdbId": "tt0107822"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jenny Beavan",
+                "John Bright"
+              ],
+              "movies": [
+                {
+                  "title": "The Remains of the Day",
+                  "tmdbId": 1245,
+                  "imdbId": "tt0107943"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Greg Cannom",
+                "Ve Neill",
+                "Yolanda Toussieng"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Doubtfire",
+                  "tmdbId": 788,
+                  "imdbId": "tt0107614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carl Fullerton",
+                "Alan D'Angerio"
+              ],
+              "movies": [
+                {
+                  "title": "Philadelphia",
+                  "tmdbId": 9800,
+                  "imdbId": "tt0107818"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christina Smith",
+                "Matthew Mungle",
+                "Judith A. Cory"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Dennis Muren",
+                "Stan Winston",
+                "Phil Tippett",
+                "Michael Lantieri"
+              ],
+              "movies": [
+                {
+                  "title": "Jurassic Park",
+                  "tmdbId": 329,
+                  "imdbId": "tt0107290"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Neil Krepela",
+                "John Richardson",
+                "John Bruno",
+                "Pamela Easley"
+              ],
+              "movies": [
+                {
+                  "title": "Cliffhanger",
+                  "tmdbId": 9350,
+                  "imdbId": "tt0106582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pete Kozachik",
+                "Eric Leighton",
+                "Ariel Velasco Shaw",
+                "Gordon Baker"
+              ],
+              "movies": [
+                {
+                  "title": "The Nightmare Before Christmas",
+                  "tmdbId": 9479,
+                  "imdbId": "tt0107688"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Gary Summers",
+                "Gary Rydstrom",
+                "Shawn Murphy",
+                "Ron Judkins"
+              ],
+              "movies": [
+                {
+                  "title": "Jurassic Park",
+                  "tmdbId": 329,
+                  "imdbId": "tt0107290"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Minkler",
+                "Bob Beemer",
+                "Tim Cooney"
+              ],
+              "movies": [
+                {
+                  "title": "Cliffhanger",
+                  "tmdbId": 9350,
+                  "imdbId": "tt0106582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Michael Herbick",
+                "Frank A. Montano",
+                "Scott D. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "The Fugitive",
+                  "tmdbId": 5503,
+                  "imdbId": "tt0106977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chris Carpenter",
+                "Doug Hemphill",
+                "Bill W. Benton",
+                "Lee Orloff"
+              ],
+              "movies": [
+                {
+                  "title": "Geronimo: An American Legend",
+                  "tmdbId": 35588,
+                  "imdbId": "tt0107004"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Steve Pederson",
+                "Scott Millan",
+                "Ron Judkins"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Gary Rydstrom",
+                "Richard Hymns"
+              ],
+              "movies": [
+                {
+                  "title": "Jurassic Park",
+                  "tmdbId": 329,
+                  "imdbId": "tt0107290"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Wylie Stateman",
+                "Gregg Baxter"
+              ],
+              "movies": [
+                {
+                  "title": "Cliffhanger",
+                  "tmdbId": 9350,
+                  "imdbId": "tt0106582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Leveque",
+                "Bruce Stambler"
+              ],
+              "movies": [
+                {
+                  "title": "The Fugitive",
+                  "tmdbId": 5503,
+                  "imdbId": "tt0106977"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Schindler's List",
+                  "tmdbId": 424,
+                  "imdbId": "tt0108052"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dave Grusin"
+              ],
+              "movies": [
+                {
+                  "title": "The Firm",
+                  "tmdbId": 37233,
+                  "imdbId": "tt0106918"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "The Age of Innocence",
+                  "tmdbId": 10436,
+                  "imdbId": "tt0106226"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Newton Howard"
+              ],
+              "movies": [
+                {
+                  "title": "The Fugitive",
+                  "tmdbId": 5503,
+                  "imdbId": "tt0106977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Robbins"
+              ],
+              "movies": [
+                {
+                  "title": "The Remains of the Day",
+                  "tmdbId": 1245,
+                  "imdbId": "tt0107943"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Streets of Philadelphia"
+              ],
+              "movies": [
+                {
+                  "title": "Philadelphia",
+                  "tmdbId": 9800,
+                  "imdbId": "tt0107818"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Again"
+              ],
+              "movies": [
+                {
+                  "title": "Poetic Justice",
+                  "tmdbId": 8291,
+                  "imdbId": "tt0107840"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philadelphia"
+              ],
+              "movies": [
+                {
+                  "title": "Philadelphia",
+                  "tmdbId": 9800,
+                  "imdbId": "tt0107818"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Wink",
+                "a Smile"
+              ],
+              "movies": [
+                {
+                  "title": "Sleepless in Seattle",
+                  "tmdbId": 858,
+                  "imdbId": "tt0108160"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Day I Fall in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Beethoven's 2nd",
+                  "tmdbId": 10438,
+                  "imdbId": "tt0106375"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "George Wallace: One Night Stand"
+              ],
+              "movies": [
+                {
+                  "title": "George Wallace: One Night Stand",
+                  "tmdbId": 847456
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blindscape"
+              ],
+              "movies": [
+                {
+                  "title": "Blindscape",
+                  "tmdbId": 244855,
+                  "imdbId": "tt0106428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Mighty River"
+              ],
+              "movies": [
+                {
+                  "title": "The Mighty River",
+                  "tmdbId": 90823,
+                  "imdbId": "tt0107574"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Small Talk"
+              ],
+              "movies": [
+                {
+                  "title": "Small Talk",
+                  "tmdbId": 244857,
+                  "imdbId": "tt0108165"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Village"
+              ],
+              "movies": [
+                {
+                  "title": "The Village",
+                  "tmdbId": 517064,
+                  "imdbId": "tt0108494"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Black Rider"
+              ],
+              "movies": [
+                {
+                  "title": "Black Rider",
+                  "tmdbId": 162503,
+                  "imdbId": "tt0108056"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Down on the Waterfront"
+              ],
+              "movies": [
+                {
+                  "title": "Down on the Waterfront",
+                  "tmdbId": 244858,
+                  "imdbId": "tt0106766"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Dutch Master"
+              ],
+              "movies": [
+                {
+                  "title": "The Dutch Master",
+                  "tmdbId": 244861,
+                  "imdbId": "tt0112917"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Partners"
+              ],
+              "movies": [
+                {
+                  "title": "Partners",
+                  "tmdbId": 244863,
+                  "imdbId": "tt0110781"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Screw"
+              ],
+              "movies": [
+                {
+                  "title": "The Screw",
+                  "tmdbId": 112620,
+                  "imdbId": "tt0108498"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Defending Our Lives"
+              ],
+              "movies": [
+                {
+                  "title": "Defending Our Lives",
+                  "tmdbId": 244864,
+                  "imdbId": "tt0106694"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blood Ties: The Life and Work of Sally Mann"
+              ],
+              "movies": [
+                {
+                  "title": "Blood Ties: The Life and Work of Sally Mann",
+                  "tmdbId": 193352,
+                  "imdbId": "tt0106431"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chicks in White Satin"
+              ],
+              "movies": [
+                {
+                  "title": "Chicks in White Satin",
+                  "tmdbId": 244865,
+                  "imdbId": "tt0106555"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1483 @@
+{
+  "ceremony": {
+    "ordinal": 60,
+    "ceremonyYear": 1988,
+    "ceremonyDate": "1988-04-11",
+    "filmYearLabel": "1987",
+    "slug": "1988",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Last Emperor"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Broadcast News"
+              ],
+              "movies": [
+                {
+                  "title": "Broadcast News",
+                  "tmdbId": 12626,
+                  "imdbId": "tt0092699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fatal Attraction"
+              ],
+              "movies": [
+                {
+                  "title": "Fatal Attraction",
+                  "tmdbId": 10998,
+                  "imdbId": "tt0093010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hope and Glory"
+              ],
+              "movies": [
+                {
+                  "title": "Hope and Glory",
+                  "tmdbId": 32054,
+                  "imdbId": "tt0093209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moonstruck"
+              ],
+              "movies": [
+                {
+                  "title": "Moonstruck",
+                  "tmdbId": 2039,
+                  "imdbId": "tt0093565"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Bernardo Bertolucci"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Boorman"
+              ],
+              "movies": [
+                {
+                  "title": "Hope and Glory",
+                  "tmdbId": 32054,
+                  "imdbId": "tt0093209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lasse Hallstrom"
+              ],
+              "movies": [
+                {
+                  "title": "My Life as a Dog",
+                  "tmdbId": 8816,
+                  "imdbId": "tt0089606"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Jewison"
+              ],
+              "movies": [
+                {
+                  "title": "Moonstruck",
+                  "tmdbId": 2039,
+                  "imdbId": "tt0093565"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adrian Lyne"
+              ],
+              "movies": [
+                {
+                  "title": "Fatal Attraction",
+                  "tmdbId": 10998,
+                  "imdbId": "tt0093010"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Michael Douglas"
+              ],
+              "movies": [
+                {
+                  "title": "Wall Street",
+                  "tmdbId": 10673,
+                  "imdbId": "tt0094291"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Hurt"
+              ],
+              "movies": [
+                {
+                  "title": "Broadcast News",
+                  "tmdbId": 12626,
+                  "imdbId": "tt0092699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marcello Mastroianni"
+              ],
+              "movies": [
+                {
+                  "title": "Dark Eyes",
+                  "tmdbId": 44658,
+                  "imdbId": "tt0093664"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Ironweed",
+                  "tmdbId": 40962,
+                  "imdbId": "tt0093277"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robin Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Good Morning, Vietnam",
+                  "tmdbId": 801,
+                  "imdbId": "tt0093105"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Cher"
+              ],
+              "movies": [
+                {
+                  "title": "Moonstruck",
+                  "tmdbId": 2039,
+                  "imdbId": "tt0093565"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Glenn Close"
+              ],
+              "movies": [
+                {
+                  "title": "Fatal Attraction",
+                  "tmdbId": 10998,
+                  "imdbId": "tt0093010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Holly Hunter"
+              ],
+              "movies": [
+                {
+                  "title": "Broadcast News",
+                  "tmdbId": 12626,
+                  "imdbId": "tt0092699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sally Kirkland"
+              ],
+              "movies": [
+                {
+                  "title": "Anna",
+                  "tmdbId": 107285,
+                  "imdbId": "tt0092569"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Ironweed",
+                  "tmdbId": 40962,
+                  "imdbId": "tt0093277"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Sean Connery"
+              ],
+              "movies": [
+                {
+                  "title": "The Untouchables",
+                  "tmdbId": 117,
+                  "imdbId": "tt0094226"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Albert Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Broadcast News",
+                  "tmdbId": 12626,
+                  "imdbId": "tt0092699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morgan Freeman"
+              ],
+              "movies": [
+                {
+                  "title": "Street Smart",
+                  "tmdbId": 60631,
+                  "imdbId": "tt0094056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vincent Gardenia"
+              ],
+              "movies": [
+                {
+                  "title": "Moonstruck",
+                  "tmdbId": 2039,
+                  "imdbId": "tt0093565"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "Cry Freedom",
+                  "tmdbId": 12506,
+                  "imdbId": "tt0092804"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Olympia Dukakis"
+              ],
+              "movies": [
+                {
+                  "title": "Moonstruck",
+                  "tmdbId": 2039,
+                  "imdbId": "tt0093565"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Norma Aleandro"
+              ],
+              "movies": [
+                {
+                  "title": "Gaby: A True Story",
+                  "tmdbId": 191550,
+                  "imdbId": "tt0093067"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne Archer"
+              ],
+              "movies": [
+                {
+                  "title": "Fatal Attraction",
+                  "tmdbId": 10998,
+                  "imdbId": "tt0093010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne Ramsey"
+              ],
+              "movies": [
+                {
+                  "title": "Throw Momma from the Train",
+                  "tmdbId": 11896,
+                  "imdbId": "tt0094142"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ann Sothern"
+              ],
+              "movies": [
+                {
+                  "title": "The Whales of August",
+                  "tmdbId": 49815,
+                  "imdbId": "tt0094315"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "John Patrick Shanley"
+              ],
+              "movies": [
+                {
+                  "title": "Moonstruck",
+                  "tmdbId": 2039,
+                  "imdbId": "tt0093565"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James L. Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Broadcast News",
+                  "tmdbId": 12626,
+                  "imdbId": "tt0092699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Louis Malle"
+              ],
+              "movies": [
+                {
+                  "title": "Au Revoir les Enfants",
+                  "tmdbId": 1786,
+                  "imdbId": "tt0092593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Boorman"
+              ],
+              "movies": [
+                {
+                  "title": "Hope and Glory",
+                  "tmdbId": 32054,
+                  "imdbId": "tt0093209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Radio Days",
+                  "tmdbId": 30890,
+                  "imdbId": "tt0093818"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Bernardo Bertolucci",
+                "Mark Peploe"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tony Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The Dead",
+                  "tmdbId": 39507,
+                  "imdbId": "tt0092843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Dearden"
+              ],
+              "movies": [
+                {
+                  "title": "Fatal Attraction",
+                  "tmdbId": 10998,
+                  "imdbId": "tt0093010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Kubrick",
+                "Gustav Hasford",
+                "Michael Herr"
+              ],
+              "movies": [
+                {
+                  "title": "Full Metal Jacket",
+                  "tmdbId": 600,
+                  "imdbId": "tt0093058"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lasse Hallstrom",
+                "Brasse Brannstrom",
+                "Per Berglund",
+                "Reidar Jonsson"
+              ],
+              "movies": [
+                {
+                  "title": "My Life as a Dog",
+                  "tmdbId": 8816,
+                  "imdbId": "tt0089606"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Babette's Feast"
+              ],
+              "movies": [
+                {
+                  "title": "Babette's Feast",
+                  "tmdbId": 11832,
+                  "imdbId": "tt0092603"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Au Revoir les Enfants"
+              ],
+              "movies": [
+                {
+                  "title": "Au Revoir les Enfants",
+                  "tmdbId": 1786,
+                  "imdbId": "tt0092593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Course Completed"
+              ],
+              "movies": [
+                {
+                  "title": "Course Completed",
+                  "tmdbId": 202789,
+                  "imdbId": "tt0092584"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Family"
+              ],
+              "movies": [
+                {
+                  "title": "The Family",
+                  "tmdbId": 42008,
+                  "imdbId": "tt0093004"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pathfinder"
+              ],
+              "movies": [
+                {
+                  "title": "Pathfinder",
+                  "tmdbId": 2172,
+                  "imdbId": "tt0093668"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Ten-Year Lunch"
+              ],
+              "movies": [
+                {
+                  "title": "The Ten-Year Lunch",
+                  "tmdbId": 182561,
+                  "imdbId": "tt0094119"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eyes on the Prize"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "Hellfire: A Journey from Hiroshima"
+              ],
+              "movies": [
+                {
+                  "title": "Hellfire: A Journey from Hiroshima",
+                  "tmdbId": 149383,
+                  "imdbId": "tt0093173"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Radio Bikini"
+              ],
+              "movies": [
+                {
+                  "title": "Radio Bikini",
+                  "tmdbId": 244698,
+                  "imdbId": "tt0093817"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Stitch for Time"
+              ],
+              "movies": [
+                {
+                  "title": "A Stitch for Time",
+                  "tmdbId": 149387,
+                  "imdbId": "tt0094042"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Vittorio Storaro"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Ballhaus"
+              ],
+              "movies": [
+                {
+                  "title": "Broadcast News",
+                  "tmdbId": 12626,
+                  "imdbId": "tt0092699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Allen Daviau"
+              ],
+              "movies": [
+                {
+                  "title": "Empire of the Sun",
+                  "tmdbId": 10110,
+                  "imdbId": "tt0092965"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philippe Rousselot"
+              ],
+              "movies": [
+                {
+                  "title": "Hope and Glory",
+                  "tmdbId": 32054,
+                  "imdbId": "tt0093209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Haskell Wexler"
+              ],
+              "movies": [
+                {
+                  "title": "Matewan",
+                  "tmdbId": 24276,
+                  "imdbId": "tt0093509"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Gabriella Cristiani"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Marks"
+              ],
+              "movies": [
+                {
+                  "title": "Broadcast News",
+                  "tmdbId": 12626,
+                  "imdbId": "tt0092699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Empire of the Sun",
+                  "tmdbId": 10110,
+                  "imdbId": "tt0092965"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Kahn",
+                "Peter E. Berger"
+              ],
+              "movies": [
+                {
+                  "title": "Fatal Attraction",
+                  "tmdbId": 10998,
+                  "imdbId": "tt0093010"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank J. Urioste"
+              ],
+              "movies": [
+                {
+                  "title": "RoboCop",
+                  "tmdbId": 5548,
+                  "imdbId": "tt0093870"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Ferdinando Scarfiotti",
+                "Bruno Cesari",
+                "Osvaldo Desideri"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Norman Reynolds",
+                "Harry Cordwell"
+              ],
+              "movies": [
+                {
+                  "title": "Empire of the Sun",
+                  "tmdbId": 10110,
+                  "imdbId": "tt0092965"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Pratt",
+                "Joanne Woollard"
+              ],
+              "movies": [
+                {
+                  "title": "Hope and Glory",
+                  "tmdbId": 32054,
+                  "imdbId": "tt0093209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Santo Loquasto",
+                "Carol Joffe",
+                "Leslie Bloom",
+                "George DeTitta Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Radio Days",
+                  "tmdbId": 30890,
+                  "imdbId": "tt0093818"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patrizia Von Brandenstein",
+                "William A. Elliott",
+                "Hal Gausman"
+              ],
+              "movies": [
+                {
+                  "title": "The Untouchables",
+                  "tmdbId": 117,
+                  "imdbId": "tt0094226"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "James Acheson"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dorothy Jeakins"
+              ],
+              "movies": [
+                {
+                  "title": "The Dead",
+                  "tmdbId": 39507,
+                  "imdbId": "tt0092843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bob Ringwood"
+              ],
+              "movies": [
+                {
+                  "title": "Empire of the Sun",
+                  "tmdbId": 10110,
+                  "imdbId": "tt0092965"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jenny Beavan",
+                "John Bright"
+              ],
+              "movies": [
+                {
+                  "title": "Maurice",
+                  "tmdbId": 26371,
+                  "imdbId": "tt0093512"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marilyn Vance-Straker"
+              ],
+              "movies": [
+                {
+                  "title": "The Untouchables",
+                  "tmdbId": 117,
+                  "imdbId": "tt0094226"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Rick Baker"
+              ],
+              "movies": [
+                {
+                  "title": "Harry and the Hendersons",
+                  "tmdbId": 8989,
+                  "imdbId": "tt0093148"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bob Laden"
+              ],
+              "movies": [
+                {
+                  "title": "Happy New Year",
+                  "tmdbId": 133781,
+                  "imdbId": "tt0093145"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Dennis Muren",
+                "William George",
+                "Harley Jessup",
+                "Kenneth F. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Innerspace",
+                  "tmdbId": 2614,
+                  "imdbId": "tt0093260"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joel Hynek",
+                "Robert M. Greenberg",
+                "Richard Greenberg",
+                "Stan Winston"
+              ],
+              "movies": [
+                {
+                  "title": "Predator",
+                  "tmdbId": 106,
+                  "imdbId": "tt0093773"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Bill Rowe",
+                "Ivan Sharrock"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Knudson",
+                "Don Digirolamo",
+                "John Boyd",
+                "Tony Dawe"
+              ],
+              "movies": [
+                {
+                  "title": "Empire of the Sun",
+                  "tmdbId": 10110,
+                  "imdbId": "tt0092965"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Les Fresholtz",
+                "Dick Alexander",
+                "Vern Poore",
+                "Bill Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "Lethal Weapon",
+                  "tmdbId": 941,
+                  "imdbId": "tt0093409"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael J. Kohut",
+                "Carlos Delarios",
+                "Aaron Rochin",
+                "Robert Wald"
+              ],
+              "movies": [
+                {
+                  "title": "RoboCop",
+                  "tmdbId": 5548,
+                  "imdbId": "tt0093870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wayne Artman",
+                "Tom Beckert",
+                "Tom E. Dahl",
+                "Art Rochester"
+              ],
+              "movies": [
+                {
+                  "title": "The Witches of Eastwick",
+                  "tmdbId": 6069,
+                  "imdbId": "tt0094332"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Stephen Hunter Flick",
+                "John Pospisil"
+              ],
+              "movies": [
+                {
+                  "title": "RoboCop",
+                  "tmdbId": 5548,
+                  "imdbId": "tt0093870"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Ryuichi Sakamoto",
+                "David Byrne",
+                "Cong Su"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Emperor",
+                  "tmdbId": 746,
+                  "imdbId": "tt0093389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Fenton",
+                "Jonas Gwangwa"
+              ],
+              "movies": [
+                {
+                  "title": "Cry Freedom",
+                  "tmdbId": 12506,
+                  "imdbId": "tt0092804"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Empire of the Sun",
+                  "tmdbId": 10110,
+                  "imdbId": "tt0092965"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ennio Morricone"
+              ],
+              "movies": [
+                {
+                  "title": "The Untouchables",
+                  "tmdbId": 117,
+                  "imdbId": "tt0094226"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Witches of Eastwick",
+                  "tmdbId": 6069,
+                  "imdbId": "tt0094332"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "(I've Had) The Time of My Life"
+              ],
+              "movies": [
+                {
+                  "title": "Dirty Dancing",
+                  "tmdbId": 88,
+                  "imdbId": "tt0092890"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cry Freedom"
+              ],
+              "movies": [
+                {
+                  "title": "Cry Freedom",
+                  "tmdbId": 12506,
+                  "imdbId": "tt0092804"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nothing's Gonna Stop Us Now"
+              ],
+              "movies": [
+                {
+                  "title": "Mannequin",
+                  "tmdbId": 10019,
+                  "imdbId": "tt0093493"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shakedown"
+              ],
+              "movies": [
+                {
+                  "title": "Beverly Hills Cop II",
+                  "tmdbId": 96,
+                  "imdbId": "tt0092644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Storybook Love"
+              ],
+              "movies": [
+                {
+                  "title": "The Princess Bride",
+                  "tmdbId": 2493,
+                  "imdbId": "tt0093779"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Man Who Planted Trees"
+              ],
+              "movies": [
+                {
+                  "title": "The Man Who Planted Trees",
+                  "tmdbId": 49565,
+                  "imdbId": "tt0093488"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George and Rosemary"
+              ],
+              "movies": [
+                {
+                  "title": "George and Rosemary",
+                  "tmdbId": 208260,
+                  "imdbId": "tt0093084"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Your Face"
+              ],
+              "movies": [
+                {
+                  "title": "Your Face",
+                  "tmdbId": 193691,
+                  "imdbId": "tt0094364"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Ray's Male Heterosexual Dance Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Ray's Male Heterosexual Dance Hall",
+                  "tmdbId": 211375,
+                  "imdbId": "tt0093826"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Making Waves"
+              ],
+              "movies": [
+                {
+                  "title": "Making Waves",
+                  "tmdbId": 244685,
+                  "imdbId": "tt0093478"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shoeshine"
+              ],
+              "movies": [
+                {
+                  "title": "Shoeshine",
+                  "tmdbId": 244687,
+                  "imdbId": "tt0093960"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Young at Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Young at Heart",
+                  "tmdbId": 244690,
+                  "imdbId": "tt0094363"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frances Steloff: Memoirs of a Bookseller"
+              ],
+              "movies": [
+                {
+                  "title": "Frances Steloff: Memoirs of a Bookseller",
+                  "tmdbId": 244692,
+                  "imdbId": "tt0093047"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In the Wee Wee Hours..."
+              ],
+              "movies": [
+                {
+                  "title": "In the Wee Wee Hours...",
+                  "tmdbId": 244693,
+                  "imdbId": "tt0093254"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Language Says It All"
+              ],
+              "movies": [
+                {
+                  "title": "Language Says It All",
+                  "tmdbId": 244695,
+                  "imdbId": "tt0093388"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Silver Into Gold"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Into Gold",
+                  "tmdbId": 244696,
+                  "imdbId": "tt0093975"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1753 @@
+{
+  "ceremony": {
+    "ordinal": 85,
+    "ceremonyYear": 2013,
+    "ceremonyDate": "2013-02-24",
+    "filmYearLabel": "2012",
+    "slug": "2013",
+    "decade": "2010s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Argo"
+              ],
+              "movies": [
+                {
+                  "title": "Argo",
+                  "tmdbId": 68734,
+                  "imdbId": "tt1024648"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Amour"
+              ],
+              "movies": [
+                {
+                  "title": "Amour",
+                  "tmdbId": 86837,
+                  "imdbId": "tt1602620"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Beasts of the Southern Wild"
+              ],
+              "movies": [
+                {
+                  "title": "Beasts of the Southern Wild",
+                  "tmdbId": 84175,
+                  "imdbId": "tt2125435"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Django Unchained"
+              ],
+              "movies": [
+                {
+                  "title": "Django Unchained",
+                  "tmdbId": 68718,
+                  "imdbId": "tt1853728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Les Misérables"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 82695,
+                  "imdbId": "tt1707386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life of Pi"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lincoln"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Silver Linings Playbook"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Linings Playbook",
+                  "tmdbId": 82693,
+                  "imdbId": "tt1045658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Zero Dark Thirty"
+              ],
+              "movies": [
+                {
+                  "title": "Zero Dark Thirty",
+                  "tmdbId": 97630,
+                  "imdbId": "tt1790885"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Ang Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Haneke"
+              ],
+              "movies": [
+                {
+                  "title": "Amour",
+                  "tmdbId": 86837,
+                  "imdbId": "tt1602620"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David O. Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Linings Playbook",
+                  "tmdbId": 82693,
+                  "imdbId": "tt1045658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Benh Zeitlin"
+              ],
+              "movies": [
+                {
+                  "title": "Beasts of the Southern Wild",
+                  "tmdbId": 84175,
+                  "imdbId": "tt2125435"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Daniel Day-Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bradley Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Linings Playbook",
+                  "tmdbId": 82693,
+                  "imdbId": "tt1045658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugh Jackman"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 82695,
+                  "imdbId": "tt1707386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joaquin Phoenix"
+              ],
+              "movies": [
+                {
+                  "title": "The Master",
+                  "tmdbId": 68722,
+                  "imdbId": "tt1560747"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "Flight",
+                  "tmdbId": 87502,
+                  "imdbId": "tt1907668"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jennifer Lawrence"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Linings Playbook",
+                  "tmdbId": 82693,
+                  "imdbId": "tt1045658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jessica Chastain"
+              ],
+              "movies": [
+                {
+                  "title": "Zero Dark Thirty",
+                  "tmdbId": 97630,
+                  "imdbId": "tt1790885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emmanuelle Riva"
+              ],
+              "movies": [
+                {
+                  "title": "Amour",
+                  "tmdbId": 86837,
+                  "imdbId": "tt1602620"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quvenzhane Wallis"
+              ],
+              "movies": [
+                {
+                  "title": "Beasts of the Southern Wild",
+                  "tmdbId": 84175,
+                  "imdbId": "tt2125435"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Naomi Watts"
+              ],
+              "movies": [
+                {
+                  "title": "The Impossible",
+                  "tmdbId": 80278,
+                  "imdbId": "tt1649419"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Christoph Waltz"
+              ],
+              "movies": [
+                {
+                  "title": "Django Unchained",
+                  "tmdbId": 68718,
+                  "imdbId": "tt1853728"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alan Arkin"
+              ],
+              "movies": [
+                {
+                  "title": "Argo",
+                  "tmdbId": 68734,
+                  "imdbId": "tt1024648"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert De Niro"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Linings Playbook",
+                  "tmdbId": 82693,
+                  "imdbId": "tt1045658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip Seymour Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "The Master",
+                  "tmdbId": 68722,
+                  "imdbId": "tt1560747"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tommy Lee Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Anne Hathaway"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 82695,
+                  "imdbId": "tt1707386"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Amy Adams"
+              ],
+              "movies": [
+                {
+                  "title": "The Master",
+                  "tmdbId": 68722,
+                  "imdbId": "tt1560747"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sally Field"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Helen Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "The Sessions",
+                  "tmdbId": 113947,
+                  "imdbId": "tt1866249"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacki Weaver"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Linings Playbook",
+                  "tmdbId": 82693,
+                  "imdbId": "tt1045658"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Quentin Tarantino"
+              ],
+              "movies": [
+                {
+                  "title": "Django Unchained",
+                  "tmdbId": 68718,
+                  "imdbId": "tt1853728"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Haneke"
+              ],
+              "movies": [
+                {
+                  "title": "Amour",
+                  "tmdbId": 86837,
+                  "imdbId": "tt1602620"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Gatins"
+              ],
+              "movies": [
+                {
+                  "title": "Flight",
+                  "tmdbId": 87502,
+                  "imdbId": "tt1907668"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wes Anderson",
+                "Roman Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "Moonrise Kingdom",
+                  "tmdbId": 83666,
+                  "imdbId": "tt1748122"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Boal"
+              ],
+              "movies": [
+                {
+                  "title": "Zero Dark Thirty",
+                  "tmdbId": 97630,
+                  "imdbId": "tt1790885"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Chris Terrio"
+              ],
+              "movies": [
+                {
+                  "title": "Argo",
+                  "tmdbId": 68734,
+                  "imdbId": "tt1024648"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lucy Alibar",
+                "Benh Zeitlin"
+              ],
+              "movies": [
+                {
+                  "title": "Beasts of the Southern Wild",
+                  "tmdbId": 84175,
+                  "imdbId": "tt2125435"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Magee"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Kushner"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David O. Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Linings Playbook",
+                  "tmdbId": 82693,
+                  "imdbId": "tt1045658"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Brave"
+              ],
+              "movies": [
+                {
+                  "title": "Brave",
+                  "tmdbId": 62177,
+                  "imdbId": "tt1217209"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frankenweenie"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenweenie",
+                  "tmdbId": 62214,
+                  "imdbId": "tt1142977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "ParaNorman"
+              ],
+              "movies": [
+                {
+                  "title": "ParaNorman",
+                  "tmdbId": 77174,
+                  "imdbId": "tt1623288"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Pirates! In an Adventure with Scientists!"
+              ],
+              "movies": [
+                {
+                  "title": "The Pirates! In an Adventure with Scientists!",
+                  "tmdbId": 72197,
+                  "imdbId": "tt1430626"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wreck-It Ralph"
+              ],
+              "movies": [
+                {
+                  "title": "Wreck-It Ralph",
+                  "tmdbId": 82690,
+                  "imdbId": "tt1772341"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Amour"
+              ],
+              "movies": [
+                {
+                  "title": "Amour",
+                  "tmdbId": 86837,
+                  "imdbId": "tt1602620"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kon-Tiki"
+              ],
+              "movies": [
+                {
+                  "title": "Kon-Tiki",
+                  "tmdbId": 70667,
+                  "imdbId": "tt1613750"
+                }
+              ]
+            },
+            {
+              "names": [
+                "No"
+              ],
+              "movies": [
+                {
+                  "title": "No",
+                  "tmdbId": 110398,
+                  "imdbId": "tt2059255"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Royal Affair"
+              ],
+              "movies": [
+                {
+                  "title": "A Royal Affair",
+                  "tmdbId": 88273,
+                  "imdbId": "tt1276419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "War Witch"
+              ],
+              "movies": [
+                {
+                  "title": "War Witch",
+                  "tmdbId": 98205,
+                  "imdbId": "tt1820488"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Searching for Sugar Man"
+              ],
+              "movies": [
+                {
+                  "title": "Searching for Sugar Man",
+                  "tmdbId": 84334,
+                  "imdbId": "tt2125608"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "5 Broken Cameras"
+              ],
+              "movies": [
+                {
+                  "title": "5 Broken Cameras",
+                  "tmdbId": 84170,
+                  "imdbId": "tt2125423"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Gatekeepers"
+              ],
+              "movies": [
+                {
+                  "title": "The Gatekeepers",
+                  "tmdbId": 127918,
+                  "imdbId": "tt2309788"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How to Survive a Plague"
+              ],
+              "movies": [
+                {
+                  "title": "How to Survive a Plague",
+                  "tmdbId": 84286,
+                  "imdbId": "tt2124803"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Invisible War"
+              ],
+              "movies": [
+                {
+                  "title": "The Invisible War",
+                  "tmdbId": 84288,
+                  "imdbId": "tt2120152"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Claudio Miranda"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Seamus McGarvey"
+              ],
+              "movies": [
+                {
+                  "title": "Anna Karenina",
+                  "tmdbId": 96724,
+                  "imdbId": "tt1781769"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Django Unchained",
+                  "tmdbId": 68718,
+                  "imdbId": "tt1853728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janusz Kaminski"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "Skyfall",
+                  "tmdbId": 37724,
+                  "imdbId": "tt1074638"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "William Goldenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Argo",
+                  "tmdbId": 68734,
+                  "imdbId": "tt1024648"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tim Squyres"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jay Cassidy",
+                "Crispin Struthers"
+              ],
+              "movies": [
+                {
+                  "title": "Silver Linings Playbook",
+                  "tmdbId": 82693,
+                  "imdbId": "tt1045658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dylan Tichenor",
+                "William Goldenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Zero Dark Thirty",
+                  "tmdbId": 97630,
+                  "imdbId": "tt1790885"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Rick Carter",
+                "Jim Erickson"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sarah Greenwood",
+                "Katie Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Anna Karenina",
+                  "tmdbId": 96724,
+                  "imdbId": "tt1781769"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan Hennah",
+                "Ra Vincent",
+                "Simon Bright"
+              ],
+              "movies": [
+                {
+                  "title": "The Hobbit: An Unexpected Journey",
+                  "tmdbId": 49051,
+                  "imdbId": "tt0903624"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eve Stewart",
+                "Anna Lynch-Robinson"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 82695,
+                  "imdbId": "tt1707386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Gropman",
+                "Anna Pinnock"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Jacqueline Durran"
+              ],
+              "movies": [
+                {
+                  "title": "Anna Karenina",
+                  "tmdbId": 96724,
+                  "imdbId": "tt1781769"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paco Delgado"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 82695,
+                  "imdbId": "tt1707386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joanna Johnston"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eiko Ishioka"
+              ],
+              "movies": [
+                {
+                  "title": "Mirror Mirror",
+                  "tmdbId": 62764,
+                  "imdbId": "tt1667353"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Snow White and the Huntsman",
+                  "tmdbId": 58595,
+                  "imdbId": "tt1735898"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Lisa Westcott",
+                "Julie Dartnell"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 82695,
+                  "imdbId": "tt1707386"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Howard Berger",
+                "Peter Montagna",
+                "Martin Samuel"
+              ],
+              "movies": [
+                {
+                  "title": "Hitchcock",
+                  "tmdbId": 112336,
+                  "imdbId": "tt0975645"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Swords King",
+                "Rick Findlater",
+                "Tami Lane"
+              ],
+              "movies": [
+                {
+                  "title": "The Hobbit: An Unexpected Journey",
+                  "tmdbId": 49051,
+                  "imdbId": "tt0903624"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Bill Westenhofer",
+                "Guillaume Rocheron",
+                "Erik-Jan de Boer",
+                "Donald R. Elliott"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joe Letteri",
+                "Eric Saindon",
+                "David Clayton",
+                "R. Christopher White"
+              ],
+              "movies": [
+                {
+                  "title": "The Hobbit: An Unexpected Journey",
+                  "tmdbId": 49051,
+                  "imdbId": "tt0903624"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janek Sirrs",
+                "Jeff White",
+                "Guy Williams",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "The Avengers",
+                  "tmdbId": 24428,
+                  "imdbId": "tt0848228"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Stammers",
+                "Trevor Wood",
+                "Charley Henley",
+                "Martin Hill"
+              ],
+              "movies": [
+                {
+                  "title": "Prometheus",
+                  "tmdbId": 70981,
+                  "imdbId": "tt1446714"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Nicolas-Troyan",
+                "Philip Brennan",
+                "Neil Corbould",
+                "Michael Dawson"
+              ],
+              "movies": [
+                {
+                  "title": "Snow White and the Huntsman",
+                  "tmdbId": 58595,
+                  "imdbId": "tt1735898"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Andy Nelson",
+                "Mark Paterson",
+                "Simon Hayes"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 82695,
+                  "imdbId": "tt1707386"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Reitz",
+                "Gregg Rudloff",
+                "Jose Antonio Garcia"
+              ],
+              "movies": [
+                {
+                  "title": "Argo",
+                  "tmdbId": 68734,
+                  "imdbId": "tt1024648"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ron Bartlett",
+                "D. M. Hemphill",
+                "Drew Kunin"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Gary Rydstrom",
+                "Ronald Judkins"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scott Millan",
+                "Greg P. Russell",
+                "Stuart Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "Skyfall",
+                  "tmdbId": 37724,
+                  "imdbId": "tt1074638"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Per Hallberg",
+                "Karen Baker Landers"
+              ],
+              "movies": [
+                {
+                  "title": "Skyfall",
+                  "tmdbId": 37724,
+                  "imdbId": "tt1074638"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul N. J. Ottosson"
+              ],
+              "movies": [
+                {
+                  "title": "Zero Dark Thirty",
+                  "tmdbId": 97630,
+                  "imdbId": "tt1790885"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Erik Aadahl",
+                "Ethan Van der Ryn"
+              ],
+              "movies": [
+                {
+                  "title": "Argo",
+                  "tmdbId": 68734,
+                  "imdbId": "tt1024648"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wylie Stateman"
+              ],
+              "movies": [
+                {
+                  "title": "Django Unchained",
+                  "tmdbId": 68718,
+                  "imdbId": "tt1853728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eugene Gearty",
+                "Philip Stockton"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Mychael Danna"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dario Marianelli"
+              ],
+              "movies": [
+                {
+                  "title": "Anna Karenina",
+                  "tmdbId": 96724,
+                  "imdbId": "tt1781769"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexandre Desplat"
+              ],
+              "movies": [
+                {
+                  "title": "Argo",
+                  "tmdbId": 68734,
+                  "imdbId": "tt1024648"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Lincoln",
+                  "tmdbId": 72976,
+                  "imdbId": "tt0443272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Skyfall",
+                  "tmdbId": 37724,
+                  "imdbId": "tt1074638"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Skyfall"
+              ],
+              "movies": [
+                {
+                  "title": "Skyfall",
+                  "tmdbId": 37724,
+                  "imdbId": "tt1074638"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Before My Time"
+              ],
+              "movies": [
+                {
+                  "title": "Chasing Ice",
+                  "tmdbId": 84185,
+                  "imdbId": "tt1579361"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Everybody Needs a Best Friend"
+              ],
+              "movies": [
+                {
+                  "title": "Ted",
+                  "tmdbId": 72105,
+                  "imdbId": "tt1637725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pi's Lullaby"
+              ],
+              "movies": [
+                {
+                  "title": "Life of Pi",
+                  "tmdbId": 87827,
+                  "imdbId": "tt0454876"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Suddenly"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 82695,
+                  "imdbId": "tt1707386"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Paperman"
+              ],
+              "movies": [
+                {
+                  "title": "Paperman",
+                  "tmdbId": 140420,
+                  "imdbId": "tt2388725"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adam and Dog"
+              ],
+              "movies": [
+                {
+                  "title": "Adam and Dog",
+                  "tmdbId": 157301,
+                  "imdbId": "tt2162565"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fresh Guacamole"
+              ],
+              "movies": [
+                {
+                  "title": "Fresh Guacamole",
+                  "tmdbId": 142563,
+                  "imdbId": "tt2309977"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Head Over Heels"
+              ],
+              "movies": [
+                {
+                  "title": "Head Over Heels",
+                  "tmdbId": 157305,
+                  "imdbId": "tt2391009"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maggie Simpson in \"The Longest Daycare\""
+              ],
+              "movies": [
+                {
+                  "title": "Maggie Simpson in \"The Longest Daycare\"",
+                  "tmdbId": 116440,
+                  "imdbId": "tt2175842"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Curfew"
+              ],
+              "movies": [
+                {
+                  "title": "Curfew",
+                  "tmdbId": 157289,
+                  "imdbId": "tt2088735"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Asad"
+              ],
+              "movies": [
+                {
+                  "title": "Asad",
+                  "tmdbId": 146891,
+                  "imdbId": "tt2136747"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Buzkashi Boys"
+              ],
+              "movies": [
+                {
+                  "title": "Buzkashi Boys",
+                  "tmdbId": 146892,
+                  "imdbId": "tt2133304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Death of a Shadow"
+              ],
+              "movies": [
+                {
+                  "title": "Death of a Shadow",
+                  "tmdbId": 146893,
+                  "imdbId": "tt2312702"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry"
+              ],
+              "movies": [
+                {
+                  "title": "Henry",
+                  "tmdbId": 146896,
+                  "imdbId": "tt2004244"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Inocente"
+              ],
+              "movies": [
+                {
+                  "title": "Inocente",
+                  "tmdbId": 137648,
+                  "imdbId": "tt2123210"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kings Point"
+              ],
+              "movies": [
+                {
+                  "title": "Kings Point",
+                  "tmdbId": 137651,
+                  "imdbId": "tt2109153"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mondays at Racine"
+              ],
+              "movies": [
+                {
+                  "title": "Mondays at Racine",
+                  "tmdbId": 137652,
+                  "imdbId": "tt2083264"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Open Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Open Heart",
+                  "tmdbId": 137654,
+                  "imdbId": "tt2348322"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Redemption"
+              ],
+              "movies": [
+                {
+                  "title": "Redemption",
+                  "tmdbId": 158394,
+                  "imdbId": "tt2201886"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

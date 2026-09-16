@@ -1,0 +1,1529 @@
+{
+  "ceremony": {
+    "ordinal": 63,
+    "ceremonyYear": 1991,
+    "ceremonyDate": "1991-03-25",
+    "filmYearLabel": "1990",
+    "slug": "1991",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Dances with Wolves"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Awakenings"
+              ],
+              "movies": [
+                {
+                  "title": "Awakenings",
+                  "tmdbId": 11005,
+                  "imdbId": "tt0099077"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ghost"
+              ],
+              "movies": [
+                {
+                  "title": "Ghost",
+                  "tmdbId": 251,
+                  "imdbId": "tt0099653"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Godfather Part III"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part III",
+                  "tmdbId": 242,
+                  "imdbId": "tt0099674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "GoodFellas"
+              ],
+              "movies": [
+                {
+                  "title": "GoodFellas",
+                  "tmdbId": 769,
+                  "imdbId": "tt0099685"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Kevin Costner"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Francis Ford Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part III",
+                  "tmdbId": 242,
+                  "imdbId": "tt0099674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Frears"
+              ],
+              "movies": [
+                {
+                  "title": "The Grifters",
+                  "tmdbId": 18129,
+                  "imdbId": "tt0099703"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbet Schroeder"
+              ],
+              "movies": [
+                {
+                  "title": "Reversal of Fortune",
+                  "tmdbId": 38718,
+                  "imdbId": "tt0100486"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "GoodFellas",
+                  "tmdbId": 769,
+                  "imdbId": "tt0099685"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Jeremy Irons"
+              ],
+              "movies": [
+                {
+                  "title": "Reversal of Fortune",
+                  "tmdbId": 38718,
+                  "imdbId": "tt0100486"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kevin Costner"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert De Niro"
+              ],
+              "movies": [
+                {
+                  "title": "Awakenings",
+                  "tmdbId": 11005,
+                  "imdbId": "tt0099077"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerard Depardieu"
+              ],
+              "movies": [
+                {
+                  "title": "Cyrano de Bergerac",
+                  "tmdbId": 11673,
+                  "imdbId": "tt0099334"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Harris"
+              ],
+              "movies": [
+                {
+                  "title": "The Field",
+                  "tmdbId": 31651,
+                  "imdbId": "tt0099566"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Kathy Bates"
+              ],
+              "movies": [
+                {
+                  "title": "Misery",
+                  "tmdbId": 1700,
+                  "imdbId": "tt0100157"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anjelica Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The Grifters",
+                  "tmdbId": 18129,
+                  "imdbId": "tt0099703"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julia Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Pretty Woman",
+                  "tmdbId": 114,
+                  "imdbId": "tt0100405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Postcards from the Edge",
+                  "tmdbId": 22414,
+                  "imdbId": "tt0100395"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joanne Woodward"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. & Mrs. Bridge",
+                  "tmdbId": 111815,
+                  "imdbId": "tt0100200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Joe Pesci"
+              ],
+              "movies": [
+                {
+                  "title": "GoodFellas",
+                  "tmdbId": 769,
+                  "imdbId": "tt0099685"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bruce Davison"
+              ],
+              "movies": [
+                {
+                  "title": "Longtime Companion",
+                  "tmdbId": 39934,
+                  "imdbId": "tt0100049"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Garcia"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part III",
+                  "tmdbId": 242,
+                  "imdbId": "tt0099674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Graham Greene"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Pacino"
+              ],
+              "movies": [
+                {
+                  "title": "Dick Tracy",
+                  "tmdbId": 8592,
+                  "imdbId": "tt0099422"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Whoopi Goldberg"
+              ],
+              "movies": [
+                {
+                  "title": "Ghost",
+                  "tmdbId": 251,
+                  "imdbId": "tt0099653"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Annette Bening"
+              ],
+              "movies": [
+                {
+                  "title": "The Grifters",
+                  "tmdbId": 18129,
+                  "imdbId": "tt0099703"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lorraine Bracco"
+              ],
+              "movies": [
+                {
+                  "title": "GoodFellas",
+                  "tmdbId": 769,
+                  "imdbId": "tt0099685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Diane Ladd"
+              ],
+              "movies": [
+                {
+                  "title": "Wild at Heart",
+                  "tmdbId": 483,
+                  "imdbId": "tt0100935"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mary McDonnell"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Bruce Joel Rubin"
+              ],
+              "movies": [
+                {
+                  "title": "Ghost",
+                  "tmdbId": 251,
+                  "imdbId": "tt0099653"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Alice",
+                  "tmdbId": 8217,
+                  "imdbId": "tt0099012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barry Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Avalon",
+                  "tmdbId": 2302,
+                  "imdbId": "tt0099073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Weir"
+              ],
+              "movies": [
+                {
+                  "title": "Green Card",
+                  "tmdbId": 12157,
+                  "imdbId": "tt0099699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Whit Stillman"
+              ],
+              "movies": [
+                {
+                  "title": "Metropolitan",
+                  "tmdbId": 15389,
+                  "imdbId": "tt0100142"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Michael Blake"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Steve Zaillian"
+              ],
+              "movies": [
+                {
+                  "title": "Awakenings",
+                  "tmdbId": 11005,
+                  "imdbId": "tt0099077"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicholas Pileggi",
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "GoodFellas",
+                  "tmdbId": 769,
+                  "imdbId": "tt0099685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald E. Westlake"
+              ],
+              "movies": [
+                {
+                  "title": "The Grifters",
+                  "tmdbId": 18129,
+                  "imdbId": "tt0099703"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicholas Kazan"
+              ],
+              "movies": [
+                {
+                  "title": "Reversal of Fortune",
+                  "tmdbId": 38718,
+                  "imdbId": "tt0100486"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Journey of Hope"
+              ],
+              "movies": [
+                {
+                  "title": "Journey of Hope",
+                  "tmdbId": 41834,
+                  "imdbId": "tt0100470"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cyrano de Bergerac"
+              ],
+              "movies": [
+                {
+                  "title": "Cyrano de Bergerac",
+                  "tmdbId": 11673,
+                  "imdbId": "tt0099334"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ju Dou"
+              ],
+              "movies": [
+                {
+                  "title": "Ju Dou",
+                  "tmdbId": 41821,
+                  "imdbId": "tt0099902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Nasty Girl"
+              ],
+              "movies": [
+                {
+                  "title": "The Nasty Girl",
+                  "tmdbId": 4339,
+                  "imdbId": "tt0100557"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Open Doors"
+              ],
+              "movies": [
+                {
+                  "title": "Open Doors",
+                  "tmdbId": 60067,
+                  "imdbId": "tt0100389"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "American Dream"
+              ],
+              "movies": [
+                {
+                  "title": "American Dream",
+                  "tmdbId": 41326,
+                  "imdbId": "tt0099028"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Berkeley in the Sixties"
+              ],
+              "movies": [
+                {
+                  "title": "Berkeley in the Sixties",
+                  "tmdbId": 37447,
+                  "imdbId": "tt0099121"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Building Bombs"
+              ],
+              "movies": [
+                {
+                  "title": "Building Bombs",
+                  "tmdbId": 136650,
+                  "imdbId": "tt0099185"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade"
+              ],
+              "movies": [
+                {
+                  "title": "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade",
+                  "tmdbId": 149394,
+                  "imdbId": "tt0099598"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Waldo Salt: A Screenwriter's Journey"
+              ],
+              "movies": [
+                {
+                  "title": "Waldo Salt: A Screenwriter's Journey",
+                  "tmdbId": 149395,
+                  "imdbId": "tt0100900"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Dean Semler"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Allen Daviau"
+              ],
+              "movies": [
+                {
+                  "title": "Avalon",
+                  "tmdbId": 2302,
+                  "imdbId": "tt0099073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vittorio Storaro"
+              ],
+              "movies": [
+                {
+                  "title": "Dick Tracy",
+                  "tmdbId": 8592,
+                  "imdbId": "tt0099422"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon Willis"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part III",
+                  "tmdbId": 242,
+                  "imdbId": "tt0099674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philippe Rousselot"
+              ],
+              "movies": [
+                {
+                  "title": "Henry & June",
+                  "tmdbId": 17993,
+                  "imdbId": "tt0099762"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Neil Travis"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Murch"
+              ],
+              "movies": [
+                {
+                  "title": "Ghost",
+                  "tmdbId": 251,
+                  "imdbId": "tt0099653"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barry Malkin",
+                "Lisa Fruchtman",
+                "Walter Murch"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part III",
+                  "tmdbId": 242,
+                  "imdbId": "tt0099674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thelma Schoonmaker"
+              ],
+              "movies": [
+                {
+                  "title": "GoodFellas",
+                  "tmdbId": 769,
+                  "imdbId": "tt0099685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Virkler",
+                "John Wright"
+              ],
+              "movies": [
+                {
+                  "title": "The Hunt for Red October",
+                  "tmdbId": 1669,
+                  "imdbId": "tt0099810"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Richard Sylbert",
+                "Rick Simpson"
+              ],
+              "movies": [
+                {
+                  "title": "Dick Tracy",
+                  "tmdbId": 8592,
+                  "imdbId": "tt0099422"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ezio Frigerio",
+                "Jacques Rouxel"
+              ],
+              "movies": [
+                {
+                  "title": "Cyrano de Bergerac",
+                  "tmdbId": 11673,
+                  "imdbId": "tt0099334"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeffrey Beecroft",
+                "Lisa Dean"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dean Tavoularis",
+                "Gary Fettis"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part III",
+                  "tmdbId": 242,
+                  "imdbId": "tt0099674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dante Ferretti",
+                "Francesca Lo Schiavo"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 10264,
+                  "imdbId": "tt0099726"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Franca Squarciapino"
+              ],
+              "movies": [
+                {
+                  "title": "Cyrano de Bergerac",
+                  "tmdbId": 11673,
+                  "imdbId": "tt0099334"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gloria Gresham"
+              ],
+              "movies": [
+                {
+                  "title": "Avalon",
+                  "tmdbId": 2302,
+                  "imdbId": "tt0099073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elsa Zamparelli"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milena Canonero"
+              ],
+              "movies": [
+                {
+                  "title": "Dick Tracy",
+                  "tmdbId": 8592,
+                  "imdbId": "tt0099422"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maurizio Millenotti"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 10264,
+                  "imdbId": "tt0099726"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "John Caglione Jr.",
+                "Doug Drexler"
+              ],
+              "movies": [
+                {
+                  "title": "Dick Tracy",
+                  "tmdbId": 8592,
+                  "imdbId": "tt0099422"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michele Burke",
+                "Jean-Pierre Eychenne"
+              ],
+              "movies": [
+                {
+                  "title": "Cyrano de Bergerac",
+                  "tmdbId": 11673,
+                  "imdbId": "tt0099334"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ve Neill",
+                "Stan Winston"
+              ],
+              "movies": [
+                {
+                  "title": "Edward Scissorhands",
+                  "tmdbId": 162,
+                  "imdbId": "tt0099487"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Eric Brevig",
+                "Rob Bottin",
+                "Tim McGovern",
+                "Alex Funke"
+              ],
+              "movies": [
+                {
+                  "title": "Total Recall",
+                  "tmdbId": 861,
+                  "imdbId": "tt0100802"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Jeffrey Perkins",
+                "Bill W. Benton",
+                "Gregory H. Watkins",
+                "Russell Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles M. Wilborn",
+                "Donald O. Mitchell",
+                "Rick Kline",
+                "Kevin O'Connell"
+              ],
+              "movies": [
+                {
+                  "title": "Days of Thunder",
+                  "tmdbId": 2119,
+                  "imdbId": "tt0099371"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Causey",
+                "Chris Jenkins",
+                "David E. Campbell",
+                "Doug Hemphill"
+              ],
+              "movies": [
+                {
+                  "title": "Dick Tracy",
+                  "tmdbId": 8592,
+                  "imdbId": "tt0099422"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Bryce Goodman",
+                "Richard Overton",
+                "Kevin F. Cleary",
+                "Don J. Bassman"
+              ],
+              "movies": [
+                {
+                  "title": "The Hunt for Red October",
+                  "tmdbId": 1669,
+                  "imdbId": "tt0099810"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nelson Stoll",
+                "Michael J. Kohut",
+                "Carlos Delarios",
+                "Aaron Rochin"
+              ],
+              "movies": [
+                {
+                  "title": "Total Recall",
+                  "tmdbId": 861,
+                  "imdbId": "tt0100802"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Cecelia Hall",
+                "George Watters"
+              ],
+              "movies": [
+                {
+                  "title": "The Hunt for Red October",
+                  "tmdbId": 1669,
+                  "imdbId": "tt0099810"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Campbell",
+                "Richard Franklin"
+              ],
+              "movies": [
+                {
+                  "title": "Flatliners",
+                  "tmdbId": 1551,
+                  "imdbId": "tt0099582"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Hunter Flick"
+              ],
+              "movies": [
+                {
+                  "title": "Total Recall",
+                  "tmdbId": 861,
+                  "imdbId": "tt0100802"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "John Barry"
+              ],
+              "movies": [
+                {
+                  "title": "Dances with Wolves",
+                  "tmdbId": 581,
+                  "imdbId": "tt0099348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Randy Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Avalon",
+                  "tmdbId": 2302,
+                  "imdbId": "tt0099073"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maurice Jarre"
+              ],
+              "movies": [
+                {
+                  "title": "Ghost",
+                  "tmdbId": 251,
+                  "imdbId": "tt0099653"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Grusin"
+              ],
+              "movies": [
+                {
+                  "title": "Havana",
+                  "tmdbId": 22189,
+                  "imdbId": "tt0099747"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Home Alone",
+                  "tmdbId": 771,
+                  "imdbId": "tt0099785"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Sooner or Later (I Always Get My Man)"
+              ],
+              "movies": [
+                {
+                  "title": "Dick Tracy",
+                  "tmdbId": 8592,
+                  "imdbId": "tt0099422"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blaze of Glory"
+              ],
+              "movies": [
+                {
+                  "title": "Young Guns II",
+                  "tmdbId": 9086,
+                  "imdbId": "tt0100994"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I'm Checkin' Out"
+              ],
+              "movies": [
+                {
+                  "title": "Postcards from the Edge",
+                  "tmdbId": 22414,
+                  "imdbId": "tt0100395"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Promise Me You'll Remember"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather Part III",
+                  "tmdbId": 242,
+                  "imdbId": "tt0099674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Somewhere in My Memory"
+              ],
+              "movies": [
+                {
+                  "title": "Home Alone",
+                  "tmdbId": 771,
+                  "imdbId": "tt0099785"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Creature Comforts"
+              ],
+              "movies": [
+                {
+                  "title": "Creature Comforts",
+                  "tmdbId": 54825,
+                  "imdbId": "tt0099317"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Grand Day Out"
+              ],
+              "movies": [
+                {
+                  "title": "A Grand Day Out",
+                  "tmdbId": 530,
+                  "imdbId": "tt0104361"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Grasshoppers"
+              ],
+              "movies": [
+                {
+                  "title": "Grasshoppers",
+                  "tmdbId": 48611,
+                  "imdbId": "tt0099696"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Lunch Date"
+              ],
+              "movies": [
+                {
+                  "title": "The Lunch Date",
+                  "tmdbId": 44231,
+                  "imdbId": "tt0100076"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bronx Cheers"
+              ],
+              "movies": [
+                {
+                  "title": "Bronx Cheers",
+                  "tmdbId": 244718,
+                  "imdbId": "tt0099182"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dear Rosie"
+              ],
+              "movies": [
+                {
+                  "title": "Dear Rosie",
+                  "tmdbId": 244719,
+                  "imdbId": "tt0099382"
+                }
+              ]
+            },
+            {
+              "names": [
+                "What Have We Done?"
+              ],
+              "movies": [
+                {
+                  "title": "What Have We Done?",
+                  "tmdbId": 244721,
+                  "imdbId": "tt0100579"
+                }
+              ]
+            },
+            {
+              "names": [
+                "12:01 PM"
+              ],
+              "movies": [
+                {
+                  "title": "12:01 PM",
+                  "tmdbId": 30647,
+                  "imdbId": "tt0098962"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Days of Waiting: The Life & Art of Estelle Ishigo"
+              ],
+              "movies": [
+                {
+                  "title": "Days of Waiting: The Life & Art of Estelle Ishigo",
+                  "tmdbId": 244724,
+                  "imdbId": "tt0099372"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Burning Down Tomorrow"
+              ],
+              "movies": [
+                {
+                  "title": "Burning Down Tomorrow",
+                  "tmdbId": 244725,
+                  "imdbId": "tt0099191"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chimps: So Like Us"
+              ],
+              "movies": [
+                {
+                  "title": "Chimps: So Like Us",
+                  "tmdbId": 244726,
+                  "imdbId": "tt0099257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Journey Into Life: The World of the Unborn"
+              ],
+              "movies": [
+                {
+                  "title": "Journey Into Life: The World of the Unborn",
+                  "tmdbId": 244727,
+                  "imdbId": "tt0099899"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rose Kennedy: A Life to Remember"
+              ],
+              "movies": [
+                {
+                  "title": "Rose Kennedy: A Life to Remember",
+                  "tmdbId": 244728,
+                  "imdbId": "tt0100517"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

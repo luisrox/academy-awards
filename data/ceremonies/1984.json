@@ -1,0 +1,1505 @@
+{
+  "ceremony": {
+    "ordinal": 56,
+    "ceremonyYear": 1984,
+    "ceremonyDate": "1984-04-09",
+    "filmYearLabel": "1983",
+    "slug": "1984",
+    "decade": "1980s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Terms of Endearment"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Big Chill"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Chill",
+                  "tmdbId": 12560,
+                  "imdbId": "tt0085244"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Dresser"
+              ],
+              "movies": [
+                {
+                  "title": "The Dresser",
+                  "tmdbId": 42122,
+                  "imdbId": "tt0085461"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Right Stuff"
+              ],
+              "movies": [
+                {
+                  "title": "The Right Stuff",
+                  "tmdbId": 9549,
+                  "imdbId": "tt0086197"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tender Mercies"
+              ],
+              "movies": [
+                {
+                  "title": "Tender Mercies",
+                  "tmdbId": 42121,
+                  "imdbId": "tt0086423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "James L. Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Yates"
+              ],
+              "movies": [
+                {
+                  "title": "The Dresser",
+                  "tmdbId": 42122,
+                  "imdbId": "tt0085461"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ingmar Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny and Alexander",
+                  "tmdbId": 5961,
+                  "imdbId": "tt0083922"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Nichols"
+              ],
+              "movies": [
+                {
+                  "title": "Silkwood",
+                  "tmdbId": 12502,
+                  "imdbId": "tt0086312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bruce Beresford"
+              ],
+              "movies": [
+                {
+                  "title": "Tender Mercies",
+                  "tmdbId": 42121,
+                  "imdbId": "tt0086423"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Robert Duvall"
+              ],
+              "movies": [
+                {
+                  "title": "Tender Mercies",
+                  "tmdbId": 42121,
+                  "imdbId": "tt0086423"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Caine"
+              ],
+              "movies": [
+                {
+                  "title": "Educating Rita",
+                  "tmdbId": 38291,
+                  "imdbId": "tt0085478"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Conti"
+              ],
+              "movies": [
+                {
+                  "title": "Reuben, Reuben",
+                  "tmdbId": 31944,
+                  "imdbId": "tt0084591"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Courtenay"
+              ],
+              "movies": [
+                {
+                  "title": "The Dresser",
+                  "tmdbId": 42122,
+                  "imdbId": "tt0085461"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Finney"
+              ],
+              "movies": [
+                {
+                  "title": "The Dresser",
+                  "tmdbId": 42122,
+                  "imdbId": "tt0085461"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Shirley MacLaine"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jane Alexander"
+              ],
+              "movies": [
+                {
+                  "title": "Testament",
+                  "tmdbId": 21259,
+                  "imdbId": "tt0086429"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "Silkwood",
+                  "tmdbId": 12502,
+                  "imdbId": "tt0086312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julie Walters"
+              ],
+              "movies": [
+                {
+                  "title": "Educating Rita",
+                  "tmdbId": 38291,
+                  "imdbId": "tt0085478"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Debra Winger"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Durning"
+              ],
+              "movies": [
+                {
+                  "title": "To Be or Not to Be",
+                  "tmdbId": 22998,
+                  "imdbId": "tt0086450"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Lithgow"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Shepard"
+              ],
+              "movies": [
+                {
+                  "title": "The Right Stuff",
+                  "tmdbId": 9549,
+                  "imdbId": "tt0086197"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rip Torn"
+              ],
+              "movies": [
+                {
+                  "title": "Cross Creek",
+                  "tmdbId": 115332,
+                  "imdbId": "tt0085380"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Linda Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "The Year of Living Dangerously",
+                  "tmdbId": 11541,
+                  "imdbId": "tt0086617"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cher"
+              ],
+              "movies": [
+                {
+                  "title": "Silkwood",
+                  "tmdbId": 12502,
+                  "imdbId": "tt0086312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Glenn Close"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Chill",
+                  "tmdbId": 12560,
+                  "imdbId": "tt0085244"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Amy Irving"
+              ],
+              "movies": [
+                {
+                  "title": "Yentl",
+                  "tmdbId": 10269,
+                  "imdbId": "tt0086619"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfre Woodard"
+              ],
+              "movies": [
+                {
+                  "title": "Cross Creek",
+                  "tmdbId": 115332,
+                  "imdbId": "tt0085380"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Horton Foote"
+              ],
+              "movies": [
+                {
+                  "title": "Tender Mercies",
+                  "tmdbId": 42121,
+                  "imdbId": "tt0086423"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lawrence Kasdan",
+                "Barbara Benedek"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Chill",
+                  "tmdbId": 12560,
+                  "imdbId": "tt0085244"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ingmar Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny and Alexander",
+                  "tmdbId": 5961,
+                  "imdbId": "tt0083922"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nora Ephron",
+                "Alice Arlen"
+              ],
+              "movies": [
+                {
+                  "title": "Silkwood",
+                  "tmdbId": 12502,
+                  "imdbId": "tt0086312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lawrence Lasker",
+                "Walter F. Parkes"
+              ],
+              "movies": [
+                {
+                  "title": "WarGames",
+                  "tmdbId": 860,
+                  "imdbId": "tt0086567"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "James L. Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harold Pinter"
+              ],
+              "movies": [
+                {
+                  "title": "Betrayal",
+                  "tmdbId": 139383,
+                  "imdbId": "tt0085234"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ronald Harwood"
+              ],
+              "movies": [
+                {
+                  "title": "The Dresser",
+                  "tmdbId": 42122,
+                  "imdbId": "tt0085461"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Willy Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Educating Rita",
+                  "tmdbId": 38291,
+                  "imdbId": "tt0085478"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julius J. Epstein"
+              ],
+              "movies": [
+                {
+                  "title": "Reuben, Reuben",
+                  "tmdbId": 31944,
+                  "imdbId": "tt0084591"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Fanny and Alexander"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny and Alexander",
+                  "tmdbId": 5961,
+                  "imdbId": "tt0083922"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carmen"
+              ],
+              "movies": [
+                {
+                  "title": "Carmen",
+                  "tmdbId": 42106,
+                  "imdbId": "tt0085297"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Entre Nous"
+              ],
+              "movies": [
+                {
+                  "title": "Entre Nous",
+                  "tmdbId": 42108,
+                  "imdbId": "tt0085370"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Revolt of Job"
+              ],
+              "movies": [
+                {
+                  "title": "The Revolt of Job",
+                  "tmdbId": 42111,
+                  "imdbId": "tt0085767"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Le Bal"
+              ],
+              "movies": [
+                {
+                  "title": "Le Bal",
+                  "tmdbId": 60612,
+                  "imdbId": "tt0085213"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "He Makes Me Feel Like Dancin'"
+              ],
+              "movies": [
+                {
+                  "title": "He Makes Me Feel Like Dancin'",
+                  "tmdbId": 114520,
+                  "imdbId": "tt0085655"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Children of Darkness"
+              ],
+              "movies": [
+                {
+                  "title": "Children of Darkness",
+                  "tmdbId": 149374,
+                  "imdbId": "tt0085329"
+                }
+              ]
+            },
+            {
+              "names": [
+                "First Contact"
+              ],
+              "movies": [
+                {
+                  "title": "First Contact",
+                  "tmdbId": 136671,
+                  "imdbId": "tt0085544"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Profession of Arms"
+              ],
+              "movies": [
+                {
+                  "title": "The Profession of Arms",
+                  "tmdbId": 136673,
+                  "imdbId": "tt0086147"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Seeing Red: Stories of American Communists"
+              ],
+              "movies": [
+                {
+                  "title": "Seeing Red: Stories of American Communists",
+                  "tmdbId": 136058,
+                  "imdbId": "tt0086273"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Sven Nykvist"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny and Alexander",
+                  "tmdbId": 5961,
+                  "imdbId": "tt0083922"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don Peterman"
+              ],
+              "movies": [
+                {
+                  "title": "Flashdance",
+                  "tmdbId": 535,
+                  "imdbId": "tt0085549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Caleb Deschanel"
+              ],
+              "movies": [
+                {
+                  "title": "The Right Stuff",
+                  "tmdbId": 9549,
+                  "imdbId": "tt0086197"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Fraker"
+              ],
+              "movies": [
+                {
+                  "title": "WarGames",
+                  "tmdbId": 860,
+                  "imdbId": "tt0086567"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon Willis"
+              ],
+              "movies": [
+                {
+                  "title": "Zelig",
+                  "tmdbId": 11030,
+                  "imdbId": "tt0086637"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Glenn Farr",
+                "Lisa Fruchtman",
+                "Stephen A. Rotter",
+                "Douglas Stewart",
+                "Tom Rolf"
+              ],
+              "movies": [
+                {
+                  "title": "The Right Stuff",
+                  "tmdbId": 9549,
+                  "imdbId": "tt0086197"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Morris",
+                "Edward Abroms"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Thunder",
+                  "tmdbId": 6341,
+                  "imdbId": "tt0085255"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bud S. Smith",
+                "Walt Mulconery"
+              ],
+              "movies": [
+                {
+                  "title": "Flashdance",
+                  "tmdbId": 535,
+                  "imdbId": "tt0085549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam O'Steen"
+              ],
+              "movies": [
+                {
+                  "title": "Silkwood",
+                  "tmdbId": 12502,
+                  "imdbId": "tt0086312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Marks"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Anna Asp",
+                "Susanne Lingheim"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny and Alexander",
+                  "tmdbId": 5961,
+                  "imdbId": "tt0083922"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Norman Reynolds",
+                "Fred Hole",
+                "James L. Schoppe",
+                "Michael D. Ford"
+              ],
+              "movies": [
+                {
+                  "title": "Return of the Jedi",
+                  "tmdbId": 1892,
+                  "imdbId": "tt0086190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geoffrey Kirkland",
+                "Richard Lawrence",
+                "W. Stewart Campbell",
+                "Jim Poynter",
+                "George R. Nelson",
+                "Peter R. Romero"
+              ],
+              "movies": [
+                {
+                  "title": "The Right Stuff",
+                  "tmdbId": 9549,
+                  "imdbId": "tt0086197"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Polly Platt",
+                "Harold Michelson",
+                "Tom Pedigo",
+                "Anthony Mondell"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Walker",
+                "Leslie Tomkins",
+                "Tessa Davies"
+              ],
+              "movies": [
+                {
+                  "title": "Yentl",
+                  "tmdbId": 10269,
+                  "imdbId": "tt0086619"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Marik Vos-Lundh"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny and Alexander",
+                  "tmdbId": 5961,
+                  "imdbId": "tt0083922"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joe I. Tompkins"
+              ],
+              "movies": [
+                {
+                  "title": "Cross Creek",
+                  "tmdbId": 115332,
+                  "imdbId": "tt0085380"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Ware Theiss"
+              ],
+              "movies": [
+                {
+                  "title": "Heart Like a Wheel",
+                  "tmdbId": 34599,
+                  "imdbId": "tt0085656"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne-Marie Marchand"
+              ],
+              "movies": [
+                {
+                  "title": "The Return of Martin Guerre",
+                  "tmdbId": 4483,
+                  "imdbId": "tt0084589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Santo Loquasto"
+              ],
+              "movies": [
+                {
+                  "title": "Zelig",
+                  "tmdbId": 11030,
+                  "imdbId": "tt0086637"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Richard Edlund",
+                "Dennis Muren",
+                "Ken Ralston",
+                "Phil Tippett"
+              ],
+              "movies": [
+                {
+                  "title": "Return of the Jedi",
+                  "tmdbId": 1892,
+                  "imdbId": "tt0086190"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Mark Berger",
+                "Tom Scott",
+                "Randy Thom",
+                "David MacMillan"
+              ],
+              "movies": [
+                {
+                  "title": "The Right Stuff",
+                  "tmdbId": 9549,
+                  "imdbId": "tt0086197"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alan Splet",
+                "Todd Boekelheide",
+                "Randy Thom",
+                "David Parker"
+              ],
+              "movies": [
+                {
+                  "title": "Never Cry Wolf",
+                  "tmdbId": 14280,
+                  "imdbId": "tt0086005"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Burtt",
+                "Gary Summers",
+                "Randy Thom",
+                "Tony Dawe"
+              ],
+              "movies": [
+                {
+                  "title": "Return of the Jedi",
+                  "tmdbId": 1892,
+                  "imdbId": "tt0086190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Rick Kline",
+                "Kevin O'Connell",
+                "James R. Alexander"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael J. Kohut",
+                "Carlos Delarios",
+                "Aaron Rochin",
+                "Willie D. Burton"
+              ],
+              "movies": [
+                {
+                  "title": "WarGames",
+                  "tmdbId": 860,
+                  "imdbId": "tt0086567"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Jay Boekelheide"
+              ],
+              "movies": [
+                {
+                  "title": "The Right Stuff",
+                  "tmdbId": 9549,
+                  "imdbId": "tt0086197"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ben Burtt"
+              ],
+              "movies": [
+                {
+                  "title": "Return of the Jedi",
+                  "tmdbId": 1892,
+                  "imdbId": "tt0086190"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Bill Conti"
+              ],
+              "movies": [
+                {
+                  "title": "The Right Stuff",
+                  "tmdbId": 9549,
+                  "imdbId": "tt0086197"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leonard Rosenman"
+              ],
+              "movies": [
+                {
+                  "title": "Cross Creek",
+                  "tmdbId": 115332,
+                  "imdbId": "tt0085380"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Return of the Jedi",
+                  "tmdbId": 1892,
+                  "imdbId": "tt0086190"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Gore"
+              ],
+              "movies": [
+                {
+                  "title": "Terms of Endearment",
+                  "tmdbId": 11050,
+                  "imdbId": "tt0086425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Under Fire",
+                  "tmdbId": 12503,
+                  "imdbId": "tt0086510"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Michel Legrand",
+                "Alan Bergman",
+                "Marilyn Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Yentl",
+                  "tmdbId": 10269,
+                  "imdbId": "tt0086619"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lalo Schifrin"
+              ],
+              "movies": [
+                {
+                  "title": "The Sting II",
+                  "tmdbId": 36912,
+                  "imdbId": "tt0086370"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "Trading Places",
+                  "tmdbId": 1621,
+                  "imdbId": "tt0086465"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Flashdance... What a Feeling"
+              ],
+              "movies": [
+                {
+                  "title": "Flashdance",
+                  "tmdbId": 535,
+                  "imdbId": "tt0085549"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Maniac"
+              ],
+              "movies": [
+                {
+                  "title": "Flashdance",
+                  "tmdbId": 535,
+                  "imdbId": "tt0085549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Over You"
+              ],
+              "movies": [
+                {
+                  "title": "Tender Mercies",
+                  "tmdbId": 42121,
+                  "imdbId": "tt0086423"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Papa",
+                "Can You Hear Me?"
+              ],
+              "movies": [
+                {
+                  "title": "Yentl",
+                  "tmdbId": 10269,
+                  "imdbId": "tt0086619"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Way He Makes Me Feel"
+              ],
+              "movies": [
+                {
+                  "title": "Yentl",
+                  "tmdbId": 10269,
+                  "imdbId": "tt0086619"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Sundae in New York"
+              ],
+              "movies": [
+                {
+                  "title": "Sundae in New York",
+                  "tmdbId": 210972,
+                  "imdbId": "tt0086388"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mickey's Christmas Carol"
+              ],
+              "movies": [
+                {
+                  "title": "Mickey's Christmas Carol",
+                  "tmdbId": 14813,
+                  "imdbId": "tt0085936"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sound of Sunshine - Sound of Rain"
+              ],
+              "movies": [
+                {
+                  "title": "Sound of Sunshine - Sound of Rain",
+                  "tmdbId": 244438,
+                  "imdbId": "tt0086344"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Boys and Girls"
+              ],
+              "movies": [
+                {
+                  "title": "Boys and Girls",
+                  "tmdbId": 244440,
+                  "imdbId": "tt0083688"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Goodie-Two-Shoes"
+              ],
+              "movies": [
+                {
+                  "title": "Goodie-Two-Shoes",
+                  "tmdbId": 244443,
+                  "imdbId": "tt0085613"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Overnight Sensation"
+              ],
+              "movies": [
+                {
+                  "title": "Overnight Sensation",
+                  "tmdbId": 244448,
+                  "imdbId": "tt0086067"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Flamenco at 5:15"
+              ],
+              "movies": [
+                {
+                  "title": "Flamenco at 5:15",
+                  "tmdbId": 244449,
+                  "imdbId": "tt0085548"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "In the Nuclear Shadow: What Can the Children Tell Us?"
+              ],
+              "movies": [
+                {
+                  "title": "In the Nuclear Shadow: What Can the Children Tell Us?",
+                  "tmdbId": 244450,
+                  "imdbId": "tt0085722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sewing Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Sewing Woman",
+                  "tmdbId": 244451,
+                  "imdbId": "tt0086291"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spaces: The Architecture of Paul Rudolph"
+              ],
+              "movies": [
+                {
+                  "title": "Spaces: The Architecture of Paul Rudolph",
+                  "tmdbId": 244452,
+                  "imdbId": "tt0086347"
+                }
+              ]
+            },
+            {
+              "names": [
+                "You Are Free"
+              ],
+              "movies": [
+                {
+                  "title": "You Are Free",
+                  "tmdbId": 244454,
+                  "imdbId": "tt0085714"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

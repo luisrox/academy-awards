@@ -1,0 +1,1773 @@
+{
+  "ceremony": {
+    "ordinal": 37,
+    "ceremonyYear": 1965,
+    "ceremonyDate": "1965-04-05",
+    "filmYearLabel": "1964",
+    "slug": "1965",
+    "decade": "1960s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "My Fair Lady"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Becket"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                  "tmdbId": 935,
+                  "imdbId": "tt0057012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mary Poppins"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Zorba the Greek"
+              ],
+              "movies": [
+                {
+                  "title": "Zorba the Greek",
+                  "tmdbId": 10604,
+                  "imdbId": "tt0057831"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "George Cukor"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Glenville"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Kubrick"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                  "tmdbId": 935,
+                  "imdbId": "tt0057012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Stevenson"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Cacoyannis"
+              ],
+              "movies": [
+                {
+                  "title": "Zorba the Greek",
+                  "tmdbId": 10604,
+                  "imdbId": "tt0057831"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Rex Harrison"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Burton"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter O'Toole"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Quinn"
+              ],
+              "movies": [
+                {
+                  "title": "Zorba the Greek",
+                  "tmdbId": 10604,
+                  "imdbId": "tt0057831"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Sellers"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                  "tmdbId": 935,
+                  "imdbId": "tt0057012"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Julie Andrews"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anne Bancroft"
+              ],
+              "movies": [
+                {
+                  "title": "The Pumpkin Eater",
+                  "tmdbId": 69557,
+                  "imdbId": "tt0058500"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sophia Loren"
+              ],
+              "movies": [
+                {
+                  "title": "Marriage Italian Style",
+                  "tmdbId": 49687,
+                  "imdbId": "tt0058335"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Debbie Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "The Unsinkable Molly Brown",
+                  "tmdbId": 42797,
+                  "imdbId": "tt0058708"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kim Stanley"
+              ],
+              "movies": [
+                {
+                  "title": "Seance on a Wet Afternoon",
+                  "tmdbId": 3092,
+                  "imdbId": "tt0058557"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Peter Ustinov"
+              ],
+              "movies": [
+                {
+                  "title": "Topkapi",
+                  "tmdbId": 5052,
+                  "imdbId": "tt0058672"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Gielgud"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Holloway"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edmond O'Brien"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Days in May",
+                  "tmdbId": 23518,
+                  "imdbId": "tt0058576"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Man",
+                  "tmdbId": 37315,
+                  "imdbId": "tt0057883"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Lila Kedrova"
+              ],
+              "movies": [
+                {
+                  "title": "Zorba the Greek",
+                  "tmdbId": 10604,
+                  "imdbId": "tt0057831"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gladys Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Evans"
+              ],
+              "movies": [
+                {
+                  "title": "The Chalk Garden",
+                  "tmdbId": 66022,
+                  "imdbId": "tt0057933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Grayson Hall"
+              ],
+              "movies": [
+                {
+                  "title": "The Night of the Iguana",
+                  "tmdbId": 14703,
+                  "imdbId": "tt0058404"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Agnes Moorehead"
+              ],
+              "movies": [
+                {
+                  "title": "Hush... Hush, Sweet Charlotte",
+                  "tmdbId": 10299,
+                  "imdbId": "tt0058213"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Peter Stone",
+                "Frank Tarloff"
+              ],
+              "movies": [
+                {
+                  "title": "Father Goose",
+                  "tmdbId": 30295,
+                  "imdbId": "tt0058092"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alun Owen"
+              ],
+              "movies": [
+                {
+                  "title": "A Hard Day's Night",
+                  "tmdbId": 704,
+                  "imdbId": "tt0058182"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Agenore Incrocci",
+                "Furio Scarpelli",
+                "Mario Monicelli"
+              ],
+              "movies": [
+                {
+                  "title": "The Organizer",
+                  "tmdbId": 51092,
+                  "imdbId": "tt0056945"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean-Paul Rappeneau",
+                "Ariane Mnouchkine",
+                "Daniel Boulanger",
+                "Philippe de Broca"
+              ],
+              "movies": [
+                {
+                  "title": "That Man from Rio",
+                  "tmdbId": 4034,
+                  "imdbId": "tt0058203"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Orville H. Hampton",
+                "Raphael Hayes"
+              ],
+              "movies": [
+                {
+                  "title": "One Potato, Two Potato",
+                  "tmdbId": 143841,
+                  "imdbId": "tt0058429"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Edward Anhalt"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stanley Kubrick",
+                "Terry Southern",
+                "Peter George"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                  "tmdbId": 935,
+                  "imdbId": "tt0057012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Walsh",
+                "Don Dagradi"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Jay Lerner"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Cacoyannis"
+              ],
+              "movies": [
+                {
+                  "title": "Zorba the Greek",
+                  "tmdbId": 10604,
+                  "imdbId": "tt0057831"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Yesterday, Today and Tomorrow"
+              ],
+              "movies": [
+                {
+                  "title": "Yesterday, Today and Tomorrow",
+                  "tmdbId": 42801,
+                  "imdbId": "tt0057171"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Raven's End"
+              ],
+              "movies": [
+                {
+                  "title": "Raven's End",
+                  "tmdbId": 47206,
+                  "imdbId": "tt0057237"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sallah"
+              ],
+              "movies": [
+                {
+                  "title": "Sallah",
+                  "tmdbId": 116762,
+                  "imdbId": "tt0058541"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Umbrellas of Cherbourg"
+              ],
+              "movies": [
+                {
+                  "title": "The Umbrellas of Cherbourg",
+                  "tmdbId": 5967,
+                  "imdbId": "tt0058450"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woman in the Dunes"
+              ],
+              "movies": [
+                {
+                  "title": "Woman in the Dunes",
+                  "tmdbId": 16672,
+                  "imdbId": "tt0058625"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "World Without Sun"
+              ],
+              "movies": [
+                {
+                  "title": "World Without Sun",
+                  "tmdbId": 91288,
+                  "imdbId": "tt0058364"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Over There, 1914-18"
+              ],
+              "movies": [
+                {
+                  "title": "Over There, 1914-18",
+                  "tmdbId": 149286,
+                  "imdbId": "tt0056797"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Everyman"
+              ],
+              "movies": [
+                {
+                  "title": "Everyman",
+                  "tmdbId": 39241,
+                  "imdbId": "tt0056819"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Finest Hours"
+              ],
+              "movies": [
+                {
+                  "title": "The Finest Hours",
+                  "tmdbId": 149291,
+                  "imdbId": "tt0058099"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Four Days In November"
+              ],
+              "movies": [
+                {
+                  "title": "Four Days In November",
+                  "tmdbId": 139226,
+                  "imdbId": "tt0059197"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Geoffrey Unsworth"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William H. Clothier"
+              ],
+              "movies": [
+                {
+                  "title": "Cheyenne Autumn",
+                  "tmdbId": 40630,
+                  "imdbId": "tt0057940"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Colman"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel L. Fapp"
+              ],
+              "movies": [
+                {
+                  "title": "The Unsinkable Molly Brown",
+                  "tmdbId": 42797,
+                  "imdbId": "tt0058708"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Walter Lassally"
+              ],
+              "movies": [
+                {
+                  "title": "Zorba the Greek",
+                  "tmdbId": 10604,
+                  "imdbId": "tt0057831"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph Biroc"
+              ],
+              "movies": [
+                {
+                  "title": "Hush... Hush, Sweet Charlotte",
+                  "tmdbId": 10299,
+                  "imdbId": "tt0058213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milton Krasner"
+              ],
+              "movies": [
+                {
+                  "title": "Fate Is the Hunter",
+                  "tmdbId": 102286,
+                  "imdbId": "tt0058091"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip H. Lathrop"
+              ],
+              "movies": [
+                {
+                  "title": "The Americanization of Emily",
+                  "tmdbId": 42791,
+                  "imdbId": "tt0057840"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gabriel Figueroa"
+              ],
+              "movies": [
+                {
+                  "title": "The Night of the Iguana",
+                  "tmdbId": 14703,
+                  "imdbId": "tt0058404"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Cotton Warburton"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Luciano"
+              ],
+              "movies": [
+                {
+                  "title": "Hush... Hush, Sweet Charlotte",
+                  "tmdbId": 10299,
+                  "imdbId": "tt0058213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anne V. Coates"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted J. Kent"
+              ],
+              "movies": [
+                {
+                  "title": "Father Goose",
+                  "tmdbId": 30295,
+                  "imdbId": "tt0058092"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Ziegler"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Gene Allen",
+                "Cecil Beaton",
+                "George James Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Bryan",
+                "Maurice Carter",
+                "Patrick McLoughlin",
+                "Robert Cartwright"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carroll Clark",
+                "William H. Tuntke",
+                "Emile Kuri",
+                "Hal Gausman"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Davis",
+                "E. Preston Ames",
+                "Henry Grace",
+                "Hugh Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "The Unsinkable Molly Brown",
+                  "tmdbId": 42797,
+                  "imdbId": "tt0058708"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Martin Smith",
+                "Ted Haworth",
+                "Walter M. Scott",
+                "Stuart A. Reiss"
+              ],
+              "movies": [
+                {
+                  "title": "What a Way to Go!",
+                  "tmdbId": 23574,
+                  "imdbId": "tt0058743"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Vassilis Fotopoulos"
+              ],
+              "movies": [
+                {
+                  "title": "Zorba the Greek",
+                  "tmdbId": 10604,
+                  "imdbId": "tt0057831"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Glasgow",
+                "Raphael Bretton"
+              ],
+              "movies": [
+                {
+                  "title": "Hush... Hush, Sweet Charlotte",
+                  "tmdbId": 10299,
+                  "imdbId": "tt0058213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cary Odell",
+                "Edward G. Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Days in May",
+                  "tmdbId": 23518,
+                  "imdbId": "tt0058576"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Davis",
+                "Hans Peters",
+                "Elliott Scott",
+                "Henry Grace",
+                "Robert R. Benton"
+              ],
+              "movies": [
+                {
+                  "title": "The Americanization of Emily",
+                  "tmdbId": 42791,
+                  "imdbId": "tt0057840"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Grimes"
+              ],
+              "movies": [
+                {
+                  "title": "The Night of the Iguana",
+                  "tmdbId": 14703,
+                  "imdbId": "tt0058404"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Cecil Beaton"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Margaret Furse"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Walton"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morton Haack"
+              ],
+              "movies": [
+                {
+                  "title": "The Unsinkable Molly Brown",
+                  "tmdbId": 42797,
+                  "imdbId": "tt0058708"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head",
+                "Moss Mabry"
+              ],
+              "movies": [
+                {
+                  "title": "What a Way to Go!",
+                  "tmdbId": 23574,
+                  "imdbId": "tt0058743"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Dorothy Jeakins"
+              ],
+              "movies": [
+                {
+                  "title": "The Night of the Iguana",
+                  "tmdbId": 14703,
+                  "imdbId": "tt0058404"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "A House Is Not a Home",
+                  "tmdbId": 216661,
+                  "imdbId": "tt0058209"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norma Koch"
+              ],
+              "movies": [
+                {
+                  "title": "Hush... Hush, Sweet Charlotte",
+                  "tmdbId": 10299,
+                  "imdbId": "tt0058213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard Shoup"
+              ],
+              "movies": [
+                {
+                  "title": "Kisses for My President",
+                  "tmdbId": 212713,
+                  "imdbId": "tt0058266"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rene Hubert"
+              ],
+              "movies": [
+                {
+                  "title": "The Visit",
+                  "tmdbId": 151138,
+                  "imdbId": "tt0058724"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "William J. Tuttle"
+              ],
+              "movies": [
+                {
+                  "title": "7 Faces of Dr. Lao",
+                  "tmdbId": 14241,
+                  "imdbId": "tt0057812"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Peter Ellenshaw",
+                "Eustace Lycett",
+                "Hamilton Luske"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jim Danforth"
+              ],
+              "movies": [
+                {
+                  "title": "7 Faces of Dr. Lao",
+                  "tmdbId": 14241,
+                  "imdbId": "tt0057812"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "George Groves"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Cox"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Waldon O. Watson"
+              ],
+              "movies": [
+                {
+                  "title": "Father Goose",
+                  "tmdbId": 30295,
+                  "imdbId": "tt0058092"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert O. Cook"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franklin Milton"
+              ],
+              "movies": [
+                {
+                  "title": "The Unsinkable Molly Brown",
+                  "tmdbId": 42797,
+                  "imdbId": "tt0058708"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects",
+          "winners": [
+            {
+              "names": [
+                "Norman Wanstall"
+              ],
+              "movies": [
+                {
+                  "title": "Goldfinger",
+                  "tmdbId": 658,
+                  "imdbId": "tt0058150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Bratton"
+              ],
+              "movies": [
+                {
+                  "title": "The Lively Set",
+                  "tmdbId": 138411,
+                  "imdbId": "tt0058296"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Richard M. Sherman",
+                "Robert B. Sherman"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Laurence Rosenthal"
+              ],
+              "movies": [
+                {
+                  "title": "Becket",
+                  "tmdbId": 15421,
+                  "imdbId": "tt0057877"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank DeVol"
+              ],
+              "movies": [
+                {
+                  "title": "Hush... Hush, Sweet Charlotte",
+                  "tmdbId": 10299,
+                  "imdbId": "tt0058213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Fall of the Roman Empire",
+                  "tmdbId": 17277,
+                  "imdbId": "tt0058085"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Mancini"
+              ],
+              "movies": [
+                {
+                  "title": "The Pink Panther",
+                  "tmdbId": 936,
+                  "imdbId": "tt0057413"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Andre Previn"
+              ],
+              "movies": [
+                {
+                  "title": "My Fair Lady",
+                  "tmdbId": 11113,
+                  "imdbId": "tt0058385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Martin"
+              ],
+              "movies": [
+                {
+                  "title": "A Hard Day's Night",
+                  "tmdbId": 704,
+                  "imdbId": "tt0058182"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irwin Kostal"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nelson Riddle"
+              ],
+              "movies": [
+                {
+                  "title": "Robin and the 7 Hoods",
+                  "tmdbId": 17696,
+                  "imdbId": "tt0058529"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Armbruster",
+                "Leo Arnaud",
+                "Jack Elliott",
+                "Jack Hayes",
+                "Calvin Jackson",
+                "Leo Shuken"
+              ],
+              "movies": [
+                {
+                  "title": "The Unsinkable Molly Brown",
+                  "tmdbId": 42797,
+                  "imdbId": "tt0058708"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Chim Chim Cher-ee"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Poppins",
+                  "tmdbId": 433,
+                  "imdbId": "tt0058331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dear Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Dear Heart",
+                  "tmdbId": 101226,
+                  "imdbId": "tt0057999"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hush... Hush",
+                "Sweet Charlotte"
+              ],
+              "movies": [
+                {
+                  "title": "Hush... Hush, Sweet Charlotte",
+                  "tmdbId": 10299,
+                  "imdbId": "tt0058213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Kind of Town"
+              ],
+              "movies": [
+                {
+                  "title": "Robin and the 7 Hoods",
+                  "tmdbId": 17696,
+                  "imdbId": "tt0058529"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Where Love Has Gone"
+              ],
+              "movies": [
+                {
+                  "title": "Where Love Has Gone",
+                  "tmdbId": 73348,
+                  "imdbId": "tt0058745"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Pink Phink"
+              ],
+              "movies": [
+                {
+                  "title": "The Pink Phink",
+                  "tmdbId": 149193,
+                  "imdbId": "tt0058472"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Christmas Cracker"
+              ],
+              "movies": [
+                {
+                  "title": "Christmas Cracker",
+                  "tmdbId": 143198,
+                  "imdbId": "tt0055849"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How to Avoid Friendship"
+              ],
+              "movies": [
+                {
+                  "title": "How to Avoid Friendship",
+                  "tmdbId": 243257,
+                  "imdbId": "tt0058211"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Here's Nudnik"
+              ],
+              "movies": [
+                {
+                  "title": "Here's Nudnik",
+                  "tmdbId": 220906,
+                  "imdbId": "tt0058416"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Casals Conducts: 1964"
+              ],
+              "movies": [
+                {
+                  "title": "Casals Conducts: 1964",
+                  "tmdbId": 243253,
+                  "imdbId": "tt0057922"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Help! My Snowman's Burning Down"
+              ],
+              "movies": [
+                {
+                  "title": "Help! My Snowman's Burning Down",
+                  "tmdbId": 243255,
+                  "imdbId": "tt0058189"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Legend of Jimmy Blue Eyes"
+              ],
+              "movies": [
+                {
+                  "title": "The Legend of Jimmy Blue Eyes",
+                  "tmdbId": 243256,
+                  "imdbId": "tt0058288"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Nine from Little Rock"
+              ],
+              "movies": [
+                {
+                  "title": "Nine from Little Rock",
+                  "tmdbId": 243260,
+                  "imdbId": "tt0058410"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Breaking the Habit"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking the Habit",
+                  "tmdbId": 243261,
+                  "imdbId": "tt0057898"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Children Without"
+              ],
+              "movies": [
+                {
+                  "title": "Children Without",
+                  "tmdbId": 243263,
+                  "imdbId": "tt0057945"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eskimo Artist: Kenojuak"
+              ],
+              "movies": [
+                {
+                  "title": "Eskimo Artist: Kenojuak",
+                  "tmdbId": 243268,
+                  "imdbId": "tt0058260"
+                }
+              ]
+            },
+            {
+              "names": [
+                "140 Days Under the World"
+              ],
+              "movies": [
+                {
+                  "title": "140 Days Under the World",
+                  "tmdbId": 243271,
+                  "imdbId": "tt0057806"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1459 @@
+{
+  "ceremony": {
+    "ordinal": 45,
+    "ceremonyYear": 1973,
+    "ceremonyDate": "1973-03-27",
+    "filmYearLabel": "1972",
+    "slug": "1973",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Godfather"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cabaret"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Deliverance"
+              ],
+              "movies": [
+                {
+                  "title": "Deliverance",
+                  "tmdbId": 10669,
+                  "imdbId": "tt0068473"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Emigrants"
+              ],
+              "movies": [
+                {
+                  "title": "The Emigrants",
+                  "tmdbId": 40732,
+                  "imdbId": "tt0067919"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sounder"
+              ],
+              "movies": [
+                {
+                  "title": "Sounder",
+                  "tmdbId": 42489,
+                  "imdbId": "tt0069303"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Bob Fosse"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Boorman"
+              ],
+              "movies": [
+                {
+                  "title": "Deliverance",
+                  "tmdbId": 10669,
+                  "imdbId": "tt0068473"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francis Ford Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph L. Mankiewicz"
+              ],
+              "movies": [
+                {
+                  "title": "Sleuth",
+                  "tmdbId": 993,
+                  "imdbId": "tt0069281"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jan Troell"
+              ],
+              "movies": [
+                {
+                  "title": "The Emigrants",
+                  "tmdbId": 40732,
+                  "imdbId": "tt0067919"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Marlon Brando"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Caine"
+              ],
+              "movies": [
+                {
+                  "title": "Sleuth",
+                  "tmdbId": 993,
+                  "imdbId": "tt0069281"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Sleuth",
+                  "tmdbId": 993,
+                  "imdbId": "tt0069281"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter O'Toole"
+              ],
+              "movies": [
+                {
+                  "title": "The Ruling Class",
+                  "tmdbId": 30892,
+                  "imdbId": "tt0069198"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Winfield"
+              ],
+              "movies": [
+                {
+                  "title": "Sounder",
+                  "tmdbId": 42489,
+                  "imdbId": "tt0069303"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Liza Minnelli"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Diana Ross"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Sings the Blues",
+                  "tmdbId": 23148,
+                  "imdbId": "tt0068828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maggie Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Travels with My Aunt",
+                  "tmdbId": 5183,
+                  "imdbId": "tt0069404"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cicely Tyson"
+              ],
+              "movies": [
+                {
+                  "title": "Sounder",
+                  "tmdbId": 42489,
+                  "imdbId": "tt0069303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Liv Ullmann"
+              ],
+              "movies": [
+                {
+                  "title": "The Emigrants",
+                  "tmdbId": 40732,
+                  "imdbId": "tt0067919"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Joel Grey"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eddie Albert"
+              ],
+              "movies": [
+                {
+                  "title": "The Heartbreak Kid",
+                  "tmdbId": 40687,
+                  "imdbId": "tt0068687"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Caan"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Duvall"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Pacino"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Eileen Heckart"
+              ],
+              "movies": [
+                {
+                  "title": "Butterflies Are Free",
+                  "tmdbId": 55106,
+                  "imdbId": "tt0068326"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jeannie Berlin"
+              ],
+              "movies": [
+                {
+                  "title": "The Heartbreak Kid",
+                  "tmdbId": 40687,
+                  "imdbId": "tt0068687"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geraldine Page"
+              ],
+              "movies": [
+                {
+                  "title": "Pete 'n' Tillie",
+                  "tmdbId": 107774,
+                  "imdbId": "tt0069080"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Tyrrell"
+              ],
+              "movies": [
+                {
+                  "title": "Fat City",
+                  "tmdbId": 16993,
+                  "imdbId": "tt0068575"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shelley Winters"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Jeremy Larner"
+              ],
+              "movies": [
+                {
+                  "title": "The Candidate",
+                  "tmdbId": 21711,
+                  "imdbId": "tt0068334"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Luis Bunuel",
+                "Jean-Claude Carriere"
+              ],
+              "movies": [
+                {
+                  "title": "The Discreet Charm of the Bourgeoisie",
+                  "tmdbId": 4593,
+                  "imdbId": "tt0068361"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chris Clark",
+                "Terence McCloy",
+                "Suzanne de Passe"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Sings the Blues",
+                  "tmdbId": 23148,
+                  "imdbId": "tt0068828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Louis Malle"
+              ],
+              "movies": [
+                {
+                  "title": "Murmur of the Heart",
+                  "tmdbId": 42501,
+                  "imdbId": "tt0067778"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carl Foreman"
+              ],
+              "movies": [
+                {
+                  "title": "Young Winston",
+                  "tmdbId": 66775,
+                  "imdbId": "tt0069528"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Mario Puzo",
+                "Francis Ford Coppola"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jay Presson Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bengt Forslund",
+                "Jan Troell"
+              ],
+              "movies": [
+                {
+                  "title": "The Emigrants",
+                  "tmdbId": 40732,
+                  "imdbId": "tt0067919"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julius J. Epstein"
+              ],
+              "movies": [
+                {
+                  "title": "Pete 'n' Tillie",
+                  "tmdbId": 107774,
+                  "imdbId": "tt0069080"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lonne Elder III"
+              ],
+              "movies": [
+                {
+                  "title": "Sounder",
+                  "tmdbId": 42489,
+                  "imdbId": "tt0069303"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Discreet Charm of the Bourgeoisie"
+              ],
+              "movies": [
+                {
+                  "title": "The Discreet Charm of the Bourgeoisie",
+                  "tmdbId": 4593,
+                  "imdbId": "tt0068361"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Dawns Here Are Quiet"
+              ],
+              "movies": [
+                {
+                  "title": "The Dawns Here Are Quiet",
+                  "tmdbId": 49106,
+                  "imdbId": "tt0068161"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Love You Rosa"
+              ],
+              "movies": [
+                {
+                  "title": "I Love You Rosa",
+                  "tmdbId": 140423,
+                  "imdbId": "tt0068213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Dearest Senorita"
+              ],
+              "movies": [
+                {
+                  "title": "My Dearest Senorita",
+                  "tmdbId": 185417,
+                  "imdbId": "tt0067425"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The New Land"
+              ],
+              "movies": [
+                {
+                  "title": "The New Land",
+                  "tmdbId": 42488,
+                  "imdbId": "tt0069035"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Marjoe"
+              ],
+              "movies": [
+                {
+                  "title": "Marjoe",
+                  "tmdbId": 38616,
+                  "imdbId": "tt0068924"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ape and Super-Ape"
+              ],
+              "movies": [
+                {
+                  "title": "Ape and Super-Ape",
+                  "tmdbId": 149326,
+                  "imdbId": "tt0068275"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Malcolm X"
+              ],
+              "movies": [
+                {
+                  "title": "Malcolm X",
+                  "tmdbId": 46898,
+                  "imdbId": "tt0068903"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Manson"
+              ],
+              "movies": [
+                {
+                  "title": "Manson",
+                  "tmdbId": 54505,
+                  "imdbId": "tt0068918"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Silent Revolution"
+              ],
+              "movies": [
+                {
+                  "title": "The Silent Revolution",
+                  "tmdbId": 149327,
+                  "imdbId": "tt0069271"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Geoffrey Unsworth"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry Stradling Jr."
+              ],
+              "movies": [
+                {
+                  "title": "1776",
+                  "tmdbId": 14902,
+                  "imdbId": "tt0068156"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang"
+              ],
+              "movies": [
+                {
+                  "title": "Butterflies Are Free",
+                  "tmdbId": 55106,
+                  "imdbId": "tt0068326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold E. Stine"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Slocombe"
+              ],
+              "movies": [
+                {
+                  "title": "Travels with My Aunt",
+                  "tmdbId": 5183,
+                  "imdbId": "tt0069404"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "David Bretherton"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Priestley"
+              ],
+              "movies": [
+                {
+                  "title": "Deliverance",
+                  "tmdbId": 10669,
+                  "imdbId": "tt0068473"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William H. Reynolds",
+                "Pete Zinner"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred W. Berger",
+                "Frank P. Keller"
+              ],
+              "movies": [
+                {
+                  "title": "The Hot Rock",
+                  "tmdbId": 46059,
+                  "imdbId": "tt0068718"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold F. Kress"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Rolf Zehetbauer",
+                "Jürgen Kiebach",
+                "Herbert Strabel"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carl Anderson",
+                "Reg Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Sings the Blues",
+                  "tmdbId": 23148,
+                  "imdbId": "tt0068828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Creber",
+                "Raphael Bretton"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Box",
+                "Gil Parrondo",
+                "Robert W. Laing"
+              ],
+              "movies": [
+                {
+                  "title": "Travels with My Aunt",
+                  "tmdbId": 5183,
+                  "imdbId": "tt0069404"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald M. Ashton",
+                "Geoffrey Drake",
+                "John Graysmark",
+                "William Hutchinson",
+                "Peter James"
+              ],
+              "movies": [
+                {
+                  "title": "Young Winston",
+                  "tmdbId": 66775,
+                  "imdbId": "tt0069528"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Anthony Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Travels with My Aunt",
+                  "tmdbId": 5183,
+                  "imdbId": "tt0069404"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anna Hill Johnstone"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Aghayan",
+                "Norma Koch",
+                "Bob Mackie"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Sings the Blues",
+                  "tmdbId": 23148,
+                  "imdbId": "tt0068828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Zastupnevich"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Mendleson"
+              ],
+              "movies": [
+                {
+                  "title": "Young Winston",
+                  "tmdbId": 66775,
+                  "imdbId": "tt0069528"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "L.B. Abbott",
+                "A.D. Flowers"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Robert Knudson",
+                "David Hildyard"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Piantadosi",
+                "Charles T. Knight"
+              ],
+              "movies": [
+                {
+                  "title": "Butterflies Are Free",
+                  "tmdbId": 55106,
+                  "imdbId": "tt0068326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Portman",
+                "Gene Cantamessa"
+              ],
+              "movies": [
+                {
+                  "title": "The Candidate",
+                  "tmdbId": 21711,
+                  "imdbId": "tt0068334"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Grenzbach",
+                "Richard Portman",
+                "Christopher Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Godfather",
+                  "tmdbId": 238,
+                  "imdbId": "tt0068646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Theodore Soderberg",
+                "Herman Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Charlie Chaplin",
+                "Raymond Rasch",
+                "Larry Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Limelight",
+                  "tmdbId": 28971,
+                  "imdbId": "tt0044837"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Images",
+                  "tmdbId": 29449,
+                  "imdbId": "tt0068732"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Buddy Baker"
+              ],
+              "movies": [
+                {
+                  "title": "Napoleon and Samantha",
+                  "tmdbId": 42486,
+                  "imdbId": "tt0068990"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Addison"
+              ],
+              "movies": [
+                {
+                  "title": "Sleuth",
+                  "tmdbId": 993,
+                  "imdbId": "tt0069281"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Ralph Burns"
+              ],
+              "movies": [
+                {
+                  "title": "Cabaret",
+                  "tmdbId": 10784,
+                  "imdbId": "tt0068327"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gil Askey"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Sings the Blues",
+                  "tmdbId": 23148,
+                  "imdbId": "tt0068828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Rosenthal"
+              ],
+              "movies": [
+                {
+                  "title": "Man of La Mancha",
+                  "tmdbId": 45793,
+                  "imdbId": "tt0068909"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "The Morning After"
+              ],
+              "movies": [
+                {
+                  "title": "The Poseidon Adventure",
+                  "tmdbId": 551,
+                  "imdbId": "tt0069113"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ben"
+              ],
+              "movies": [
+                {
+                  "title": "Ben",
+                  "tmdbId": 42476,
+                  "imdbId": "tt0068264"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Come Follow",
+                "Follow Me"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Ark",
+                  "tmdbId": 216484,
+                  "imdbId": "tt0068864"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marmalade",
+                "Molasses & Honey"
+              ],
+              "movies": [
+                {
+                  "title": "The Life and Times of Judge Roy Bean",
+                  "tmdbId": 33638,
+                  "imdbId": "tt0068853"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Strange are the Ways of Love"
+              ],
+              "movies": [
+                {
+                  "title": "The Stepmother",
+                  "tmdbId": 87886,
+                  "imdbId": "tt0067793"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "A Christmas Carol"
+              ],
+              "movies": [
+                {
+                  "title": "A Christmas Carol",
+                  "tmdbId": 46126,
+                  "imdbId": "tt0068373"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kama Sutra Rides Again"
+              ],
+              "movies": [
+                {
+                  "title": "Kama Sutra Rides Again",
+                  "tmdbId": 243363,
+                  "imdbId": "tt0068793"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tup Tup"
+              ],
+              "movies": [
+                {
+                  "title": "Tup Tup",
+                  "tmdbId": 148037,
+                  "imdbId": "tt0069422"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Norman Rockwell's World... An American Dream"
+              ],
+              "movies": [
+                {
+                  "title": "Norman Rockwell's World... An American Dream",
+                  "tmdbId": 243364,
+                  "imdbId": "tt0069020"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frog Story"
+              ],
+              "movies": [
+                {
+                  "title": "Frog Story",
+                  "tmdbId": 243365,
+                  "imdbId": "tt0068614"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Solo"
+              ],
+              "movies": [
+                {
+                  "title": "Solo",
+                  "tmdbId": 116048,
+                  "imdbId": "tt0174224"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "This Tiny World"
+              ],
+              "movies": [
+                {
+                  "title": "This Tiny World",
+                  "tmdbId": 243368,
+                  "imdbId": "tt0069373"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hundertwasser's Rainy Day"
+              ],
+              "movies": [
+                {
+                  "title": "Hundertwasser's Rainy Day",
+                  "tmdbId": 170220,
+                  "imdbId": "tt0067222"
+                }
+              ]
+            },
+            {
+              "names": [
+                "K-Z"
+              ],
+              "movies": [
+                {
+                  "title": "K-Z",
+                  "tmdbId": 243369,
+                  "imdbId": "tt0068790"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Selling Out"
+              ],
+              "movies": [
+                {
+                  "title": "Selling Out",
+                  "tmdbId": 243370,
+                  "imdbId": "tt0069245"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Tide of Traffic"
+              ],
+              "movies": [
+                {
+                  "title": "The Tide of Traffic",
+                  "tmdbId": 243371,
+                  "imdbId": "tt0069379"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

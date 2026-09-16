@@ -1,0 +1,1219 @@
+{
+  "ceremony": {
+    "ordinal": 8,
+    "ceremonyYear": 1936,
+    "ceremonyDate": "1936-03-05",
+    "filmYearLabel": "1935",
+    "slug": "1936",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Mutiny on the Bounty"
+              ],
+              "movies": [
+                {
+                  "title": "Mutiny on the Bounty",
+                  "tmdbId": 12311,
+                  "imdbId": "tt0026752"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alice Adams"
+              ],
+              "movies": [
+                {
+                  "title": "Alice Adams",
+                  "tmdbId": 43886,
+                  "imdbId": "tt0026056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Broadway Melody of 1936"
+              ],
+              "movies": [
+                {
+                  "title": "Broadway Melody of 1936",
+                  "tmdbId": 43890,
+                  "imdbId": "tt0026144"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Captain Blood"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Blood",
+                  "tmdbId": 16905,
+                  "imdbId": "tt0026174"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Copperfield"
+              ],
+              "movies": [
+                {
+                  "title": "David Copperfield",
+                  "tmdbId": 43899,
+                  "imdbId": "tt0026266"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Informer"
+              ],
+              "movies": [
+                {
+                  "title": "The Informer",
+                  "tmdbId": 43896,
+                  "imdbId": "tt0026529"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Lives of a Bengal Lancer"
+              ],
+              "movies": [
+                {
+                  "title": "The Lives of a Bengal Lancer",
+                  "tmdbId": 43898,
+                  "imdbId": "tt0026643"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Midsummer Night's Dream"
+              ],
+              "movies": [
+                {
+                  "title": "A Midsummer Night's Dream",
+                  "tmdbId": 19075,
+                  "imdbId": "tt0026714"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Les Misérables"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 43893,
+                  "imdbId": "tt0026725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Naughty Marietta"
+              ],
+              "movies": [
+                {
+                  "title": "Naughty Marietta",
+                  "tmdbId": 43894,
+                  "imdbId": "tt0026768"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruggles of Red Gap"
+              ],
+              "movies": [
+                {
+                  "title": "Ruggles of Red Gap",
+                  "tmdbId": 36006,
+                  "imdbId": "tt0026955"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Top Hat"
+              ],
+              "movies": [
+                {
+                  "title": "Top Hat",
+                  "tmdbId": 3080,
+                  "imdbId": "tt0027125"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "John Ford"
+              ],
+              "movies": [
+                {
+                  "title": "The Informer",
+                  "tmdbId": 43896,
+                  "imdbId": "tt0026529"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Curtiz"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Blood",
+                  "tmdbId": 16905,
+                  "imdbId": "tt0026174"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Hathaway"
+              ],
+              "movies": [
+                {
+                  "title": "The Lives of a Bengal Lancer",
+                  "tmdbId": 43898,
+                  "imdbId": "tt0026643"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Lloyd"
+              ],
+              "movies": [
+                {
+                  "title": "Mutiny on the Bounty",
+                  "tmdbId": 12311,
+                  "imdbId": "tt0026752"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Victor McLaglen"
+              ],
+              "movies": [
+                {
+                  "title": "The Informer",
+                  "tmdbId": 43896,
+                  "imdbId": "tt0026529"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Clark Gable"
+              ],
+              "movies": [
+                {
+                  "title": "Mutiny on the Bounty",
+                  "tmdbId": 12311,
+                  "imdbId": "tt0026752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Laughton"
+              ],
+              "movies": [
+                {
+                  "title": "Mutiny on the Bounty",
+                  "tmdbId": 12311,
+                  "imdbId": "tt0026752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Muni"
+              ],
+              "movies": [
+                {
+                  "title": "Black Fury",
+                  "tmdbId": 92667,
+                  "imdbId": "tt0026121"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franchot Tone"
+              ],
+              "movies": [
+                {
+                  "title": "Mutiny on the Bounty",
+                  "tmdbId": 12311,
+                  "imdbId": "tt0026752"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Dangerous",
+                  "tmdbId": 52863,
+                  "imdbId": "tt0026261"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elisabeth Bergner"
+              ],
+              "movies": [
+                {
+                  "title": "Escape Me Never",
+                  "tmdbId": 192980,
+                  "imdbId": "tt0026320"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claudette Colbert"
+              ],
+              "movies": [
+                {
+                  "title": "Private Worlds",
+                  "tmdbId": 107876,
+                  "imdbId": "tt0026893"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "Alice Adams",
+                  "tmdbId": 43886,
+                  "imdbId": "tt0026056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miriam Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Becky Sharp",
+                  "tmdbId": 43888,
+                  "imdbId": "tt0026104"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Merle Oberon"
+              ],
+              "movies": [
+                {
+                  "title": "The Dark Angel",
+                  "tmdbId": 120977,
+                  "imdbId": "tt0026264"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Dudley Nichols"
+              ],
+              "movies": [
+                {
+                  "title": "The Informer",
+                  "tmdbId": 43896,
+                  "imdbId": "tt0026529"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Grover Jones",
+                "Waldemar Young",
+                "John L. Balderston",
+                "Achmed Abdullah",
+                "William Slavens McNutt"
+              ],
+              "movies": [
+                {
+                  "title": "The Lives of a Bengal Lancer",
+                  "tmdbId": 43898,
+                  "imdbId": "tt0026643"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Talbot Jennings",
+                "Jules Furthman",
+                "Carey Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "Mutiny on the Bounty",
+                  "tmdbId": 12311,
+                  "imdbId": "tt0026752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Casey Robinson"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Blood",
+                  "tmdbId": 16905,
+                  "imdbId": "tt0026174"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Ben Hecht",
+                "Charles MacArthur"
+              ],
+              "movies": [
+                {
+                  "title": "The Scoundrel",
+                  "tmdbId": 37089,
+                  "imdbId": "tt0026970"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Moss Hart"
+              ],
+              "movies": [
+                {
+                  "title": "Broadway Melody of 1936",
+                  "tmdbId": 43890,
+                  "imdbId": "tt0026144"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Don Hartman",
+                "Stephen Morehouse Avery"
+              ],
+              "movies": [
+                {
+                  "title": "The Gay Deception",
+                  "tmdbId": 54570,
+                  "imdbId": "tt0026400"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregory Rogers (Darryl F. Zanuck)"
+              ],
+              "movies": [
+                {
+                  "title": "'G' Men",
+                  "tmdbId": 26718,
+                  "imdbId": "tt0026393"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Hal Mohr"
+              ],
+              "movies": [
+                {
+                  "title": "A Midsummer Night's Dream",
+                  "tmdbId": 19075,
+                  "imdbId": "tt0026714"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ray June"
+              ],
+              "movies": [
+                {
+                  "title": "Barbary Coast",
+                  "tmdbId": 76499,
+                  "imdbId": "tt0026097"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Milner"
+              ],
+              "movies": [
+                {
+                  "title": "Last Crusaders",
+                  "tmdbId": 756763,
+                  "imdbId": "tt0262085"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregg Toland"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 43893,
+                  "imdbId": "tt0026725"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Ralph Dawson"
+              ],
+              "movies": [
+                {
+                  "title": "A Midsummer Night's Dream",
+                  "tmdbId": 19075,
+                  "imdbId": "tt0026714"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert J. Kern"
+              ],
+              "movies": [
+                {
+                  "title": "David Copperfield",
+                  "tmdbId": 43899,
+                  "imdbId": "tt0026266"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Hively"
+              ],
+              "movies": [
+                {
+                  "title": "The Informer",
+                  "tmdbId": 43896,
+                  "imdbId": "tt0026529"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara McLean"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 43893,
+                  "imdbId": "tt0026725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ellsworth Hoagland"
+              ],
+              "movies": [
+                {
+                  "title": "The Lives of a Bengal Lancer",
+                  "tmdbId": 43898,
+                  "imdbId": "tt0026643"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margaret Booth"
+              ],
+              "movies": [
+                {
+                  "title": "Mutiny on the Bounty",
+                  "tmdbId": 12311,
+                  "imdbId": "tt0026752"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Richard Day"
+              ],
+              "movies": [
+                {
+                  "title": "The Dark Angel",
+                  "tmdbId": 120977,
+                  "imdbId": "tt0026264"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hans Dreier",
+                "Roland Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "The Lives of a Bengal Lancer",
+                  "tmdbId": 43898,
+                  "imdbId": "tt0026643"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carroll Clark",
+                "Van Nest Polglase"
+              ],
+              "movies": [
+                {
+                  "title": "Top Hat",
+                  "tmdbId": 3080,
+                  "imdbId": "tt0027125"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Naughty Marietta",
+                  "tmdbId": 43894,
+                  "imdbId": "tt0026768"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Republic Studio Sound Department"
+              ],
+              "movies": [
+                {
+                  "title": "$1,000 a Minute",
+                  "tmdbId": 218388,
+                  "imdbId": "tt0026027"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gilbert Kurland"
+              ],
+              "movies": [
+                {
+                  "title": "Bride of Frankenstein",
+                  "tmdbId": 229,
+                  "imdbId": "tt0026138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Blood",
+                  "tmdbId": 16905,
+                  "imdbId": "tt0026174"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The Dark Angel",
+                  "tmdbId": 120977,
+                  "imdbId": "tt0026264"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carl Dreher"
+              ],
+              "movies": [
+                {
+                  "title": "I Dream Too Much",
+                  "tmdbId": 218389,
+                  "imdbId": "tt0026507"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franklin B. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "The Lives of a Bengal Lancer",
+                  "tmdbId": 43898,
+                  "imdbId": "tt0026643"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "Love Me Forever",
+                  "tmdbId": 234207,
+                  "imdbId": "tt0026654"
+                }
+              ]
+            },
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "Thanks a Million",
+                  "tmdbId": 142142,
+                  "imdbId": "tt0027088"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "The Informer"
+              ],
+              "movies": [
+                {
+                  "title": "The Informer",
+                  "tmdbId": 43896,
+                  "imdbId": "tt0026529"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Captain Blood"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Blood",
+                  "tmdbId": 16905,
+                  "imdbId": "tt0026174"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mutiny on the Bounty"
+              ],
+              "movies": [
+                {
+                  "title": "Mutiny on the Bounty",
+                  "tmdbId": 12311,
+                  "imdbId": "tt0026752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Ibbetson"
+              ],
+              "movies": [
+                {
+                  "title": "Peter Ibbetson",
+                  "tmdbId": 57412,
+                  "imdbId": "tt0026866"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Lullaby of Broadway"
+              ],
+              "movies": [
+                {
+                  "title": "Gold Diggers of 1935",
+                  "tmdbId": 43892,
+                  "imdbId": "tt0026421"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cheek to Cheek"
+              ],
+              "movies": [
+                {
+                  "title": "Top Hat",
+                  "tmdbId": 3080,
+                  "imdbId": "tt0027125"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lovely to Look At"
+              ],
+              "movies": [
+                {
+                  "title": "Roberta",
+                  "tmdbId": 31798,
+                  "imdbId": "tt0026942"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Three Orphan Kittens"
+              ],
+              "movies": [
+                {
+                  "title": "Three Orphan Kittens",
+                  "tmdbId": 67626,
+                  "imdbId": "tt0027100"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Calico Dragon"
+              ],
+              "movies": [
+                {
+                  "title": "The Calico Dragon",
+                  "tmdbId": 184589,
+                  "imdbId": "tt0026162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Who Killed Cock Robin?"
+              ],
+              "movies": [
+                {
+                  "title": "Who Killed Cock Robin?",
+                  "tmdbId": 109323,
+                  "imdbId": "tt0027212"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "How to Sleep"
+              ],
+              "movies": [
+                {
+                  "title": "How to Sleep",
+                  "tmdbId": 197160,
+                  "imdbId": "tt0026497"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Oh, My Nerves"
+              ],
+              "movies": [
+                {
+                  "title": "Oh, My Nerves",
+                  "tmdbId": 233666,
+                  "imdbId": "tt0026803"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tit for Tat"
+              ],
+              "movies": [
+                {
+                  "title": "Tit for Tat",
+                  "tmdbId": 50912,
+                  "imdbId": "tt0027113"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Wings Over Everest"
+              ],
+              "movies": [
+                {
+                  "title": "Wings Over Everest",
+                  "tmdbId": 233669,
+                  "imdbId": "tt0024777"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Audioscopiks"
+              ],
+              "movies": [
+                {
+                  "title": "Audioscopiks",
+                  "tmdbId": 197173,
+                  "imdbId": "tt0026086"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Camera Thrills"
+              ],
+              "movies": [
+                {
+                  "title": "Camera Thrills",
+                  "tmdbId": 233676,
+                  "imdbId": "tt0026167"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "retired",
+      "label": "Retired Categories",
+      "categories": [
+        {
+          "id": "best-assistant-director",
+          "label": "Best Assistant Director",
+          "winners": [
+            {
+              "names": [
+                "Clem Beauchamp",
+                "Paul Wing"
+              ],
+              "movies": [
+                {
+                  "title": "The Lives of a Bengal Lancer",
+                  "tmdbId": 43898,
+                  "imdbId": "tt0026643"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph M. Newman"
+              ],
+              "movies": [
+                {
+                  "title": "David Copperfield",
+                  "tmdbId": 43899,
+                  "imdbId": "tt0026266"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric Stacey"
+              ],
+              "movies": [
+                {
+                  "title": "Les Misérables",
+                  "tmdbId": 43893,
+                  "imdbId": "tt0026725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sherry Shourds"
+              ],
+              "movies": [
+                {
+                  "title": "A Midsummer Night's Dream",
+                  "tmdbId": 19075,
+                  "imdbId": "tt0026714"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-dance-direction",
+          "label": "Best Dance Direction",
+          "winners": [
+            {
+              "names": [
+                "Dave Gould"
+              ],
+              "movies": [
+                {
+                  "title": "Folies Bergère",
+                  "tmdbId": 174988,
+                  "imdbId": "tt0026373"
+                },
+                {
+                  "title": "Broadway Melody of 1936",
+                  "tmdbId": 43890,
+                  "imdbId": "tt0026144"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "LeRoy Prinz"
+              ],
+              "movies": [
+                {
+                  "title": "All the King's Horses",
+                  "tmdbId": 218403,
+                  "imdbId": "tt0024823"
+                },
+                {
+                  "title": "The Big Broadcast of 1936",
+                  "tmdbId": 197491,
+                  "imdbId": "tt0026113"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bobby Connolly"
+              ],
+              "movies": [
+                {
+                  "title": "Broadway Hostess",
+                  "tmdbId": 173800,
+                  "imdbId": "tt0026143"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Busby Berkeley"
+              ],
+              "movies": [
+                {
+                  "title": "Gold Diggers of 1935",
+                  "tmdbId": 43892,
+                  "imdbId": "tt0026421"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sammy Lee"
+              ],
+              "movies": [
+                {
+                  "title": "King of Burlesque",
+                  "tmdbId": 218404,
+                  "imdbId": "tt0026571"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Benjamin Zemach"
+              ],
+              "movies": [
+                {
+                  "title": "She",
+                  "tmdbId": 60566,
+                  "imdbId": "tt0026983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hermes Pan"
+              ],
+              "movies": [
+                {
+                  "title": "Top Hat",
+                  "tmdbId": 3080,
+                  "imdbId": "tt0027125"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

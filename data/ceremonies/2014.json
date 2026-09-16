@@ -1,0 +1,1758 @@
+{
+  "ceremony": {
+    "ordinal": 86,
+    "ceremonyYear": 2014,
+    "ceremonyDate": "2014-03-02",
+    "filmYearLabel": "2013",
+    "slug": "2014",
+    "decade": "2010s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "12 Years a Slave"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "American Hustle"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Captain Phillips"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Phillips",
+                  "tmdbId": 109424,
+                  "imdbId": "tt1535109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dallas Buyers Club"
+              ],
+              "movies": [
+                {
+                  "title": "Dallas Buyers Club",
+                  "tmdbId": 152532,
+                  "imdbId": "tt0790636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gravity"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Her"
+              ],
+              "movies": [
+                {
+                  "title": "Her",
+                  "tmdbId": 152601,
+                  "imdbId": "tt1798709"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nebraska"
+              ],
+              "movies": [
+                {
+                  "title": "Nebraska",
+                  "tmdbId": 129670,
+                  "imdbId": "tt1821549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philomena"
+              ],
+              "movies": [
+                {
+                  "title": "Philomena",
+                  "tmdbId": 205220,
+                  "imdbId": "tt2431286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wolf of Wall Street"
+              ],
+              "movies": [
+                {
+                  "title": "The Wolf of Wall Street",
+                  "tmdbId": 106646,
+                  "imdbId": "tt0993846"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Alfonso Cuaron"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David O. Russell"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Payne"
+              ],
+              "movies": [
+                {
+                  "title": "Nebraska",
+                  "tmdbId": 129670,
+                  "imdbId": "tt1821549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve McQueen"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "The Wolf of Wall Street",
+                  "tmdbId": 106646,
+                  "imdbId": "tt0993846"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Matthew McConaughey"
+              ],
+              "movies": [
+                {
+                  "title": "Dallas Buyers Club",
+                  "tmdbId": 152532,
+                  "imdbId": "tt0790636"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Christian Bale"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bruce Dern"
+              ],
+              "movies": [
+                {
+                  "title": "Nebraska",
+                  "tmdbId": 129670,
+                  "imdbId": "tt1821549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonardo DiCaprio"
+              ],
+              "movies": [
+                {
+                  "title": "The Wolf of Wall Street",
+                  "tmdbId": 106646,
+                  "imdbId": "tt0993846"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chiwetel Ejiofor"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Cate Blanchett"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Jasmine",
+                  "tmdbId": 160588,
+                  "imdbId": "tt2334873"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Amy Adams"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandra Bullock"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judi Dench"
+              ],
+              "movies": [
+                {
+                  "title": "Philomena",
+                  "tmdbId": 205220,
+                  "imdbId": "tt2431286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meryl Streep"
+              ],
+              "movies": [
+                {
+                  "title": "August: Osage County",
+                  "tmdbId": 152737,
+                  "imdbId": "tt1322269"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Jared Leto"
+              ],
+              "movies": [
+                {
+                  "title": "Dallas Buyers Club",
+                  "tmdbId": 152532,
+                  "imdbId": "tt0790636"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Barkhad Abdi"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Phillips",
+                  "tmdbId": 109424,
+                  "imdbId": "tt1535109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bradley Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Fassbender"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonah Hill"
+              ],
+              "movies": [
+                {
+                  "title": "The Wolf of Wall Street",
+                  "tmdbId": 106646,
+                  "imdbId": "tt0993846"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Lupita Nyong'o"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sally Hawkins"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Jasmine",
+                  "tmdbId": 160588,
+                  "imdbId": "tt2334873"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jennifer Lawrence"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julia Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "August: Osage County",
+                  "tmdbId": 152737,
+                  "imdbId": "tt1322269"
+                }
+              ]
+            },
+            {
+              "names": [
+                "June Squibb"
+              ],
+              "movies": [
+                {
+                  "title": "Nebraska",
+                  "tmdbId": 129670,
+                  "imdbId": "tt1821549"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Spike Jonze"
+              ],
+              "movies": [
+                {
+                  "title": "Her",
+                  "tmdbId": 152601,
+                  "imdbId": "tt1798709"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eric Warren Singer",
+                "David O. Russell"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Jasmine",
+                  "tmdbId": 160588,
+                  "imdbId": "tt2334873"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Craig Borten",
+                "Melisa Wallack"
+              ],
+              "movies": [
+                {
+                  "title": "Dallas Buyers Club",
+                  "tmdbId": 152532,
+                  "imdbId": "tt0790636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bob Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "Nebraska",
+                  "tmdbId": 129670,
+                  "imdbId": "tt1821549"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "John Ridley"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Linklater",
+                "Julie Delpy",
+                "Ethan Hawke"
+              ],
+              "movies": [
+                {
+                  "title": "Before Midnight",
+                  "tmdbId": 132344,
+                  "imdbId": "tt2209418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Ray"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Phillips",
+                  "tmdbId": 109424,
+                  "imdbId": "tt1535109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steve Coogan",
+                "Jeff Pope"
+              ],
+              "movies": [
+                {
+                  "title": "Philomena",
+                  "tmdbId": 205220,
+                  "imdbId": "tt2431286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terence Winter"
+              ],
+              "movies": [
+                {
+                  "title": "The Wolf of Wall Street",
+                  "tmdbId": 106646,
+                  "imdbId": "tt0993846"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Frozen"
+              ],
+              "movies": [
+                {
+                  "title": "Frozen",
+                  "tmdbId": 109445,
+                  "imdbId": "tt2294629"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Croods"
+              ],
+              "movies": [
+                {
+                  "title": "The Croods",
+                  "tmdbId": 49519,
+                  "imdbId": "tt0481499"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Despicable Me 2"
+              ],
+              "movies": [
+                {
+                  "title": "Despicable Me 2",
+                  "tmdbId": 93456,
+                  "imdbId": "tt1690953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest & Celestine"
+              ],
+              "movies": [
+                {
+                  "title": "Ernest & Celestine",
+                  "tmdbId": 126319,
+                  "imdbId": "tt1816518"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wind Rises"
+              ],
+              "movies": [
+                {
+                  "title": "The Wind Rises",
+                  "tmdbId": 149870,
+                  "imdbId": "tt2013293"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Great Beauty"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Beauty",
+                  "tmdbId": 179144,
+                  "imdbId": "tt2358891"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Broken Circle Breakdown"
+              ],
+              "movies": [
+                {
+                  "title": "The Broken Circle Breakdown",
+                  "tmdbId": 137182,
+                  "imdbId": "tt2024519"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "The Hunt",
+                  "tmdbId": 103663,
+                  "imdbId": "tt2106476"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Missing Picture"
+              ],
+              "movies": [
+                {
+                  "title": "The Missing Picture",
+                  "tmdbId": 186997,
+                  "imdbId": "tt2852470"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Omar"
+              ],
+              "movies": [
+                {
+                  "title": "Omar",
+                  "tmdbId": 187028,
+                  "imdbId": "tt2852406"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "20 Feet from Stardom"
+              ],
+              "movies": [
+                {
+                  "title": "20 Feet from Stardom",
+                  "tmdbId": 159014,
+                  "imdbId": "tt2396566"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cutie and the Boxer"
+              ],
+              "movies": [
+                {
+                  "title": "Cutie and the Boxer",
+                  "tmdbId": 159002,
+                  "imdbId": "tt2355540"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dirty Wars"
+              ],
+              "movies": [
+                {
+                  "title": "Dirty Wars",
+                  "tmdbId": 159004,
+                  "imdbId": "tt2532528"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Square"
+              ],
+              "movies": [
+                {
+                  "title": "The Square",
+                  "tmdbId": 159037,
+                  "imdbId": "tt2486682"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Act of Killing"
+              ],
+              "movies": [
+                {
+                  "title": "The Act of Killing",
+                  "tmdbId": 123678,
+                  "imdbId": "tt2375605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Emmanuel Lubezki"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Philippe Le Sourd"
+              ],
+              "movies": [
+                {
+                  "title": "The Grandmaster",
+                  "tmdbId": 44865,
+                  "imdbId": "tt1462900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bruno Delbonnel"
+              ],
+              "movies": [
+                {
+                  "title": "Inside Llewyn Davis",
+                  "tmdbId": 86829,
+                  "imdbId": "tt2042568"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Phedon Papamichael"
+              ],
+              "movies": [
+                {
+                  "title": "Nebraska",
+                  "tmdbId": 129670,
+                  "imdbId": "tt1821549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "Prisoners",
+                  "tmdbId": 146233,
+                  "imdbId": "tt1392214"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Alfonso Cuaron",
+                "Mark Sanger"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jay Cassidy",
+                "Crispin Struthers",
+                "Alan Baumgarten"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Rouse"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Phillips",
+                  "tmdbId": 109424,
+                  "imdbId": "tt1535109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Mac McMurphy",
+                "Martin Pensa"
+              ],
+              "movies": [
+                {
+                  "title": "Dallas Buyers Club",
+                  "tmdbId": 152532,
+                  "imdbId": "tt0790636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joe Walker"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Catherine Martin",
+                "Beverley Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Gatsby",
+                  "tmdbId": 64682,
+                  "imdbId": "tt1343092"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judy Becker",
+                "Heather Loeffler"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nicholson",
+                "Rosie Goodwin",
+                "Joanne Woollard"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            },
+            {
+              "names": [
+                "K. K. Barrett",
+                "Gene Serdena"
+              ],
+              "movies": [
+                {
+                  "title": "Her",
+                  "tmdbId": 152601,
+                  "imdbId": "tt1798709"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adam Stockhausen",
+                "Alice Baker"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Catherine Martin"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Gatsby",
+                  "tmdbId": 64682,
+                  "imdbId": "tt1343092"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Michael Wilkinson"
+              ],
+              "movies": [
+                {
+                  "title": "American Hustle",
+                  "tmdbId": 168672,
+                  "imdbId": "tt1800241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Chang Suk Ping"
+              ],
+              "movies": [
+                {
+                  "title": "The Grandmaster",
+                  "tmdbId": 44865,
+                  "imdbId": "tt1462900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael O'Connor"
+              ],
+              "movies": [
+                {
+                  "title": "The Invisible Woman",
+                  "tmdbId": 111473,
+                  "imdbId": "tt1700845"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patricia Norris"
+              ],
+              "movies": [
+                {
+                  "title": "12 Years a Slave",
+                  "tmdbId": 76203,
+                  "imdbId": "tt2024544"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Adruitha Lee",
+                "Robin Mathews"
+              ],
+              "movies": [
+                {
+                  "title": "Dallas Buyers Club",
+                  "tmdbId": 152532,
+                  "imdbId": "tt0790636"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stephen Prouty"
+              ],
+              "movies": [
+                {
+                  "title": "Jackass Presents: Bad Grandpa",
+                  "tmdbId": 208134,
+                  "imdbId": "tt3063516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joel Harlow",
+                "Gloria Pasqua-Casny"
+              ],
+              "movies": [
+                {
+                  "title": "The Lone Ranger",
+                  "tmdbId": 57201,
+                  "imdbId": "tt1210819"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Tim Webber",
+                "Chris Lawrence",
+                "Dave Shirk",
+                "Neil Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joe Letteri",
+                "Eric Saindon",
+                "David Clayton",
+                "R. Christopher White"
+              ],
+              "movies": [
+                {
+                  "title": "The Hobbit: The Desolation of Smaug",
+                  "tmdbId": 57158,
+                  "imdbId": "tt1170358"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Townsend",
+                "Guy Williams",
+                "Erik Nash",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "Iron Man 3",
+                  "tmdbId": 68721,
+                  "imdbId": "tt1300854"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tim Alexander",
+                "Gary Brozenich",
+                "Edson Williams",
+                "John Frazier"
+              ],
+              "movies": [
+                {
+                  "title": "The Lone Ranger",
+                  "tmdbId": 57201,
+                  "imdbId": "tt1210819"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Guyett",
+                "Patrick Tubach",
+                "Ben Grossmann",
+                "Burt Dalton"
+              ],
+              "movies": [
+                {
+                  "title": "Star Trek Into Darkness",
+                  "tmdbId": 54138,
+                  "imdbId": "tt1408101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Skip Lievsay",
+                "Niv Adiri",
+                "Christopher Benstead",
+                "Chris Munro"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chris Burdon",
+                "Mark Taylor",
+                "Mike Prestwood Smith",
+                "Chris Munro"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Phillips",
+                  "tmdbId": 109424,
+                  "imdbId": "tt1535109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christopher Boyes",
+                "Michael Hedges",
+                "Michael Semanick",
+                "Tony Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "The Hobbit: The Desolation of Smaug",
+                  "tmdbId": 57158,
+                  "imdbId": "tt1170358"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Skip Lievsay",
+                "Greg Orloff",
+                "Peter F. Kurland"
+              ],
+              "movies": [
+                {
+                  "title": "Inside Llewyn Davis",
+                  "tmdbId": 86829,
+                  "imdbId": "tt2042568"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Koyama",
+                "Beau Borders",
+                "David Brownlow"
+              ],
+              "movies": [
+                {
+                  "title": "Lone Survivor",
+                  "tmdbId": 193756,
+                  "imdbId": "tt1091191"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Glenn Freemantle"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Steve Boeddeker",
+                "Richard Hymns"
+              ],
+              "movies": [
+                {
+                  "title": "All Is Lost",
+                  "tmdbId": 152747,
+                  "imdbId": "tt2017038"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Tarney"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Phillips",
+                  "tmdbId": 109424,
+                  "imdbId": "tt1535109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brent Burge",
+                "Chris Ward"
+              ],
+              "movies": [
+                {
+                  "title": "The Hobbit: The Desolation of Smaug",
+                  "tmdbId": 57158,
+                  "imdbId": "tt1170358"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wylie Stateman"
+              ],
+              "movies": [
+                {
+                  "title": "Lone Survivor",
+                  "tmdbId": 193756,
+                  "imdbId": "tt1091191"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Steven Price"
+              ],
+              "movies": [
+                {
+                  "title": "Gravity",
+                  "tmdbId": 49047,
+                  "imdbId": "tt1454468"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Book Thief",
+                  "tmdbId": 203833,
+                  "imdbId": "tt0816442"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Butler",
+                "Owen Pallett"
+              ],
+              "movies": [
+                {
+                  "title": "Her",
+                  "tmdbId": 152601,
+                  "imdbId": "tt1798709"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexandre Desplat"
+              ],
+              "movies": [
+                {
+                  "title": "Philomena",
+                  "tmdbId": 205220,
+                  "imdbId": "tt2431286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Saving Mr. Banks",
+                  "tmdbId": 140823,
+                  "imdbId": "tt2140373"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Let it Go"
+              ],
+              "movies": [
+                {
+                  "title": "Frozen",
+                  "tmdbId": 109445,
+                  "imdbId": "tt2294629"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Happy"
+              ],
+              "movies": [
+                {
+                  "title": "Despicable Me 2",
+                  "tmdbId": 93456,
+                  "imdbId": "tt1690953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Moon Song"
+              ],
+              "movies": [
+                {
+                  "title": "Her",
+                  "tmdbId": 152601,
+                  "imdbId": "tt1798709"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ordinary Love"
+              ],
+              "movies": [
+                {
+                  "title": "Mandela: Long Walk to Freedom",
+                  "tmdbId": 192136,
+                  "imdbId": "tt2304771"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alone Yet Not Alone"
+              ],
+              "movies": [
+                {
+                  "title": "Alone Yet Not Alone",
+                  "tmdbId": 243794,
+                  "imdbId": "tt1986769"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Mr Hublot"
+              ],
+              "movies": [
+                {
+                  "title": "Mr Hublot",
+                  "tmdbId": 234862,
+                  "imdbId": "tt3043542"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Feral"
+              ],
+              "movies": [
+                {
+                  "title": "Feral",
+                  "tmdbId": 234564,
+                  "imdbId": "tt2499022"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Get a Horse!"
+              ],
+              "movies": [
+                {
+                  "title": "Get a Horse!",
+                  "tmdbId": 234567,
+                  "imdbId": "tt2980764"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Possessions"
+              ],
+              "movies": [
+                {
+                  "title": "Possessions",
+                  "tmdbId": 211358,
+                  "imdbId": "tt3080074"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Room on the Broom"
+              ],
+              "movies": [
+                {
+                  "title": "Room on the Broom",
+                  "tmdbId": 152581,
+                  "imdbId": "tt2484120"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Helium"
+              ],
+              "movies": [
+                {
+                  "title": "Helium",
+                  "tmdbId": 249699,
+                  "imdbId": "tt3346410"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "That Wasn't Me"
+              ],
+              "movies": [
+                {
+                  "title": "That Wasn't Me",
+                  "tmdbId": 199737,
+                  "imdbId": "tt2372213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Just Before Losing Everything"
+              ],
+              "movies": [
+                {
+                  "title": "Just Before Losing Everything",
+                  "tmdbId": 222796,
+                  "imdbId": "tt2689992"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Do I Have to Take Care of Everything?"
+              ],
+              "movies": [
+                {
+                  "title": "Do I Have to Take Care of Everything?",
+                  "tmdbId": 249703,
+                  "imdbId": "tt2256646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Voorman Problem"
+              ],
+              "movies": [
+                {
+                  "title": "The Voorman Problem",
+                  "tmdbId": 200942,
+                  "imdbId": "tt1998355"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Lady in Number 6: Music Saved My Life"
+              ],
+              "movies": [
+                {
+                  "title": "The Lady in Number 6: Music Saved My Life",
+                  "tmdbId": 249724,
+                  "imdbId": "tt2924484"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cavedigger"
+              ],
+              "movies": [
+                {
+                  "title": "Cavedigger",
+                  "tmdbId": 249714,
+                  "imdbId": "tt2516860"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Facing Fear"
+              ],
+              "movies": [
+                {
+                  "title": "Facing Fear",
+                  "tmdbId": 249719,
+                  "imdbId": "tt2776636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karama Has No Walls"
+              ],
+              "movies": [
+                {
+                  "title": "Karama Has No Walls",
+                  "tmdbId": 249721,
+                  "imdbId": "tt2551790"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Prison Terminal: The Last Days of Private Jack Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Prison Terminal: The Last Days of Private Jack Hall",
+                  "tmdbId": 249726,
+                  "imdbId": "tt3145026"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

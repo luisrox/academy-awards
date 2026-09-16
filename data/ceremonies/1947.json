@@ -1,0 +1,1443 @@
+{
+  "ceremony": {
+    "ordinal": 19,
+    "ceremonyYear": 1947,
+    "ceremonyDate": "1947-03-13",
+    "filmYearLabel": "1946",
+    "slug": "1947",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Best Years of Our Lives"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Years of Our Lives",
+                  "tmdbId": 887,
+                  "imdbId": "tt0036868"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Henry V"
+              ],
+              "movies": [
+                {
+                  "title": "Henry V",
+                  "tmdbId": 22638,
+                  "imdbId": "tt0036910"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It's a Wonderful Life"
+              ],
+              "movies": [
+                {
+                  "title": "It's a Wonderful Life",
+                  "tmdbId": 1585,
+                  "imdbId": "tt0038650"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Razor's Edge"
+              ],
+              "movies": [
+                {
+                  "title": "The Razor's Edge",
+                  "tmdbId": 56135,
+                  "imdbId": "tt0038873"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Yearling"
+              ],
+              "movies": [
+                {
+                  "title": "The Yearling",
+                  "tmdbId": 19049,
+                  "imdbId": "tt0039111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Years of Our Lives",
+                  "tmdbId": 887,
+                  "imdbId": "tt0036868"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Clarence Brown"
+              ],
+              "movies": [
+                {
+                  "title": "The Yearling",
+                  "tmdbId": 19049,
+                  "imdbId": "tt0039111"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Capra"
+              ],
+              "movies": [
+                {
+                  "title": "It's a Wonderful Life",
+                  "tmdbId": 1585,
+                  "imdbId": "tt0038650"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lean"
+              ],
+              "movies": [
+                {
+                  "title": "Brief Encounter",
+                  "tmdbId": 851,
+                  "imdbId": "tt0037558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Siodmak"
+              ],
+              "movies": [
+                {
+                  "title": "The Killers",
+                  "tmdbId": 14638,
+                  "imdbId": "tt0038669"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Frederic March"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Years of Our Lives",
+                  "tmdbId": 887,
+                  "imdbId": "tt0036868"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Henry V",
+                  "tmdbId": 22638,
+                  "imdbId": "tt0036910"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Larry Parks"
+              ],
+              "movies": [
+                {
+                  "title": "The Jolson Story",
+                  "tmdbId": 31206,
+                  "imdbId": "tt0038661"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregory Peck"
+              ],
+              "movies": [
+                {
+                  "title": "The Yearling",
+                  "tmdbId": 19049,
+                  "imdbId": "tt0039111"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "It's a Wonderful Life",
+                  "tmdbId": 1585,
+                  "imdbId": "tt0038650"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Olivia de Havilland"
+              ],
+              "movies": [
+                {
+                  "title": "To Each His Own",
+                  "tmdbId": 54568,
+                  "imdbId": "tt0039040"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Celia Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "Brief Encounter",
+                  "tmdbId": 851,
+                  "imdbId": "tt0037558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jennifer Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Duel in the Sun",
+                  "tmdbId": 32275,
+                  "imdbId": "tt0038499"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rosalind Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Sister Kenny",
+                  "tmdbId": 51571,
+                  "imdbId": "tt0038948"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Wyman"
+              ],
+              "movies": [
+                {
+                  "title": "The Yearling",
+                  "tmdbId": 19049,
+                  "imdbId": "tt0039111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Harold Russell"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Years of Our Lives",
+                  "tmdbId": 887,
+                  "imdbId": "tt0036868"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Coburn"
+              ],
+              "movies": [
+                {
+                  "title": "The Green Years",
+                  "tmdbId": 99351,
+                  "imdbId": "tt0038578"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Demarest"
+              ],
+              "movies": [
+                {
+                  "title": "The Jolson Story",
+                  "tmdbId": 31206,
+                  "imdbId": "tt0038661"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claude Rains"
+              ],
+              "movies": [
+                {
+                  "title": "Notorious",
+                  "tmdbId": 303,
+                  "imdbId": "tt0038787"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clifton Webb"
+              ],
+              "movies": [
+                {
+                  "title": "The Razor's Edge",
+                  "tmdbId": 56135,
+                  "imdbId": "tt0038873"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Anne Baxter"
+              ],
+              "movies": [
+                {
+                  "title": "The Razor's Edge",
+                  "tmdbId": 56135,
+                  "imdbId": "tt0038873"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ethel Barrymore"
+              ],
+              "movies": [
+                {
+                  "title": "The Spiral Staircase",
+                  "tmdbId": 27452,
+                  "imdbId": "tt0038975"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lillian Gish"
+              ],
+              "movies": [
+                {
+                  "title": "Duel in the Sun",
+                  "tmdbId": 32275,
+                  "imdbId": "tt0038499"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Flora Robson"
+              ],
+              "movies": [
+                {
+                  "title": "Saratoga Trunk",
+                  "tmdbId": 46563,
+                  "imdbId": "tt0038053"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gale Sondergaard"
+              ],
+              "movies": [
+                {
+                  "title": "Anna and the King of Siam",
+                  "tmdbId": 43471,
+                  "imdbId": "tt0038303"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Muriel Box",
+                "Sydney Box"
+              ],
+              "movies": [
+                {
+                  "title": "The Seventh Veil",
+                  "tmdbId": 43495,
+                  "imdbId": "tt0038924"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Raymond Chandler"
+              ],
+              "movies": [
+                {
+                  "title": "The Blue Dahlia",
+                  "tmdbId": 16090,
+                  "imdbId": "tt0038369"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Hecht"
+              ],
+              "movies": [
+                {
+                  "title": "Notorious",
+                  "tmdbId": 303,
+                  "imdbId": "tt0038787"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Panama",
+                "Melvin Frank"
+              ],
+              "movies": [
+                {
+                  "title": "Road to Utopia",
+                  "tmdbId": 29021,
+                  "imdbId": "tt0038032"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacques Prevert"
+              ],
+              "movies": [
+                {
+                  "title": "Children of Paradise",
+                  "tmdbId": 2457,
+                  "imdbId": "tt0037674"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Robert Sherwood"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Years of Our Lives",
+                  "tmdbId": 887,
+                  "imdbId": "tt0036868"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sergio Amidei",
+                "Federico Fellini"
+              ],
+              "movies": [
+                {
+                  "title": "Rome, Open City",
+                  "tmdbId": 307,
+                  "imdbId": "tt0038890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sally Benson",
+                "Talbot Jennings"
+              ],
+              "movies": [
+                {
+                  "title": "Anna and the King of Siam",
+                  "tmdbId": 43471,
+                  "imdbId": "tt0038303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Havelock-Allan",
+                "David Lean",
+                "Ronald Neame"
+              ],
+              "movies": [
+                {
+                  "title": "Brief Encounter",
+                  "tmdbId": 851,
+                  "imdbId": "tt0037558"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Veiller"
+              ],
+              "movies": [
+                {
+                  "title": "The Killers",
+                  "tmdbId": 14638,
+                  "imdbId": "tt0038669"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Clemence Dane"
+              ],
+              "movies": [
+                {
+                  "title": "Perfect Strangers",
+                  "tmdbId": 182756,
+                  "imdbId": "tt0037980"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Brackett"
+              ],
+              "movies": [
+                {
+                  "title": "To Each His Own",
+                  "tmdbId": 54568,
+                  "imdbId": "tt0039040"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Patrick"
+              ],
+              "movies": [
+                {
+                  "title": "The Strange Love of Martha Ivers",
+                  "tmdbId": 27033,
+                  "imdbId": "tt0038988"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vladimir Pozner"
+              ],
+              "movies": [
+                {
+                  "title": "The Dark Mirror",
+                  "tmdbId": 44041,
+                  "imdbId": "tt0038455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Trivas"
+              ],
+              "movies": [
+                {
+                  "title": "The Stranger",
+                  "tmdbId": 20246,
+                  "imdbId": "tt0038991"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Charles Rosher",
+                "Leonard Smith",
+                "Arthur E. Arling"
+              ],
+              "movies": [
+                {
+                  "title": "The Yearling",
+                  "tmdbId": 19049,
+                  "imdbId": "tt0039111"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph Walker"
+              ],
+              "movies": [
+                {
+                  "title": "The Jolson Story",
+                  "tmdbId": 31206,
+                  "imdbId": "tt0038661"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Arthur C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Anna and the King of Siam",
+                  "tmdbId": 43471,
+                  "imdbId": "tt0038303"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Folsey"
+              ],
+              "movies": [
+                {
+                  "title": "The Green Years",
+                  "tmdbId": 99351,
+                  "imdbId": "tt0038578"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Daniel Mandell"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Years of Our Lives",
+                  "tmdbId": 887,
+                  "imdbId": "tt0036868"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Hilton"
+              ],
+              "movies": [
+                {
+                  "title": "The Killers",
+                  "tmdbId": 14638,
+                  "imdbId": "tt0038669"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Hornbeck"
+              ],
+              "movies": [
+                {
+                  "title": "It's a Wonderful Life",
+                  "tmdbId": 1585,
+                  "imdbId": "tt0038650"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold Kress"
+              ],
+              "movies": [
+                {
+                  "title": "The Yearling",
+                  "tmdbId": 19049,
+                  "imdbId": "tt0039111"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Lyon"
+              ],
+              "movies": [
+                {
+                  "title": "The Jolson Story",
+                  "tmdbId": 31206,
+                  "imdbId": "tt0038661"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Paul Groesse",
+                "Edwin B. Willis"
+              ],
+              "movies": [
+                {
+                  "title": "The Yearling",
+                  "tmdbId": 19049,
+                  "imdbId": "tt0039111"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Bryan"
+              ],
+              "movies": [
+                {
+                  "title": "Caesar and Cleopatra",
+                  "tmdbId": 31561,
+                  "imdbId": "tt0038390"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Sheriff",
+                "Carmen Dillon"
+              ],
+              "movies": [
+                {
+                  "title": "Henry V",
+                  "tmdbId": 22638,
+                  "imdbId": "tt0036910"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "William S. Darling",
+                "Lyle Wheeler",
+                "Thomas Little",
+                "Frank E. Hughes"
+              ],
+              "movies": [
+                {
+                  "title": "Anna and the King of Siam",
+                  "tmdbId": 43471,
+                  "imdbId": "tt0038303"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Day",
+                "Nathan H. Juran",
+                "Thomas Little",
+                "Paul S. Fox"
+              ],
+              "movies": [
+                {
+                  "title": "The Razor's Edge",
+                  "tmdbId": 56135,
+                  "imdbId": "tt0038873"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Walter H. Tyler",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Kitty",
+                  "tmdbId": 106882,
+                  "imdbId": "tt0037849"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Thomas Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Blithe Spirit",
+                  "tmdbId": 19072,
+                  "imdbId": "tt0038363"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William McGann"
+              ],
+              "movies": [
+                {
+                  "title": "A Stolen Life",
+                  "tmdbId": 43470,
+                  "imdbId": "tt0038984"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "The Jolson Story",
+                  "tmdbId": 31206,
+                  "imdbId": "tt0038661"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Years of Our Lives",
+                  "tmdbId": 887,
+                  "imdbId": "tt0036868"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "It's a Wonderful Life",
+                  "tmdbId": 1585,
+                  "imdbId": "tt0038650"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Hugo Friedhofer"
+              ],
+              "movies": [
+                {
+                  "title": "The Best Years of Our Lives",
+                  "tmdbId": 887,
+                  "imdbId": "tt0036868"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bernard Herrmann"
+              ],
+              "movies": [
+                {
+                  "title": "Anna and the King of Siam",
+                  "tmdbId": 43471,
+                  "imdbId": "tt0038303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "The Killers",
+                  "tmdbId": 14638,
+                  "imdbId": "tt0038669"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Walton"
+              ],
+              "movies": [
+                {
+                  "title": "Henry V",
+                  "tmdbId": 22638,
+                  "imdbId": "tt0036910"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "Humoresque",
+                  "tmdbId": 26701,
+                  "imdbId": "tt0038622"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Morris Stoloff"
+              ],
+              "movies": [
+                {
+                  "title": "The Jolson Story",
+                  "tmdbId": 31206,
+                  "imdbId": "tt0038661"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Emmett Dolan"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Skies",
+                  "tmdbId": 53446,
+                  "imdbId": "tt0038370"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lennie Hayton"
+              ],
+              "movies": [
+                {
+                  "title": "The Harvey Girls",
+                  "tmdbId": 28907,
+                  "imdbId": "tt0038589"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf",
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Night and Day",
+                  "tmdbId": 43485,
+                  "imdbId": "tt0038776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Centennial Summer",
+                  "tmdbId": 118908,
+                  "imdbId": "tt0038406"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "On the Atchison",
+                "Topeka",
+                "the Santa Fe"
+              ],
+              "movies": [
+                {
+                  "title": "The Harvey Girls",
+                  "tmdbId": 28907,
+                  "imdbId": "tt0038589"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All Through the Day"
+              ],
+              "movies": [
+                {
+                  "title": "Centennial Summer",
+                  "tmdbId": 118908,
+                  "imdbId": "tt0038406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Can't Begin to Tell You"
+              ],
+              "movies": [
+                {
+                  "title": "The Dolly Sisters",
+                  "tmdbId": 107973,
+                  "imdbId": "tt0037651"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ole Buttermilk Sky"
+              ],
+              "movies": [
+                {
+                  "title": "Canyon Passage",
+                  "tmdbId": 37309,
+                  "imdbId": "tt0038395"
+                }
+              ]
+            },
+            {
+              "names": [
+                "You Keep Coming Back Like a Song"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Skies",
+                  "tmdbId": 53446,
+                  "imdbId": "tt0038370"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Cat Concerto"
+              ],
+              "movies": [
+                {
+                  "title": "The Cat Concerto",
+                  "tmdbId": 39853,
+                  "imdbId": "tt0039251"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Musical Moments from Chopin"
+              ],
+              "movies": [
+                {
+                  "title": "Musical Moments from Chopin",
+                  "tmdbId": 237049,
+                  "imdbId": "tt0038413"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Henry and the Inky-Poo"
+              ],
+              "movies": [
+                {
+                  "title": "John Henry and the Inky-Poo",
+                  "tmdbId": 237065,
+                  "imdbId": "tt0038657"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Squatter's Rights"
+              ],
+              "movies": [
+                {
+                  "title": "Squatter's Rights",
+                  "tmdbId": 68512,
+                  "imdbId": "tt0038978"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walky Talky Hawky"
+              ],
+              "movies": [
+                {
+                  "title": "Walky Talky Hawky",
+                  "tmdbId": 100388,
+                  "imdbId": "tt0039093"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Facing Your Danger"
+              ],
+              "movies": [
+                {
+                  "title": "Facing Your Danger",
+                  "tmdbId": 240410,
+                  "imdbId": "tt0038515"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dive-Hi Champs"
+              ],
+              "movies": [
+                {
+                  "title": "Dive-Hi Champs",
+                  "tmdbId": 240411,
+                  "imdbId": "tt0038483"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Golden Horses"
+              ],
+              "movies": [
+                {
+                  "title": "Golden Horses",
+                  "tmdbId": 240414,
+                  "imdbId": "tt0038569"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Smart as a Fox"
+              ],
+              "movies": [
+                {
+                  "title": "Smart as a Fox",
+                  "tmdbId": 240415,
+                  "imdbId": "tt0038953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sure Cures"
+              ],
+              "movies": [
+                {
+                  "title": "Sure Cures",
+                  "tmdbId": 240416,
+                  "imdbId": "tt0038998"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "A Boy and His Dog"
+              ],
+              "movies": [
+                {
+                  "title": "A Boy and His Dog",
+                  "tmdbId": 240406,
+                  "imdbId": "tt0038379"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "College Queen"
+              ],
+              "movies": [
+                {
+                  "title": "College Queen",
+                  "tmdbId": 240408,
+                  "imdbId": "tt0038421"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hiss and Yell"
+              ],
+              "movies": [
+                {
+                  "title": "Hiss and Yell",
+                  "tmdbId": 240409,
+                  "imdbId": "tt0038602"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Luckiest Guy in the World"
+              ],
+              "movies": [
+                {
+                  "title": "The Luckiest Guy in the World",
+                  "tmdbId": 130356,
+                  "imdbId": "tt0038708"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Seeds of Destiny"
+              ],
+              "movies": [
+                {
+                  "title": "Seeds of Destiny",
+                  "tmdbId": 240417,
+                  "imdbId": "tt0038919"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Atomic Power!"
+              ],
+              "movies": [
+                {
+                  "title": "Atomic Power!",
+                  "tmdbId": 240418,
+                  "imdbId": "tt0038312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life at the Zoo"
+              ],
+              "movies": [
+                {
+                  "title": "Life at the Zoo",
+                  "tmdbId": 240419,
+                  "imdbId": "tt0038690"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paramount News Issue #37"
+              ],
+              "movies": [
+                {
+                  "title": "Paramount News Issue #37",
+                  "tmdbId": 240420,
+                  "imdbId": "tt0038825"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Traffic with the Devil"
+              ],
+              "movies": [
+                {
+                  "title": "Traffic with the Devil",
+                  "tmdbId": 240422,
+                  "imdbId": "tt0039043"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

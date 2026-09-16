@@ -1,0 +1,620 @@
+{
+  "ceremony": {
+    "ordinal": 4,
+    "ceremonyYear": 1931,
+    "ceremonyDate": "1931-11-10",
+    "filmYearLabel": "1930/31",
+    "slug": "1931",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Cimarron"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 42861,
+                  "imdbId": "tt0021746"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "East Lynne"
+              ],
+              "movies": [
+                {
+                  "title": "East Lynne",
+                  "tmdbId": 84277,
+                  "imdbId": "tt0021826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Front Page"
+              ],
+              "movies": [
+                {
+                  "title": "The Front Page",
+                  "tmdbId": 42814,
+                  "imdbId": "tt0021890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Skippy"
+              ],
+              "movies": [
+                {
+                  "title": "Skippy",
+                  "tmdbId": 84295,
+                  "imdbId": "tt0022397"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Trader Horn"
+              ],
+              "movies": [
+                {
+                  "title": "Trader Horn",
+                  "tmdbId": 84296,
+                  "imdbId": "tt0022495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Norman Taurog"
+              ],
+              "movies": [
+                {
+                  "title": "Skippy",
+                  "tmdbId": 84295,
+                  "imdbId": "tt0022397"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Clarence Brown"
+              ],
+              "movies": [
+                {
+                  "title": "A Free Soul",
+                  "tmdbId": 50600,
+                  "imdbId": "tt0021885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lewis Milestone"
+              ],
+              "movies": [
+                {
+                  "title": "The Front Page",
+                  "tmdbId": 42814,
+                  "imdbId": "tt0021890"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wesley Ruggles"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 42861,
+                  "imdbId": "tt0021746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Josef von Sternberg"
+              ],
+              "movies": [
+                {
+                  "title": "Morocco",
+                  "tmdbId": 42641,
+                  "imdbId": "tt0021156"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Lionel Barrymore"
+              ],
+              "movies": [
+                {
+                  "title": "A Free Soul",
+                  "tmdbId": 50600,
+                  "imdbId": "tt0021885"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jackie Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "Skippy",
+                  "tmdbId": 84295,
+                  "imdbId": "tt0022397"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Dix"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 42861,
+                  "imdbId": "tt0021746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fredric March"
+              ],
+              "movies": [
+                {
+                  "title": "The Royal Family of Broadway",
+                  "tmdbId": 104209,
+                  "imdbId": "tt0021322"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adolphe Menjou"
+              ],
+              "movies": [
+                {
+                  "title": "The Front Page",
+                  "tmdbId": 42814,
+                  "imdbId": "tt0021890"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Marie Dressler"
+              ],
+              "movies": [
+                {
+                  "title": "Min and Bill",
+                  "tmdbId": 85505,
+                  "imdbId": "tt0021148"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marlene Dietrich"
+              ],
+              "movies": [
+                {
+                  "title": "Morocco",
+                  "tmdbId": 42641,
+                  "imdbId": "tt0021156"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irene Dunne"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 42861,
+                  "imdbId": "tt0021746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ann Harding"
+              ],
+              "movies": [
+                {
+                  "title": "Holiday",
+                  "tmdbId": 104219,
+                  "imdbId": "tt0020985"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norma Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "A Free Soul",
+                  "tmdbId": 50600,
+                  "imdbId": "tt0021885"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Howard Eastbrook"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 42861,
+                  "imdbId": "tt0021746"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Seton I. Miller",
+                "Fred Niblo Jr."
+              ],
+              "movies": [
+                {
+                  "title": "The Criminal Code",
+                  "tmdbId": 42815,
+                  "imdbId": "tt0021770"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Horace Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "Holiday",
+                  "tmdbId": 104219,
+                  "imdbId": "tt0020985"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francis Edward Faragoh",
+                "Robert N. Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Little Caesar",
+                  "tmdbId": 27899,
+                  "imdbId": "tt0021079"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph L. Mankiewicz",
+                "Sam Mintz"
+              ],
+              "movies": [
+                {
+                  "title": "Skippy",
+                  "tmdbId": 84295,
+                  "imdbId": "tt0022397"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "John Monk Saunders"
+              ],
+              "movies": [
+                {
+                  "title": "The Dawn Patrol",
+                  "tmdbId": 81847,
+                  "imdbId": "tt0020815"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rowland Brown"
+              ],
+              "movies": [
+                {
+                  "title": "The Doorway to Hell",
+                  "tmdbId": 26699,
+                  "imdbId": "tt0020836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry d'Arrast",
+                "Douglas Doty",
+                "Donald Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "Laughter",
+                  "tmdbId": 166010,
+                  "imdbId": "tt0021053"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Bright",
+                "Kubec Glasmon"
+              ],
+              "movies": [
+                {
+                  "title": "The Public Enemy",
+                  "tmdbId": 17687,
+                  "imdbId": "tt0022286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lucien Hubbard",
+                "Joseph Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "Smart Money",
+                  "tmdbId": 17966,
+                  "imdbId": "tt0022403"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Floyd Crosby"
+              ],
+              "movies": [
+                {
+                  "title": "Tabu",
+                  "tmdbId": 977,
+                  "imdbId": "tt0022458"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edward Cronjager"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 42861,
+                  "imdbId": "tt0021746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Garmes"
+              ],
+              "movies": [
+                {
+                  "title": "Morocco",
+                  "tmdbId": 42641,
+                  "imdbId": "tt0021156"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang"
+              ],
+              "movies": [
+                {
+                  "title": "The Right to Love",
+                  "tmdbId": 173746,
+                  "imdbId": "tt0021301"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barney McGill"
+              ],
+              "movies": [
+                {
+                  "title": "Svengali",
+                  "tmdbId": 45803,
+                  "imdbId": "tt0022454"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Max Ree"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 42861,
+                  "imdbId": "tt0021746"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stephen Goosson",
+                "Ralph Hammeras"
+              ],
+              "movies": [
+                {
+                  "title": "Just Imagine",
+                  "tmdbId": 90395,
+                  "imdbId": "tt0021016"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier"
+              ],
+              "movies": [
+                {
+                  "title": "Morocco",
+                  "tmdbId": 42641,
+                  "imdbId": "tt0021156"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anton Grot"
+              ],
+              "movies": [
+                {
+                  "title": "Svengali",
+                  "tmdbId": 45803,
+                  "imdbId": "tt0022454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Day"
+              ],
+              "movies": [
+                {
+                  "title": "Whoopee!",
+                  "tmdbId": 108224,
+                  "imdbId": "tt0021549"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Paramount Publix Studio Sound Department"
+              ],
+              "movies": []
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "MGM Studio Sound Department"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "RKO Radio Studio Sound Department"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "Samuel Goldwyn-United Artists Studio Sound Department"
+              ],
+              "movies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Generated ceremony data lives in `data/` and is committed. `npm run build` runs `data:check` then `next build` so a production build never hits the network; regenerate artifacts with `npm run data:build` when the sources change.
+
 ## Getting Started
 
 First, run the development server:

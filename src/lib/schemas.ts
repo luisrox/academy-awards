@@ -21,8 +21,8 @@ export const categoryGroupSchema = z.enum([
 
 export const historicalMovieSchema = z.object({
   title: z.string().min(1),
-  tmdb_id: z.number().int().optional(),
-  imdb_id: z.string().optional(),
+  tmdb_id: z.number().int().nullish(),
+  imdb_id: z.string().nullish(),
 });
 
 export const historicalRecordSchema = z.object({

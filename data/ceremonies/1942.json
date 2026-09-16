@@ -1,0 +1,2395 @@
+{
+  "ceremony": {
+    "ordinal": 14,
+    "ceremonyYear": 1942,
+    "ceremonyDate": "1942-02-26",
+    "filmYearLabel": "1941",
+    "slug": "1942",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "How Green Was My Valley"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blossoms in the Dust"
+              ],
+              "movies": [
+                {
+                  "title": "Blossoms in the Dust",
+                  "tmdbId": 84087,
+                  "imdbId": "tt0033407"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Citizen Kane"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Here Comes Mr. Jordan"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes Mr. Jordan",
+                  "tmdbId": 38914,
+                  "imdbId": "tt0033712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hold Back the Dawn"
+              ],
+              "movies": [
+                {
+                  "title": "Hold Back the Dawn",
+                  "tmdbId": 51395,
+                  "imdbId": "tt0033722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Little Foxes"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Maltese Falcon"
+              ],
+              "movies": [
+                {
+                  "title": "The Maltese Falcon",
+                  "tmdbId": 963,
+                  "imdbId": "tt0033870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "One Foot in Heaven"
+              ],
+              "movies": [
+                {
+                  "title": "One Foot in Heaven",
+                  "tmdbId": 84086,
+                  "imdbId": "tt0033980"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sergeant York"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Suspicion"
+              ],
+              "movies": [
+                {
+                  "title": "Suspicion",
+                  "tmdbId": 11462,
+                  "imdbId": "tt0034248"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "John Ford"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes Mr. Jordan",
+                  "tmdbId": 38914,
+                  "imdbId": "tt0033712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard Hawks"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Orson Welles"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Gary Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cary Grant"
+              ],
+              "movies": [
+                {
+                  "title": "Penny Serenade",
+                  "tmdbId": 43795,
+                  "imdbId": "tt0034012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Huston"
+              ],
+              "movies": [
+                {
+                  "title": "All That Money Can Buy",
+                  "tmdbId": 29451,
+                  "imdbId": "tt0033532"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Montgomery"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes Mr. Jordan",
+                  "tmdbId": 38914,
+                  "imdbId": "tt0033712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Orson Welles"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Joan Fontaine"
+              ],
+              "movies": [
+                {
+                  "title": "Suspicion",
+                  "tmdbId": 11462,
+                  "imdbId": "tt0034248"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Olivia de Havilland"
+              ],
+              "movies": [
+                {
+                  "title": "Hold Back the Dawn",
+                  "tmdbId": 51395,
+                  "imdbId": "tt0033722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greer Garson"
+              ],
+              "movies": [
+                {
+                  "title": "Blossoms in the Dust",
+                  "tmdbId": 84087,
+                  "imdbId": "tt0033407"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara Stanwyck"
+              ],
+              "movies": [
+                {
+                  "title": "Ball of Fire",
+                  "tmdbId": 29884,
+                  "imdbId": "tt0033373"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Donald Crisp"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Walter Brennan"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Coburn"
+              ],
+              "movies": [
+                {
+                  "title": "The Devil and Miss Jones",
+                  "tmdbId": 43801,
+                  "imdbId": "tt0033533"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Gleason"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes Mr. Jordan",
+                  "tmdbId": 38914,
+                  "imdbId": "tt0033712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sydney Greenstreet"
+              ],
+              "movies": [
+                {
+                  "title": "The Maltese Falcon",
+                  "tmdbId": 963,
+                  "imdbId": "tt0033870"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Mary Astor"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Lie",
+                  "tmdbId": 43705,
+                  "imdbId": "tt0033677"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sara Allgood"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Patricia Collinge"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Teresa Wright"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Margaret Wycherly"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Herman J. Mankiewicz",
+                "Orson Welles"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Huston",
+                "Harry Chandlee",
+                "Abem Finkel",
+                "Howard Koch"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karl Tunberg",
+                "Darrell Ware"
+              ],
+              "movies": [
+                {
+                  "title": "Tall, Dark and Handsome",
+                  "tmdbId": 94251,
+                  "imdbId": "tt0034262"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norman Krasna"
+              ],
+              "movies": [
+                {
+                  "title": "The Devil and Miss Jones",
+                  "tmdbId": 43801,
+                  "imdbId": "tt0033533"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Jarrico"
+              ],
+              "movies": [
+                {
+                  "title": "Tom, Dick and Harry",
+                  "tmdbId": 86604,
+                  "imdbId": "tt0034299"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Sidney Buchman",
+                "Seton I. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes Mr. Jordan",
+                  "tmdbId": 38914,
+                  "imdbId": "tt0033712"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Brackett",
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "Hold Back the Dawn",
+                  "tmdbId": 51395,
+                  "imdbId": "tt0033722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip Dunne"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lillian Hellman"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The Maltese Falcon",
+                  "tmdbId": 963,
+                  "imdbId": "tt0033870"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Harry Segall"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes Mr. Jordan",
+                  "tmdbId": 38914,
+                  "imdbId": "tt0033712"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Billy Wilder",
+                "Thomas Monroe"
+              ],
+              "movies": [
+                {
+                  "title": "Ball of Fire",
+                  "tmdbId": 29884,
+                  "imdbId": "tt0033373"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Connell",
+                "Robert Presnell Sr."
+              ],
+              "movies": [
+                {
+                  "title": "Meet John Doe",
+                  "tmdbId": 32574,
+                  "imdbId": "tt0033891"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon Wellesley"
+              ],
+              "movies": [
+                {
+                  "title": "Night Train to Munich",
+                  "tmdbId": 41597,
+                  "imdbId": "tt0032842"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Monckton Hoffe"
+              ],
+              "movies": [
+                {
+                  "title": "The Lady Eve",
+                  "tmdbId": 3086,
+                  "imdbId": "tt0033804"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Ernest Palmer",
+                "Ray Rennahan"
+              ],
+              "movies": [
+                {
+                  "title": "Blood and Sand",
+                  "tmdbId": 44399,
+                  "imdbId": "tt0033405"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Wilfred M. Cline",
+                "Karl Struss",
+                "William E. Snyder"
+              ],
+              "movies": [
+                {
+                  "title": "Aloma of the South Seas",
+                  "tmdbId": 183632,
+                  "imdbId": "tt0033331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William V. Skall",
+                "Leonard Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Billy the Kid",
+                  "tmdbId": 111470,
+                  "imdbId": "tt0033389"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karl Freund",
+                "W. Howard Greene"
+              ],
+              "movies": [
+                {
+                  "title": "Blossoms in the Dust",
+                  "tmdbId": 84087,
+                  "imdbId": "tt0033407"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bert Glennon"
+              ],
+              "movies": [
+                {
+                  "title": "Dive Bomber",
+                  "tmdbId": 65587,
+                  "imdbId": "tt0033537"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Hallenberger",
+                "Ray Rennahan"
+              ],
+              "movies": [
+                {
+                  "title": "Louisiana Purchase",
+                  "tmdbId": 97818,
+                  "imdbId": "tt0033851"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Arthur C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gregg Toland"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Walker"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes Mr. Jordan",
+                  "tmdbId": 38914,
+                  "imdbId": "tt0033712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Ruttenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Jekyll and Mr. Hyde",
+                  "tmdbId": 3022,
+                  "imdbId": "tt0033553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leo Tover"
+              ],
+              "movies": [
+                {
+                  "title": "Hold Back the Dawn",
+                  "tmdbId": 51395,
+                  "imdbId": "tt0033722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sol Polito"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Cronjager"
+              ],
+              "movies": [
+                {
+                  "title": "Sun Valley Serenade",
+                  "tmdbId": 43797,
+                  "imdbId": "tt0034241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang"
+              ],
+              "movies": [
+                {
+                  "title": "Sundown",
+                  "tmdbId": 94241,
+                  "imdbId": "tt0034242"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rudolph Mate"
+              ],
+              "movies": [
+                {
+                  "title": "That Hamilton Woman",
+                  "tmdbId": 43798,
+                  "imdbId": "tt0034272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karl Freund"
+              ],
+              "movies": [
+                {
+                  "title": "The Chocolate Soldier",
+                  "tmdbId": 94209,
+                  "imdbId": "tt0033464"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "William Holms"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Wise"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James B. Clark"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harold F. Kress"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Jekyll and Mr. Hyde",
+                  "tmdbId": 3022,
+                  "imdbId": "tt0033553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Mandell"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Urie McCleary",
+                "Edwin B. Willis"
+              ],
+              "movies": [
+                {
+                  "title": "Blossoms in the Dust",
+                  "tmdbId": 84087,
+                  "imdbId": "tt0033407"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Day",
+                "Joseph C. Wright",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "Blood and Sand",
+                  "tmdbId": 44399,
+                  "imdbId": "tt0033405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Raoul Pene du Bois",
+                "Stephen A. Seymour"
+              ],
+              "movies": [
+                {
+                  "title": "Louisiana Purchase",
+                  "tmdbId": 97818,
+                  "imdbId": "tt0033851"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Nathan H. Juran",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hans Dreier",
+                "Robert Usher",
+                "Samuel M. Comer"
+              ],
+              "movies": [
+                {
+                  "title": "Hold Back the Dawn",
+                  "tmdbId": 51395,
+                  "imdbId": "tt0033722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Golitzen",
+                "Richard Irvine"
+              ],
+              "movies": [
+                {
+                  "title": "Sundown",
+                  "tmdbId": 94241,
+                  "imdbId": "tt0034242"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Perry Ferguson",
+                "Van Nest Polglase",
+                "Al Fields",
+                "Darrell Silvera"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lionel Banks",
+                "George Montgomery"
+              ],
+              "movies": [
+                {
+                  "title": "Ladies in Retirement",
+                  "tmdbId": 42066,
+                  "imdbId": "tt0033802"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Hughes",
+                "Fred MacLean"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Goosson",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vincent Korda",
+                "Julia Heron"
+              ],
+              "movies": [
+                {
+                  "title": "That Hamilton Woman",
+                  "tmdbId": 43798,
+                  "imdbId": "tt0034272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John DuCasse Schulze",
+                "Edward G. Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "The Son of Monte Cristo",
+                  "tmdbId": 80086,
+                  "imdbId": "tt0033076"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Randall Duell",
+                "Edwin B. Willis"
+              ],
+              "movies": [
+                {
+                  "title": "When Ladies Meet",
+                  "tmdbId": 54635,
+                  "imdbId": "tt0034386"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Obzina",
+                "Jack Otterson",
+                "Russell A. Gausman"
+              ],
+              "movies": [
+                {
+                  "title": "The Flame of New Orleans",
+                  "tmdbId": 61109,
+                  "imdbId": "tt0033606"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Farciot Edouart",
+                "Gordon Jennings",
+                "Louis Mesenko"
+              ],
+              "movies": [
+                {
+                  "title": "I Wanted Wings",
+                  "tmdbId": 131766,
+                  "imdbId": "tt0033741"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fred Sersen",
+                "Edmund H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "A Yank in the R.A.F.",
+                  "tmdbId": 49609,
+                  "imdbId": "tt0034405"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Farciot Edouart",
+                "Gordon Jennings",
+                "Louis Mesenko"
+              ],
+              "movies": [
+                {
+                  "title": "Aloma of the South Seas",
+                  "tmdbId": 183632,
+                  "imdbId": "tt0033331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Flight Command",
+                  "tmdbId": 100010,
+                  "imdbId": "tt0032477"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John P. Fulton",
+                "John D. Hall"
+              ],
+              "movies": [
+                {
+                  "title": "The Invisible Woman",
+                  "tmdbId": 28423,
+                  "imdbId": "tt0032637"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lawrence W. Butler",
+                "William H. Wilmarth"
+              ],
+              "movies": [
+                {
+                  "title": "That Hamilton Woman",
+                  "tmdbId": 43798,
+                  "imdbId": "tt0034272"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Byron Haskin",
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Wolf",
+                  "tmdbId": 33931,
+                  "imdbId": "tt0034162"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Seawright",
+                "Elmer Raguse"
+              ],
+              "movies": [
+                {
+                  "title": "Topper Returns",
+                  "tmdbId": 44875,
+                  "imdbId": "tt0034303"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Jack Whitney"
+              ],
+              "movies": [
+                {
+                  "title": "That Hamilton Woman",
+                  "tmdbId": 43798,
+                  "imdbId": "tt0034272"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "Appointment for Love",
+                  "tmdbId": 95320,
+                  "imdbId": "tt0033348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Ball of Fire",
+                  "tmdbId": 29884,
+                  "imdbId": "tt0033373"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "The Chocolate Soldier",
+                  "tmdbId": 94209,
+                  "imdbId": "tt0033464"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lootens"
+              ],
+              "movies": [
+                {
+                  "title": "Devil Pays Off",
+                  "tmdbId": 165745,
+                  "imdbId": "tt0033531"
+                }
+              ]
+            },
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "The Men in Her Life",
+                  "tmdbId": 96695,
+                  "imdbId": "tt0033900"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "Skylark",
+                  "tmdbId": 96175,
+                  "imdbId": "tt0034198"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Raguse"
+              ],
+              "movies": [
+                {
+                  "title": "Topper Returns",
+                  "tmdbId": 44875,
+                  "imdbId": "tt0034303"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Bernard Herrmann"
+              ],
+              "movies": [
+                {
+                  "title": "All That Money Can Buy",
+                  "tmdbId": 29451,
+                  "imdbId": "tt0033532"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Skinner"
+              ],
+              "movies": [
+                {
+                  "title": "Back Street",
+                  "tmdbId": 109016,
+                  "imdbId": "tt0033365"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Ball of Fire",
+                  "tmdbId": 29884,
+                  "imdbId": "tt0033373"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bernard Herrmann"
+              ],
+              "movies": [
+                {
+                  "title": "Citizen Kane",
+                  "tmdbId": 15,
+                  "imdbId": "tt0033467"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Ward"
+              ],
+              "movies": [
+                {
+                  "title": "Cheers for Miss Bishop",
+                  "tmdbId": 142876,
+                  "imdbId": "tt0033459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "How Green Was My Valley",
+                  "tmdbId": 43266,
+                  "imdbId": "tt0033729"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Hold Back the Dawn",
+                  "tmdbId": 51395,
+                  "imdbId": "tt0033722"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morris Stoloff",
+                "Ernst Toch"
+              ],
+              "movies": [
+                {
+                  "title": "Ladies in Retirement",
+                  "tmdbId": 42066,
+                  "imdbId": "tt0033802"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Kay"
+              ],
+              "movies": [
+                {
+                  "title": "King of the Zombies",
+                  "tmdbId": 23104,
+                  "imdbId": "tt0033787"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Jekyll and Mr. Hyde",
+                  "tmdbId": 3022,
+                  "imdbId": "tt0033553"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklós Rózsa"
+              ],
+              "movies": [
+                {
+                  "title": "Lydia",
+                  "tmdbId": 56151,
+                  "imdbId": "tt0033858"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cy Feuer",
+                "Walter Scharf"
+              ],
+              "movies": [
+                {
+                  "title": "Mercy Island",
+                  "tmdbId": 218304,
+                  "imdbId": "tt0033906"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Sergeant York",
+                  "tmdbId": 16442,
+                  "imdbId": "tt0034167"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Louis Gruenberg"
+              ],
+              "movies": [
+                {
+                  "title": "So Ends Our Night",
+                  "tmdbId": 218305,
+                  "imdbId": "tt0034208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklós Rózsa"
+              ],
+              "movies": [
+                {
+                  "title": "Sundown",
+                  "tmdbId": 94241,
+                  "imdbId": "tt0034242"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "Suspicion",
+                  "tmdbId": 11462,
+                  "imdbId": "tt0034248"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Ward"
+              ],
+              "movies": [
+                {
+                  "title": "Tanks a Million",
+                  "tmdbId": 96134,
+                  "imdbId": "tt0034264"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner Heymann"
+              ],
+              "movies": [
+                {
+                  "title": "That Uncertain Feeling",
+                  "tmdbId": 43799,
+                  "imdbId": "tt0034274"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Meredith Willson"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Foxes",
+                  "tmdbId": 43802,
+                  "imdbId": "tt0033836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Hageman"
+              ],
+              "movies": [
+                {
+                  "title": "This Woman Is Mine",
+                  "tmdbId": 94835,
+                  "imdbId": "tt0034285"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Frank Churchill",
+                "Oliver Wallace"
+              ],
+              "movies": [
+                {
+                  "title": "Dumbo",
+                  "tmdbId": 11360,
+                  "imdbId": "tt0033563"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edward Ward"
+              ],
+              "movies": [
+                {
+                  "title": "All-American Co-Ed",
+                  "tmdbId": 96139,
+                  "imdbId": "tt0033323"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Emmett Dolan"
+              ],
+              "movies": [
+                {
+                  "title": "Birth of the Blues",
+                  "tmdbId": 96700,
+                  "imdbId": "tt0033396"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Previn"
+              ],
+              "movies": [
+                {
+                  "title": "Buck Privates",
+                  "tmdbId": 29601,
+                  "imdbId": "tt0033436"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cy Feuer"
+              ],
+              "movies": [
+                {
+                  "title": "Ice-Capades",
+                  "tmdbId": 218307,
+                  "imdbId": "tt0033749"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emil Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Sun Valley Serenade",
+                  "tmdbId": 43797,
+                  "imdbId": "tt0034241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Collins"
+              ],
+              "movies": [
+                {
+                  "title": "Sunny",
+                  "tmdbId": 117250,
+                  "imdbId": "tt0034243"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Stothart",
+                "Bronislau Kaper"
+              ],
+              "movies": [
+                {
+                  "title": "The Chocolate Soldier",
+                  "tmdbId": 94209,
+                  "imdbId": "tt0033464"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Heinz Roemheld"
+              ],
+              "movies": [
+                {
+                  "title": "The Strawberry Blonde",
+                  "tmdbId": 76465,
+                  "imdbId": "tt0034236"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morris Stoloff"
+              ],
+              "movies": [
+                {
+                  "title": "You'll Never Get Rich",
+                  "tmdbId": 28658,
+                  "imdbId": "tt0034409"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "The Last Time I Saw Paris"
+              ],
+              "movies": [
+                {
+                  "title": "Lady Be Good",
+                  "tmdbId": 43792,
+                  "imdbId": "tt0033803"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Out of the Silence"
+              ],
+              "movies": [
+                {
+                  "title": "All-American Co-Ed",
+                  "tmdbId": 96139,
+                  "imdbId": "tt0033323"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Blues in the Night"
+              ],
+              "movies": [
+                {
+                  "title": "Blues in the Night",
+                  "tmdbId": 25862,
+                  "imdbId": "tt0033409"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Boogie Woogie Bugle Boy of Company B"
+              ],
+              "movies": [
+                {
+                  "title": "Buck Privates",
+                  "tmdbId": 29601,
+                  "imdbId": "tt0033436"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Baby Mine"
+              ],
+              "movies": [
+                {
+                  "title": "Dumbo",
+                  "tmdbId": 11360,
+                  "imdbId": "tt0033563"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dolores"
+              ],
+              "movies": [
+                {
+                  "title": "Las Vegas Nights",
+                  "tmdbId": 175288,
+                  "imdbId": "tt0033814"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Be Honest With Me"
+              ],
+              "movies": [
+                {
+                  "title": "Ridin' on a Rainbow",
+                  "tmdbId": 216554,
+                  "imdbId": "tt0034106"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chattanooga Choo Choo"
+              ],
+              "movies": [
+                {
+                  "title": "Sun Valley Serenade",
+                  "tmdbId": 43797,
+                  "imdbId": "tt0034241"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Since I Kissed My Baby Goodbye"
+              ],
+              "movies": [
+                {
+                  "title": "You'll Never Get Rich",
+                  "tmdbId": 28658,
+                  "imdbId": "tt0034409"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Lend a Paw"
+              ],
+              "movies": [
+                {
+                  "title": "Lend a Paw",
+                  "tmdbId": 51024,
+                  "imdbId": "tt0033824"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Boogie Woogie Bugle Boy of Company \"B\""
+              ],
+              "movies": [
+                {
+                  "title": "Boogie Woogie Bugle Boy of Company \"B\"",
+                  "tmdbId": 236567,
+                  "imdbId": "tt0033424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hiawatha's Rabbit Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "Hiawatha's Rabbit Hunt",
+                  "tmdbId": 168191,
+                  "imdbId": "tt0033715"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How War Came"
+              ],
+              "movies": [
+                {
+                  "title": "How War Came",
+                  "tmdbId": 236817,
+                  "imdbId": "tt0033730"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Night Before Christmas"
+              ],
+              "movies": [
+                {
+                  "title": "The Night Before Christmas",
+                  "tmdbId": 39894,
+                  "imdbId": "tt0033952"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rhapsody in Rivets"
+              ],
+              "movies": [
+                {
+                  "title": "Rhapsody in Rivets",
+                  "tmdbId": 163052,
+                  "imdbId": "tt0034097"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rhythm in the Ranks"
+              ],
+              "movies": [
+                {
+                  "title": "Rhythm in the Ranks",
+                  "tmdbId": 236819,
+                  "imdbId": "tt0034098"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Rookie Bear"
+              ],
+              "movies": [
+                {
+                  "title": "The Rookie Bear",
+                  "tmdbId": 236489,
+                  "imdbId": "tt0034127"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Superman"
+              ],
+              "movies": [
+                {
+                  "title": "Superman",
+                  "tmdbId": 95414,
+                  "imdbId": "tt0034247"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Truant Officer Donald"
+              ],
+              "movies": [
+                {
+                  "title": "Truant Officer Donald",
+                  "tmdbId": 94181,
+                  "imdbId": "tt0034314"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Of Pups and Puzzles"
+              ],
+              "movies": [
+                {
+                  "title": "Of Pups and Puzzles",
+                  "tmdbId": 236807,
+                  "imdbId": "tt0033969"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Army Champions"
+              ],
+              "movies": [
+                {
+                  "title": "Army Champions",
+                  "tmdbId": 236809,
+                  "imdbId": "tt0033354"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Beauty and the Beach"
+              ],
+              "movies": [
+                {
+                  "title": "Beauty and the Beach",
+                  "tmdbId": 236811,
+                  "imdbId": "tt0033381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Speaking of Animals Down on the Farm"
+              ],
+              "movies": [
+                {
+                  "title": "Speaking of Animals Down on the Farm",
+                  "tmdbId": 236812,
+                  "imdbId": "tt0033552"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Forty Boys and a Song"
+              ],
+              "movies": [
+                {
+                  "title": "Forty Boys and a Song",
+                  "tmdbId": 236813,
+                  "imdbId": "tt0033626"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kings of the Turf"
+              ],
+              "movies": [
+                {
+                  "title": "Kings of the Turf",
+                  "tmdbId": 236814,
+                  "imdbId": "tt0033788"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sagebrush and Silver"
+              ],
+              "movies": [
+                {
+                  "title": "Sagebrush and Silver",
+                  "tmdbId": 236815,
+                  "imdbId": "tt0034143"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Main Street on the March!"
+              ],
+              "movies": [
+                {
+                  "title": "Main Street on the March!",
+                  "tmdbId": 236802,
+                  "imdbId": "tt0033866"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alive in the Deep"
+              ],
+              "movies": [
+                {
+                  "title": "Alive in the Deep",
+                  "tmdbId": 236803,
+                  "imdbId": "tt0033322"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Forbidden Passage"
+              ],
+              "movies": [
+                {
+                  "title": "Forbidden Passage",
+                  "tmdbId": 130359,
+                  "imdbId": "tt0033618"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Gay Parisian"
+              ],
+              "movies": [
+                {
+                  "title": "The Gay Parisian",
+                  "tmdbId": 236804,
+                  "imdbId": "tt0033651"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Tanks Are Coming"
+              ],
+              "movies": [
+                {
+                  "title": "The Tanks Are Coming",
+                  "tmdbId": 32939,
+                  "imdbId": "tt0034263"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Churchill's Island"
+              ],
+              "movies": [
+                {
+                  "title": "Churchill's Island",
+                  "tmdbId": 236820,
+                  "imdbId": "tt0033466"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adventure in the Bronx"
+              ],
+              "movies": [
+                {
+                  "title": "Adventure in the Bronx",
+                  "tmdbId": 236823,
+                  "imdbId": "tt0033316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dive Bomber"
+              ],
+              "movies": [
+                {
+                  "title": "Dive Bomber",
+                  "tmdbId": 65587,
+                  "imdbId": "tt0033537"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christmas Under Fire"
+              ],
+              "movies": [
+                {
+                  "title": "Christmas Under Fire",
+                  "tmdbId": 236824,
+                  "imdbId": "tt0033465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Letter from Home"
+              ],
+              "movies": [
+                {
+                  "title": "Letter from Home",
+                  "tmdbId": 236825,
+                  "imdbId": "tt0033828"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Life of a Thoroughbred"
+              ],
+              "movies": [
+                {
+                  "title": "Life of a Thoroughbred",
+                  "tmdbId": 236828,
+                  "imdbId": "tt0033833"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norway in Revolt"
+              ],
+              "movies": [
+                {
+                  "title": "Norway in Revolt",
+                  "tmdbId": 236829,
+                  "imdbId": "tt0033961"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Place to Live"
+              ],
+              "movies": [
+                {
+                  "title": "A Place to Live",
+                  "tmdbId": 236821,
+                  "imdbId": "tt1847530"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Russian Soil"
+              ],
+              "movies": [
+                {
+                  "title": "Russian Soil",
+                  "tmdbId": 236822,
+                  "imdbId": "tt1847681"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Soldiers of the Sky"
+              ],
+              "movies": [
+                {
+                  "title": "Soldiers of the Sky",
+                  "tmdbId": 236830,
+                  "imdbId": "tt0034213"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warclouds in the Pacific"
+              ],
+              "movies": [
+                {
+                  "title": "Warclouds in the Pacific",
+                  "tmdbId": 236831,
+                  "imdbId": "tt0034372"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

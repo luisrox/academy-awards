@@ -1,0 +1,1378 @@
+{
+  "ceremony": {
+    "ordinal": 30,
+    "ceremonyYear": 1958,
+    "ceremonyDate": "1958-03-26",
+    "filmYearLabel": "1957",
+    "slug": "1958",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Bridge on the River Kwai"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge on the River Kwai",
+                  "tmdbId": 826,
+                  "imdbId": "tt0050212"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "12 Angry Men"
+              ],
+              "movies": [
+                {
+                  "title": "12 Angry Men",
+                  "tmdbId": 389,
+                  "imdbId": "tt0050083"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peyton Place"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sayonara"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Witness for the Prosecution"
+              ],
+              "movies": [
+                {
+                  "title": "Witness for the Prosecution",
+                  "tmdbId": 37257,
+                  "imdbId": "tt0051201"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "David Lean"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge on the River Kwai",
+                  "tmdbId": 826,
+                  "imdbId": "tt0050212"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sidney Lumet"
+              ],
+              "movies": [
+                {
+                  "title": "12 Angry Men",
+                  "tmdbId": 389,
+                  "imdbId": "tt0050083"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "Witness for the Prosecution",
+                  "tmdbId": 37257,
+                  "imdbId": "tt0051201"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joshua Logan"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Robson"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Alec Guinness"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge on the River Kwai",
+                  "tmdbId": 826,
+                  "imdbId": "tt0050212"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marlon Brando"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Franciosa"
+              ],
+              "movies": [
+                {
+                  "title": "A Hatful of Rain",
+                  "tmdbId": 37086,
+                  "imdbId": "tt0050487"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Laughton"
+              ],
+              "movies": [
+                {
+                  "title": "Witness for the Prosecution",
+                  "tmdbId": 37257,
+                  "imdbId": "tt0051201"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Quinn"
+              ],
+              "movies": [
+                {
+                  "title": "Wild Is the Wind",
+                  "tmdbId": 93528,
+                  "imdbId": "tt0051193"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Joanne Woodward"
+              ],
+              "movies": [
+                {
+                  "title": "The Three Faces of Eve",
+                  "tmdbId": 28285,
+                  "imdbId": "tt0051077"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Deborah Kerr"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Knows, Mr. Allison",
+                  "tmdbId": 37103,
+                  "imdbId": "tt0050490"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anna Magnani"
+              ],
+              "movies": [
+                {
+                  "title": "Wild Is the Wind",
+                  "tmdbId": 93528,
+                  "imdbId": "tt0051193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elizabeth Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "Raintree County",
+                  "tmdbId": 65488,
+                  "imdbId": "tt0050882"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lana Turner"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Red Buttons"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Vittorio De Sica"
+              ],
+              "movies": [
+                {
+                  "title": "A Farewell to Arms",
+                  "tmdbId": 80255,
+                  "imdbId": "tt0050379"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sessue Hayakawa"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge on the River Kwai",
+                  "tmdbId": 826,
+                  "imdbId": "tt0050212"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Kennedy"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Russ Tamblyn"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Miyoshi Umeki"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Carolyn Jones"
+              ],
+              "movies": [
+                {
+                  "title": "The Bachelor Party",
+                  "tmdbId": 185263,
+                  "imdbId": "tt0050156"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elsa Lanchester"
+              ],
+              "movies": [
+                {
+                  "title": "Witness for the Prosecution",
+                  "tmdbId": 37257,
+                  "imdbId": "tt0051201"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hope Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Diane Varsi"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "George Wells"
+              ],
+              "movies": [
+                {
+                  "title": "Designing Woman",
+                  "tmdbId": 33668,
+                  "imdbId": "tt0050306"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Federico Fellini",
+                "Ennio Flaiano",
+                "Tullio Pinelli"
+              ],
+              "movies": [
+                {
+                  "title": "I Vitelloni",
+                  "tmdbId": 12548,
+                  "imdbId": "tt0046521"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonard Gershe"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Face",
+                  "tmdbId": 13320,
+                  "imdbId": "tt0050419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Wheelwright",
+                "R. Wright Campbell",
+                "Ivan Goff",
+                "Ben Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Man of a Thousand Faces",
+                  "tmdbId": 43234,
+                  "imdbId": "tt0050681"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barney Slater",
+                "Joel Kane",
+                "Dudley Nichols"
+              ],
+              "movies": [
+                {
+                  "title": "The Tin Star",
+                  "tmdbId": 30054,
+                  "imdbId": "tt0051087"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Pierre Boulle (Michael Wilson",
+                "Carl Foreman)"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge on the River Kwai",
+                  "tmdbId": 826,
+                  "imdbId": "tt0050212"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Reginald Rose"
+              ],
+              "movies": [
+                {
+                  "title": "12 Angry Men",
+                  "tmdbId": 389,
+                  "imdbId": "tt0050083"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Michael Hayes"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Osborn"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Lee Mahin",
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "Heaven Knows, Mr. Allison",
+                  "tmdbId": 37103,
+                  "imdbId": "tt0050490"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Nights of Cabiria"
+              ],
+              "movies": [
+                {
+                  "title": "Nights of Cabiria",
+                  "tmdbId": 19426,
+                  "imdbId": "tt0050783"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Devil Strikes at Night"
+              ],
+              "movies": [
+                {
+                  "title": "The Devil Strikes at Night",
+                  "tmdbId": 103396,
+                  "imdbId": "tt0050746"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Gates of Paris"
+              ],
+              "movies": [
+                {
+                  "title": "The Gates of Paris",
+                  "tmdbId": 67555,
+                  "imdbId": "tt0050850"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mother India"
+              ],
+              "movies": [
+                {
+                  "title": "Mother India",
+                  "tmdbId": 917,
+                  "imdbId": "tt0050188"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nine Lives"
+              ],
+              "movies": [
+                {
+                  "title": "Nine Lives",
+                  "tmdbId": 20372,
+                  "imdbId": "tt0050762"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Albert Schweitzer"
+              ],
+              "movies": [
+                {
+                  "title": "Albert Schweitzer",
+                  "tmdbId": 114502,
+                  "imdbId": "tt0050109"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "On the Bowery"
+              ],
+              "movies": [
+                {
+                  "title": "On the Bowery",
+                  "tmdbId": 88051,
+                  "imdbId": "tt0050800"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Torero!"
+              ],
+              "movies": [
+                {
+                  "title": "Torero!",
+                  "tmdbId": 116498,
+                  "imdbId": "tt0051099"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Jack Hildyard"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge on the River Kwai",
+                  "tmdbId": 826,
+                  "imdbId": "tt0050212"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William C. Mellor"
+              ],
+              "movies": [
+                {
+                  "title": "Peyton Place",
+                  "tmdbId": 43236,
+                  "imdbId": "tt0050839"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray June"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Face",
+                  "tmdbId": 13320,
+                  "imdbId": "tt0050419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Milton Krasner"
+              ],
+              "movies": [
+                {
+                  "title": "An Affair to Remember",
+                  "tmdbId": 8356,
+                  "imdbId": "tt0050105"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ellsworth Fredericks"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Peter Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge on the River Kwai",
+                  "tmdbId": 826,
+                  "imdbId": "tt0050212"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur P. Schmidt",
+                "Philip W. Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Viola Lawrence",
+                "Jerome Thoms"
+              ],
+              "movies": [
+                {
+                  "title": "Pal Joey",
+                  "tmdbId": 33734,
+                  "imdbId": "tt0050815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Mandell"
+              ],
+              "movies": [
+                {
+                  "title": "Witness for the Prosecution",
+                  "tmdbId": 37257,
+                  "imdbId": "tt0051201"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Warren Low"
+              ],
+              "movies": [
+                {
+                  "title": "Gunfight at the O.K. Corral",
+                  "tmdbId": 22201,
+                  "imdbId": "tt0050468"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Ted Haworth",
+                "Robert Priestley"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hal Pereira",
+                "George Davis",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Face",
+                  "tmdbId": 13320,
+                  "imdbId": "tt0050419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A Horning",
+                "Urie McCleary",
+                "Edwin B. Willis",
+                "Hugh Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "Raintree County",
+                  "tmdbId": 65488,
+                  "imdbId": "tt0050882"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Horning",
+                "Gene Allen",
+                "Edwin B. Willis",
+                "Richard Pefferle"
+              ],
+              "movies": [
+                {
+                  "title": "Les Girls",
+                  "tmdbId": 43232,
+                  "imdbId": "tt0050631"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Holscher",
+                "William Kiernan",
+                "Louis Diage"
+              ],
+              "movies": [
+                {
+                  "title": "Pal Joey",
+                  "tmdbId": 33734,
+                  "imdbId": "tt0050815"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Orry-Kelly"
+              ],
+              "movies": [
+                {
+                  "title": "Les Girls",
+                  "tmdbId": 43232,
+                  "imdbId": "tt0050631"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles LeMaire"
+              ],
+              "movies": [
+                {
+                  "title": "An Affair to Remember",
+                  "tmdbId": 8356,
+                  "imdbId": "tt0050105"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head",
+                "Hubert de Givenchy"
+              ],
+              "movies": [
+                {
+                  "title": "Funny Face",
+                  "tmdbId": 13320,
+                  "imdbId": "tt0050419"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Pal Joey",
+                  "tmdbId": 33734,
+                  "imdbId": "tt0050815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Plunkett"
+              ],
+              "movies": [
+                {
+                  "title": "Raintree County",
+                  "tmdbId": 65488,
+                  "imdbId": "tt0050882"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Walter Rossi"
+              ],
+              "movies": [
+                {
+                  "title": "The Enemy Below",
+                  "tmdbId": 15876,
+                  "imdbId": "tt0050356"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Louis Lichtenfeld"
+              ],
+              "movies": [
+                {
+                  "title": "The Spirit of St. Louis",
+                  "tmdbId": 18776,
+                  "imdbId": "tt0051003"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "George Groves"
+              ],
+              "movies": [
+                {
+                  "title": "Sayonara",
+                  "tmdbId": 40885,
+                  "imdbId": "tt0050933"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Dutton"
+              ],
+              "movies": [
+                {
+                  "title": "Gunfight at the O.K. Corral",
+                  "tmdbId": 22201,
+                  "imdbId": "tt0050468"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wesley C. Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Les Girls",
+                  "tmdbId": 43232,
+                  "imdbId": "tt0050631"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John P. Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "Pal Joey",
+                  "tmdbId": 33734,
+                  "imdbId": "tt0050815"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "Witness for the Prosecution",
+                  "tmdbId": 37257,
+                  "imdbId": "tt0051201"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Malcolm Arnold"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge on the River Kwai",
+                  "tmdbId": 826,
+                  "imdbId": "tt0050212"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hugo Friedhofer"
+              ],
+              "movies": [
+                {
+                  "title": "An Affair to Remember",
+                  "tmdbId": 8356,
+                  "imdbId": "tt0050105"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugo Friedhofer"
+              ],
+              "movies": [
+                {
+                  "title": "Boy on a Dolphin",
+                  "tmdbId": 37596,
+                  "imdbId": "tt0050208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul J. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Perri",
+                  "tmdbId": 162139,
+                  "imdbId": "tt0050837"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Johnny Green"
+              ],
+              "movies": [
+                {
+                  "title": "Raintree County",
+                  "tmdbId": 65488,
+                  "imdbId": "tt0050882"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "All the Way"
+              ],
+              "movies": [
+                {
+                  "title": "The Joker Is Wild",
+                  "tmdbId": 133792,
+                  "imdbId": "tt0050569"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "An Affair to Remember"
+              ],
+              "movies": [
+                {
+                  "title": "An Affair to Remember",
+                  "tmdbId": 8356,
+                  "imdbId": "tt0050105"
+                }
+              ]
+            },
+            {
+              "names": [
+                "April Love"
+              ],
+              "movies": [
+                {
+                  "title": "April Love",
+                  "tmdbId": 106833,
+                  "imdbId": "tt0050135"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wild Is the Wind"
+              ],
+              "movies": [
+                {
+                  "title": "Wild Is the Wind",
+                  "tmdbId": 93528,
+                  "imdbId": "tt0051193"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tammy"
+              ],
+              "movies": [
+                {
+                  "title": "Tammy and the Bachelor",
+                  "tmdbId": 43240,
+                  "imdbId": "tt0051051"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Birds Anonymous"
+              ],
+              "movies": [
+                {
+                  "title": "Birds Anonymous",
+                  "tmdbId": 100395,
+                  "imdbId": "tt0050194"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "One Droopy Knight"
+              ],
+              "movies": [
+                {
+                  "title": "One Droopy Knight",
+                  "tmdbId": 144239,
+                  "imdbId": "tt0050802"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tabasco Road"
+              ],
+              "movies": [
+                {
+                  "title": "Tabasco Road",
+                  "tmdbId": 188755,
+                  "imdbId": "tt0051044"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Trees and Jamaica Daddy"
+              ],
+              "movies": [
+                {
+                  "title": "Trees and Jamaica Daddy",
+                  "tmdbId": 243165,
+                  "imdbId": "tt0051108"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Truth About Mother Goose"
+              ],
+              "movies": [
+                {
+                  "title": "The Truth About Mother Goose",
+                  "tmdbId": 97884,
+                  "imdbId": "tt0051115"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Wetback Hound"
+              ],
+              "movies": [
+                {
+                  "title": "The Wetback Hound",
+                  "tmdbId": 243161,
+                  "imdbId": "tt0051187"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Chairy Tale"
+              ],
+              "movies": [
+                {
+                  "title": "A Chairy Tale",
+                  "tmdbId": 148176,
+                  "imdbId": "tt0050534"
+                }
+              ]
+            },
+            {
+              "names": [
+                "City of Gold"
+              ],
+              "movies": [
+                {
+                  "title": "City of Gold",
+                  "tmdbId": 128441,
+                  "imdbId": "tt0050255"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Foothold on Antarctica"
+              ],
+              "movies": [
+                {
+                  "title": "Foothold on Antarctica",
+                  "tmdbId": 243162,
+                  "imdbId": "tt0050403"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Portugal"
+              ],
+              "movies": [
+                {
+                  "title": "Portugal",
+                  "tmdbId": 243164,
+                  "imdbId": "tt0050851"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

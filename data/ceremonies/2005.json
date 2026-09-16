@@ -1,0 +1,1628 @@
+{
+  "ceremony": {
+    "ordinal": 77,
+    "ceremonyYear": 2005,
+    "ceremonyDate": "2005-02-27",
+    "filmYearLabel": "2004",
+    "slug": "2005",
+    "decade": "2000s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Million Dollar Baby"
+              ],
+              "movies": [
+                {
+                  "title": "Million Dollar Baby",
+                  "tmdbId": 70,
+                  "imdbId": "tt0405159"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Aviator"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Finding Neverland"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Neverland",
+                  "tmdbId": 866,
+                  "imdbId": "tt0308644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray"
+              ],
+              "movies": [
+                {
+                  "title": "Ray",
+                  "tmdbId": 1677,
+                  "imdbId": "tt0350258"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sideways"
+              ],
+              "movies": [
+                {
+                  "title": "Sideways",
+                  "tmdbId": 9675,
+                  "imdbId": "tt0375063"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Clint Eastwood"
+              ],
+              "movies": [
+                {
+                  "title": "Million Dollar Baby",
+                  "tmdbId": 70,
+                  "imdbId": "tt0405159"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Taylor Hackford"
+              ],
+              "movies": [
+                {
+                  "title": "Ray",
+                  "tmdbId": 1677,
+                  "imdbId": "tt0350258"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "Vera Drake",
+                  "tmdbId": 11109,
+                  "imdbId": "tt0383694"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Payne"
+              ],
+              "movies": [
+                {
+                  "title": "Sideways",
+                  "tmdbId": 9675,
+                  "imdbId": "tt0375063"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Scorsese"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Jamie Foxx"
+              ],
+              "movies": [
+                {
+                  "title": "Ray",
+                  "tmdbId": 1677,
+                  "imdbId": "tt0350258"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don Cheadle"
+              ],
+              "movies": [
+                {
+                  "title": "Hotel Rwanda",
+                  "tmdbId": 205,
+                  "imdbId": "tt0395169"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Johnny Depp"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Neverland",
+                  "tmdbId": 866,
+                  "imdbId": "tt0308644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonardo DiCaprio"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clint Eastwood"
+              ],
+              "movies": [
+                {
+                  "title": "Million Dollar Baby",
+                  "tmdbId": 70,
+                  "imdbId": "tt0405159"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Hilary Swank"
+              ],
+              "movies": [
+                {
+                  "title": "Million Dollar Baby",
+                  "tmdbId": 70,
+                  "imdbId": "tt0405159"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Annette Bening"
+              ],
+              "movies": [
+                {
+                  "title": "Being Julia",
+                  "tmdbId": 18701,
+                  "imdbId": "tt0340012"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Catalina Sandino Moreno"
+              ],
+              "movies": [
+                {
+                  "title": "Maria Full of Grace",
+                  "tmdbId": 436,
+                  "imdbId": "tt0390221"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Imelda Staunton"
+              ],
+              "movies": [
+                {
+                  "title": "Vera Drake",
+                  "tmdbId": 11109,
+                  "imdbId": "tt0383694"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kate Winslet"
+              ],
+              "movies": [
+                {
+                  "title": "Eternal Sunshine of the Spotless Mind",
+                  "tmdbId": 38,
+                  "imdbId": "tt0338013"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Morgan Freeman"
+              ],
+              "movies": [
+                {
+                  "title": "Million Dollar Baby",
+                  "tmdbId": 70,
+                  "imdbId": "tt0405159"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alan Alda"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Haden Church"
+              ],
+              "movies": [
+                {
+                  "title": "Sideways",
+                  "tmdbId": 9675,
+                  "imdbId": "tt0375063"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jamie Foxx"
+              ],
+              "movies": [
+                {
+                  "title": "Collateral",
+                  "tmdbId": 1538,
+                  "imdbId": "tt0369339"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clive Owen"
+              ],
+              "movies": [
+                {
+                  "title": "Closer",
+                  "tmdbId": 2288,
+                  "imdbId": "tt0376541"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Cate Blanchett"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Laura Linney"
+              ],
+              "movies": [
+                {
+                  "title": "Kinsey",
+                  "tmdbId": 11184,
+                  "imdbId": "tt0362269"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Virginia Madsen"
+              ],
+              "movies": [
+                {
+                  "title": "Sideways",
+                  "tmdbId": 9675,
+                  "imdbId": "tt0375063"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sophie Okonedo"
+              ],
+              "movies": [
+                {
+                  "title": "Hotel Rwanda",
+                  "tmdbId": 205,
+                  "imdbId": "tt0395169"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Natalie Portman"
+              ],
+              "movies": [
+                {
+                  "title": "Closer",
+                  "tmdbId": 2288,
+                  "imdbId": "tt0376541"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Pierre Bismuth",
+                "Michel Gondry",
+                "Charlie Kaufman"
+              ],
+              "movies": [
+                {
+                  "title": "Eternal Sunshine of the Spotless Mind",
+                  "tmdbId": 38,
+                  "imdbId": "tt0338013"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Logan"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Terry George",
+                "Keir Pearson"
+              ],
+              "movies": [
+                {
+                  "title": "Hotel Rwanda",
+                  "tmdbId": 205,
+                  "imdbId": "tt0395169"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brad Bird"
+              ],
+              "movies": [
+                {
+                  "title": "The Incredibles",
+                  "tmdbId": 9806,
+                  "imdbId": "tt0317705"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mike Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "Vera Drake",
+                  "tmdbId": 11109,
+                  "imdbId": "tt0383694"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alexander Payne",
+                "Jim Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "Sideways",
+                  "tmdbId": 9675,
+                  "imdbId": "tt0375063"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Haggis"
+              ],
+              "movies": [
+                {
+                  "title": "Million Dollar Baby",
+                  "tmdbId": 70,
+                  "imdbId": "tt0405159"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Magee"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Neverland",
+                  "tmdbId": 866,
+                  "imdbId": "tt0308644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jose Rivera"
+              ],
+              "movies": [
+                {
+                  "title": "The Motorcycle Diaries",
+                  "tmdbId": 1653,
+                  "imdbId": "tt0318462"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ethan Hawke",
+                "Richard Linklater",
+                "Kim Krizan",
+                "Julie Delpy"
+              ],
+              "movies": [
+                {
+                  "title": "Before Sunset",
+                  "tmdbId": 80,
+                  "imdbId": "tt0381681"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "The Incredibles"
+              ],
+              "movies": [
+                {
+                  "title": "The Incredibles",
+                  "tmdbId": 9806,
+                  "imdbId": "tt0317705"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Shark Tale"
+              ],
+              "movies": [
+                {
+                  "title": "Shark Tale",
+                  "tmdbId": 10555,
+                  "imdbId": "tt0307453"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shrek 2"
+              ],
+              "movies": [
+                {
+                  "title": "Shrek 2",
+                  "tmdbId": 809,
+                  "imdbId": "tt0298148"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Sea Inside"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Inside",
+                  "tmdbId": 1913,
+                  "imdbId": "tt0369702"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "As It Is in Heaven"
+              ],
+              "movies": [
+                {
+                  "title": "As It Is in Heaven",
+                  "tmdbId": 464,
+                  "imdbId": "tt0382330"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Chorus"
+              ],
+              "movies": [
+                {
+                  "title": "The Chorus",
+                  "tmdbId": 5528,
+                  "imdbId": "tt0372824"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Downfall"
+              ],
+              "movies": [
+                {
+                  "title": "Downfall",
+                  "tmdbId": 613,
+                  "imdbId": "tt0363163"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yesterday"
+              ],
+              "movies": [
+                {
+                  "title": "Yesterday",
+                  "tmdbId": 6934,
+                  "imdbId": "tt0419279"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Born Into Brothels: Calcutta's Red Light Kids"
+              ],
+              "movies": [
+                {
+                  "title": "Born Into Brothels: Calcutta's Red Light Kids",
+                  "tmdbId": 1392,
+                  "imdbId": "tt0388789"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Story of the Weeping Camel"
+              ],
+              "movies": [
+                {
+                  "title": "The Story of the Weeping Camel",
+                  "tmdbId": 1114,
+                  "imdbId": "tt0373861"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Super Size Me"
+              ],
+              "movies": [
+                {
+                  "title": "Super Size Me",
+                  "tmdbId": 9372,
+                  "imdbId": "tt0390521"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tupac: Resurrection"
+              ],
+              "movies": [
+                {
+                  "title": "Tupac: Resurrection",
+                  "tmdbId": 21525,
+                  "imdbId": "tt0343121"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Twist of Faith"
+              ],
+              "movies": [
+                {
+                  "title": "Twist of Faith",
+                  "tmdbId": 34581,
+                  "imdbId": "tt0436857"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Robert Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bruno Delbonnel"
+              ],
+              "movies": [
+                {
+                  "title": "A Very Long Engagement",
+                  "tmdbId": 2841,
+                  "imdbId": "tt0344510"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Caleb Deschanel"
+              ],
+              "movies": [
+                {
+                  "title": "The Passion of the Christ",
+                  "tmdbId": 615,
+                  "imdbId": "tt0335345"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Mathieson"
+              ],
+              "movies": [
+                {
+                  "title": "The Phantom of the Opera",
+                  "tmdbId": 9833,
+                  "imdbId": "tt0293508"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Zhao Xiaoding"
+              ],
+              "movies": [
+                {
+                  "title": "House of Flying Daggers",
+                  "tmdbId": 9550,
+                  "imdbId": "tt0385004"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Thelma Schoonmaker"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jim Miller",
+                "Paul Rubell"
+              ],
+              "movies": [
+                {
+                  "title": "Collateral",
+                  "tmdbId": 1538,
+                  "imdbId": "tt0369339"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joel Cox"
+              ],
+              "movies": [
+                {
+                  "title": "Million Dollar Baby",
+                  "tmdbId": 70,
+                  "imdbId": "tt0405159"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matt Chesse"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Neverland",
+                  "tmdbId": 866,
+                  "imdbId": "tt0308644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Hirsch"
+              ],
+              "movies": [
+                {
+                  "title": "Ray",
+                  "tmdbId": 1677,
+                  "imdbId": "tt0350258"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Dante Ferretti",
+                "Francesca Lo Schiavo"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Aline Bonetto"
+              ],
+              "movies": [
+                {
+                  "title": "A Very Long Engagement",
+                  "tmdbId": 2841,
+                  "imdbId": "tt0344510"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Pratt",
+                "Celia Bobak"
+              ],
+              "movies": [
+                {
+                  "title": "The Phantom of the Opera",
+                  "tmdbId": 9833,
+                  "imdbId": "tt0293508"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gemma Jackson",
+                "Trisha Edwards"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Neverland",
+                  "tmdbId": 866,
+                  "imdbId": "tt0308644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rick Heinrichs",
+                "Cheryl Carasik"
+              ],
+              "movies": [
+                {
+                  "title": "Lemony Snicket's A Series of Unfortunate Events",
+                  "tmdbId": 11774,
+                  "imdbId": "tt0339291"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alexandra Byrne"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Neverland",
+                  "tmdbId": 866,
+                  "imdbId": "tt0308644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bob Ringwood"
+              ],
+              "movies": [
+                {
+                  "title": "Troy",
+                  "tmdbId": 652,
+                  "imdbId": "tt0332452"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Lemony Snicket's A Series of Unfortunate Events",
+                  "tmdbId": 11774,
+                  "imdbId": "tt0339291"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sharen Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Ray",
+                  "tmdbId": 1677,
+                  "imdbId": "tt0350258"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Valli O'Reilly",
+                "Bill Corso"
+              ],
+              "movies": [
+                {
+                  "title": "Lemony Snicket's A Series of Unfortunate Events",
+                  "tmdbId": 11774,
+                  "imdbId": "tt0339291"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Keith Vanderlaan",
+                "Christien Tinsley"
+              ],
+              "movies": [
+                {
+                  "title": "The Passion of the Christ",
+                  "tmdbId": 615,
+                  "imdbId": "tt0335345"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jo Allen",
+                "Manolo Garcia"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Inside",
+                  "tmdbId": 1913,
+                  "imdbId": "tt0369702"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "John Dykstra",
+                "Scott Stokdyk",
+                "Anthony LaMolinara",
+                "John Frazier"
+              ],
+              "movies": [
+                {
+                  "title": "Spider-Man 2",
+                  "tmdbId": 558,
+                  "imdbId": "tt0316654"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Nelson",
+                "Andrew R. Jones",
+                "Erik Nash",
+                "Joe Letteri"
+              ],
+              "movies": [
+                {
+                  "title": "I, Robot",
+                  "tmdbId": 2048,
+                  "imdbId": "tt0343818"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Guyett",
+                "Tim Burke",
+                "John Richardson",
+                "William George"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Prisoner of Azkaban",
+                  "tmdbId": 673,
+                  "imdbId": "tt0304141"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Scott Millan",
+                "Greg Orloff",
+                "Bob Beemer",
+                "Steve Cantamessa"
+              ],
+              "movies": [
+                {
+                  "title": "Ray",
+                  "tmdbId": 1677,
+                  "imdbId": "tt0350258"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Fleischman",
+                "Petur Liddel"
+              ],
+              "movies": [
+                {
+                  "title": "The Aviator",
+                  "tmdbId": 2567,
+                  "imdbId": "tt0338751"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Thom",
+                "Gary Rizzo",
+                "Doc Kane"
+              ],
+              "movies": [
+                {
+                  "title": "The Incredibles",
+                  "tmdbId": 9806,
+                  "imdbId": "tt0317705"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Thom",
+                "Tom Johnson",
+                "Dennis S. Sands",
+                "William B. Kaplan"
+              ],
+              "movies": [
+                {
+                  "title": "The Polar Express",
+                  "tmdbId": 5255,
+                  "imdbId": "tt0338348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Jeffrey J. Haboush",
+                "Joseph Geisinger"
+              ],
+              "movies": [
+                {
+                  "title": "Spider-Man 2",
+                  "tmdbId": 558,
+                  "imdbId": "tt0316654"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Michael SIlvers",
+                "Randy Thom"
+              ],
+              "movies": [
+                {
+                  "title": "The Incredibles",
+                  "tmdbId": 9806,
+                  "imdbId": "tt0317705"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Randy Thom",
+                "Dennis Leonard"
+              ],
+              "movies": [
+                {
+                  "title": "The Polar Express",
+                  "tmdbId": 5255,
+                  "imdbId": "tt0338348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul N. J. Ottosson"
+              ],
+              "movies": [
+                {
+                  "title": "Spider-Man 2",
+                  "tmdbId": 558,
+                  "imdbId": "tt0316654"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Jan A. P. Kaczmarek"
+              ],
+              "movies": [
+                {
+                  "title": "Finding Neverland",
+                  "tmdbId": 866,
+                  "imdbId": "tt0308644"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Newton Howard"
+              ],
+              "movies": [
+                {
+                  "title": "The Village",
+                  "tmdbId": 6947,
+                  "imdbId": "tt0368447"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Debney"
+              ],
+              "movies": [
+                {
+                  "title": "The Passion of the Christ",
+                  "tmdbId": 615,
+                  "imdbId": "tt0335345"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Prisoner of Azkaban",
+                  "tmdbId": 673,
+                  "imdbId": "tt0304141"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Lemony Snicket's A Series of Unfortunate Events",
+                  "tmdbId": 11774,
+                  "imdbId": "tt0339291"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Al otro lado del rio"
+              ],
+              "movies": [
+                {
+                  "title": "The Motorcycle Diaries",
+                  "tmdbId": 1653,
+                  "imdbId": "tt0318462"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Learn to Be Lonely"
+              ],
+              "movies": [
+                {
+                  "title": "The Phantom of the Opera",
+                  "tmdbId": 9833,
+                  "imdbId": "tt0293508"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Believe"
+              ],
+              "movies": [
+                {
+                  "title": "The Polar Express",
+                  "tmdbId": 5255,
+                  "imdbId": "tt0338348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Look to Your Path"
+              ],
+              "movies": [
+                {
+                  "title": "The Chorus",
+                  "tmdbId": 5528,
+                  "imdbId": "tt0372824"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Accidentally in Love"
+              ],
+              "movies": [
+                {
+                  "title": "Shrek 2",
+                  "tmdbId": 809,
+                  "imdbId": "tt0298148"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Ryan"
+              ],
+              "movies": [
+                {
+                  "title": "Ryan",
+                  "tmdbId": 48329,
+                  "imdbId": "tt0414469"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Birthday Boy"
+              ],
+              "movies": [
+                {
+                  "title": "Birthday Boy",
+                  "tmdbId": 48606,
+                  "imdbId": "tt0435933"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gopher Broke"
+              ],
+              "movies": [
+                {
+                  "title": "Gopher Broke",
+                  "tmdbId": 25223,
+                  "imdbId": "tt0438064"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Guard Dog"
+              ],
+              "movies": [
+                {
+                  "title": "Guard Dog",
+                  "tmdbId": 48331,
+                  "imdbId": "tt0430159"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lorenzo"
+              ],
+              "movies": [
+                {
+                  "title": "Lorenzo",
+                  "tmdbId": 245003,
+                  "imdbId": "tt0412936"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Wasp"
+              ],
+              "movies": [
+                {
+                  "title": "Wasp",
+                  "tmdbId": 44472,
+                  "imdbId": "tt0388534"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Everything in This Country Must"
+              ],
+              "movies": [
+                {
+                  "title": "Everything in This Country Must",
+                  "tmdbId": 245004,
+                  "imdbId": "tt0443499"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Little Terrorist"
+              ],
+              "movies": [
+                {
+                  "title": "Little Terrorist",
+                  "tmdbId": 72079,
+                  "imdbId": "tt0425200"
+                }
+              ]
+            },
+            {
+              "names": [
+                "7:35 in the Morning"
+              ],
+              "movies": [
+                {
+                  "title": "7:35 in the Morning",
+                  "tmdbId": 152611,
+                  "imdbId": "tt0406501"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Two Cars, One Night"
+              ],
+              "movies": [
+                {
+                  "title": "Two Cars, One Night",
+                  "tmdbId": 51896,
+                  "imdbId": "tt0390579"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Mighty Times: The Children's March"
+              ],
+              "movies": [
+                {
+                  "title": "Mighty Times: The Children's March",
+                  "tmdbId": 245005,
+                  "imdbId": "tt0443587"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Autism Is a World"
+              ],
+              "movies": [
+                {
+                  "title": "Autism Is a World",
+                  "tmdbId": 245006,
+                  "imdbId": "tt0443434"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Children of Leningradsky"
+              ],
+              "movies": [
+                {
+                  "title": "The Children of Leningradsky",
+                  "tmdbId": 73856,
+                  "imdbId": "tt0442947"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hardwood"
+              ],
+              "movies": [
+                {
+                  "title": "Hardwood",
+                  "tmdbId": 245008,
+                  "imdbId": "tt0443531"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sister Rose's Passion"
+              ],
+              "movies": [
+                {
+                  "title": "Sister Rose's Passion",
+                  "tmdbId": 245009,
+                  "imdbId": "tt0420195"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

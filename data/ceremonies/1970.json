@@ -1,0 +1,1499 @@
+{
+  "ceremony": {
+    "ordinal": 42,
+    "ceremonyYear": 1970,
+    "ceremonyDate": "1970-04-07",
+    "filmYearLabel": "1969",
+    "slug": "1970",
+    "decade": "1970s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Midnight Cowboy"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Cowboy",
+                  "tmdbId": 3116,
+                  "imdbId": "tt0064665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anne of the Thousand Days"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Butch Cassidy and the Sundance Kid"
+              ],
+              "movies": [
+                {
+                  "title": "Butch Cassidy and the Sundance Kid",
+                  "tmdbId": 642,
+                  "imdbId": "tt0064115"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hello, Dolly!"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Dolly!",
+                  "tmdbId": 14030,
+                  "imdbId": "tt0064418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Z"
+              ],
+              "movies": [
+                {
+                  "title": "Z",
+                  "tmdbId": 2721,
+                  "imdbId": "tt0065234"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "John Schlesinger"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Cowboy",
+                  "tmdbId": 3116,
+                  "imdbId": "tt0064665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Penn"
+              ],
+              "movies": [
+                {
+                  "title": "Alice's Restaurant",
+                  "tmdbId": 5638,
+                  "imdbId": "tt0064002"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Roy Hill"
+              ],
+              "movies": [
+                {
+                  "title": "Butch Cassidy and the Sundance Kid",
+                  "tmdbId": 642,
+                  "imdbId": "tt0064115"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sydney Pollack"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Costas-Gavras"
+              ],
+              "movies": [
+                {
+                  "title": "Z",
+                  "tmdbId": 2721,
+                  "imdbId": "tt0065234"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "John Wayne"
+              ],
+              "movies": [
+                {
+                  "title": "True Grit",
+                  "tmdbId": 17529,
+                  "imdbId": "tt0065126"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Burton"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dustin Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Cowboy",
+                  "tmdbId": 3116,
+                  "imdbId": "tt0064665"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter O'Toole"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42607,
+                  "imdbId": "tt0064382"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jon Voight"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Cowboy",
+                  "tmdbId": 3116,
+                  "imdbId": "tt0064665"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Maggie Smith"
+              ],
+              "movies": [
+                {
+                  "title": "The Prime of Miss Jean Brodie",
+                  "tmdbId": 5179,
+                  "imdbId": "tt0064840"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Genevieve Bujold"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Fonda"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Liza Minnelli"
+              ],
+              "movies": [
+                {
+                  "title": "The Sterile Cuckoo",
+                  "tmdbId": 54494,
+                  "imdbId": "tt0065037"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Simmons"
+              ],
+              "movies": [
+                {
+                  "title": "The Happy Ending",
+                  "tmdbId": 94608,
+                  "imdbId": "tt0064405"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Gig Young"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rupert Crosse"
+              ],
+              "movies": [
+                {
+                  "title": "The Reivers",
+                  "tmdbId": 5928,
+                  "imdbId": "tt0064886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elliott Gould"
+              ],
+              "movies": [
+                {
+                  "title": "Bob & Carol & Ted & Alice",
+                  "tmdbId": 26520,
+                  "imdbId": "tt0064100"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "Easy Rider",
+                  "tmdbId": 624,
+                  "imdbId": "tt0064276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anthony Quayle"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Goldie Hawn"
+              ],
+              "movies": [
+                {
+                  "title": "Cactus Flower",
+                  "tmdbId": 28289,
+                  "imdbId": "tt0064117"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Catherine Burns"
+              ],
+              "movies": [
+                {
+                  "title": "Last Summer",
+                  "tmdbId": 38096,
+                  "imdbId": "tt0064573"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dyan Cannon"
+              ],
+              "movies": [
+                {
+                  "title": "Bob & Carol & Ted & Alice",
+                  "tmdbId": 26520,
+                  "imdbId": "tt0064100"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sylvia Miles"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Cowboy",
+                  "tmdbId": 3116,
+                  "imdbId": "tt0064665"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susannah York"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "William Goldman"
+              ],
+              "movies": [
+                {
+                  "title": "Butch Cassidy and the Sundance Kid",
+                  "tmdbId": 642,
+                  "imdbId": "tt0064115"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Mazursky",
+                "Larry Tucker"
+              ],
+              "movies": [
+                {
+                  "title": "Bob & Carol & Ted & Alice",
+                  "tmdbId": 26520,
+                  "imdbId": "tt0064100"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicola Badalucco",
+                "Enrico Medioli",
+                "Luchino Visconti"
+              ],
+              "movies": [
+                {
+                  "title": "The Damned",
+                  "tmdbId": 41876,
+                  "imdbId": "tt0064118"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Fonda",
+                "Dennis Hopper",
+                "Terry Southern"
+              ],
+              "movies": [
+                {
+                  "title": "Easy Rider",
+                  "tmdbId": 624,
+                  "imdbId": "tt0064276"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walon Green",
+                "Roy N. Sickner",
+                "Sam Peckinpah"
+              ],
+              "movies": [
+                {
+                  "title": "The Wild Bunch",
+                  "tmdbId": 576,
+                  "imdbId": "tt0065214"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Waldo Salt"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Cowboy",
+                  "tmdbId": 3116,
+                  "imdbId": "tt0064665"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Hale",
+                "Bridget Boland",
+                "Richard Sokolove"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arnold Schulman"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Columbus",
+                  "tmdbId": 42604,
+                  "imdbId": "tt0064381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Poe",
+                "Robert E. Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jorge Semprun",
+                "Costa-Gavras"
+              ],
+              "movies": [
+                {
+                  "title": "Z",
+                  "tmdbId": 2721,
+                  "imdbId": "tt0065234"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Z"
+              ],
+              "movies": [
+                {
+                  "title": "Z",
+                  "tmdbId": 2721,
+                  "imdbId": "tt0065234"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adalen 31"
+              ],
+              "movies": [
+                {
+                  "title": "Adalen 31",
+                  "tmdbId": 87208,
+                  "imdbId": "tt0065261"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Battle of Neretva"
+              ],
+              "movies": [
+                {
+                  "title": "The Battle of Neretva",
+                  "tmdbId": 34449,
+                  "imdbId": "tt0064091"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Brothers Karamazov"
+              ],
+              "movies": [
+                {
+                  "title": "The Brothers Karamazov",
+                  "tmdbId": 173962,
+                  "imdbId": "tt0062757"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Night at Maud's"
+              ],
+              "movies": [
+                {
+                  "title": "My Night at Maud's",
+                  "tmdbId": 48831,
+                  "imdbId": "tt0064612"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Arthur Rubinstein: The Love of Life"
+              ],
+              "movies": [
+                {
+                  "title": "Arthur Rubinstein: The Love of Life",
+                  "tmdbId": 114512,
+                  "imdbId": "tt0064043"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Before the Mountain Was Moved"
+              ],
+              "movies": [
+                {
+                  "title": "Before the Mountain Was Moved",
+                  "tmdbId": 149315,
+                  "imdbId": "tt0064076"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In the Year of the Pig"
+              ],
+              "movies": [
+                {
+                  "title": "In the Year of the Pig",
+                  "tmdbId": 63951,
+                  "imdbId": "tt0064482"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Olympics in Mexico"
+              ],
+              "movies": [
+                {
+                  "title": "The Olympics in Mexico",
+                  "tmdbId": 118881,
+                  "imdbId": "tt0064756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wolf Men"
+              ],
+              "movies": [
+                {
+                  "title": "The Wolf Men",
+                  "tmdbId": 149317,
+                  "imdbId": "tt0065220"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Conrad Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Butch Cassidy and the Sundance Kid",
+                  "tmdbId": 642,
+                  "imdbId": "tt0064115"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arthur Ibbetson"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang"
+              ],
+              "movies": [
+                {
+                  "title": "Bob & Carol & Ted & Alice",
+                  "tmdbId": 26520,
+                  "imdbId": "tt0064100"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Dolly!",
+                  "tmdbId": 14030,
+                  "imdbId": "tt0064418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel L. Fapp"
+              ],
+              "movies": [
+                {
+                  "title": "Marooned",
+                  "tmdbId": 40140,
+                  "imdbId": "tt0064639"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Francoise Bonnot"
+              ],
+              "movies": [
+                {
+                  "title": "Z",
+                  "tmdbId": 2721,
+                  "imdbId": "tt0065234"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William H. Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Dolly!",
+                  "tmdbId": 14030,
+                  "imdbId": "tt0064418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugh A. Robertson"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Cowboy",
+                  "tmdbId": 3116,
+                  "imdbId": "tt0064665"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Lyon",
+                "Earle Herdan"
+              ],
+              "movies": [
+                {
+                  "title": "The Secret of Santa Vittoria",
+                  "tmdbId": 30298,
+                  "imdbId": "tt0064952"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fredric Steinkamp"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "John Decuir",
+                "Jack Martin Smith",
+                "Herman Blumenthal",
+                "Walter M. Scott",
+                "George Hopkins",
+                "Raphael Bretton"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Dolly!",
+                  "tmdbId": 14030,
+                  "imdbId": "tt0064418"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Maurice Carter",
+                "Lionel Couch",
+                "Patrick McLoughlin"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert F. Boyle",
+                "George B. Chan",
+                "Edward G. Boyle",
+                "Carl Biddiscombe"
+              ],
+              "movies": [
+                {
+                  "title": "Gaily, Gaily",
+                  "tmdbId": 147357,
+                  "imdbId": "tt0064357"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Golitzen",
+                "George C. Webb",
+                "Jack D. Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Sweet Charity",
+                  "tmdbId": 42618,
+                  "imdbId": "tt0065054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Horner",
+                "Frank McKelvy"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Margaret Furse"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Dolly!",
+                  "tmdbId": 14030,
+                  "imdbId": "tt0064418"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Aghayan"
+              ],
+              "movies": [
+                {
+                  "title": "Gaily, Gaily",
+                  "tmdbId": 147357,
+                  "imdbId": "tt0064357"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "Sweet Charity",
+                  "tmdbId": 42618,
+                  "imdbId": "tt0065054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donfeld"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Robbie Robertson"
+              ],
+              "movies": [
+                {
+                  "title": "Marooned",
+                  "tmdbId": 40140,
+                  "imdbId": "tt0064639"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Eugene Lourie",
+                "Alex Weldon"
+              ],
+              "movies": [
+                {
+                  "title": "Krakatoa, East of Java",
+                  "tmdbId": 51104,
+                  "imdbId": "tt0064555"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Jack Solomon",
+                "Murray Spivack"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Dolly!",
+                  "tmdbId": 14030,
+                  "imdbId": "tt0064418"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Aldred"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Edmondson",
+                "David Dockendorf"
+              ],
+              "movies": [
+                {
+                  "title": "Butch Cassidy and the Sundance Kid",
+                  "tmdbId": 642,
+                  "imdbId": "tt0064115"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Martin",
+                "Clem Portman"
+              ],
+              "movies": [
+                {
+                  "title": "Gaily, Gaily",
+                  "tmdbId": 147357,
+                  "imdbId": "tt0064357"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Les Frescholtz",
+                "Arthur Piantadosi"
+              ],
+              "movies": [
+                {
+                  "title": "Marooned",
+                  "tmdbId": 40140,
+                  "imdbId": "tt0064639"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Burt Bacharach"
+              ],
+              "movies": [
+                {
+                  "title": "Butch Cassidy and the Sundance Kid",
+                  "tmdbId": 642,
+                  "imdbId": "tt0064115"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Georges Delerue"
+              ],
+              "movies": [
+                {
+                  "title": "Anne of the Thousand Days",
+                  "tmdbId": 22522,
+                  "imdbId": "tt0064030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Reivers",
+                  "tmdbId": 5928,
+                  "imdbId": "tt0064886"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Gold"
+              ],
+              "movies": [
+                {
+                  "title": "The Secret of Santa Vittoria",
+                  "tmdbId": 30298,
+                  "imdbId": "tt0064952"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerry Fielding"
+              ],
+              "movies": [
+                {
+                  "title": "The Wild Bunch",
+                  "tmdbId": 576,
+                  "imdbId": "tt0065214"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Lennie Hayton",
+                "Lionel Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Hello, Dolly!",
+                  "tmdbId": 14030,
+                  "imdbId": "tt0064418"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leslie Bricusse",
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42607,
+                  "imdbId": "tt0064382"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nelson Riddle"
+              ],
+              "movies": [
+                {
+                  "title": "Paint Your Wagon",
+                  "tmdbId": 20391,
+                  "imdbId": "tt0064782"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cy Coleman"
+              ],
+              "movies": [
+                {
+                  "title": "Sweet Charity",
+                  "tmdbId": 42618,
+                  "imdbId": "tt0065054"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Green",
+                "Albert Woodbury"
+              ],
+              "movies": [
+                {
+                  "title": "They Shoot Horses, Don't They?",
+                  "tmdbId": 28145,
+                  "imdbId": "tt0065088"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Raindrops Keep Fallin' on My Head"
+              ],
+              "movies": [
+                {
+                  "title": "Butch Cassidy and the Sundance Kid",
+                  "tmdbId": 642,
+                  "imdbId": "tt0064115"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Come Saturday Morning"
+              ],
+              "movies": [
+                {
+                  "title": "The Sterile Cuckoo",
+                  "tmdbId": 54494,
+                  "imdbId": "tt0065037"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean"
+              ],
+              "movies": [
+                {
+                  "title": "The Prime of Miss Jean Brodie",
+                  "tmdbId": 5179,
+                  "imdbId": "tt0064840"
+                }
+              ]
+            },
+            {
+              "names": [
+                "True Grit"
+              ],
+              "movies": [
+                {
+                  "title": "True Grit",
+                  "tmdbId": 17529,
+                  "imdbId": "tt0065126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "What Are You Doing the Rest of Your Life?"
+              ],
+              "movies": [
+                {
+                  "title": "The Happy Ending",
+                  "tmdbId": 94608,
+                  "imdbId": "tt0064405"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "It's Tough to Be a Bird"
+              ],
+              "movies": [
+                {
+                  "title": "It's Tough to Be a Bird",
+                  "tmdbId": 58143,
+                  "imdbId": "tt0064504"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Of Men and Demons"
+              ],
+              "movies": [
+                {
+                  "title": "Of Men and Demons",
+                  "tmdbId": 209508,
+                  "imdbId": "tt0064752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walking"
+              ],
+              "movies": [
+                {
+                  "title": "Walking",
+                  "tmdbId": 207249,
+                  "imdbId": "tt0064284"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Magic Machines"
+              ],
+              "movies": [
+                {
+                  "title": "The Magic Machines",
+                  "tmdbId": 243329,
+                  "imdbId": "tt0064623"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blake"
+              ],
+              "movies": [
+                {
+                  "title": "Blake",
+                  "tmdbId": 243331,
+                  "imdbId": "tt0064094"
+                }
+              ]
+            },
+            {
+              "names": [
+                "People Soup"
+              ],
+              "movies": [
+                {
+                  "title": "People Soup",
+                  "tmdbId": 243332,
+                  "imdbId": "tt0064799"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Czechoslovakia 1968"
+              ],
+              "movies": [
+                {
+                  "title": "Czechoslovakia 1968",
+                  "tmdbId": 154645,
+                  "imdbId": "tt0064200"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "An Impression of John Steinbeck: Writer"
+              ],
+              "movies": [
+                {
+                  "title": "An Impression of John Steinbeck: Writer",
+                  "tmdbId": 243333,
+                  "imdbId": "tt0064477"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jenny is a Good Thing"
+              ],
+              "movies": [
+                {
+                  "title": "Jenny is a Good Thing",
+                  "tmdbId": 243335,
+                  "imdbId": "tt0064511"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leo Beuerman"
+              ],
+              "movies": [
+                {
+                  "title": "Leo Beuerman",
+                  "tmdbId": 243336,
+                  "imdbId": "tt0064581"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Magic Machines"
+              ],
+              "movies": [
+                {
+                  "title": "The Magic Machines",
+                  "tmdbId": 243329,
+                  "imdbId": "tt0064623"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

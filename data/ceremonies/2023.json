@@ -1,0 +1,1733 @@
+{
+  "ceremony": {
+    "ordinal": 95,
+    "ceremonyYear": 2023,
+    "ceremonyDate": "2023-03-12",
+    "filmYearLabel": "2022",
+    "slug": "2023",
+    "decade": "2020s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Everything Everywhere All at Once"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All Quiet on the Western Front"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Avatar: The Way of Water"
+              ],
+              "movies": [
+                {
+                  "title": "Avatar: The Way of Water",
+                  "tmdbId": 76600,
+                  "imdbId": "tt1630029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Banshees of Inisherin"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elvis"
+              ],
+              "movies": [
+                {
+                  "title": "Elvis",
+                  "tmdbId": 614934,
+                  "imdbId": "tt3704428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Fabelmans"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabelmans",
+                  "tmdbId": 804095,
+                  "imdbId": "tt14208870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "TÁR"
+              ],
+              "movies": [
+                {
+                  "title": "TÁR",
+                  "tmdbId": 817758,
+                  "imdbId": "tt14444726"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Top Gun: Maverick"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun: Maverick",
+                  "tmdbId": 361743,
+                  "imdbId": "tt1745960"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Triangle of Sadness"
+              ],
+              "movies": [
+                {
+                  "title": "Triangle of Sadness",
+                  "tmdbId": 497828,
+                  "imdbId": "tt7322224"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Women Talking"
+              ],
+              "movies": [
+                {
+                  "title": "Women Talking",
+                  "tmdbId": 777245,
+                  "imdbId": "tt13669038"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Daniel Kwan",
+                "Daniel Schienert"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Todd Field"
+              ],
+              "movies": [
+                {
+                  "title": "TÁR",
+                  "tmdbId": 817758,
+                  "imdbId": "tt14444726"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin McDonagh"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruben Ostlund"
+              ],
+              "movies": [
+                {
+                  "title": "Triangle of Sadness",
+                  "tmdbId": 497828,
+                  "imdbId": "tt7322224"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabelmans",
+                  "tmdbId": 804095,
+                  "imdbId": "tt14208870"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Brendan Fraser"
+              ],
+              "movies": [
+                {
+                  "title": "The Whale",
+                  "tmdbId": 785084,
+                  "imdbId": "tt13833688"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Austin Butler"
+              ],
+              "movies": [
+                {
+                  "title": "Elvis",
+                  "tmdbId": 614934,
+                  "imdbId": "tt3704428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colin Farrell"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Mescal"
+              ],
+              "movies": [
+                {
+                  "title": "Aftersun",
+                  "tmdbId": 965150,
+                  "imdbId": "tt19770238"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Nighy"
+              ],
+              "movies": [
+                {
+                  "title": "Living",
+                  "tmdbId": 760099,
+                  "imdbId": "tt9051908"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Michelle Yeoh"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Cate Blanchett"
+              ],
+              "movies": [
+                {
+                  "title": "TÁR",
+                  "tmdbId": 817758,
+                  "imdbId": "tt14444726"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ana de Armas"
+              ],
+              "movies": [
+                {
+                  "title": "Blonde",
+                  "tmdbId": 301502,
+                  "imdbId": "tt1655389"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andrea Riseborough"
+              ],
+              "movies": [
+                {
+                  "title": "To Leslie",
+                  "tmdbId": 823147,
+                  "imdbId": "tt8129806"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michelle Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabelmans",
+                  "tmdbId": 804095,
+                  "imdbId": "tt14208870"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Ke Huy Quan"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brendan Gleeson"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brian Tyree Henry"
+              ],
+              "movies": [
+                {
+                  "title": "Causeway",
+                  "tmdbId": 595586,
+                  "imdbId": "tt10192406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judd Hirsch"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabelmans",
+                  "tmdbId": 804095,
+                  "imdbId": "tt14208870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barry Keoghan"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Jamie Lee Curtis"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Angela Bassett"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther: Wakanda Forever",
+                  "tmdbId": 505642,
+                  "imdbId": "tt9114286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hong Chau"
+              ],
+              "movies": [
+                {
+                  "title": "The Whale",
+                  "tmdbId": 785084,
+                  "imdbId": "tt13833688"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kerry Condon"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephanie Hsu"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Daniel Kwan",
+                "Daniel Schienert"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Martin McDonagh"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Spielberg",
+                "Tony Kushner"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabelmans",
+                  "tmdbId": 804095,
+                  "imdbId": "tt14208870"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Todd Field"
+              ],
+              "movies": [
+                {
+                  "title": "TÁR",
+                  "tmdbId": 817758,
+                  "imdbId": "tt14444726"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruben Ostlund"
+              ],
+              "movies": [
+                {
+                  "title": "Triangle of Sadness",
+                  "tmdbId": 497828,
+                  "imdbId": "tt7322224"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Sarah Polley"
+              ],
+              "movies": [
+                {
+                  "title": "Women Talking",
+                  "tmdbId": 777245,
+                  "imdbId": "tt13669038"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edward Berger"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rian Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "Glass Onion: A Knives Out Mystery",
+                  "tmdbId": 661374,
+                  "imdbId": "tt11564570"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kazuo Ishiguro"
+              ],
+              "movies": [
+                {
+                  "title": "Living",
+                  "tmdbId": 760099,
+                  "imdbId": "tt9051908"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ehren Kruger",
+                "Eric Warren Singer",
+                "Christopher McQuarrie"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun: Maverick",
+                  "tmdbId": 361743,
+                  "imdbId": "tt1745960"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Guillermo del Toro's Pinocchio"
+              ],
+              "movies": [
+                {
+                  "title": "Guillermo del Toro's Pinocchio",
+                  "tmdbId": 555604,
+                  "imdbId": "tt1488589"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marcel the Shell with Shoes On"
+              ],
+              "movies": [
+                {
+                  "title": "Marcel the Shell with Shoes On",
+                  "tmdbId": 869626,
+                  "imdbId": "tt15339456"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Puss in Boots: The Last Wish"
+              ],
+              "movies": [
+                {
+                  "title": "Puss in Boots: The Last Wish",
+                  "tmdbId": 315162,
+                  "imdbId": "tt3915174"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Sea Beast"
+              ],
+              "movies": [
+                {
+                  "title": "The Sea Beast",
+                  "tmdbId": 560057,
+                  "imdbId": "tt9288046"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Turning Red"
+              ],
+              "movies": [
+                {
+                  "title": "Turning Red",
+                  "tmdbId": 508947,
+                  "imdbId": "tt8097030"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best International Feature Film",
+          "winners": [
+            {
+              "names": [
+                "All Quiet on the Western Front"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Argentina, 1985"
+              ],
+              "movies": [
+                {
+                  "title": "Argentina, 1985",
+                  "tmdbId": 714888,
+                  "imdbId": "tt15301048"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Close"
+              ],
+              "movies": [
+                {
+                  "title": "Close",
+                  "tmdbId": 901563,
+                  "imdbId": "tt9660502"
+                }
+              ]
+            },
+            {
+              "names": [
+                "EO"
+              ],
+              "movies": [
+                {
+                  "title": "EO",
+                  "tmdbId": 785398,
+                  "imdbId": "tt19652910"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Quiet Girl"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet Girl",
+                  "tmdbId": 916405,
+                  "imdbId": "tt15109082"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature Film",
+          "winners": [
+            {
+              "names": [
+                "Navalny"
+              ],
+              "movies": [
+                {
+                  "title": "Navalny",
+                  "tmdbId": 926676,
+                  "imdbId": "tt17041964"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "All That Breathes"
+              ],
+              "movies": [
+                {
+                  "title": "All That Breathes",
+                  "tmdbId": 913838,
+                  "imdbId": "tt16377862"
+                }
+              ]
+            },
+            {
+              "names": [
+                "All the Beauty and the Bloodshed"
+              ],
+              "movies": [
+                {
+                  "title": "All the Beauty and the Bloodshed",
+                  "tmdbId": 1004663,
+                  "imdbId": "tt21374850"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fire of Love"
+              ],
+              "movies": [
+                {
+                  "title": "Fire of Love",
+                  "tmdbId": 913823,
+                  "imdbId": "tt16227014"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A House Made of Splinters"
+              ],
+              "movies": [
+                {
+                  "title": "A House Made of Splinters",
+                  "tmdbId": 913743,
+                  "imdbId": "tt16377920"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "James Friend"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Darius Khondji"
+              ],
+              "movies": [
+                {
+                  "title": "BARDO, False Chronicle of a Handful of Truths",
+                  "tmdbId": 685691,
+                  "imdbId": "tt14176542"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mandy Walker"
+              ],
+              "movies": [
+                {
+                  "title": "Elvis",
+                  "tmdbId": 614934,
+                  "imdbId": "tt3704428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "Empire of Light",
+                  "tmdbId": 814757,
+                  "imdbId": "tt14402146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Florian Hoffmeister"
+              ],
+              "movies": [
+                {
+                  "title": "TÁR",
+                  "tmdbId": 817758,
+                  "imdbId": "tt14444726"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Paul Rogers"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mikkel E. G. Nielsen"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Matt Villa",
+                "Jonathan Redmond"
+              ],
+              "movies": [
+                {
+                  "title": "Elvis",
+                  "tmdbId": 614934,
+                  "imdbId": "tt3704428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Monika Willi"
+              ],
+              "movies": [
+                {
+                  "title": "TÁR",
+                  "tmdbId": 817758,
+                  "imdbId": "tt14444726"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eddie Hamilton"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun: Maverick",
+                  "tmdbId": 361743,
+                  "imdbId": "tt1745960"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Christian M. Goldbeck",
+                "Ernestine Hipper"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dylan Cole",
+                "Ben Procter",
+                "Vanessa Cole"
+              ],
+              "movies": [
+                {
+                  "title": "Avatar: The Way of Water",
+                  "tmdbId": 76600,
+                  "imdbId": "tt1630029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Florencia Martin",
+                "Anthony Carlino"
+              ],
+              "movies": [
+                {
+                  "title": "Babylon",
+                  "tmdbId": 615777,
+                  "imdbId": "tt10640346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Catherine Martin",
+                "Karen Murphy",
+                "Bev Dunn"
+              ],
+              "movies": [
+                {
+                  "title": "Elvis",
+                  "tmdbId": 614934,
+                  "imdbId": "tt3704428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rick Carter",
+                "Karen O'Hara"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabelmans",
+                  "tmdbId": 804095,
+                  "imdbId": "tt14208870"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Ruth E. Carter"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther: Wakanda Forever",
+                  "tmdbId": 505642,
+                  "imdbId": "tt9114286"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mary Zophres"
+              ],
+              "movies": [
+                {
+                  "title": "Babylon",
+                  "tmdbId": 615777,
+                  "imdbId": "tt10640346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cahterine Martin"
+              ],
+              "movies": [
+                {
+                  "title": "Elvis",
+                  "tmdbId": 614934,
+                  "imdbId": "tt3704428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shirley Kurata"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jenny Beavan"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Harris Goes to Paris",
+                  "tmdbId": 754609,
+                  "imdbId": "tt5151570"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Adrien Morot",
+                "Judy Chin",
+                "Anne Marie Bradley"
+              ],
+              "movies": [
+                {
+                  "title": "The Whale",
+                  "tmdbId": 785084,
+                  "imdbId": "tt13833688"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Heike Merker",
+                "Linda Eisenhamerova"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Naomi Donne",
+                "Mike Marino",
+                "Mike Fontaine"
+              ],
+              "movies": [
+                {
+                  "title": "The Batman",
+                  "tmdbId": 414906,
+                  "imdbId": "tt1877830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Camille Friend",
+                "Joel Harlow"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther: Wakanda Forever",
+                  "tmdbId": 505642,
+                  "imdbId": "tt9114286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Coulier",
+                "Jason Baird",
+                "Aldo Signoretti"
+              ],
+              "movies": [
+                {
+                  "title": "Elvis",
+                  "tmdbId": 614934,
+                  "imdbId": "tt3704428"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Joe Letteri",
+                "Richard Baneham",
+                "Eric Saindon",
+                "Daniel Barrett"
+              ],
+              "movies": [
+                {
+                  "title": "Avatar: The Way of Water",
+                  "tmdbId": 76600,
+                  "imdbId": "tt1630029"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Petzold",
+                "Viktor Muller",
+                "Markus Frank",
+                "Kamil Jafar"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan Lemmon",
+                "Russell Earl",
+                "Anders Langlands",
+                "Dominic Tuohy"
+              ],
+              "movies": [
+                {
+                  "title": "The Batman",
+                  "tmdbId": 414906,
+                  "imdbId": "tt1877830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geoffrey Baumann",
+                "Craig Hammack",
+                "R. Christopher White",
+                "Dan Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther: Wakanda Forever",
+                  "tmdbId": 505642,
+                  "imdbId": "tt9114286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ryan Tudhope",
+                "Seth Hill",
+                "Bryan Litson",
+                "Scott R. Fisher"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun: Maverick",
+                  "tmdbId": 361743,
+                  "imdbId": "tt1745960"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Mark Weingarten",
+                "James H. Mather",
+                "Al Nelson",
+                "Chris Burdon",
+                "Mark Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun: Maverick",
+                  "tmdbId": 361743,
+                  "imdbId": "tt1745960"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Viktor Prasil",
+                "Frank Kruse",
+                "Markus Stemler",
+                "Lars Ginzel",
+                "Stefan Korte"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Julian Howarth",
+                "Gwendolyn Yates Whittle",
+                "Dick Bernstein",
+                "Christopher Boyes",
+                "Gary Summers",
+                "Michael Hedges"
+              ],
+              "movies": [
+                {
+                  "title": "Avatar: The Way of Water",
+                  "tmdbId": 76600,
+                  "imdbId": "tt1630029"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Wilson",
+                "William Files",
+                "Douglas Murray",
+                "Andy Nelson"
+              ],
+              "movies": [
+                {
+                  "title": "The Batman",
+                  "tmdbId": 414906,
+                  "imdbId": "tt1877830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Lee",
+                "Wayne Pashley",
+                "Andy Nelson",
+                "Michael Keller"
+              ],
+              "movies": [
+                {
+                  "title": "Elvis",
+                  "tmdbId": 614934,
+                  "imdbId": "tt3704428"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Volker Bertelmann"
+              ],
+              "movies": [
+                {
+                  "title": "All Quiet on the Western Front",
+                  "tmdbId": 49046,
+                  "imdbId": "tt1016150"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Justin Hurwitz"
+              ],
+              "movies": [
+                {
+                  "title": "Babylon",
+                  "tmdbId": 615777,
+                  "imdbId": "tt10640346"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carter Burwell"
+              ],
+              "movies": [
+                {
+                  "title": "The Banshees of Inisherin",
+                  "tmdbId": 674324,
+                  "imdbId": "tt11813216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Son Lux"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Fabelmans",
+                  "tmdbId": 804095,
+                  "imdbId": "tt14208870"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Naatu Naatu"
+              ],
+              "movies": [
+                {
+                  "title": "RRR",
+                  "tmdbId": 579974,
+                  "imdbId": "tt8178634"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Applause"
+              ],
+              "movies": [
+                {
+                  "title": "Tell It Like a Woman",
+                  "tmdbId": 822124,
+                  "imdbId": "tt5850650"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hold My Hand"
+              ],
+              "movies": [
+                {
+                  "title": "Top Gun: Maverick",
+                  "tmdbId": 361743,
+                  "imdbId": "tt1745960"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lift Me Up"
+              ],
+              "movies": [
+                {
+                  "title": "Black Panther: Wakanda Forever",
+                  "tmdbId": 505642,
+                  "imdbId": "tt9114286"
+                }
+              ]
+            },
+            {
+              "names": [
+                "This Is a Life"
+              ],
+              "movies": [
+                {
+                  "title": "Everything Everywhere All at Once",
+                  "tmdbId": 545611,
+                  "imdbId": "tt6710474"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Boy, the Mole, the Fox and the Horse"
+              ],
+              "movies": [
+                {
+                  "title": "The Boy, the Mole, the Fox and the Horse",
+                  "tmdbId": 995133,
+                  "imdbId": "tt22667880"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Flying Sailor"
+              ],
+              "movies": [
+                {
+                  "title": "The Flying Sailor",
+                  "tmdbId": 742872,
+                  "imdbId": "tt20240228"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ice Merchants"
+              ],
+              "movies": [
+                {
+                  "title": "Ice Merchants",
+                  "tmdbId": 965171,
+                  "imdbId": "tt19781688"
+                }
+              ]
+            },
+            {
+              "names": [
+                "My Year of Dicks"
+              ],
+              "movies": [
+                {
+                  "title": "My Year of Dicks",
+                  "tmdbId": 971188,
+                  "imdbId": "tt17663790"
+                }
+              ]
+            },
+            {
+              "names": [
+                "An Ostrich Told Me the World Is Fake and I Think I Believe It"
+              ],
+              "movies": [
+                {
+                  "title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+                  "tmdbId": 943776,
+                  "imdbId": "tt20115114"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "An Irish Goodbye"
+              ],
+              "movies": [
+                {
+                  "title": "An Irish Goodbye",
+                  "tmdbId": 889598,
+                  "imdbId": "tt14625872"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ivalu"
+              ],
+              "movies": [
+                {
+                  "title": "Ivalu",
+                  "tmdbId": 1042171,
+                  "imdbId": "tt22054902"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Le Pupille"
+              ],
+              "movies": [
+                {
+                  "title": "Le Pupille",
+                  "tmdbId": 974586,
+                  "imdbId": "tt20215392"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Night Ride"
+              ],
+              "movies": [
+                {
+                  "title": "Night Ride",
+                  "tmdbId": 715714,
+                  "imdbId": "tt12566792"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Red Suitcase"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Suitcase",
+                  "tmdbId": 1032734,
+                  "imdbId": "tt22763378"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "The Elephant Whisperers"
+              ],
+              "movies": [
+                {
+                  "title": "The Elephant Whisperers",
+                  "tmdbId": 1041580,
+                  "imdbId": "tt23628262"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Haulout"
+              ],
+              "movies": [
+                {
+                  "title": "Haulout",
+                  "tmdbId": 926993,
+                  "imdbId": "tt17162620"
+                }
+              ]
+            },
+            {
+              "names": [
+                "How Do You Measure a Year?"
+              ],
+              "movies": [
+                {
+                  "title": "How Do You Measure a Year?",
+                  "tmdbId": 846854,
+                  "imdbId": "tt15026956"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Martha Mitchell Effect"
+              ],
+              "movies": [
+                {
+                  "title": "The Martha Mitchell Effect",
+                  "tmdbId": 914268,
+                  "imdbId": "tt16379454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stranger at the Gate"
+              ],
+              "movies": [
+                {
+                  "title": "Stranger at the Gate",
+                  "tmdbId": 964789,
+                  "imdbId": "tt20784118"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

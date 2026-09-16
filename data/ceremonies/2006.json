@@ -1,0 +1,1590 @@
+{
+  "ceremony": {
+    "ordinal": 78,
+    "ceremonyYear": 2006,
+    "ceremonyDate": "2006-03-05",
+    "filmYearLabel": "2005",
+    "slug": "2006",
+    "decade": "2000s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Crash"
+              ],
+              "movies": [
+                {
+                  "title": "Crash",
+                  "tmdbId": 1640,
+                  "imdbId": "tt0375679"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brokeback Mountain"
+              ],
+              "movies": [
+                {
+                  "title": "Brokeback Mountain",
+                  "tmdbId": 142,
+                  "imdbId": "tt0388795"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Capote"
+              ],
+              "movies": [
+                {
+                  "title": "Capote",
+                  "tmdbId": 398,
+                  "imdbId": "tt0379725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Good Night, and Good Luck."
+              ],
+              "movies": [
+                {
+                  "title": "Good Night, and Good Luck.",
+                  "tmdbId": 3291,
+                  "imdbId": "tt0433383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Munich"
+              ],
+              "movies": [
+                {
+                  "title": "Munich",
+                  "tmdbId": 612,
+                  "imdbId": "tt0408306"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Ang Lee"
+              ],
+              "movies": [
+                {
+                  "title": "Brokeback Mountain",
+                  "tmdbId": 142,
+                  "imdbId": "tt0388795"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Clooney"
+              ],
+              "movies": [
+                {
+                  "title": "Good Night, and Good Luck.",
+                  "tmdbId": 3291,
+                  "imdbId": "tt0433383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Haggis"
+              ],
+              "movies": [
+                {
+                  "title": "Crash",
+                  "tmdbId": 1640,
+                  "imdbId": "tt0375679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bennett Miller"
+              ],
+              "movies": [
+                {
+                  "title": "Capote",
+                  "tmdbId": 398,
+                  "imdbId": "tt0379725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Steven Spielberg"
+              ],
+              "movies": [
+                {
+                  "title": "Munich",
+                  "tmdbId": 612,
+                  "imdbId": "tt0408306"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Philip Seymour Hoffman"
+              ],
+              "movies": [
+                {
+                  "title": "Capote",
+                  "tmdbId": 398,
+                  "imdbId": "tt0379725"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Terrence Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Hustle & Flow",
+                  "tmdbId": 10476,
+                  "imdbId": "tt0410097"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Heath Ledger"
+              ],
+              "movies": [
+                {
+                  "title": "Brokeback Mountain",
+                  "tmdbId": 142,
+                  "imdbId": "tt0388795"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joaquin Phoenix"
+              ],
+              "movies": [
+                {
+                  "title": "Walk the Line",
+                  "tmdbId": 69,
+                  "imdbId": "tt0358273"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Strathairn"
+              ],
+              "movies": [
+                {
+                  "title": "Good Night, and Good Luck.",
+                  "tmdbId": 3291,
+                  "imdbId": "tt0433383"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Reese Witherspoon"
+              ],
+              "movies": [
+                {
+                  "title": "Walk the Line",
+                  "tmdbId": 69,
+                  "imdbId": "tt0358273"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judi Dench"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Henderson Presents",
+                  "tmdbId": 10773,
+                  "imdbId": "tt0413015"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Felicity Huffman"
+              ],
+              "movies": [
+                {
+                  "title": "Transamerica",
+                  "tmdbId": 546,
+                  "imdbId": "tt0407265"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Keira Knightley"
+              ],
+              "movies": [
+                {
+                  "title": "Pride & Prejudice",
+                  "tmdbId": 4348,
+                  "imdbId": "tt0414387"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charlize Theron"
+              ],
+              "movies": [
+                {
+                  "title": "North Country",
+                  "tmdbId": 9701,
+                  "imdbId": "tt0395972"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "George Clooney"
+              ],
+              "movies": [
+                {
+                  "title": "Syriana",
+                  "tmdbId": 231,
+                  "imdbId": "tt0365737"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Matt Dillon"
+              ],
+              "movies": [
+                {
+                  "title": "Crash",
+                  "tmdbId": 1640,
+                  "imdbId": "tt0375679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Giamatti"
+              ],
+              "movies": [
+                {
+                  "title": "Cinderella Man",
+                  "tmdbId": 921,
+                  "imdbId": "tt0352248"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jake Gyllenhaal"
+              ],
+              "movies": [
+                {
+                  "title": "Brokeback Mountain",
+                  "tmdbId": 142,
+                  "imdbId": "tt0388795"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Hurt"
+              ],
+              "movies": [
+                {
+                  "title": "A History of Violence",
+                  "tmdbId": 59,
+                  "imdbId": "tt0399146"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Rachel Weisz"
+              ],
+              "movies": [
+                {
+                  "title": "The Constant Gardener",
+                  "tmdbId": 1985,
+                  "imdbId": "tt0387131"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Amy Adams"
+              ],
+              "movies": [
+                {
+                  "title": "Junebug",
+                  "tmdbId": 1444,
+                  "imdbId": "tt0418773"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Catherine Keener"
+              ],
+              "movies": [
+                {
+                  "title": "Capote",
+                  "tmdbId": 398,
+                  "imdbId": "tt0379725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frances McDormand"
+              ],
+              "movies": [
+                {
+                  "title": "North Country",
+                  "tmdbId": 9701,
+                  "imdbId": "tt0395972"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michelle Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Brokeback Mountain",
+                  "tmdbId": 142,
+                  "imdbId": "tt0388795"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Paul Haggis",
+                "Bobby Moresco"
+              ],
+              "movies": [
+                {
+                  "title": "Crash",
+                  "tmdbId": 1640,
+                  "imdbId": "tt0375679"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Clooney",
+                "Grant Heslov"
+              ],
+              "movies": [
+                {
+                  "title": "Good Night, and Good Luck.",
+                  "tmdbId": 3291,
+                  "imdbId": "tt0433383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Match Point",
+                  "tmdbId": 116,
+                  "imdbId": "tt0416320"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Noah Baumbach"
+              ],
+              "movies": [
+                {
+                  "title": "The Squid and the Whale",
+                  "tmdbId": 10707,
+                  "imdbId": "tt0367089"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Gaghan"
+              ],
+              "movies": [
+                {
+                  "title": "Syriana",
+                  "tmdbId": 231,
+                  "imdbId": "tt0365737"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Larry McMurtry",
+                "Diana Ossana"
+              ],
+              "movies": [
+                {
+                  "title": "Brokeback Mountain",
+                  "tmdbId": 142,
+                  "imdbId": "tt0388795"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dan Futterman"
+              ],
+              "movies": [
+                {
+                  "title": "Capote",
+                  "tmdbId": 398,
+                  "imdbId": "tt0379725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeffrey Caine"
+              ],
+              "movies": [
+                {
+                  "title": "The Constant Gardener",
+                  "tmdbId": 1985,
+                  "imdbId": "tt0387131"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Josh Olson"
+              ],
+              "movies": [
+                {
+                  "title": "A History of Violence",
+                  "tmdbId": 59,
+                  "imdbId": "tt0399146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Kushner",
+                "Eric Roth"
+              ],
+              "movies": [
+                {
+                  "title": "Munich",
+                  "tmdbId": 612,
+                  "imdbId": "tt0408306"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "Wallace & Gromit: The Curse of the Were-Rabbit"
+              ],
+              "movies": [
+                {
+                  "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+                  "tmdbId": 533,
+                  "imdbId": "tt0312004"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Corpse Bride"
+              ],
+              "movies": [
+                {
+                  "title": "Corpse Bride",
+                  "tmdbId": 3933,
+                  "imdbId": "tt0121164"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howl's Moving Castle"
+              ],
+              "movies": [
+                {
+                  "title": "Howl's Moving Castle",
+                  "tmdbId": 4935,
+                  "imdbId": "tt0347149"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Tsotsi"
+              ],
+              "movies": [
+                {
+                  "title": "Tsotsi",
+                  "tmdbId": 868,
+                  "imdbId": "tt0468565"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don't Tell"
+              ],
+              "movies": [
+                {
+                  "title": "Don't Tell",
+                  "tmdbId": 18219,
+                  "imdbId": "tt0443446"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joyeux Noel"
+              ],
+              "movies": [
+                {
+                  "title": "Joyeux Noel",
+                  "tmdbId": 11661,
+                  "imdbId": "tt0424205"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paradise Now"
+              ],
+              "movies": [
+                {
+                  "title": "Paradise Now",
+                  "tmdbId": 67,
+                  "imdbId": "tt0445620"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sophie Scholl: The Final Days"
+              ],
+              "movies": [
+                {
+                  "title": "Sophie Scholl: The Final Days",
+                  "tmdbId": 2117,
+                  "imdbId": "tt0426578"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "March of the Penguins"
+              ],
+              "movies": [
+                {
+                  "title": "March of the Penguins",
+                  "tmdbId": 1667,
+                  "imdbId": "tt0428803"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Darwin's Nightmare"
+              ],
+              "movies": [
+                {
+                  "title": "Darwin's Nightmare",
+                  "tmdbId": 415253,
+                  "imdbId": "tt0424024"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Enron: The Smartest Guys in the Room"
+              ],
+              "movies": [
+                {
+                  "title": "Enron: The Smartest Guys in the Room",
+                  "tmdbId": 13020,
+                  "imdbId": "tt1016268"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Murderball"
+              ],
+              "movies": [
+                {
+                  "title": "Murderball",
+                  "tmdbId": 14278,
+                  "imdbId": "tt0436613"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Street Fight"
+              ],
+              "movies": [
+                {
+                  "title": "Street Fight",
+                  "tmdbId": 29044,
+                  "imdbId": "tt0457496"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Dion Beebe"
+              ],
+              "movies": [
+                {
+                  "title": "Memoirs of a Geisha",
+                  "tmdbId": 1904,
+                  "imdbId": "tt0397535"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Wally Pfister"
+              ],
+              "movies": [
+                {
+                  "title": "Batman Begins",
+                  "tmdbId": 272,
+                  "imdbId": "tt0372784"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rodrigo Prieto"
+              ],
+              "movies": [
+                {
+                  "title": "Brokeback Mountain",
+                  "tmdbId": 142,
+                  "imdbId": "tt0388795"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Elswit"
+              ],
+              "movies": [
+                {
+                  "title": "Good Night, and Good Luck.",
+                  "tmdbId": 3291,
+                  "imdbId": "tt0433383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emmanuel Lubezki"
+              ],
+              "movies": [
+                {
+                  "title": "The New World",
+                  "tmdbId": 11400,
+                  "imdbId": "tt0402399"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Hughes Winborne"
+              ],
+              "movies": [
+                {
+                  "title": "Crash",
+                  "tmdbId": 1640,
+                  "imdbId": "tt0375679"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mike Hill",
+                "Dan Hanley"
+              ],
+              "movies": [
+                {
+                  "title": "Cinderella Man",
+                  "tmdbId": 921,
+                  "imdbId": "tt0352248"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claire Simpson"
+              ],
+              "movies": [
+                {
+                  "title": "The Constant Gardener",
+                  "tmdbId": 1985,
+                  "imdbId": "tt0387131"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Kahn"
+              ],
+              "movies": [
+                {
+                  "title": "Munich",
+                  "tmdbId": 612,
+                  "imdbId": "tt0408306"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael McCusker"
+              ],
+              "movies": [
+                {
+                  "title": "Walk the Line",
+                  "tmdbId": 69,
+                  "imdbId": "tt0358273"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "John Myhre",
+                "Gretchen Rau"
+              ],
+              "movies": [
+                {
+                  "title": "Memoirs of a Geisha",
+                  "tmdbId": 1904,
+                  "imdbId": "tt0397535"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jim Bissell",
+                "Jan Pascale"
+              ],
+              "movies": [
+                {
+                  "title": "Good Night, and Good Luck.",
+                  "tmdbId": 3291,
+                  "imdbId": "tt0433383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Craig",
+                "Stephenie McMillan"
+              ],
+              "movies": [
+                {
+                  "title": "Harry Potter and the Goblet of Fire",
+                  "tmdbId": 674,
+                  "imdbId": "tt0330373"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Grant Major",
+                "Dan Hennah",
+                "Simon Bright"
+              ],
+              "movies": [
+                {
+                  "title": "King Kong",
+                  "tmdbId": 254,
+                  "imdbId": "tt0360717"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sarah Greenwood",
+                "Katie Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Pride & Prejudice",
+                  "tmdbId": 4348,
+                  "imdbId": "tt0414387"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Memoirs of a Geisha",
+                  "tmdbId": 1904,
+                  "imdbId": "tt0397535"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gabriella Pescucci"
+              ],
+              "movies": [
+                {
+                  "title": "Charlie and the Chocolate Factory",
+                  "tmdbId": 118,
+                  "imdbId": "tt0367594"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sandy Powell"
+              ],
+              "movies": [
+                {
+                  "title": "Mrs. Henderson Presents",
+                  "tmdbId": 10773,
+                  "imdbId": "tt0413015"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacqueline Durran"
+              ],
+              "movies": [
+                {
+                  "title": "Pride & Prejudice",
+                  "tmdbId": 4348,
+                  "imdbId": "tt0414387"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arianne Phillips"
+              ],
+              "movies": [
+                {
+                  "title": "Walk the Line",
+                  "tmdbId": 69,
+                  "imdbId": "tt0358273"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Howard Berger",
+                "Tami Lane"
+              ],
+              "movies": [
+                {
+                  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                  "tmdbId": 411,
+                  "imdbId": "tt0363771"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Leroy Anderson",
+                "Lance Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "Cinderella Man",
+                  "tmdbId": 921,
+                  "imdbId": "tt0352248"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dave Elsey",
+                "Nikki Gooley"
+              ],
+              "movies": [
+                {
+                  "title": "Star Wars: Episode III - Revenge of the Sith",
+                  "tmdbId": 1895,
+                  "imdbId": "tt0121766"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Joe Letteri",
+                "Brian Van't Hul",
+                "Christian Rivers",
+                "Richard Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "King Kong",
+                  "tmdbId": 254,
+                  "imdbId": "tt0360717"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dean Wright",
+                "Bill Westenhofer",
+                "Jim Berney",
+                "Scott Farrar"
+              ],
+              "movies": [
+                {
+                  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                  "tmdbId": 411,
+                  "imdbId": "tt0363771"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dennis Muren",
+                "Pablo Helman",
+                "Randal M. Dutra",
+                "Daniel Sudick"
+              ],
+              "movies": [
+                {
+                  "title": "War of the Worlds",
+                  "tmdbId": 74,
+                  "imdbId": "tt0407304"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Mixing",
+          "winners": [
+            {
+              "names": [
+                "Christopher Boyes",
+                "Michael Semanick",
+                "Michael Hedges",
+                "Hammond Peek"
+              ],
+              "movies": [
+                {
+                  "title": "King Kong",
+                  "tmdbId": 254,
+                  "imdbId": "tt0360717"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Terry Porter",
+                "Dean A. Zupancic",
+                "Tony Johnson"
+              ],
+              "movies": [
+                {
+                  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                  "tmdbId": 411,
+                  "imdbId": "tt0363771"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Greg P. Russell",
+                "Rick Kline",
+                "John Pritchett"
+              ],
+              "movies": [
+                {
+                  "title": "Memoirs of a Geisha",
+                  "tmdbId": 1904,
+                  "imdbId": "tt0397535"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Massey",
+                "Doug Hemphill",
+                "Peter Kurland"
+              ],
+              "movies": [
+                {
+                  "title": "Walk the Line",
+                  "tmdbId": 69,
+                  "imdbId": "tt0358273"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Andy Nelson",
+                "Anna Behlmer",
+                "Ron Judkins"
+              ],
+              "movies": [
+                {
+                  "title": "War of the Worlds",
+                  "tmdbId": 74,
+                  "imdbId": "tt0407304"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Editing",
+          "winners": [
+            {
+              "names": [
+                "Mike Hopkins",
+                "Ethan Van der Ryn"
+              ],
+              "movies": [
+                {
+                  "title": "King Kong",
+                  "tmdbId": 254,
+                  "imdbId": "tt0360717"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard King"
+              ],
+              "movies": [
+                {
+                  "title": "War of the Worlds",
+                  "tmdbId": 74,
+                  "imdbId": "tt0407304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wylie Stateman"
+              ],
+              "movies": [
+                {
+                  "title": "Memoirs of a Geisha",
+                  "tmdbId": 1904,
+                  "imdbId": "tt0397535"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Gustavo Santaolalla"
+              ],
+              "movies": [
+                {
+                  "title": "Brokeback Mountain",
+                  "tmdbId": 142,
+                  "imdbId": "tt0388795"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alberto Iglesias"
+              ],
+              "movies": [
+                {
+                  "title": "The Constant Gardener",
+                  "tmdbId": 1985,
+                  "imdbId": "tt0387131"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Memoirs of a Geisha",
+                  "tmdbId": 1904,
+                  "imdbId": "tt0397535"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Williams"
+              ],
+              "movies": [
+                {
+                  "title": "Munich",
+                  "tmdbId": 612,
+                  "imdbId": "tt0408306"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dario Marianelli"
+              ],
+              "movies": [
+                {
+                  "title": "Pride & Prejudice",
+                  "tmdbId": 4348,
+                  "imdbId": "tt0414387"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "It's Hard out Here for a Pimp"
+              ],
+              "movies": [
+                {
+                  "title": "Hustle & Flow",
+                  "tmdbId": 10476,
+                  "imdbId": "tt0410097"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "In the Deep"
+              ],
+              "movies": [
+                {
+                  "title": "Crash",
+                  "tmdbId": 1640,
+                  "imdbId": "tt0375679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Travelin' Thru"
+              ],
+              "movies": [
+                {
+                  "title": "Transamerica",
+                  "tmdbId": 546,
+                  "imdbId": "tt0407265"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Moon and the Son: An Imagined Conversation"
+              ],
+              "movies": [
+                {
+                  "title": "The Moon and the Son: An Imagined Conversation",
+                  "tmdbId": 44360,
+                  "imdbId": "tt0449619"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Badgered"
+              ],
+              "movies": [
+                {
+                  "title": "Badgered",
+                  "tmdbId": 220867,
+                  "imdbId": "tt0455912"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Mysterious Geographic Explorations of Jasper Morello"
+              ],
+              "movies": [
+                {
+                  "title": "The Mysterious Geographic Explorations of Jasper Morello",
+                  "tmdbId": 52762,
+                  "imdbId": "tt0469146"
+                }
+              ]
+            },
+            {
+              "names": [
+                "9"
+              ],
+              "movies": [
+                {
+                  "title": "9",
+                  "tmdbId": 98622,
+                  "imdbId": "tt0443424"
+                }
+              ]
+            },
+            {
+              "names": [
+                "One Man Band"
+              ],
+              "movies": [
+                {
+                  "title": "One Man Band",
+                  "tmdbId": 13933,
+                  "imdbId": "tt0479113"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Six Shooter"
+              ],
+              "movies": [
+                {
+                  "title": "Six Shooter",
+                  "tmdbId": 25126,
+                  "imdbId": "tt0425458"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Runaway"
+              ],
+              "movies": [
+                {
+                  "title": "The Runaway",
+                  "tmdbId": 245012,
+                  "imdbId": "tt0452139"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cashback"
+              ],
+              "movies": [
+                {
+                  "title": "Cashback",
+                  "tmdbId": 444308,
+                  "imdbId": "tt0409799"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Last Farm"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Farm",
+                  "tmdbId": 104062,
+                  "imdbId": "tt0461847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Our Time Is Up"
+              ],
+              "movies": [
+                {
+                  "title": "Our Time Is Up",
+                  "tmdbId": 47054,
+                  "imdbId": "tt0427617"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "A Note of Triumph: The Golden Age of Norman Corwin"
+              ],
+              "movies": [
+                {
+                  "title": "A Note of Triumph: The Golden Age of Norman Corwin",
+                  "tmdbId": 245013,
+                  "imdbId": "tt0491795"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Death of Kevin Carter: Casualty of the Bang Bang Club"
+              ],
+              "movies": [
+                {
+                  "title": "The Death of Kevin Carter: Casualty of the Bang Bang Club",
+                  "tmdbId": 214187,
+                  "imdbId": "tt0439676"
+                }
+              ]
+            },
+            {
+              "names": [
+                "God Sleeps in Rwanda"
+              ],
+              "movies": [
+                {
+                  "title": "God Sleeps in Rwanda",
+                  "tmdbId": 245014,
+                  "imdbId": "tt0480247"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Mushroom Club"
+              ],
+              "movies": [
+                {
+                  "title": "The Mushroom Club",
+                  "tmdbId": 245016,
+                  "imdbId": "tt0762119"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

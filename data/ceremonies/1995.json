@@ -1,0 +1,1584 @@
+{
+  "ceremony": {
+    "ordinal": 67,
+    "ceremonyYear": 1995,
+    "ceremonyDate": "1995-03-27",
+    "filmYearLabel": "1994",
+    "slug": "1995",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Forrest Gump"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Four Weddings and a Funeral"
+              ],
+              "movies": [
+                {
+                  "title": "Four Weddings and a Funeral",
+                  "tmdbId": 712,
+                  "imdbId": "tt0109831"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pulp Fiction"
+              ],
+              "movies": [
+                {
+                  "title": "Pulp Fiction",
+                  "tmdbId": 680,
+                  "imdbId": "tt0110912"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quiz Show"
+              ],
+              "movies": [
+                {
+                  "title": "Quiz Show",
+                  "tmdbId": 11450,
+                  "imdbId": "tt0110932"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Shawshank Redemption"
+              ],
+              "movies": [
+                {
+                  "title": "The Shawshank Redemption",
+                  "tmdbId": 278,
+                  "imdbId": "tt0111161"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Robert Zemeckis"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Bullets Over Broadway",
+                  "tmdbId": 11382,
+                  "imdbId": "tt0109348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Krzysztof Kieslowski"
+              ],
+              "movies": [
+                {
+                  "title": "Three Colors: Red",
+                  "tmdbId": 110,
+                  "imdbId": "tt0111495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Redford"
+              ],
+              "movies": [
+                {
+                  "title": "Quiz Show",
+                  "tmdbId": 11450,
+                  "imdbId": "tt0110932"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quentin Tarantino"
+              ],
+              "movies": [
+                {
+                  "title": "Pulp Fiction",
+                  "tmdbId": 680,
+                  "imdbId": "tt0110912"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Tom Hanks"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Morgan Freeman"
+              ],
+              "movies": [
+                {
+                  "title": "The Shawshank Redemption",
+                  "tmdbId": 278,
+                  "imdbId": "tt0111161"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nigel Hawthorne"
+              ],
+              "movies": [
+                {
+                  "title": "The Madness of King George",
+                  "tmdbId": 11318,
+                  "imdbId": "tt0110428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Nobody's Fool",
+                  "tmdbId": 11593,
+                  "imdbId": "tt0110684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Travolta"
+              ],
+              "movies": [
+                {
+                  "title": "Pulp Fiction",
+                  "tmdbId": 680,
+                  "imdbId": "tt0110912"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jessica Lange"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Sky",
+                  "tmdbId": 57834,
+                  "imdbId": "tt0109306"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jodie Foster"
+              ],
+              "movies": [
+                {
+                  "title": "Nell",
+                  "tmdbId": 1945,
+                  "imdbId": "tt0110638"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miranda Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Tom & Viv",
+                  "tmdbId": 46797,
+                  "imdbId": "tt0111454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Winona Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 9587,
+                  "imdbId": "tt0110367"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Sarandon"
+              ],
+              "movies": [
+                {
+                  "title": "The Client",
+                  "tmdbId": 10731,
+                  "imdbId": "tt0109446"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Martin Landau"
+              ],
+              "movies": [
+                {
+                  "title": "Ed Wood",
+                  "tmdbId": 522,
+                  "imdbId": "tt0109707"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Samuel L. Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "Pulp Fiction",
+                  "tmdbId": 680,
+                  "imdbId": "tt0110912"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chazz Palminteri"
+              ],
+              "movies": [
+                {
+                  "title": "Bullets Over Broadway",
+                  "tmdbId": 11382,
+                  "imdbId": "tt0109348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Scofield"
+              ],
+              "movies": [
+                {
+                  "title": "Quiz Show",
+                  "tmdbId": 11450,
+                  "imdbId": "tt0110932"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gary Sinise"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Dianne Wiest"
+              ],
+              "movies": [
+                {
+                  "title": "Bullets Over Broadway",
+                  "tmdbId": 11382,
+                  "imdbId": "tt0109348"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rosemary Harris"
+              ],
+              "movies": [
+                {
+                  "title": "Tom & Viv",
+                  "tmdbId": 46797,
+                  "imdbId": "tt0111454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Helen Mirren"
+              ],
+              "movies": [
+                {
+                  "title": "The Madness of King George",
+                  "tmdbId": 11318,
+                  "imdbId": "tt0110428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Uma Thurman"
+              ],
+              "movies": [
+                {
+                  "title": "Pulp Fiction",
+                  "tmdbId": 680,
+                  "imdbId": "tt0110912"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jennifer Tilly"
+              ],
+              "movies": [
+                {
+                  "title": "Bullets Over Broadway",
+                  "tmdbId": 11382,
+                  "imdbId": "tt0109348"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Quentin Tarantino",
+                "Roger Avary"
+              ],
+              "movies": [
+                {
+                  "title": "Pulp Fiction",
+                  "tmdbId": 680,
+                  "imdbId": "tt0110912"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen",
+                "Douglas McGrath"
+              ],
+              "movies": [
+                {
+                  "title": "Bullets Over Broadway",
+                  "tmdbId": 11382,
+                  "imdbId": "tt0109348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Jackson",
+                "Fran Walsh"
+              ],
+              "movies": [
+                {
+                  "title": "Heavenly Creatures",
+                  "tmdbId": 1024,
+                  "imdbId": "tt0110005"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Krzysztof Kieślowski",
+                "Krzysztof Piesiewicz"
+              ],
+              "movies": [
+                {
+                  "title": "Three Colors: Red",
+                  "tmdbId": 110,
+                  "imdbId": "tt0111495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Curtis"
+              ],
+              "movies": [
+                {
+                  "title": "Four Weddings and a Funeral",
+                  "tmdbId": 712,
+                  "imdbId": "tt0109831"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Eric Roth"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alan Bennett"
+              ],
+              "movies": [
+                {
+                  "title": "The Madness of King George",
+                  "tmdbId": 11318,
+                  "imdbId": "tt0110428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Benton"
+              ],
+              "movies": [
+                {
+                  "title": "Nobody's Fool",
+                  "tmdbId": 11593,
+                  "imdbId": "tt0110684"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Attanasio"
+              ],
+              "movies": [
+                {
+                  "title": "Quiz Show",
+                  "tmdbId": 11450,
+                  "imdbId": "tt0110932"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Darabont"
+              ],
+              "movies": [
+                {
+                  "title": "The Shawshank Redemption",
+                  "tmdbId": 278,
+                  "imdbId": "tt0111161"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Burnt by the Sun"
+              ],
+              "movies": [
+                {
+                  "title": "Burnt by the Sun",
+                  "tmdbId": 50797,
+                  "imdbId": "tt0111579"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Before the Rain"
+              ],
+              "movies": [
+                {
+                  "title": "Before the Rain",
+                  "tmdbId": 19155,
+                  "imdbId": "tt0110882"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eat Drink Man Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Eat Drink Man Woman",
+                  "tmdbId": 10451,
+                  "imdbId": "tt0111797"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Farinelli"
+              ],
+              "movies": [
+                {
+                  "title": "Farinelli",
+                  "tmdbId": 10954,
+                  "imdbId": "tt0109771"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Strawberry and Chocolate"
+              ],
+              "movies": [
+                {
+                  "title": "Strawberry and Chocolate",
+                  "tmdbId": 12527,
+                  "imdbId": "tt0106966"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Maya Lin: A Strong Clear Vision"
+              ],
+              "movies": [
+                {
+                  "title": "Maya Lin: A Strong Clear Vision",
+                  "tmdbId": 85778,
+                  "imdbId": "tt0110480"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Complaints of a Dutiful Daughter"
+              ],
+              "movies": [
+                {
+                  "title": "Complaints of a Dutiful Daughter",
+                  "tmdbId": 136520,
+                  "imdbId": "tt0109465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "D-Day Remembered"
+              ],
+              "movies": [
+                {
+                  "title": "D-Day Remembered",
+                  "tmdbId": 325180,
+                  "imdbId": "tt0109519"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Freedom on My Mind"
+              ],
+              "movies": [
+                {
+                  "title": "Freedom on My Mind",
+                  "tmdbId": 133434,
+                  "imdbId": "tt0109839"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Great Day in Harlem"
+              ],
+              "movies": [
+                {
+                  "title": "A Great Day in Harlem",
+                  "tmdbId": 124472,
+                  "imdbId": "tt0109934"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "John Toll"
+              ],
+              "movies": [
+                {
+                  "title": "Legends of the Fall",
+                  "tmdbId": 4476,
+                  "imdbId": "tt0110322"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Don Burgess"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Deakins"
+              ],
+              "movies": [
+                {
+                  "title": "The Shawshank Redemption",
+                  "tmdbId": 278,
+                  "imdbId": "tt0111161"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piotr Sobociński"
+              ],
+              "movies": [
+                {
+                  "title": "Three Colors: Red",
+                  "tmdbId": 110,
+                  "imdbId": "tt0111495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Owen Roizman"
+              ],
+              "movies": [
+                {
+                  "title": "Wyatt Earp",
+                  "tmdbId": 12160,
+                  "imdbId": "tt0111756"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Arthur Schmidt"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frederick Marx",
+                "Steve James",
+                "William Haugse"
+              ],
+              "movies": [
+                {
+                  "title": "Hoop Dreams",
+                  "tmdbId": 14275,
+                  "imdbId": "tt0110057"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Wright"
+              ],
+              "movies": [
+                {
+                  "title": "Speed",
+                  "tmdbId": 1637,
+                  "imdbId": "tt0111257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Francis-Bruce"
+              ],
+              "movies": [
+                {
+                  "title": "The Shawshank Redemption",
+                  "tmdbId": 278,
+                  "imdbId": "tt0111161"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sally Menke"
+              ],
+              "movies": [
+                {
+                  "title": "Pulp Fiction",
+                  "tmdbId": 680,
+                  "imdbId": "tt0110912"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Ken Adam",
+                "Carolyn Scott"
+              ],
+              "movies": [
+                {
+                  "title": "The Madness of King George",
+                  "tmdbId": 11318,
+                  "imdbId": "tt0110428"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Santo Loquasto",
+                "Susan Bode"
+              ],
+              "movies": [
+                {
+                  "title": "Bullets Over Broadway",
+                  "tmdbId": 11382,
+                  "imdbId": "tt0109348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rick Cater",
+                "Nancy Haigh"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dante Ferretti",
+                "Francesca Lo Schiavo"
+              ],
+              "movies": [
+                {
+                  "title": "Interview with the Vampire",
+                  "tmdbId": 628,
+                  "imdbId": "tt0110148"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lilly Kilvert",
+                "Dorree Cooper"
+              ],
+              "movies": [
+                {
+                  "title": "Legends of the Fall",
+                  "tmdbId": 4476,
+                  "imdbId": "tt0110322"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Tim Chappel",
+                "Lizzy Gardiner"
+              ],
+              "movies": [
+                {
+                  "title": "The Adventures of Priscilla, Queen of the Desert",
+                  "tmdbId": 2759,
+                  "imdbId": "tt0109045"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "April Ferry"
+              ],
+              "movies": [
+                {
+                  "title": "Maverick",
+                  "tmdbId": 9359,
+                  "imdbId": "tt0110478"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Colleen Atwood"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 9587,
+                  "imdbId": "tt0110367"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeffrey Kurland"
+              ],
+              "movies": [
+                {
+                  "title": "Bullets Over Broadway",
+                  "tmdbId": 11382,
+                  "imdbId": "tt0109348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Moidele Bickel"
+              ],
+              "movies": [
+                {
+                  "title": "Queen Margot",
+                  "tmdbId": 10452,
+                  "imdbId": "tt0110963"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Rick Baker",
+                "Ve Neill",
+                "Yolanda Toussieng"
+              ],
+              "movies": [
+                {
+                  "title": "Ed Wood",
+                  "tmdbId": 522,
+                  "imdbId": "tt0109707"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel Parker",
+                "Paul Engelen",
+                "Carol Hemming"
+              ],
+              "movies": [
+                {
+                  "title": "Mary Shelley's Frankenstein",
+                  "tmdbId": 3036,
+                  "imdbId": "tt0109836"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel Striepeke",
+                "Hallie D'Amore",
+                "Judith A. Cory"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Ken Ralston",
+                "George Murphy",
+                "Stephen Rosenbaum",
+                "Allen Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Bruno",
+                "Thomas L. Fisher",
+                "Jacques Stroweis",
+                "Patrick McClung"
+              ],
+              "movies": [
+                {
+                  "title": "True Lies",
+                  "tmdbId": 36955,
+                  "imdbId": "tt0111503"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scott Squires",
+                "Steve 'Spaz' Williams",
+                "Tom Bertino",
+                "John Farhat"
+              ],
+              "movies": [
+                {
+                  "title": "The Mask",
+                  "tmdbId": 854,
+                  "imdbId": "tt0110475"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Gregg Landaker",
+                "Steve Maslow",
+                "Bob Beemer",
+                "David MacMillan"
+              ],
+              "movies": [
+                {
+                  "title": "Speed",
+                  "tmdbId": 1637,
+                  "imdbId": "tt0111257"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Michael Herbick",
+                "Frank A. Montano",
+                "Art Rochester"
+              ],
+              "movies": [
+                {
+                  "title": "Clear and Present Danger",
+                  "tmdbId": 9331,
+                  "imdbId": "tt0109444"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Randy Thom",
+                "Tom Johnson",
+                "Dennis S. Sands",
+                "William B. Kaplan"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Massey",
+                "David E. Campbell",
+                "Chris David",
+                "Douglas Ganton"
+              ],
+              "movies": [
+                {
+                  "title": "Legends of the Fall",
+                  "tmdbId": 4476,
+                  "imdbId": "tt0110322"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert J. Litt",
+                "Elliot Tyson",
+                "Michael Herbick",
+                "Willie D. Burton"
+              ],
+              "movies": [
+                {
+                  "title": "The Shawshank Redemption",
+                  "tmdbId": 278,
+                  "imdbId": "tt0111161"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Stephen Hunter Flick"
+              ],
+              "movies": [
+                {
+                  "title": "Speed",
+                  "tmdbId": 1637,
+                  "imdbId": "tt0111257"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bruce Stambler",
+                "John Leveque"
+              ],
+              "movies": [
+                {
+                  "title": "Clear and Present Danger",
+                  "tmdbId": 9331,
+                  "imdbId": "tt0109444"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gloria Borders",
+                "Randy Thom"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Hans Zimmer"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion King",
+                  "tmdbId": 8587,
+                  "imdbId": "tt0110357"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alan Silvestri"
+              ],
+              "movies": [
+                {
+                  "title": "Forrest Gump",
+                  "tmdbId": 13,
+                  "imdbId": "tt0109830"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elliot Goldenthal"
+              ],
+              "movies": [
+                {
+                  "title": "Interview with the Vampire",
+                  "tmdbId": 628,
+                  "imdbId": "tt0110148"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Little Women",
+                  "tmdbId": 9587,
+                  "imdbId": "tt0110367"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Shawshank Redemption",
+                  "tmdbId": 278,
+                  "imdbId": "tt0111161"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Can You Feel the Love Tonight"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion King",
+                  "tmdbId": 8587,
+                  "imdbId": "tt0110357"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Look What Love Has Done"
+              ],
+              "movies": [
+                {
+                  "title": "Junior",
+                  "tmdbId": 6280,
+                  "imdbId": "tt0110216"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Circle of Life"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion King",
+                  "tmdbId": 8587,
+                  "imdbId": "tt0110357"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hakuna Matata"
+              ],
+              "movies": [
+                {
+                  "title": "The Lion King",
+                  "tmdbId": 8587,
+                  "imdbId": "tt0110357"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Make Up Your Mind"
+              ],
+              "movies": [
+                {
+                  "title": "The Paper",
+                  "tmdbId": 12280,
+                  "imdbId": "tt0110771"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Bob's Birthday"
+              ],
+              "movies": [
+                {
+                  "title": "Bob's Birthday",
+                  "tmdbId": 48273,
+                  "imdbId": "tt0106446"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Big Story"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Story",
+                  "tmdbId": 48506,
+                  "imdbId": "tt0109270"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Janitor"
+              ],
+              "movies": [
+                {
+                  "title": "The Janitor",
+                  "tmdbId": 244870,
+                  "imdbId": "tt0110183"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Monk and the Fish"
+              ],
+              "movies": [
+                {
+                  "title": "The Monk and the Fish",
+                  "tmdbId": 48486,
+                  "imdbId": "tt0110547"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Triangle"
+              ],
+              "movies": [
+                {
+                  "title": "Triangle",
+                  "tmdbId": 214153,
+                  "imdbId": "tt0111489"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Franz Kafka's It's a Wonderful Life",
+                "Trevor"
+              ],
+              "movies": [
+                {
+                  "title": "Franz Kafka's It's a Wonderful Life",
+                  "tmdbId": 47981,
+                  "imdbId": "tt0106961"
+                },
+                {
+                  "title": "Trevor",
+                  "tmdbId": 113454,
+                  "imdbId": "tt0111486"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kangaroo Court"
+              ],
+              "movies": [
+                {
+                  "title": "Kangaroo Court",
+                  "tmdbId": 244871,
+                  "imdbId": "tt0110239"
+                }
+              ]
+            },
+            {
+              "names": [
+                "On Hope"
+              ],
+              "movies": [
+                {
+                  "title": "On Hope",
+                  "tmdbId": 244873,
+                  "imdbId": "tt0110726"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Syrup"
+              ],
+              "movies": [
+                {
+                  "title": "Syrup",
+                  "tmdbId": 244877,
+                  "imdbId": "tt0111338"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "A Time for Justice"
+              ],
+              "movies": [
+                {
+                  "title": "A Time for Justice",
+                  "tmdbId": 244878,
+                  "imdbId": "tt0111436"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Blues Highway"
+              ],
+              "movies": [
+                {
+                  "title": "Blues Highway",
+                  "tmdbId": 244879,
+                  "imdbId": "tt0109308"
+                }
+              ]
+            },
+            {
+              "names": [
+                "89mm od Europy"
+              ],
+              "movies": [
+                {
+                  "title": "89 mm from Europe",
+                  "tmdbId": 244883,
+                  "imdbId": "tt0109023"
+                }
+              ]
+            },
+            {
+              "names": [
+                "School of the Americas Assassins"
+              ],
+              "movies": [
+                {
+                  "title": "School of the Americas Assassins",
+                  "tmdbId": 244884,
+                  "imdbId": "tt0111088"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Straight from the Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Straight from the Heart",
+                  "tmdbId": 244886,
+                  "imdbId": "tt0111295"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

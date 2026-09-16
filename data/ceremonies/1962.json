@@ -1,0 +1,1714 @@
+{
+  "ceremony": {
+    "ordinal": 34,
+    "ceremonyYear": 1962,
+    "ceremonyDate": "1962-04-09",
+    "filmYearLabel": "1961",
+    "slug": "1962",
+    "decade": "1960s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "West Side Story"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fanny"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny",
+                  "tmdbId": 84050,
+                  "imdbId": "tt0054866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Guns of Navarone"
+              ],
+              "movies": [
+                {
+                  "title": "The Guns of Navarone",
+                  "tmdbId": 10911,
+                  "imdbId": "tt0054953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hustler"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judgment at Nuremberg"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Robert Wise",
+                "Jerome Robbins"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stanley Kramer"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Federico Fellini"
+              ],
+              "movies": [
+                {
+                  "title": "La Dolce Vita",
+                  "tmdbId": 439,
+                  "imdbId": "tt0053779"
+                }
+              ]
+            },
+            {
+              "names": [
+                "J. Lee Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "The Guns of Navarone",
+                  "tmdbId": 10911,
+                  "imdbId": "tt0054953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Rossen"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Maximilian Schell"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Boyer"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny",
+                  "tmdbId": 84050,
+                  "imdbId": "tt0054866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Whitman"
+              ],
+              "movies": [
+                {
+                  "title": "The Mark",
+                  "tmdbId": 153652,
+                  "imdbId": "tt0055146"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Sophia Loren"
+              ],
+              "movies": [
+                {
+                  "title": "Two Women",
+                  "tmdbId": 24167,
+                  "imdbId": "tt0054749"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Audrey Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "Breakfast at Tiffany's",
+                  "tmdbId": 164,
+                  "imdbId": "tt0054698"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piper Laurie"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geraldine Page"
+              ],
+              "movies": [
+                {
+                  "title": "Summer and Smoke",
+                  "tmdbId": 94917,
+                  "imdbId": "tt0055489"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Natalie Wood"
+              ],
+              "movies": [
+                {
+                  "title": "Splendor in the Grass",
+                  "tmdbId": 28569,
+                  "imdbId": "tt0055471"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "George Chakiris"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Montgomery Clift"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Falk"
+              ],
+              "movies": [
+                {
+                  "title": "Pocketful of Miracles",
+                  "tmdbId": 248,
+                  "imdbId": "tt0055312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jackie Gleason"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George C. Scott"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Rita Moreno"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Fay Bainter"
+              ],
+              "movies": [
+                {
+                  "title": "The Children's Hour",
+                  "tmdbId": 20139,
+                  "imdbId": "tt0054743"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Judy Garland"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lotte Lenya"
+              ],
+              "movies": [
+                {
+                  "title": "The Roman Spring of Mrs. Stone",
+                  "tmdbId": 36731,
+                  "imdbId": "tt0055382"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Una Merkel"
+              ],
+              "movies": [
+                {
+                  "title": "Summer and Smoke",
+                  "tmdbId": 94917,
+                  "imdbId": "tt0055489"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "William Inge"
+              ],
+              "movies": [
+                {
+                  "title": "Splendor in the Grass",
+                  "tmdbId": 28569,
+                  "imdbId": "tt0055471"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Federico Fellini",
+                "Tullio Pinelli. Ennio Flaiano",
+                "Brunello Rondi"
+              ],
+              "movies": [
+                {
+                  "title": "La Dolce Vita",
+                  "tmdbId": 439,
+                  "imdbId": "tt0053779"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Valentin Ezhov",
+                "Grigori Chukhrai"
+              ],
+              "movies": [
+                {
+                  "title": "Ballad of a Soldier",
+                  "tmdbId": 46592,
+                  "imdbId": "tt0052600"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sergio Amidei",
+                "Diego Fabbri",
+                "Indro Montanelli"
+              ],
+              "movies": [
+                {
+                  "title": "General Della Rovere",
+                  "tmdbId": 43100,
+                  "imdbId": "tt0053856"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Shapiro",
+                "Paul Henning"
+              ],
+              "movies": [
+                {
+                  "title": "Lover Come Back",
+                  "tmdbId": 40894,
+                  "imdbId": "tt0055100"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Abby Mann"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ernest Lehman"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Axelrod"
+              ],
+              "movies": [
+                {
+                  "title": "Breakfast at Tiffany's",
+                  "tmdbId": 164,
+                  "imdbId": "tt0054698"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carl Foreman"
+              ],
+              "movies": [
+                {
+                  "title": "The Guns of Navarone",
+                  "tmdbId": 10911,
+                  "imdbId": "tt0054953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Rossen",
+                "Sidney Carroll"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Through a Glass Darkly"
+              ],
+              "movies": [
+                {
+                  "title": "Through a Glass Darkly",
+                  "tmdbId": 11602,
+                  "imdbId": "tt0055499"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry and the Butler"
+              ],
+              "movies": [
+                {
+                  "title": "Harry and the Butler",
+                  "tmdbId": 57911,
+                  "imdbId": "tt0054965"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Immortal Love"
+              ],
+              "movies": [
+                {
+                  "title": "Immortal Love",
+                  "tmdbId": 105470,
+                  "imdbId": "tt0054845"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Important Man"
+              ],
+              "movies": [
+                {
+                  "title": "The Important Man",
+                  "tmdbId": 111853,
+                  "imdbId": "tt0055646"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Placido"
+              ],
+              "movies": [
+                {
+                  "title": "Placido",
+                  "tmdbId": 51317,
+                  "imdbId": "tt0055310"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Sky Above and Mud Beneath"
+              ],
+              "movies": [
+                {
+                  "title": "Sky Above and Mud Beneath",
+                  "tmdbId": 114507,
+                  "imdbId": "tt0053714"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Grand Olympics"
+              ],
+              "movies": [
+                {
+                  "title": "The Grand Olympics",
+                  "tmdbId": 149281,
+                  "imdbId": "tt0054940"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Daniel L. Fapp"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry Stradling Sr."
+              ],
+              "movies": [
+                {
+                  "title": "A Majority of One",
+                  "tmdbId": 158800,
+                  "imdbId": "tt0055124"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Cardiff"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny",
+                  "tmdbId": 84050,
+                  "imdbId": "tt0054866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Russell Metty"
+              ],
+              "movies": [
+                {
+                  "title": "Flower Drum Song",
+                  "tmdbId": 25105,
+                  "imdbId": "tt0054885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang Jr."
+              ],
+              "movies": [
+                {
+                  "title": "One-Eyed Jacks",
+                  "tmdbId": 18647,
+                  "imdbId": "tt0055257"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Eugen Schufftan"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ernest Laszlo"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel L. Fapp"
+              ],
+              "movies": [
+                {
+                  "title": "One, Two, Three",
+                  "tmdbId": 430,
+                  "imdbId": "tt0055256"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Colman"
+              ],
+              "movies": [
+                {
+                  "title": "The Absent-Minded Professor",
+                  "tmdbId": 17984,
+                  "imdbId": "tt0054594"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Planer"
+              ],
+              "movies": [
+                {
+                  "title": "The Children's Hour",
+                  "tmdbId": 20139,
+                  "imdbId": "tt0054743"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Thomas Stanford"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Philip W. Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "The Parent Trap",
+                  "tmdbId": 19186,
+                  "imdbId": "tt0055277"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William H. Reynolds"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny",
+                  "tmdbId": 84050,
+                  "imdbId": "tt0054866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic Knudtson"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alan Osbiston"
+              ],
+              "movies": [
+                {
+                  "title": "The Guns of Navarone",
+                  "tmdbId": 10911,
+                  "imdbId": "tt0054953"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Boris Leven",
+                "Victor A. Gangelin"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hal Pereira",
+                "Roland Anderson",
+                "Samuel M. Comer",
+                "Ray Moyer"
+              ],
+              "movies": [
+                {
+                  "title": "Breakfast at Tiffany's",
+                  "tmdbId": 164,
+                  "imdbId": "tt0054698"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Golitzen",
+                "Joseph Wright",
+                "Howard Bristol"
+              ],
+              "movies": [
+                {
+                  "title": "Flower Drum Song",
+                  "tmdbId": 25105,
+                  "imdbId": "tt0054885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Veniero Colasanti",
+                "John Moore"
+              ],
+              "movies": [
+                {
+                  "title": "El Cid",
+                  "tmdbId": 16638,
+                  "imdbId": "tt0054847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Walter Tyler",
+                "Samuel M. Comer",
+                "Arthur Krams"
+              ],
+              "movies": [
+                {
+                  "title": "Summer and Smoke",
+                  "tmdbId": 94917,
+                  "imdbId": "tt0055489"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Harry Horner",
+                "Gene Callahan"
+              ],
+              "movies": [
+                {
+                  "title": "The Hustler",
+                  "tmdbId": 990,
+                  "imdbId": "tt0054997"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rudolph Sternad",
+                "George Milo"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carroll Clark",
+                "Emile Kuri",
+                "Hal Gausman"
+              ],
+              "movies": [
+                {
+                  "title": "The Absent-Minded Professor",
+                  "tmdbId": 17984,
+                  "imdbId": "tt0054594"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Piero Gherardi"
+              ],
+              "movies": [
+                {
+                  "title": "La Dolce Vita",
+                  "tmdbId": 439,
+                  "imdbId": "tt0053779"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fernando Carrere",
+                "Edward G. Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "The Children's Hour",
+                  "tmdbId": 20139,
+                  "imdbId": "tt0054743"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Back Street",
+                  "tmdbId": 43017,
+                  "imdbId": "tt0054653"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "Babes in Toyland",
+                  "tmdbId": 32611,
+                  "imdbId": "tt0054649"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "Flower Drum Song",
+                  "tmdbId": 25105,
+                  "imdbId": "tt0054885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head",
+                "Walter Plunkett"
+              ],
+              "movies": [
+                {
+                  "title": "Pocketful of Miracles",
+                  "tmdbId": 248,
+                  "imdbId": "tt0055312"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Piero Gherardi"
+              ],
+              "movies": [
+                {
+                  "title": "La Dolce Vita",
+                  "tmdbId": 439,
+                  "imdbId": "tt0053779"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Howard Shoup"
+              ],
+              "movies": [
+                {
+                  "title": "Claudelle Inglish",
+                  "tmdbId": 129165,
+                  "imdbId": "tt0054752"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Judgment at Nuremberg",
+                  "tmdbId": 821,
+                  "imdbId": "tt0055031"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dorothy Jeakins"
+              ],
+              "movies": [
+                {
+                  "title": "The Children's Hour",
+                  "tmdbId": 20139,
+                  "imdbId": "tt0054743"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yoshiro Muraki"
+              ],
+              "movies": [
+                {
+                  "title": "Yojimbo",
+                  "tmdbId": 11878,
+                  "imdbId": "tt0055630"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Bill Warrington",
+                "Vivian C. Greenham"
+              ],
+              "movies": [
+                {
+                  "title": "The Guns of Navarone",
+                  "tmdbId": 10911,
+                  "imdbId": "tt0054953"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert A. Mattey",
+                "Eustace Lycett"
+              ],
+              "movies": [
+                {
+                  "title": "The Absent-Minded Professor",
+                  "tmdbId": 17984,
+                  "imdbId": "tt0054594"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Gordon Sawyer",
+                "Fred Hynes"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "The Children's Hour",
+                  "tmdbId": 20139,
+                  "imdbId": "tt0054743"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Waldon O. Watson"
+              ],
+              "movies": [
+                {
+                  "title": "Flower Drum Song",
+                  "tmdbId": 25105,
+                  "imdbId": "tt0054885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Cox"
+              ],
+              "movies": [
+                {
+                  "title": "The Guns of Navarone",
+                  "tmdbId": 10911,
+                  "imdbId": "tt0054953"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert O. Cook"
+              ],
+              "movies": [
+                {
+                  "title": "The Parent Trap",
+                  "tmdbId": 19186,
+                  "imdbId": "tt0055277"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Henry Mancini"
+              ],
+              "movies": [
+                {
+                  "title": "Breakfast at Tiffany's",
+                  "tmdbId": 164,
+                  "imdbId": "tt0054698"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "El Cid",
+                  "tmdbId": 16638,
+                  "imdbId": "tt0054847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Morris Stoloff",
+                "Harry Sukman"
+              ],
+              "movies": [
+                {
+                  "title": "Fanny",
+                  "tmdbId": 84050,
+                  "imdbId": "tt0054866"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "Summer and Smoke",
+                  "tmdbId": 94917,
+                  "imdbId": "tt0055489"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Guns of Navarone",
+                  "tmdbId": 10911,
+                  "imdbId": "tt0054953"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Saul Chaplin",
+                "Johnny Green",
+                "Sid Ramin",
+                "Irwin Kostal"
+              ],
+              "movies": [
+                {
+                  "title": "West Side Story",
+                  "tmdbId": 1725,
+                  "imdbId": "tt0055614"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Bruns"
+              ],
+              "movies": [
+                {
+                  "title": "Babes in Toyland",
+                  "tmdbId": 32611,
+                  "imdbId": "tt0054649"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman",
+                "Ken Darby"
+              ],
+              "movies": [
+                {
+                  "title": "Flower Drum Song",
+                  "tmdbId": 25105,
+                  "imdbId": "tt0054885"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dmitri Shostakovich"
+              ],
+              "movies": [
+                {
+                  "title": "Khovanshchina",
+                  "tmdbId": 35070,
+                  "imdbId": "tt0055046"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Duke Ellington"
+              ],
+              "movies": [
+                {
+                  "title": "Paris Blues",
+                  "tmdbId": 33710,
+                  "imdbId": "tt0055278"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Moon River"
+              ],
+              "movies": [
+                {
+                  "title": "Breakfast at Tiffany's",
+                  "tmdbId": 164,
+                  "imdbId": "tt0054698"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bachelor in Paradise"
+              ],
+              "movies": [
+                {
+                  "title": "Bachelor in Paradise",
+                  "tmdbId": 52841,
+                  "imdbId": "tt0054652"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Falcon and the Dove"
+              ],
+              "movies": [
+                {
+                  "title": "El Cid",
+                  "tmdbId": 16638,
+                  "imdbId": "tt0054847"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Pocketful of Miracles"
+              ],
+              "movies": [
+                {
+                  "title": "Pocketful of Miracles",
+                  "tmdbId": 248,
+                  "imdbId": "tt0055312"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Town Without Pity"
+              ],
+              "movies": [
+                {
+                  "title": "Town Without Pity",
+                  "tmdbId": 93427,
+                  "imdbId": "tt0055539"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Substitute"
+              ],
+              "movies": [
+                {
+                  "title": "The Substitute",
+                  "tmdbId": 128960,
+                  "imdbId": "tt0054854"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Aquamania"
+              ],
+              "movies": [
+                {
+                  "title": "Aquamania",
+                  "tmdbId": 66820,
+                  "imdbId": "tt0054634"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Beep Prepared"
+              ],
+              "movies": [
+                {
+                  "title": "Beep Prepared",
+                  "tmdbId": 234704,
+                  "imdbId": "tt0054674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nelly's Folly"
+              ],
+              "movies": [
+                {
+                  "title": "Nelly's Folly",
+                  "tmdbId": 168187,
+                  "imdbId": "tt0055223"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Pied Piper of Guadalupe"
+              ],
+              "movies": [
+                {
+                  "title": "The Pied Piper of Guadalupe",
+                  "tmdbId": 234707,
+                  "imdbId": "tt0055298"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Seawards the Great Ships"
+              ],
+              "movies": [
+                {
+                  "title": "Seawards the Great Ships",
+                  "tmdbId": 243202,
+                  "imdbId": "tt0055420"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Play Ball!"
+              ],
+              "movies": [
+                {
+                  "title": "Play Ball!",
+                  "tmdbId": 243204,
+                  "imdbId": "tt0054658"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Face of Jesus"
+              ],
+              "movies": [
+                {
+                  "title": "The Face of Jesus",
+                  "tmdbId": 243206,
+                  "imdbId": "tt0054863"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rooftops of New York"
+              ],
+              "movies": [
+                {
+                  "title": "Rooftops of New York",
+                  "tmdbId": 243207,
+                  "imdbId": "tt0055384"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Very Nice, Very Nice"
+              ],
+              "movies": [
+                {
+                  "title": "Very Nice, Very Nice",
+                  "tmdbId": 127835,
+                  "imdbId": "tt0055594"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Project Hope"
+              ],
+              "movies": [
+                {
+                  "title": "Project Hope",
+                  "tmdbId": 243209,
+                  "imdbId": "tt0055333"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Breaking the Language Barrier"
+              ],
+              "movies": [
+                {
+                  "title": "Breaking the Language Barrier",
+                  "tmdbId": 243210,
+                  "imdbId": "tt0054699"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cradle of Genius"
+              ],
+              "movies": [
+                {
+                  "title": "Cradle of Genius",
+                  "tmdbId": 243211,
+                  "imdbId": "tt0054767"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kahl"
+              ],
+              "movies": [
+                {
+                  "title": "Kahl",
+                  "tmdbId": 243212,
+                  "imdbId": "tt0055040"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Man in Gray"
+              ],
+              "movies": [
+                {
+                  "title": "The Man in Gray",
+                  "tmdbId": 243216,
+                  "imdbId": "tt0055576"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1521 @@
+{
+  "ceremony": {
+    "ordinal": 21,
+    "ceremonyYear": 1949,
+    "ceremonyDate": "1949-03-24",
+    "filmYearLabel": "1948",
+    "slug": "1949",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Hamlet"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 23383,
+                  "imdbId": "tt0040416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Johnny Belinda"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Red Shoes"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Shoes",
+                  "tmdbId": 19542,
+                  "imdbId": "tt0040725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Snake Pit"
+              ],
+              "movies": [
+                {
+                  "title": "The Snake Pit",
+                  "tmdbId": 62694,
+                  "imdbId": "tt0040806"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Treasure of the Sierra Madre"
+              ],
+              "movies": [
+                {
+                  "title": "The Treasure of the Sierra Madre",
+                  "tmdbId": 3090,
+                  "imdbId": "tt0040897"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The Treasure of the Sierra Madre",
+                  "tmdbId": 3090,
+                  "imdbId": "tt0040897"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anatole Litvak"
+              ],
+              "movies": [
+                {
+                  "title": "The Snake Pit",
+                  "tmdbId": 62694,
+                  "imdbId": "tt0040806"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Negulesco"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 23383,
+                  "imdbId": "tt0040416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Zinnemann"
+              ],
+              "movies": [
+                {
+                  "title": "The Search",
+                  "tmdbId": 41131,
+                  "imdbId": "tt0040765"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 23383,
+                  "imdbId": "tt0040416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lew Ayres"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Montgomery Clift"
+              ],
+              "movies": [
+                {
+                  "title": "The Search",
+                  "tmdbId": 41131,
+                  "imdbId": "tt0040765"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dan Dailey"
+              ],
+              "movies": [
+                {
+                  "title": "When My Baby Smiles at Me",
+                  "tmdbId": 201074,
+                  "imdbId": "tt0040962"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clifton Webb"
+              ],
+              "movies": [
+                {
+                  "title": "Sitting Pretty",
+                  "tmdbId": 76211,
+                  "imdbId": "tt0040795"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jane Wyman"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ingrid Bergman"
+              ],
+              "movies": [
+                {
+                  "title": "Joan of Arc",
+                  "tmdbId": 43443,
+                  "imdbId": "tt0040491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Olivia de Havilland"
+              ],
+              "movies": [
+                {
+                  "title": "The Snake Pit",
+                  "tmdbId": 62694,
+                  "imdbId": "tt0040806"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irene Dunne"
+              ],
+              "movies": [
+                {
+                  "title": "I Remember Mama",
+                  "tmdbId": 43442,
+                  "imdbId": "tt0040458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara Stanwyck"
+              ],
+              "movies": [
+                {
+                  "title": "Sorry, Wrong Number",
+                  "tmdbId": 21635,
+                  "imdbId": "tt0040823"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Walter Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The Treasure of the Sierra Madre",
+                  "tmdbId": 3090,
+                  "imdbId": "tt0040897"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Bickford"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jose Ferrer"
+              ],
+              "movies": [
+                {
+                  "title": "Joan of Arc",
+                  "tmdbId": 43443,
+                  "imdbId": "tt0040491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oskar Homolka"
+              ],
+              "movies": [
+                {
+                  "title": "I Remember Mama",
+                  "tmdbId": 43442,
+                  "imdbId": "tt0040458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cecil Kellaway"
+              ],
+              "movies": [
+                {
+                  "title": "The Luck of the Irish",
+                  "tmdbId": 112705,
+                  "imdbId": "tt0040553"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Claire Trevor"
+              ],
+              "movies": [
+                {
+                  "title": "Key Largo",
+                  "tmdbId": 11016,
+                  "imdbId": "tt0040506"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Barbara Stanwyck"
+              ],
+              "movies": [
+                {
+                  "title": "Sorry, Wrong Number",
+                  "tmdbId": 21635,
+                  "imdbId": "tt0040823"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ellen Corby"
+              ],
+              "movies": [
+                {
+                  "title": "I Remember Mama",
+                  "tmdbId": 43442,
+                  "imdbId": "tt0040458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Agnes Moorehead"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Simmons"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 23383,
+                  "imdbId": "tt0040416"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The Treasure of the Sierra Madre",
+                  "tmdbId": 3090,
+                  "imdbId": "tt0040897"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Brackett",
+                "Billy Wilder",
+                "Richard L. Breen"
+              ],
+              "movies": [
+                {
+                  "title": "A Foreign Affair",
+                  "tmdbId": 61650,
+                  "imdbId": "tt0040367"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irma von Cube",
+                "Allen Vincent"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Schweizer",
+                "David Wechsler"
+              ],
+              "movies": [
+                {
+                  "title": "The Search",
+                  "tmdbId": 41131,
+                  "imdbId": "tt0040765"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Partos",
+                "Millen Brand"
+              ],
+              "movies": [
+                {
+                  "title": "The Snake Pit",
+                  "tmdbId": 62694,
+                  "imdbId": "tt0040806"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Richard Schweizer",
+                "David Wechsler"
+              ],
+              "movies": [
+                {
+                  "title": "The Search",
+                  "tmdbId": 41131,
+                  "imdbId": "tt0040765"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert",
+                "Frances Flaherty"
+              ],
+              "movies": [
+                {
+                  "title": "Louisiana Story",
+                  "tmdbId": 70447,
+                  "imdbId": "tt0040550"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Malvin Wald"
+              ],
+              "movies": [
+                {
+                  "title": "The Naked City",
+                  "tmdbId": 20482,
+                  "imdbId": "tt0040636"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Borden Chase"
+              ],
+              "movies": [
+                {
+                  "title": "Red River",
+                  "tmdbId": 3089,
+                  "imdbId": "tt0040724"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emeric Pressburger"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Shoes",
+                  "tmdbId": 19542,
+                  "imdbId": "tt0040725"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Monsieur Vincent"
+              ],
+              "movies": [
+                {
+                  "title": "Monsieur Vincent",
+                  "tmdbId": 43460,
+                  "imdbId": "tt0039632"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Secret Land"
+              ],
+              "movies": [
+                {
+                  "title": "The Secret Land",
+                  "tmdbId": 114471,
+                  "imdbId": "tt0040767"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Quiet One"
+              ],
+              "movies": [
+                {
+                  "title": "The Quiet One",
+                  "tmdbId": 99185,
+                  "imdbId": "tt0040717"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Joseph A. Valentine",
+                "William V. Skall",
+                "Winton Hoch"
+              ],
+              "movies": [
+                {
+                  "title": "Joan of Arc",
+                  "tmdbId": 43443,
+                  "imdbId": "tt0040491"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles G. Clarke"
+              ],
+              "movies": [
+                {
+                  "title": "Green Grass of Wyoming",
+                  "tmdbId": 18985,
+                  "imdbId": "tt0040402"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Snyder"
+              ],
+              "movies": [
+                {
+                  "title": "The Loves of Carmen",
+                  "tmdbId": 43455,
+                  "imdbId": "tt0040552"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Planck"
+              ],
+              "movies": [
+                {
+                  "title": "The Three Musketeers",
+                  "tmdbId": 41609,
+                  "imdbId": "tt0040876"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "William H. Daniels"
+              ],
+              "movies": [
+                {
+                  "title": "The Naked City",
+                  "tmdbId": 20482,
+                  "imdbId": "tt0040636"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles B. Lang Jr."
+              ],
+              "movies": [
+                {
+                  "title": "A Foreign Affair",
+                  "tmdbId": 61650,
+                  "imdbId": "tt0040367"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nicholas Musuraca"
+              ],
+              "movies": [
+                {
+                  "title": "I Remember Mama",
+                  "tmdbId": 43442,
+                  "imdbId": "tt0040458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted D. McCord"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph H. August"
+              ],
+              "movies": [
+                {
+                  "title": "Portrait of Jennie",
+                  "tmdbId": 32558,
+                  "imdbId": "tt0040705"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Paul Weatherwax"
+              ],
+              "movies": [
+                {
+                  "title": "The Naked City",
+                  "tmdbId": 20482,
+                  "imdbId": "tt0040636"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Sullivan"
+              ],
+              "movies": [
+                {
+                  "title": "Joan of Arc",
+                  "tmdbId": 43443,
+                  "imdbId": "tt0040491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Weisbart"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Christian Nyby"
+              ],
+              "movies": [
+                {
+                  "title": "Red River",
+                  "tmdbId": 3089,
+                  "imdbId": "tt0040724"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Reginald Mills"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Shoes",
+                  "tmdbId": 19542,
+                  "imdbId": "tt0040725"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Arthur Lawson",
+                "Hein Heckroth"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Shoes",
+                  "tmdbId": 19542,
+                  "imdbId": "tt0040725"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Day",
+                "Edwin Casey Roberts",
+                "Joseph Kish"
+              ],
+              "movies": [
+                {
+                  "title": "Joan of Arc",
+                  "tmdbId": 43443,
+                  "imdbId": "tt0040491"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Carmen Dillon",
+                "Roger K Furse"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 23383,
+                  "imdbId": "tt0040416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert M. Haas",
+                "William O. Wallace"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Dorothy Jeakins",
+                "Barbara Karinska"
+              ],
+              "movies": [
+                {
+                  "title": "Joan of Arc",
+                  "tmdbId": 43443,
+                  "imdbId": "tt0040491"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Edith Head",
+                "Gile Steele"
+              ],
+              "movies": [
+                {
+                  "title": "The Emperor Waltz",
+                  "tmdbId": 38804,
+                  "imdbId": "tt0040317"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Roger K. Furse"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 23383,
+                  "imdbId": "tt0040416"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irene"
+              ],
+              "movies": [
+                {
+                  "title": "B.F.'s Daughter",
+                  "tmdbId": 83838,
+                  "imdbId": "tt0040141"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Paul Eagler",
+                "J. McMillan Johnson",
+                "Russell Shearman",
+                "Clarence Slifer"
+              ],
+              "movies": [
+                {
+                  "title": "Portrait of Jennie",
+                  "tmdbId": 32558,
+                  "imdbId": "tt0040705"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ralph Hammeras",
+                "Fred Sersen",
+                "Edward Snyder",
+                "Roger Heman Sr."
+              ],
+              "movies": [
+                {
+                  "title": "Deep Waters",
+                  "tmdbId": 36336,
+                  "imdbId": "tt0040281"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Thomas Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "The Snake Pit",
+                  "tmdbId": 62694,
+                  "imdbId": "tt0040806"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nathan O. Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Daniel J. Bloomberg"
+              ],
+              "movies": [
+                {
+                  "title": "Moonrise",
+                  "tmdbId": 28392,
+                  "imdbId": "tt0040607"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Brian Easdale"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Shoes",
+                  "tmdbId": 19542,
+                  "imdbId": "tt0040725"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Walton"
+              ],
+              "movies": [
+                {
+                  "title": "Hamlet",
+                  "tmdbId": 23383,
+                  "imdbId": "tt0040416"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugo Friedhofer"
+              ],
+              "movies": [
+                {
+                  "title": "Joan of Arc",
+                  "tmdbId": 43443,
+                  "imdbId": "tt0040491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Johnny Belinda",
+                  "tmdbId": 62000,
+                  "imdbId": "tt0040495"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Snake Pit",
+                  "tmdbId": 62694,
+                  "imdbId": "tt0040806"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Johnny Green",
+                "Roger Edens"
+              ],
+              "movies": [
+                {
+                  "title": "Easter Parade",
+                  "tmdbId": 29380,
+                  "imdbId": "tt0040308"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "The Emperor Waltz",
+                  "tmdbId": 38804,
+                  "imdbId": "tt0040317"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lennie Hayton"
+              ],
+              "movies": [
+                {
+                  "title": "The Pirate",
+                  "tmdbId": 35032,
+                  "imdbId": "tt0040694"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "Romance on the High Seas",
+                  "tmdbId": 43449,
+                  "imdbId": "tt0040745"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "When My Baby Smiles at Me",
+                  "tmdbId": 201074,
+                  "imdbId": "tt0040962"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Buttons",
+                "Bows"
+              ],
+              "movies": [
+                {
+                  "title": "The Paleface",
+                  "tmdbId": 17804,
+                  "imdbId": "tt0040679"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "For Every Man There is a Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Casbah",
+                  "tmdbId": 45628,
+                  "imdbId": "tt0040214"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It's Magic"
+              ],
+              "movies": [
+                {
+                  "title": "Romance on the High Seas",
+                  "tmdbId": 43449,
+                  "imdbId": "tt0040745"
+                }
+              ]
+            },
+            {
+              "names": [
+                "This is the Moment"
+              ],
+              "movies": [
+                {
+                  "title": "That Lady in Ermine",
+                  "tmdbId": 52278,
+                  "imdbId": "tt0040869"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Woody Woodpecker Song"
+              ],
+              "movies": [
+                {
+                  "title": "Wet Blanket Policy",
+                  "tmdbId": 217150,
+                  "imdbId": "tt0040958"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Little Orphan"
+              ],
+              "movies": [
+                {
+                  "title": "The Little Orphan",
+                  "tmdbId": 72668,
+                  "imdbId": "tt0041592"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mickey and the Seal"
+              ],
+              "movies": [
+                {
+                  "title": "Mickey and the Seal",
+                  "tmdbId": 67001,
+                  "imdbId": "tt0040588"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mouse Wreckers"
+              ],
+              "movies": [
+                {
+                  "title": "Mouse Wreckers",
+                  "tmdbId": 118615,
+                  "imdbId": "tt0041661"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robin Hoodlum"
+              ],
+              "movies": [
+                {
+                  "title": "Robin Hoodlum",
+                  "tmdbId": 103978,
+                  "imdbId": "tt0040741"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tea for Two Hundred"
+              ],
+              "movies": [
+                {
+                  "title": "Tea for Two Hundred",
+                  "tmdbId": 90497,
+                  "imdbId": "tt0040863"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Symphony of a City"
+              ],
+              "movies": [
+                {
+                  "title": "Symphony of a City",
+                  "tmdbId": 240444,
+                  "imdbId": "tt0039648"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Annie Was a Wonder"
+              ],
+              "movies": [
+                {
+                  "title": "Annie Was a Wonder",
+                  "tmdbId": 240447,
+                  "imdbId": "tt0040101"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cinderella Horse"
+              ],
+              "movies": [
+                {
+                  "title": "Cinderella Horse",
+                  "tmdbId": 240448,
+                  "imdbId": "tt0040233"
+                }
+              ]
+            },
+            {
+              "names": [
+                "So You Want to Be on the Radio"
+              ],
+              "movies": [
+                {
+                  "title": "So You Want to Be on the Radio",
+                  "tmdbId": 240449,
+                  "imdbId": "tt0040813"
+                }
+              ]
+            },
+            {
+              "names": [
+                "You Can't Win"
+              ],
+              "movies": [
+                {
+                  "title": "You Can't Win",
+                  "tmdbId": 240451,
+                  "imdbId": "tt0040981"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Seal Island"
+              ],
+              "movies": [
+                {
+                  "title": "Seal Island",
+                  "tmdbId": 107881,
+                  "imdbId": "tt0040763"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Calgary Stampede"
+              ],
+              "movies": [
+                {
+                  "title": "Calgary Stampede",
+                  "tmdbId": 240440,
+                  "imdbId": "tt0040200"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Going to Blazes!"
+              ],
+              "movies": [
+                {
+                  "title": "Going to Blazes!",
+                  "tmdbId": 240441,
+                  "imdbId": "tt0040393"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Samba-Mania"
+              ],
+              "movies": [
+                {
+                  "title": "Samba-Mania",
+                  "tmdbId": 240442,
+                  "imdbId": "tt0040756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Snow Capers"
+              ],
+              "movies": [
+                {
+                  "title": "Snow Capers",
+                  "tmdbId": 240443,
+                  "imdbId": "tt0040807"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Toward Independence"
+              ],
+              "movies": [
+                {
+                  "title": "Toward Independence",
+                  "tmdbId": 240452,
+                  "imdbId": "tt0040893"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Heart to Heart"
+              ],
+              "movies": [
+                {
+                  "title": "Heart to Heart",
+                  "tmdbId": 240454,
+                  "imdbId": "tt0040428"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Operation Vittles"
+              ],
+              "movies": [
+                {
+                  "title": "Operation Vittles",
+                  "tmdbId": 240455,
+                  "imdbId": "tt0040673"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

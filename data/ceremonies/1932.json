@@ -1,0 +1,639 @@
+{
+  "ceremony": {
+    "ordinal": 5,
+    "ceremonyYear": 1932,
+    "ceremonyDate": "1932-11-18",
+    "filmYearLabel": "1931/32",
+    "slug": "1932",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Grand Hotel"
+              ],
+              "movies": [
+                {
+                  "title": "Grand Hotel",
+                  "tmdbId": 33680,
+                  "imdbId": "tt0022958"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arrowsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Arrowsmith",
+                  "tmdbId": 84298,
+                  "imdbId": "tt0021622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bad Girl"
+              ],
+              "movies": [
+                {
+                  "title": "Bad Girl",
+                  "tmdbId": 84299,
+                  "imdbId": "tt0021635"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Champ"
+              ],
+              "movies": [
+                {
+                  "title": "The Champ",
+                  "tmdbId": 42816,
+                  "imdbId": "tt0021730"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Five Star Final"
+              ],
+              "movies": [
+                {
+                  "title": "Five Star Final",
+                  "tmdbId": 42669,
+                  "imdbId": "tt0021873"
+                }
+              ]
+            },
+            {
+              "names": [
+                "One Hour with You"
+              ],
+              "movies": [
+                {
+                  "title": "One Hour with You",
+                  "tmdbId": 43145,
+                  "imdbId": "tt0023303"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shanghai Express"
+              ],
+              "movies": [
+                {
+                  "title": "Shanghai Express",
+                  "tmdbId": 875,
+                  "imdbId": "tt0023458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Smiling Lieutenant"
+              ],
+              "movies": [
+                {
+                  "title": "The Smiling Lieutenant",
+                  "tmdbId": 31409,
+                  "imdbId": "tt0022074"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Frank Borzage"
+              ],
+              "movies": [
+                {
+                  "title": "Bad Girl",
+                  "tmdbId": 84299,
+                  "imdbId": "tt0021635"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "King Vidor"
+              ],
+              "movies": [
+                {
+                  "title": "The Champ",
+                  "tmdbId": 42816,
+                  "imdbId": "tt0021730"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Josef von Sternberg"
+              ],
+              "movies": [
+                {
+                  "title": "Shanghai Express",
+                  "tmdbId": 875,
+                  "imdbId": "tt0023458"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Wallace Beery"
+              ],
+              "movies": [
+                {
+                  "title": "The Champ",
+                  "tmdbId": 42816,
+                  "imdbId": "tt0021730"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fredric March"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Jekyll and Mr. Hyde",
+                  "tmdbId": 3019,
+                  "imdbId": "tt0022835"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfred Lunt"
+              ],
+              "movies": [
+                {
+                  "title": "The Guardsman",
+                  "tmdbId": 95004,
+                  "imdbId": "tt0021931"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Helen Hayes"
+              ],
+              "movies": [
+                {
+                  "title": "The Sin of Madelon Claudet",
+                  "tmdbId": 85504,
+                  "imdbId": "tt0022386"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marie Dressler"
+              ],
+              "movies": [
+                {
+                  "title": "Emma",
+                  "tmdbId": 104221,
+                  "imdbId": "tt0022854"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lynn Fontanne"
+              ],
+              "movies": [
+                {
+                  "title": "The Guardsman",
+                  "tmdbId": 95004,
+                  "imdbId": "tt0021931"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Edwin J. Burke"
+              ],
+              "movies": [
+                {
+                  "title": "Bad Girl",
+                  "tmdbId": 84299,
+                  "imdbId": "tt0021635"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sidney Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Arrowsmith",
+                  "tmdbId": 84298,
+                  "imdbId": "tt0021622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Percy Heath",
+                "Samuel Hoffenstein"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Jekyll and Mr. Hyde",
+                  "tmdbId": 3019,
+                  "imdbId": "tt0022835"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Frances Marion"
+              ],
+              "movies": [
+                {
+                  "title": "The Champ",
+                  "tmdbId": 42816,
+                  "imdbId": "tt0021730"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Grover Jones",
+                "William Slavens McNutt"
+              ],
+              "movies": [
+                {
+                  "title": "Lady and Gent",
+                  "tmdbId": 173749,
+                  "imdbId": "tt0023109"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lucien Hubbard"
+              ],
+              "movies": [
+                {
+                  "title": "The Star Witness",
+                  "tmdbId": 91961,
+                  "imdbId": "tt0022430"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adela Rogers St. Johns",
+                "Jane Murfin"
+              ],
+              "movies": [
+                {
+                  "title": "What Price Hollywood?",
+                  "tmdbId": 56724,
+                  "imdbId": "tt0023686"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Lee Garmes"
+              ],
+              "movies": [
+                {
+                  "title": "Shanghai Express",
+                  "tmdbId": 875,
+                  "imdbId": "tt0023458"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ray June"
+              ],
+              "movies": [
+                {
+                  "title": "Arrowsmith",
+                  "tmdbId": 84298,
+                  "imdbId": "tt0021622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Karl Struss"
+              ],
+              "movies": [
+                {
+                  "title": "Dr. Jekyll and Mr. Hyde",
+                  "tmdbId": 3019,
+                  "imdbId": "tt0022835"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Gordon Wiles"
+              ],
+              "movies": [
+                {
+                  "title": "Transatlantic",
+                  "tmdbId": 87306,
+                  "imdbId": "tt0022500"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lazare Meerson"
+              ],
+              "movies": [
+                {
+                  "title": "À Nous la Liberté",
+                  "tmdbId": 31514,
+                  "imdbId": "tt0022599"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Day"
+              ],
+              "movies": [
+                {
+                  "title": "Arrowsmith",
+                  "tmdbId": 84298,
+                  "imdbId": "tt0021622"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Paramount Publix Studio Sound Department"
+              ],
+              "movies": []
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "MGM Studio Sound Department"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "RKO Radio Studio Sound Department"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "Walt Disney Productions"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "Warner Bros. First National Studio Sound Department"
+              ],
+              "movies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Flowers and Trees"
+              ],
+              "movies": [
+                {
+                  "title": "Flowers and Trees",
+                  "tmdbId": 106112,
+                  "imdbId": "tt0022899"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "It's Got Me Again!"
+              ],
+              "movies": [
+                {
+                  "title": "It's Got Me Again!",
+                  "tmdbId": 100315,
+                  "imdbId": "tt0023067"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mickey's Orphans"
+              ],
+              "movies": [
+                {
+                  "title": "Mickey's Orphans",
+                  "tmdbId": 134360,
+                  "imdbId": "tt0022147"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "The Music Box"
+              ],
+              "movies": [
+                {
+                  "title": "The Music Box",
+                  "tmdbId": 44892,
+                  "imdbId": "tt0023251"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Loud Mouth"
+              ],
+              "movies": [
+                {
+                  "title": "The Loud Mouth",
+                  "tmdbId": 173864,
+                  "imdbId": "tt0023152"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scratch-As-Catch-Can"
+              ],
+              "movies": [
+                {
+                  "title": "Scratch-As-Catch-Can",
+                  "tmdbId": 173861,
+                  "imdbId": "tt0276472"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Wrestling Swordfish"
+              ],
+              "movies": [
+                {
+                  "title": "Wrestling Swordfish",
+                  "tmdbId": 173750,
+                  "imdbId": "tt0023711"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Screen Souvenirs"
+              ],
+              "movies": [
+                {
+                  "title": "Screen Souvenirs",
+                  "tmdbId": 173751,
+                  "imdbId": "tt0023441"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Swing High"
+              ],
+              "movies": [
+                {
+                  "title": "Swing High",
+                  "tmdbId": 173753,
+                  "imdbId": "tt0152771"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

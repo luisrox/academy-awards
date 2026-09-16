@@ -1,0 +1,1873 @@
+{
+  "ceremony": {
+    "ordinal": 12,
+    "ceremonyYear": 1940,
+    "ceremonyDate": "1940-02-29",
+    "filmYearLabel": "1939",
+    "slug": "1940",
+    "decade": "1940s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Gone with the Wind"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dark Victory"
+              ],
+              "movies": [
+                {
+                  "title": "Dark Victory",
+                  "tmdbId": 27972,
+                  "imdbId": "tt0031210"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Goodbye, Mr. Chips"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42852,
+                  "imdbId": "tt0031385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Love Affair"
+              ],
+              "movies": [
+                {
+                  "title": "Love Affair",
+                  "tmdbId": 43739,
+                  "imdbId": "tt0031593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mr. Smith Goes to Washington"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ninotchka"
+              ],
+              "movies": [
+                {
+                  "title": "Ninotchka",
+                  "tmdbId": 1859,
+                  "imdbId": "tt0031725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Of Mice and Men"
+              ],
+              "movies": [
+                {
+                  "title": "Of Mice and Men",
+                  "tmdbId": 51802,
+                  "imdbId": "tt0031742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stagecoach"
+              ],
+              "movies": [
+                {
+                  "title": "Stagecoach",
+                  "tmdbId": 995,
+                  "imdbId": "tt0031971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Wizard of Oz"
+              ],
+              "movies": [
+                {
+                  "title": "The Wizard of Oz",
+                  "tmdbId": 630,
+                  "imdbId": "tt0032138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wuthering Heights"
+              ],
+              "movies": [
+                {
+                  "title": "Wuthering Heights",
+                  "tmdbId": 3084,
+                  "imdbId": "tt0032145"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Victor Fleming"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank Capra"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Ford"
+              ],
+              "movies": [
+                {
+                  "title": "Stagecoach",
+                  "tmdbId": 995,
+                  "imdbId": "tt0031971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Wood"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42852,
+                  "imdbId": "tt0031385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "Wuthering Heights",
+                  "tmdbId": 3084,
+                  "imdbId": "tt0032145"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Robert Donat"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42852,
+                  "imdbId": "tt0031385"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Clark Gable"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "Wuthering Heights",
+                  "tmdbId": 3084,
+                  "imdbId": "tt0032145"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mickey Rooney"
+              ],
+              "movies": [
+                {
+                  "title": "Babes in Arms",
+                  "tmdbId": 32610,
+                  "imdbId": "tt0031066"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Stewart"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Vivien Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bette Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Dark Victory",
+                  "tmdbId": 27972,
+                  "imdbId": "tt0031210"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irene Dunne"
+              ],
+              "movies": [
+                {
+                  "title": "Love Affair",
+                  "tmdbId": 43739,
+                  "imdbId": "tt0031593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greta Garbo"
+              ],
+              "movies": [
+                {
+                  "title": "Ninotchka",
+                  "tmdbId": 1859,
+                  "imdbId": "tt0031725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Greer Garson"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42852,
+                  "imdbId": "tt0031385"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Thomas Mitchell"
+              ],
+              "movies": [
+                {
+                  "title": "Stagecoach",
+                  "tmdbId": 995,
+                  "imdbId": "tt0031971"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Brian Aherne"
+              ],
+              "movies": [
+                {
+                  "title": "Juarez",
+                  "tmdbId": 78318,
+                  "imdbId": "tt0031516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Carey"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Brian Donlevy"
+              ],
+              "movies": [
+                {
+                  "title": "Beau Geste",
+                  "tmdbId": 36851,
+                  "imdbId": "tt0031088"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Claude Rains"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Hattie McDaniel"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Olivia de Havilland"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geraldine Fitzgerald"
+              ],
+              "movies": [
+                {
+                  "title": "Wuthering Heights",
+                  "tmdbId": 3084,
+                  "imdbId": "tt0032145"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edna May Oliver"
+              ],
+              "movies": [
+                {
+                  "title": "Drums Along the Mohawk",
+                  "tmdbId": 73194,
+                  "imdbId": "tt0031252"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maria Ouspenskaya"
+              ],
+              "movies": [
+                {
+                  "title": "Love Affair",
+                  "tmdbId": 43739,
+                  "imdbId": "tt0031593"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Sidney Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Brackett",
+                "Billy Wilder",
+                "Walter Reisch"
+              ],
+              "movies": [
+                {
+                  "title": "Ninotchka",
+                  "tmdbId": 1859,
+                  "imdbId": "tt0031725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Buchman"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ben Hecht",
+                "Charles MacArthur"
+              ],
+              "movies": [
+                {
+                  "title": "Wuthering Heights",
+                  "tmdbId": 3084,
+                  "imdbId": "tt0032145"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eric Maschwitz",
+                "Claudine West",
+                "R.C. Sheriff"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42852,
+                  "imdbId": "tt0031385"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Lewis R. Foster"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mildred Cram",
+                "Leo McCarey"
+              ],
+              "movies": [
+                {
+                  "title": "Love Affair",
+                  "tmdbId": 43739,
+                  "imdbId": "tt0031593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Felix Jackson"
+              ],
+              "movies": [
+                {
+                  "title": "Bachelor Mother",
+                  "tmdbId": 36488,
+                  "imdbId": "tt0031067"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melchior Lengyel"
+              ],
+              "movies": [
+                {
+                  "title": "Ninotchka",
+                  "tmdbId": 1859,
+                  "imdbId": "tt0031725"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lamar Trotti"
+              ],
+              "movies": [
+                {
+                  "title": "Young Mr. Lincoln",
+                  "tmdbId": 43838,
+                  "imdbId": "tt0032155"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Ernest Haller",
+                "Ray Rennahan"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Georges Perinal",
+                "Osmond Borradaile"
+              ],
+              "movies": [
+                {
+                  "title": "The Four Feathers",
+                  "tmdbId": 10568,
+                  "imdbId": "tt0031334"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sol Polito",
+                "W. Howard Greene"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Lives of Elizabeth and Essex",
+                  "tmdbId": 16902,
+                  "imdbId": "tt0031826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ray Rennahan",
+                "Bert Glennon"
+              ],
+              "movies": [
+                {
+                  "title": "Drums Along the Mohawk",
+                  "tmdbId": 73194,
+                  "imdbId": "tt0031252"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Rosson"
+              ],
+              "movies": [
+                {
+                  "title": "The Wizard of Oz",
+                  "tmdbId": 630,
+                  "imdbId": "tt0032138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William V. Skall",
+                "Bernard Knowles"
+              ],
+              "movies": [
+                {
+                  "title": "The Mikado",
+                  "tmdbId": 68201,
+                  "imdbId": "tt0031650"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Gregg Toland"
+              ],
+              "movies": [
+                {
+                  "title": "Wuthering Heights",
+                  "tmdbId": 3084,
+                  "imdbId": "tt0032145"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph H. August"
+              ],
+              "movies": [
+                {
+                  "title": "Gunga Din",
+                  "tmdbId": 24965,
+                  "imdbId": "tt0031398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Norbert Brodine"
+              ],
+              "movies": [
+                {
+                  "title": "Lady of the Tropics",
+                  "tmdbId": 111316,
+                  "imdbId": "tt0031549"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Gaudio"
+              ],
+              "movies": [
+                {
+                  "title": "Juarez",
+                  "tmdbId": 78318,
+                  "imdbId": "tt0031516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bert Glennon"
+              ],
+              "movies": [
+                {
+                  "title": "Stagecoach",
+                  "tmdbId": 995,
+                  "imdbId": "tt0031971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Charles Miller"
+              ],
+              "movies": [
+                {
+                  "title": "The Rains Came",
+                  "tmdbId": 115109,
+                  "imdbId": "tt0031835"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Milner"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Victor Herbert",
+                  "tmdbId": 218321,
+                  "imdbId": "tt0031393"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gregg Toland"
+              ],
+              "movies": [
+                {
+                  "title": "Intermezzo: A Love Story",
+                  "tmdbId": 31868,
+                  "imdbId": "tt0031491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Valentine"
+              ],
+              "movies": [
+                {
+                  "title": "First Love",
+                  "tmdbId": 61645,
+                  "imdbId": "tt0031311"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph Walker"
+              ],
+              "movies": [
+                {
+                  "title": "Only Angels Have Wings",
+                  "tmdbId": 43832,
+                  "imdbId": "tt0031762"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Hal C. Kern",
+                "James E. Newcom"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Frend"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42852,
+                  "imdbId": "tt0031385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gene Havlick",
+                "Al Clark"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Otho Lovering",
+                "Dorothy Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Stagecoach",
+                  "tmdbId": 995,
+                  "imdbId": "tt0031971"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Barbara McLean"
+              ],
+              "movies": [
+                {
+                  "title": "The Rains Came",
+                  "tmdbId": 115109,
+                  "imdbId": "tt0031835"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Lyle Wheeler"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lionel Banks"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Basevi"
+              ],
+              "movies": [
+                {
+                  "title": "Wuthering Heights",
+                  "tmdbId": 3084,
+                  "imdbId": "tt0032145"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William S. Darling",
+                "George Dudley"
+              ],
+              "movies": [
+                {
+                  "title": "The Rains Came",
+                  "tmdbId": 115109,
+                  "imdbId": "tt0031835"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hans Dreier",
+                "Robert Odell"
+              ],
+              "movies": [
+                {
+                  "title": "Beau Geste",
+                  "tmdbId": 36851,
+                  "imdbId": "tt0031088"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "William Horning"
+              ],
+              "movies": [
+                {
+                  "title": "The Wizard of Oz",
+                  "tmdbId": 630,
+                  "imdbId": "tt0032138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Anton Grot"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Lives of Elizabeth and Essex",
+                  "tmdbId": 16902,
+                  "imdbId": "tt0031826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles D. Hall"
+              ],
+              "movies": [
+                {
+                  "title": "Captain Fury",
+                  "tmdbId": 151935,
+                  "imdbId": "tt0031137"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Victor Mackay"
+              ],
+              "movies": [
+                {
+                  "title": "Man of Conquest",
+                  "tmdbId": 192939,
+                  "imdbId": "tt0031620"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Otterson",
+                "Martin Obzina"
+              ],
+              "movies": [
+                {
+                  "title": "First Love",
+                  "tmdbId": 61645,
+                  "imdbId": "tt0031311"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Van Nest Polglase",
+                "Alfred Herman"
+              ],
+              "movies": [
+                {
+                  "title": "Love Affair",
+                  "tmdbId": 43739,
+                  "imdbId": "tt0031593"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexander Toluboff"
+              ],
+              "movies": [
+                {
+                  "title": "Stagecoach",
+                  "tmdbId": 995,
+                  "imdbId": "tt0031971"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "E. H. Hansen",
+                "Fred Sersen"
+              ],
+              "movies": [
+                {
+                  "title": "The Rains Came",
+                  "tmdbId": 115109,
+                  "imdbId": "tt0031835"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jack Cosgrove",
+                "Fred Albin",
+                "Arthur Johns"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Davidson",
+                "Edwin C. Hahn"
+              ],
+              "movies": [
+                {
+                  "title": "Only Angels Have Wings",
+                  "tmdbId": 43832,
+                  "imdbId": "tt0031762"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Farciot Edouart",
+                "Gordon Jennings",
+                "Loren Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "Union Pacific",
+                  "tmdbId": 43837,
+                  "imdbId": "tt0032080"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "The Wizard of Oz",
+                  "tmdbId": 630,
+                  "imdbId": "tt0032138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Byron Haskin",
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Lives of Elizabeth and Essex",
+                  "tmdbId": 16902,
+                  "imdbId": "tt0031826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roy Seawright"
+              ],
+              "movies": [
+                {
+                  "title": "Topper Takes a Trip",
+                  "tmdbId": 54430,
+                  "imdbId": "tt0032043"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Bernard B. Brown"
+              ],
+              "movies": [
+                {
+                  "title": "When Tomorrow Comes",
+                  "tmdbId": 165917,
+                  "imdbId": "tt0032124"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "Balalaika",
+                  "tmdbId": 127570,
+                  "imdbId": "tt0031074"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas T. Moulton"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A.W. Watkins"
+              ],
+              "movies": [
+                {
+                  "title": "Goodbye, Mr. Chips",
+                  "tmdbId": 42852,
+                  "imdbId": "tt0031385"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Loren L. Ryder"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Victor Herbert",
+                  "tmdbId": 218321,
+                  "imdbId": "tt0031393"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Hunchback of Notre Dame",
+                  "tmdbId": 31685,
+                  "imdbId": "tt0031455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles L. Lootens"
+              ],
+              "movies": [
+                {
+                  "title": "Man of Conquest",
+                  "tmdbId": 192939,
+                  "imdbId": "tt0031620"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Livadary"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Raguse"
+              ],
+              "movies": [
+                {
+                  "title": "Of Mice and Men",
+                  "tmdbId": 51802,
+                  "imdbId": "tt0031742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Lives of Elizabeth and Essex",
+                  "tmdbId": 16902,
+                  "imdbId": "tt0031826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "E.H. Hansen"
+              ],
+              "movies": [
+                {
+                  "title": "The Rains Came",
+                  "tmdbId": 115109,
+                  "imdbId": "tt0031835"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Herbert Stothart"
+              ],
+              "movies": [
+                {
+                  "title": "The Wizard of Oz",
+                  "tmdbId": 630,
+                  "imdbId": "tt0032138"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anthony Collins"
+              ],
+              "movies": [
+                {
+                  "title": "Nurse Edith Cavell",
+                  "tmdbId": 218326,
+                  "imdbId": "tt0031737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aaron Copland"
+              ],
+              "movies": [
+                {
+                  "title": "Of Mice and Men",
+                  "tmdbId": 51802,
+                  "imdbId": "tt0031742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lud Gluskin",
+                "Lucien Moraweck"
+              ],
+              "movies": [
+                {
+                  "title": "The Man in the Iron Mask",
+                  "tmdbId": 43836,
+                  "imdbId": "tt0031619"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Werner Janssen"
+              ],
+              "movies": [
+                {
+                  "title": "Eternally Yours",
+                  "tmdbId": 76382,
+                  "imdbId": "tt0031282"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Rains Came",
+                  "tmdbId": 115109,
+                  "imdbId": "tt0031835"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Wuthering Heights",
+                  "tmdbId": 3084,
+                  "imdbId": "tt0032145"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Dark Victory",
+                  "tmdbId": 27972,
+                  "imdbId": "tt0031210"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Steiner"
+              ],
+              "movies": [
+                {
+                  "title": "Gone with the Wind",
+                  "tmdbId": 770,
+                  "imdbId": "tt0031381"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Golden Boy",
+                  "tmdbId": 43529,
+                  "imdbId": "tt0031377"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Gulliver's Travels",
+                  "tmdbId": 42518,
+                  "imdbId": "tt0031397"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Man of Conquest",
+                  "tmdbId": 192939,
+                  "imdbId": "tt0031620"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Richard Hageman",
+                "W. Franke Harling",
+                "John Leipold",
+                "Leo Shuken"
+              ],
+              "movies": [
+                {
+                  "title": "Stagecoach",
+                  "tmdbId": 995,
+                  "imdbId": "tt0031971"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Phil Boutelje",
+                "Arthur Lange"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Victor Herbert",
+                  "tmdbId": 218321,
+                  "imdbId": "tt0031393"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Aaron Copland"
+              ],
+              "movies": [
+                {
+                  "title": "Of Mice and Men",
+                  "tmdbId": 51802,
+                  "imdbId": "tt0031742"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Roger Edens",
+                "George E. Stoll"
+              ],
+              "movies": [
+                {
+                  "title": "Babes in Arms",
+                  "tmdbId": 32610,
+                  "imdbId": "tt0031066"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cy Feuer"
+              ],
+              "movies": [
+                {
+                  "title": "She Married a Cop",
+                  "tmdbId": 218323,
+                  "imdbId": "tt0031921"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lou Forbes"
+              ],
+              "movies": [
+                {
+                  "title": "Intermezzo: A Love Story",
+                  "tmdbId": 31868,
+                  "imdbId": "tt0031491"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Erich Wolfgang Korngold"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Lives of Elizabeth and Essex",
+                  "tmdbId": 16902,
+                  "imdbId": "tt0031826"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "The Hunchback of Notre Dame",
+                  "tmdbId": 31685,
+                  "imdbId": "tt0031455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "They Shall Have Music",
+                  "tmdbId": 130841,
+                  "imdbId": "tt0032023"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Previn"
+              ],
+              "movies": [
+                {
+                  "title": "First Love",
+                  "tmdbId": 61645,
+                  "imdbId": "tt0031311"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Louis Silvers"
+              ],
+              "movies": [
+                {
+                  "title": "Swanee River",
+                  "tmdbId": 118328,
+                  "imdbId": "tt0031996"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Smith Goes to Washington",
+                  "tmdbId": 3083,
+                  "imdbId": "tt0031679"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Victor Young"
+              ],
+              "movies": [
+                {
+                  "title": "Way Down South",
+                  "tmdbId": 151857,
+                  "imdbId": "tt0032114"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Over the Rainbow"
+              ],
+              "movies": [
+                {
+                  "title": "The Wizard of Oz",
+                  "tmdbId": 630,
+                  "imdbId": "tt0032138"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Faithful Forever"
+              ],
+              "movies": [
+                {
+                  "title": "Gulliver's Travels",
+                  "tmdbId": 42518,
+                  "imdbId": "tt0031397"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Poured My Heart Into a Song"
+              ],
+              "movies": [
+                {
+                  "title": "Second Fiddle",
+                  "tmdbId": 43835,
+                  "imdbId": "tt0031907"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wishing"
+              ],
+              "movies": [
+                {
+                  "title": "Love Affair",
+                  "tmdbId": 43739,
+                  "imdbId": "tt0031593"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Ugly Duckling"
+              ],
+              "movies": [
+                {
+                  "title": "The Ugly Duckling",
+                  "tmdbId": 418956,
+                  "imdbId": "tt0032071"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Detouring America"
+              ],
+              "movies": [
+                {
+                  "title": "Detouring America",
+                  "tmdbId": 187326,
+                  "imdbId": "tt0031227"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peace on Earth"
+              ],
+              "movies": [
+                {
+                  "title": "Peace on Earth",
+                  "tmdbId": 46242,
+                  "imdbId": "tt0031790"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Pointer"
+              ],
+              "movies": [
+                {
+                  "title": "The Pointer",
+                  "tmdbId": 67599,
+                  "imdbId": "tt0031803"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "Busy Little Bears"
+              ],
+              "movies": [
+                {
+                  "title": "Busy Little Bears",
+                  "tmdbId": 235657,
+                  "imdbId": "tt0031128"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Information Please: Series 1, No. 1"
+              ],
+              "movies": [
+                {
+                  "title": "Information Please: Series 1, No. 1",
+                  "tmdbId": 235658,
+                  "imdbId": "tt0031484"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Prophet Without Honor"
+              ],
+              "movies": [
+                {
+                  "title": "Prophet Without Honor",
+                  "tmdbId": 235659,
+                  "imdbId": "tt0031827"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sword Fishing"
+              ],
+              "movies": [
+                {
+                  "title": "Sword Fishing",
+                  "tmdbId": 235660,
+                  "imdbId": "tt0032000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Sons of Liberty"
+              ],
+              "movies": [
+                {
+                  "title": "Sons of Liberty",
+                  "tmdbId": 130204,
+                  "imdbId": "tt0031953"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Drunk Driving"
+              ],
+              "movies": [
+                {
+                  "title": "Drunk Driving",
+                  "tmdbId": 235654,
+                  "imdbId": "tt0031253"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Five Times Five"
+              ],
+              "movies": [
+                {
+                  "title": "Five Times Five",
+                  "tmdbId": 235656,
+                  "imdbId": "tt0031316"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

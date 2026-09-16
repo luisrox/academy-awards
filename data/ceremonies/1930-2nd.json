@@ -1,0 +1,644 @@
+{
+  "ceremony": {
+    "ordinal": 2,
+    "ceremonyYear": 1930,
+    "ceremonyDate": "1930-04-03",
+    "filmYearLabel": "1928/29",
+    "slug": "1930-2nd",
+    "decade": "1930s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Broadway Melody"
+              ],
+              "movies": [
+                {
+                  "title": "The Broadway Melody",
+                  "tmdbId": 65203,
+                  "imdbId": "tt0019729"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alibi"
+              ],
+              "movies": [
+                {
+                  "title": "Alibi",
+                  "tmdbId": 13847,
+                  "imdbId": "tt0019630"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hollywood Revue of 1929"
+              ],
+              "movies": [
+                {
+                  "title": "The Hollywood Revue of 1929",
+                  "tmdbId": 31678,
+                  "imdbId": "tt0019993"
+                }
+              ]
+            },
+            {
+              "names": [
+                "In Old Arizona"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Arizona",
+                  "tmdbId": 83989,
+                  "imdbId": "tt0020018"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Patriot"
+              ],
+              "movies": [
+                {
+                  "title": "The Patriot",
+                  "tmdbId": 83990,
+                  "imdbId": "tt0019257"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Frank Lloyd"
+              ],
+              "movies": [
+                {
+                  "title": "The Divine Lady",
+                  "tmdbId": 104214,
+                  "imdbId": "tt0019824"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lionel Barrymore"
+              ],
+              "movies": [
+                {
+                  "title": "Madame X",
+                  "tmdbId": 39075,
+                  "imdbId": "tt0020126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Beaumont"
+              ],
+              "movies": [
+                {
+                  "title": "The Broadway Melody",
+                  "tmdbId": 65203,
+                  "imdbId": "tt0019729"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irving Cummings"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Arizona",
+                  "tmdbId": 83989,
+                  "imdbId": "tt0020018"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Lloyd"
+              ],
+              "movies": [
+                {
+                  "title": "Drag",
+                  "tmdbId": 116269,
+                  "imdbId": "tt0019833"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frank Lloyd"
+              ],
+              "movies": [
+                {
+                  "title": "Weary River",
+                  "tmdbId": 171446,
+                  "imdbId": "tt0019557"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernst Lubitsch"
+              ],
+              "movies": [
+                {
+                  "title": "The Patriot",
+                  "tmdbId": 83990,
+                  "imdbId": "tt0019257"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Warner Baxter"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Arizona",
+                  "tmdbId": 83989,
+                  "imdbId": "tt0020018"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Bancroft"
+              ],
+              "movies": [
+                {
+                  "title": "Thunderbolt",
+                  "tmdbId": 27456,
+                  "imdbId": "tt0020499"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chester Morris"
+              ],
+              "movies": [
+                {
+                  "title": "Alibi",
+                  "tmdbId": 13847,
+                  "imdbId": "tt0019630"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Muni"
+              ],
+              "movies": [
+                {
+                  "title": "The Valiant",
+                  "tmdbId": 113207,
+                  "imdbId": "tt0020543"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lewis Stone"
+              ],
+              "movies": [
+                {
+                  "title": "The Patriot",
+                  "tmdbId": 83990,
+                  "imdbId": "tt0019257"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Mary Pickford"
+              ],
+              "movies": [
+                {
+                  "title": "Coquette",
+                  "tmdbId": 85507,
+                  "imdbId": "tt0019788"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ruth Chatterton"
+              ],
+              "movies": [
+                {
+                  "title": "Madame X",
+                  "tmdbId": 39075,
+                  "imdbId": "tt0020126"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Betty Compson"
+              ],
+              "movies": [
+                {
+                  "title": "The Barker",
+                  "tmdbId": 85634,
+                  "imdbId": "tt0018674"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jeanne Eagels"
+              ],
+              "movies": [
+                {
+                  "title": "The Letter",
+                  "tmdbId": 147846,
+                  "imdbId": "tt0020092"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Corinne Griffith"
+              ],
+              "movies": [
+                {
+                  "title": "The Divine Lady",
+                  "tmdbId": 104214,
+                  "imdbId": "tt0019824"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bessie Love"
+              ],
+              "movies": [
+                {
+                  "title": "The Broadway Melody",
+                  "tmdbId": 65203,
+                  "imdbId": "tt0019729"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Hanns Kraly"
+              ],
+              "movies": [
+                {
+                  "title": "The Patriot",
+                  "tmdbId": 83990,
+                  "imdbId": "tt0019257"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tom Barry"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Arizona",
+                  "tmdbId": 83989,
+                  "imdbId": "tt0020018"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Barry"
+              ],
+              "movies": [
+                {
+                  "title": "The Valiant",
+                  "tmdbId": 113207,
+                  "imdbId": "tt0020543"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elliott Clawson"
+              ],
+              "movies": [
+                {
+                  "title": "The Cop",
+                  "tmdbId": 173570,
+                  "imdbId": "tt0018792"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elliott Clawson"
+              ],
+              "movies": [
+                {
+                  "title": "The Leatherneck",
+                  "tmdbId": 173572,
+                  "imdbId": "tt0020088"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elliott Clawson"
+              ],
+              "movies": [
+                {
+                  "title": "Sal of Singapore",
+                  "tmdbId": 173568,
+                  "imdbId": "tt0019348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elliott Clawson"
+              ],
+              "movies": [
+                {
+                  "title": "Skyscraper",
+                  "tmdbId": 173569,
+                  "imdbId": "tt0019398"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hanns Kraly"
+              ],
+              "movies": [
+                {
+                  "title": "The Last of Mrs. Cheyney",
+                  "tmdbId": 246292,
+                  "imdbId": "tt0020081"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Josephine Lovett"
+              ],
+              "movies": [
+                {
+                  "title": "Our Dancing Daughters",
+                  "tmdbId": 42614,
+                  "imdbId": "tt0019237"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bess Meredyth"
+              ],
+              "movies": [
+                {
+                  "title": "A Woman of Affairs",
+                  "tmdbId": 42615,
+                  "imdbId": "tt0019591"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bess Meredyth"
+              ],
+              "movies": [
+                {
+                  "title": "Wonder of Women",
+                  "tmdbId": 173573,
+                  "imdbId": "tt0020603"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Clyde De Vinna"
+              ],
+              "movies": [
+                {
+                  "title": "White Shadows in the South Seas",
+                  "tmdbId": 53161,
+                  "imdbId": "tt0019574"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "Our Dancing Daughters",
+                  "tmdbId": 42614,
+                  "imdbId": "tt0019237"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Edeson"
+              ],
+              "movies": [
+                {
+                  "title": "In Old Arizona",
+                  "tmdbId": 83989,
+                  "imdbId": "tt0020018"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Palmer"
+              ],
+              "movies": [
+                {
+                  "title": "4 Devils",
+                  "tmdbId": 171624,
+                  "imdbId": "tt0018907"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ernest Palmer"
+              ],
+              "movies": [
+                {
+                  "title": "Street Angel",
+                  "tmdbId": 28391,
+                  "imdbId": "tt0019429"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John F. Seitz"
+              ],
+              "movies": [
+                {
+                  "title": "The Divine Lady",
+                  "tmdbId": 104214,
+                  "imdbId": "tt0019824"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Cedric Gibbons"
+              ],
+              "movies": [
+                {
+                  "title": "The Bridge of San Luis Rey",
+                  "tmdbId": 173582,
+                  "imdbId": "tt0019722"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hans Dreier"
+              ],
+              "movies": [
+                {
+                  "title": "The Patriot",
+                  "tmdbId": 83990,
+                  "imdbId": "tt0019257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mitchell Leisen"
+              ],
+              "movies": [
+                {
+                  "title": "Dynamite",
+                  "tmdbId": 173580,
+                  "imdbId": "tt0019843"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Cameron Menzies"
+              ],
+              "movies": [
+                {
+                  "title": "Alibi",
+                  "tmdbId": 13847,
+                  "imdbId": "tt0019630"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Cameron Menzies"
+              ],
+              "movies": [
+                {
+                  "title": "The Awakening",
+                  "tmdbId": 259361,
+                  "imdbId": "tt0018666"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Oliver"
+              ],
+              "movies": [
+                {
+                  "title": "Street Angel",
+                  "tmdbId": 28391,
+                  "imdbId": "tt0019429"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1583 @@
+{
+  "ceremony": {
+    "ordinal": 65,
+    "ceremonyYear": 1993,
+    "ceremonyDate": "1993-03-29",
+    "filmYearLabel": "1992",
+    "slug": "1993",
+    "decade": "1990s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Unforgiven"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Crying Game"
+              ],
+              "movies": [
+                {
+                  "title": "The Crying Game",
+                  "tmdbId": 11386,
+                  "imdbId": "tt0104036"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Few Good Men"
+              ],
+              "movies": [
+                {
+                  "title": "A Few Good Men",
+                  "tmdbId": 881,
+                  "imdbId": "tt0104257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard's End"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Scent of a Woman"
+              ],
+              "movies": [
+                {
+                  "title": "Scent of a Woman",
+                  "tmdbId": 9475,
+                  "imdbId": "tt0105323"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Clint Eastwood"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Altman"
+              ],
+              "movies": [
+                {
+                  "title": "The Player",
+                  "tmdbId": 10403,
+                  "imdbId": "tt0105151"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martin Brest"
+              ],
+              "movies": [
+                {
+                  "title": "Scent of a Woman",
+                  "tmdbId": 9475,
+                  "imdbId": "tt0105323"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Ivory"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Neil Jordan"
+              ],
+              "movies": [
+                {
+                  "title": "The Crying Game",
+                  "tmdbId": 11386,
+                  "imdbId": "tt0104036"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Al Pacino"
+              ],
+              "movies": [
+                {
+                  "title": "Scent of a Woman",
+                  "tmdbId": 9475,
+                  "imdbId": "tt0105323"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Downey Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Chaplin",
+                  "tmdbId": 10435,
+                  "imdbId": "tt0103939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clint Eastwood"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen Rea"
+              ],
+              "movies": [
+                {
+                  "title": "The Crying Game",
+                  "tmdbId": 11386,
+                  "imdbId": "tt0104036"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Denzel Washington"
+              ],
+              "movies": [
+                {
+                  "title": "Malcolm X",
+                  "tmdbId": 1883,
+                  "imdbId": "tt0104797"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Emma Thompson"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Catherine Deneuve"
+              ],
+              "movies": [
+                {
+                  "title": "Indochine",
+                  "tmdbId": 2731,
+                  "imdbId": "tt0104507"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mary McDonnell"
+              ],
+              "movies": [
+                {
+                  "title": "Passion Fish",
+                  "tmdbId": 41768,
+                  "imdbId": "tt0105107"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michelle Pfeiffer"
+              ],
+              "movies": [
+                {
+                  "title": "Love Field",
+                  "tmdbId": 66599,
+                  "imdbId": "tt0104765"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Susan Sarandon"
+              ],
+              "movies": [
+                {
+                  "title": "Lorenzo's Oil",
+                  "tmdbId": 2007,
+                  "imdbId": "tt0104756"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Gene Hackman"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jaye Davidson"
+              ],
+              "movies": [
+                {
+                  "title": "The Crying Game",
+                  "tmdbId": 11386,
+                  "imdbId": "tt0104036"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Nicholson"
+              ],
+              "movies": [
+                {
+                  "title": "A Few Good Men",
+                  "tmdbId": 881,
+                  "imdbId": "tt0104257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Al Pacino"
+              ],
+              "movies": [
+                {
+                  "title": "Glengarry Glen Ross",
+                  "tmdbId": 9504,
+                  "imdbId": "tt0104348"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Paymer"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Saturday Night",
+                  "tmdbId": 54087,
+                  "imdbId": "tt0104928"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Marisa Tomei"
+              ],
+              "movies": [
+                {
+                  "title": "My Cousin Vinny",
+                  "tmdbId": 10377,
+                  "imdbId": "tt0104952"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Judy Davis"
+              ],
+              "movies": [
+                {
+                  "title": "Husbands and Wives",
+                  "tmdbId": 28384,
+                  "imdbId": "tt0104466"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joan Plowright"
+              ],
+              "movies": [
+                {
+                  "title": "Enchanted April",
+                  "tmdbId": 26561,
+                  "imdbId": "tt0101811"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vanessa Redgrave"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miranda Richardson"
+              ],
+              "movies": [
+                {
+                  "title": "Damage",
+                  "tmdbId": 11012,
+                  "imdbId": "tt0104237"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Neil Jordan"
+              ],
+              "movies": [
+                {
+                  "title": "The Crying Game",
+                  "tmdbId": 11386,
+                  "imdbId": "tt0104036"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Woody Allen"
+              ],
+              "movies": [
+                {
+                  "title": "Husbands and Wives",
+                  "tmdbId": 28384,
+                  "imdbId": "tt0104466"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Miller",
+                "Nick Enright"
+              ],
+              "movies": [
+                {
+                  "title": "Lorenzo's Oil",
+                  "tmdbId": 2007,
+                  "imdbId": "tt0104756"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Sayles"
+              ],
+              "movies": [
+                {
+                  "title": "Passion Fish",
+                  "tmdbId": 41768,
+                  "imdbId": "tt0105107"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Peoples"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Ruth Prawer Jhabvala"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "Enchanted April",
+                  "tmdbId": 26561,
+                  "imdbId": "tt0101811"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Tolkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Player",
+                  "tmdbId": 10403,
+                  "imdbId": "tt0105151"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Friedenberg"
+              ],
+              "movies": [
+                {
+                  "title": "A River Runs Through It",
+                  "tmdbId": 293,
+                  "imdbId": "tt0105265"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bo Goldman"
+              ],
+              "movies": [
+                {
+                  "title": "Scent of a Woman",
+                  "tmdbId": 9475,
+                  "imdbId": "tt0105323"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Indochine"
+              ],
+              "movies": [
+                {
+                  "title": "Indochine",
+                  "tmdbId": 2731,
+                  "imdbId": "tt0104507"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Close to Eden"
+              ],
+              "movies": [
+                {
+                  "title": "Close to Eden",
+                  "tmdbId": 36346,
+                  "imdbId": "tt0103176"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Priest Daens"
+              ],
+              "movies": [
+                {
+                  "title": "Priest Daens",
+                  "tmdbId": 44103,
+                  "imdbId": "tt0104046"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Place in the World"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the World",
+                  "tmdbId": 32635,
+                  "imdbId": "tt0104774"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Schtonk!"
+              ],
+              "movies": [
+                {
+                  "title": "Schtonk!",
+                  "tmdbId": 6547,
+                  "imdbId": "tt0105328"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Panama Deception"
+              ],
+              "movies": [
+                {
+                  "title": "The Panama Deception",
+                  "tmdbId": 41773,
+                  "imdbId": "tt0105089"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Changing Our Minds: The Story of Dr. Evelyn Hooker"
+              ],
+              "movies": [
+                {
+                  "title": "Changing Our Minds: The Story of Dr. Evelyn Hooker",
+                  "tmdbId": 149404,
+                  "imdbId": "tt0103938"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fires of Kuwait"
+              ],
+              "movies": [
+                {
+                  "title": "Fires of Kuwait",
+                  "tmdbId": 26601,
+                  "imdbId": "tt0104275"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Liberators: Fighting on Two Fronts in World War II"
+              ],
+              "movies": [
+                {
+                  "title": "Liberators: Fighting on Two Fronts in World War II",
+                  "tmdbId": 149402,
+                  "imdbId": "tt0104721"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Music for the Movies: Bernard Herrmann"
+              ],
+              "movies": [
+                {
+                  "title": "Music for the Movies: Bernard Herrmann",
+                  "tmdbId": 136645,
+                  "imdbId": "tt0104946"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Philippe Rousselot"
+              ],
+              "movies": [
+                {
+                  "title": "A River Runs Through It",
+                  "tmdbId": 293,
+                  "imdbId": "tt0105265"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Robert Fraisse"
+              ],
+              "movies": [
+                {
+                  "title": "The Lover",
+                  "tmdbId": 10995,
+                  "imdbId": "tt0101316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stephen H. Burum"
+              ],
+              "movies": [
+                {
+                  "title": "Hoffa",
+                  "tmdbId": 10410,
+                  "imdbId": "tt0104427"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tony Pierce-Roberts"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack N. Green"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Joel Cox"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frank J. Urioste"
+              ],
+              "movies": [
+                {
+                  "title": "Basic Instinct",
+                  "tmdbId": 402,
+                  "imdbId": "tt0103772"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kant Pan"
+              ],
+              "movies": [
+                {
+                  "title": "The Crying Game",
+                  "tmdbId": 11386,
+                  "imdbId": "tt0104036"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Leighton"
+              ],
+              "movies": [
+                {
+                  "title": "A Few Good Men",
+                  "tmdbId": 881,
+                  "imdbId": "tt0104257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Geraldine Peroni"
+              ],
+              "movies": [
+                {
+                  "title": "The Player",
+                  "tmdbId": 10403,
+                  "imdbId": "tt0105151"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "Luciana Arrighi",
+                "Ian Whittaker"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Thomas E. Sanders",
+                "Garrett Lewis"
+              ],
+              "movies": [
+                {
+                  "title": "Bram Stoker's Dracula",
+                  "tmdbId": 6114,
+                  "imdbId": "tt0103874"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Craig",
+                "Chris Butler"
+              ],
+              "movies": [
+                {
+                  "title": "Chaplin",
+                  "tmdbId": 10435,
+                  "imdbId": "tt0103939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ferdinando Scarfiotti",
+                "Linda DeScenna"
+              ],
+              "movies": [
+                {
+                  "title": "Toys",
+                  "tmdbId": 11597,
+                  "imdbId": "tt0105629"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Henry Bumstead"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Eiko Ishioka"
+              ],
+              "movies": [
+                {
+                  "title": "Bram Stoker's Dracula",
+                  "tmdbId": 6114,
+                  "imdbId": "tt0103874"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Sheena Napier"
+              ],
+              "movies": [
+                {
+                  "title": "Enchanted April",
+                  "tmdbId": 26561,
+                  "imdbId": "tt0101811"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jenny Beavan",
+                "John Bright"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth E. Carter"
+              ],
+              "movies": [
+                {
+                  "title": "Malcolm X",
+                  "tmdbId": 1883,
+                  "imdbId": "tt0104797"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Albert Wolsky"
+              ],
+              "movies": [
+                {
+                  "title": "Toys",
+                  "tmdbId": 11597,
+                  "imdbId": "tt0105629"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup",
+          "winners": [
+            {
+              "names": [
+                "Greg Cannom",
+                "Michele Burke",
+                "Matthew W. Mungle"
+              ],
+              "movies": [
+                {
+                  "title": "Bram Stoker's Dracula",
+                  "tmdbId": 6114,
+                  "imdbId": "tt0103874"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ve Neill",
+                "Ronnie Spector",
+                "Stan Winston"
+              ],
+              "movies": [
+                {
+                  "title": "Batman Returns",
+                  "tmdbId": 364,
+                  "imdbId": "tt0103776"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ve Neill",
+                "Greg Cannom",
+                "John Blake"
+              ],
+              "movies": [
+                {
+                  "title": "Hoffa",
+                  "tmdbId": 10410,
+                  "imdbId": "tt0104427"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Ken Ralston",
+                "Doug Chiang",
+                "Doug Smythe",
+                "Tom Woodruff Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Death Becomes Her",
+                  "tmdbId": 9374,
+                  "imdbId": "tt0104070"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Edlund",
+                "Alec Gillis",
+                "Tom Woodruff Jr.",
+                "George Gibbs"
+              ],
+              "movies": [
+                {
+                  "title": "Alien³",
+                  "tmdbId": 8077,
+                  "imdbId": "tt0103644"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael L. Fink",
+                "Craig Barron",
+                "John Bruno",
+                "Dennis Skotak"
+              ],
+              "movies": [
+                {
+                  "title": "Batman Returns",
+                  "tmdbId": 364,
+                  "imdbId": "tt0103776"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Chris Jenkins",
+                "Doug Hemphill",
+                "Mark Smith",
+                "Simon Kaye"
+              ],
+              "movies": [
+                {
+                  "title": "The Last of the Mohicans",
+                  "tmdbId": 9361,
+                  "imdbId": "tt0104691"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Terry Porter",
+                "Mel Metcalfe",
+                "David J. Hudson",
+                "Doc Kane"
+              ],
+              "movies": [
+                {
+                  "title": "Aladdin",
+                  "tmdbId": 812,
+                  "imdbId": "tt0103639"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin O'Connell",
+                "Rick Kline",
+                "Robert Eber"
+              ],
+              "movies": [
+                {
+                  "title": "A Few Good Men",
+                  "tmdbId": 881,
+                  "imdbId": "tt0104257"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Donald O. Mitchell",
+                "Frank A. Montano",
+                "Rick Hart",
+                "Scott D. Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Under Siege",
+                  "tmdbId": 8845,
+                  "imdbId": "tt0105690"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Les Frescholtz",
+                "Vern Poore",
+                "Dick Alexander",
+                "Rob Young"
+              ],
+              "movies": [
+                {
+                  "title": "Unforgiven",
+                  "tmdbId": 33,
+                  "imdbId": "tt0105695"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound-editing",
+          "label": "Best Sound Effects Editing",
+          "winners": [
+            {
+              "names": [
+                "Tom McCarthy",
+                "David Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Bram Stoker's Dracula",
+                  "tmdbId": 6114,
+                  "imdbId": "tt0103874"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Mark Mangini"
+              ],
+              "movies": [
+                {
+                  "title": "Aladdin",
+                  "tmdbId": 812,
+                  "imdbId": "tt0103639"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Leveque",
+                "Bruce Stambler"
+              ],
+              "movies": [
+                {
+                  "title": "Under Siege",
+                  "tmdbId": 8845,
+                  "imdbId": "tt0105690"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Alan Menken"
+              ],
+              "movies": [
+                {
+                  "title": "Aladdin",
+                  "tmdbId": 812,
+                  "imdbId": "tt0103639"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jerry Goldsmith"
+              ],
+              "movies": [
+                {
+                  "title": "Basic Instinct",
+                  "tmdbId": 402,
+                  "imdbId": "tt0103772"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Barry"
+              ],
+              "movies": [
+                {
+                  "title": "Chaplin",
+                  "tmdbId": 10435,
+                  "imdbId": "tt0103939"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Robbins"
+              ],
+              "movies": [
+                {
+                  "title": "Howards End",
+                  "tmdbId": 8293,
+                  "imdbId": "tt0104454"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Isham"
+              ],
+              "movies": [
+                {
+                  "title": "A River Runs Through It",
+                  "tmdbId": 293,
+                  "imdbId": "tt0105265"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "A Whole New World"
+              ],
+              "movies": [
+                {
+                  "title": "Aladdin",
+                  "tmdbId": 812,
+                  "imdbId": "tt0103639"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Friend Like Me"
+              ],
+              "movies": [
+                {
+                  "title": "Aladdin",
+                  "tmdbId": 812,
+                  "imdbId": "tt0103639"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Have Nothing"
+              ],
+              "movies": [
+                {
+                  "title": "The Bodyguard",
+                  "tmdbId": 619,
+                  "imdbId": "tt0103855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Run to You"
+              ],
+              "movies": [
+                {
+                  "title": "The Bodyguard",
+                  "tmdbId": 619,
+                  "imdbId": "tt0103855"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Beautiful Maria of My Soul"
+              ],
+              "movies": [
+                {
+                  "title": "The Mambo Kings",
+                  "tmdbId": 40082,
+                  "imdbId": "tt0104802"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Mona Lisa Descending a Staircase"
+              ],
+              "movies": [
+                {
+                  "title": "Mona Lisa Descending a Staircase",
+                  "tmdbId": 188425,
+                  "imdbId": "tt0104908"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adam"
+              ],
+              "movies": [
+                {
+                  "title": "Adam",
+                  "tmdbId": 54821,
+                  "imdbId": "tt0101270"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Words, Words, Words"
+              ],
+              "movies": [
+                {
+                  "title": "Words, Words, Words",
+                  "tmdbId": 116152,
+                  "imdbId": "tt0105224"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Sandman"
+              ],
+              "movies": [
+                {
+                  "title": "The Sandman",
+                  "tmdbId": 48581,
+                  "imdbId": "tt0105311"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Screen Play"
+              ],
+              "movies": [
+                {
+                  "title": "Screen Play",
+                  "tmdbId": 130301,
+                  "imdbId": "tt0105335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Omnibus"
+              ],
+              "movies": [
+                {
+                  "title": "Omnibus",
+                  "tmdbId": 244740,
+                  "imdbId": "tt0105051"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Contact"
+              ],
+              "movies": [
+                {
+                  "title": "Contact",
+                  "tmdbId": 244743,
+                  "imdbId": "tt0104007"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cruise Control"
+              ],
+              "movies": [
+                {
+                  "title": "Cruise Control",
+                  "tmdbId": 244745,
+                  "imdbId": "tt0104032"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Lady in Waiting"
+              ],
+              "movies": [
+                {
+                  "title": "The Lady in Waiting",
+                  "tmdbId": 244746,
+                  "imdbId": "tt0104669"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Swan Song"
+              ],
+              "movies": [
+                {
+                  "title": "Swan Song",
+                  "tmdbId": 244748,
+                  "imdbId": "tt0105506"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Educating Peter"
+              ],
+              "movies": [
+                {
+                  "title": "Educating Peter",
+                  "tmdbId": 244749,
+                  "imdbId": "tt0104167"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "At the Edge of Conquest: The Journey of Chief Wai-Wai"
+              ],
+              "movies": [
+                {
+                  "title": "At the Edge of Conquest: The Journey of Chief Wai-Wai",
+                  "tmdbId": 244750,
+                  "imdbId": "tt0103728"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Beyond Imagining: Margaret Anderson and the 'Little Review'"
+              ],
+              "movies": [
+                {
+                  "title": "Beyond Imagining: Margaret Anderson and the 'Little Review'",
+                  "tmdbId": 244751,
+                  "imdbId": "tt0103803"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Colours of My Father: A Portrait of Sam Borenstein"
+              ],
+              "movies": [
+                {
+                  "title": "The Colours of My Father: A Portrait of Sam Borenstein",
+                  "tmdbId": 244752,
+                  "imdbId": "tt0103985"
+                }
+              ]
+            },
+            {
+              "names": [
+                "When Abortion Was Illegal: Untold Stories"
+              ],
+              "movies": [
+                {
+                  "title": "When Abortion Was Illegal: Untold Stories",
+                  "tmdbId": 244753,
+                  "imdbId": "tt0105805"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

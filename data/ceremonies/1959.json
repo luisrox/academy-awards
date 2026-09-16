@@ -1,0 +1,1572 @@
+{
+  "ceremony": {
+    "ordinal": 31,
+    "ceremonyYear": 1959,
+    "ceremonyDate": "1959-04-06",
+    "filmYearLabel": "1958",
+    "slug": "1959",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Gigi"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Auntie Mame"
+              ],
+              "movies": [
+                {
+                  "title": "Auntie Mame",
+                  "tmdbId": 16347,
+                  "imdbId": "tt0051383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cat on a Hot Tin Roof"
+              ],
+              "movies": [
+                {
+                  "title": "Cat on a Hot Tin Roof",
+                  "tmdbId": 261,
+                  "imdbId": "tt0051459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Defiant Ones"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Separate Tables"
+              ],
+              "movies": [
+                {
+                  "title": "Separate Tables",
+                  "tmdbId": 43136,
+                  "imdbId": "tt0052182"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Vincente Minnelli"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Cat on a Hot Tin Roof",
+                  "tmdbId": 261,
+                  "imdbId": "tt0051459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Wise"
+              ],
+              "movies": [
+                {
+                  "title": "I Want to Live!",
+                  "tmdbId": 28577,
+                  "imdbId": "tt0051758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stanley Kramer"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mark Robson"
+              ],
+              "movies": [
+                {
+                  "title": "The Inn of the Sixth Happiness",
+                  "tmdbId": 37451,
+                  "imdbId": "tt0051776"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "David Niven"
+              ],
+              "movies": [
+                {
+                  "title": "Separate Tables",
+                  "tmdbId": 43136,
+                  "imdbId": "tt0052182"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Tony Curtis"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paul Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Cat on a Hot Tin Roof",
+                  "tmdbId": 261,
+                  "imdbId": "tt0051459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney Poitier"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "The Old Man and the Sea",
+                  "tmdbId": 11331,
+                  "imdbId": "tt0052027"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Susan Hayward"
+              ],
+              "movies": [
+                {
+                  "title": "I Want to Live!",
+                  "tmdbId": 28577,
+                  "imdbId": "tt0051758"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Deborah Kerr"
+              ],
+              "movies": [
+                {
+                  "title": "Separate Tables",
+                  "tmdbId": 43136,
+                  "imdbId": "tt0052182"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shirley MacLaine"
+              ],
+              "movies": [
+                {
+                  "title": "Some Came Running",
+                  "tmdbId": 38724,
+                  "imdbId": "tt0052218"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rosalind Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Auntie Mame",
+                  "tmdbId": 16347,
+                  "imdbId": "tt0051383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elizabeth Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "Cat on a Hot Tin Roof",
+                  "tmdbId": 261,
+                  "imdbId": "tt0051459"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Burl Ives"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Country",
+                  "tmdbId": 12501,
+                  "imdbId": "tt0051411"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Theodore Bikel"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee J. Cobb"
+              ],
+              "movies": [
+                {
+                  "title": "The Brothers Karamazov",
+                  "tmdbId": 43138,
+                  "imdbId": "tt0051435"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Kennedy"
+              ],
+              "movies": [
+                {
+                  "title": "Some Came Running",
+                  "tmdbId": 38724,
+                  "imdbId": "tt0052218"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gig Young"
+              ],
+              "movies": [
+                {
+                  "title": "Teacher's Pet",
+                  "tmdbId": 43137,
+                  "imdbId": "tt0052278"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Wendy Hiller"
+              ],
+              "movies": [
+                {
+                  "title": "Separate Tables",
+                  "tmdbId": 43136,
+                  "imdbId": "tt0052182"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peggy Cass"
+              ],
+              "movies": [
+                {
+                  "title": "Auntie Mame",
+                  "tmdbId": 16347,
+                  "imdbId": "tt0051383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Martha Hyer"
+              ],
+              "movies": [
+                {
+                  "title": "Some Came Running",
+                  "tmdbId": 38724,
+                  "imdbId": "tt0052218"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Maureen Stapleton"
+              ],
+              "movies": [
+                {
+                  "title": "Lonelyhearts",
+                  "tmdbId": 95402,
+                  "imdbId": "tt0053017"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cara Williams"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Nathan E. Douglas (Nedrick Young)",
+                "Harold Jacob Smith"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Melville Shavelson",
+                "Jack Rose"
+              ],
+              "movies": [
+                {
+                  "title": "Houseboat",
+                  "tmdbId": 1377,
+                  "imdbId": "tt0051745"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fay Kanin",
+                "Michael Kanin"
+              ],
+              "movies": [
+                {
+                  "title": "Teacher's Pet",
+                  "tmdbId": 43137,
+                  "imdbId": "tt0052278"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Paddy Chayefsky"
+              ],
+              "movies": [
+                {
+                  "title": "The Goddess",
+                  "tmdbId": 3081,
+                  "imdbId": "tt0051667"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Bowers",
+                "James Edward Grant"
+              ],
+              "movies": [
+                {
+                  "title": "The Sheepman",
+                  "tmdbId": 76568,
+                  "imdbId": "tt0052190"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alan Jay Lerner"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Brooks",
+                "James Poe"
+              ],
+              "movies": [
+                {
+                  "title": "Cat on a Hot Tin Roof",
+                  "tmdbId": 261,
+                  "imdbId": "tt0051459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Don Mankiewicz",
+                "Nelson Gidding"
+              ],
+              "movies": [
+                {
+                  "title": "I Want to Live!",
+                  "tmdbId": 28577,
+                  "imdbId": "tt0051758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Gay",
+                "Terence Rattigan"
+              ],
+              "movies": [
+                {
+                  "title": "Separate Tables",
+                  "tmdbId": 43136,
+                  "imdbId": "tt0052182"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alec Guinness"
+              ],
+              "movies": [
+                {
+                  "title": "The Horse's Mouth",
+                  "tmdbId": 43139,
+                  "imdbId": "tt0051739"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Mon Oncle"
+              ],
+              "movies": [
+                {
+                  "title": "Mon Oncle",
+                  "tmdbId": 427,
+                  "imdbId": "tt0050706"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arms and the Man"
+              ],
+              "movies": [
+                {
+                  "title": "Arms and the Man",
+                  "tmdbId": 192727,
+                  "imdbId": "tt0051712"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Revenge"
+              ],
+              "movies": [
+                {
+                  "title": "Revenge",
+                  "tmdbId": 109827,
+                  "imdbId": "tt0051155"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Year Long Road"
+              ],
+              "movies": [
+                {
+                  "title": "The Year Long Road",
+                  "tmdbId": 202756,
+                  "imdbId": "tt0052250"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Big Deal on Madonna Street"
+              ],
+              "movies": [
+                {
+                  "title": "Big Deal on Madonna Street",
+                  "tmdbId": 24382,
+                  "imdbId": "tt0052216"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "White Wilderness"
+              ],
+              "movies": [
+                {
+                  "title": "White Wilderness",
+                  "tmdbId": 114503,
+                  "imdbId": "tt0052389"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Antarctic Crossing"
+              ],
+              "movies": [
+                {
+                  "title": "Antarctic Crossing",
+                  "tmdbId": 149269,
+                  "imdbId": "tt0051366"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Hidden World"
+              ],
+              "movies": [
+                {
+                  "title": "The Hidden World",
+                  "tmdbId": 149271,
+                  "imdbId": "tt0051719"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Psychiatric Nursing"
+              ],
+              "movies": [
+                {
+                  "title": "Psychiatric Nursing",
+                  "tmdbId": 149272,
+                  "imdbId": "tt0052098"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Joseph Ruttenberg"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry Stradling Sr."
+              ],
+              "movies": [
+                {
+                  "title": "Auntie Mame",
+                  "tmdbId": 16347,
+                  "imdbId": "tt0051383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Daniels"
+              ],
+              "movies": [
+                {
+                  "title": "Cat on a Hot Tin Roof",
+                  "tmdbId": 261,
+                  "imdbId": "tt0051459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "South Pacific",
+                  "tmdbId": 17352,
+                  "imdbId": "tt0052225"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Wong Howe"
+              ],
+              "movies": [
+                {
+                  "title": "The Old Man and the Sea",
+                  "tmdbId": 11331,
+                  "imdbId": "tt0052027"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Sam Leavitt"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Daniel L. Fapp"
+              ],
+              "movies": [
+                {
+                  "title": "Desire Under the Elms",
+                  "tmdbId": 77960,
+                  "imdbId": "tt0051534"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lionel Lindon"
+              ],
+              "movies": [
+                {
+                  "title": "I Want to Live!",
+                  "tmdbId": 28577,
+                  "imdbId": "tt0051758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang Jr."
+              ],
+              "movies": [
+                {
+                  "title": "Separate Tables",
+                  "tmdbId": 43136,
+                  "imdbId": "tt0052182"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph MacDonald"
+              ],
+              "movies": [
+                {
+                  "title": "The Young Lions",
+                  "tmdbId": 40739,
+                  "imdbId": "tt0052415"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Adrienne Fazan"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "William Ziegler"
+              ],
+              "movies": [
+                {
+                  "title": "Auntie Mame",
+                  "tmdbId": 16347,
+                  "imdbId": "tt0051383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Lyon",
+                "Al Clark"
+              ],
+              "movies": [
+                {
+                  "title": "Cowboy",
+                  "tmdbId": 39435,
+                  "imdbId": "tt0051496"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Hornbeck"
+              ],
+              "movies": [
+                {
+                  "title": "I Want to Live!",
+                  "tmdbId": 28577,
+                  "imdbId": "tt0051758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic Knudtson"
+              ],
+              "movies": [
+                {
+                  "title": "The Defiant Ones",
+                  "tmdbId": 11414,
+                  "imdbId": "tt0051525"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction",
+          "winners": [
+            {
+              "names": [
+                "William A. Horning",
+                "E. Preston Ames",
+                "Henry Grace",
+                "F. Keogh Gleason"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lyle Wheeler",
+                "John DeCuir",
+                "Walter M. Scott",
+                "Paul S. Fox"
+              ],
+              "movies": [
+                {
+                  "title": "A Certain Smile",
+                  "tmdbId": 98508,
+                  "imdbId": "tt0051466"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Malcolm Bert",
+                "George James Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Auntie Mame",
+                  "tmdbId": 16347,
+                  "imdbId": "tt0051383"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cary Odell",
+                "Louis Diage"
+              ],
+              "movies": [
+                {
+                  "title": "Bell, Book and Candle",
+                  "tmdbId": 2006,
+                  "imdbId": "tt0051406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Henry Bumstead",
+                "Samuel M. Comer",
+                "Frank McKelvy"
+              ],
+              "movies": [
+                {
+                  "title": "Vertigo",
+                  "tmdbId": 426,
+                  "imdbId": "tt0052357"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Cecil Beaton"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles LeMaire",
+                "Mary Wills"
+              ],
+              "movies": [
+                {
+                  "title": "A Certain Smile",
+                  "tmdbId": 98508,
+                  "imdbId": "tt0051466"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jean Louis"
+              ],
+              "movies": [
+                {
+                  "title": "Bell, Book and Candle",
+                  "tmdbId": 2006,
+                  "imdbId": "tt0051406"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Plunkett"
+              ],
+              "movies": [
+                {
+                  "title": "Some Came Running",
+                  "tmdbId": 38724,
+                  "imdbId": "tt0052218"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph Jester",
+                "Edith Head",
+                "John Jensen"
+              ],
+              "movies": [
+                {
+                  "title": "The Buccaneer",
+                  "tmdbId": 4933,
+                  "imdbId": "tt0051436"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Tom Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Tom Thumb",
+                  "tmdbId": 56931,
+                  "imdbId": "tt0052427"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A. Arnold Gillespie",
+                "Harold Humbrock"
+              ],
+              "movies": [
+                {
+                  "title": "Torpedo Run",
+                  "tmdbId": 69977,
+                  "imdbId": "tt0052303"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Fred Hynes"
+              ],
+              "movies": [
+                {
+                  "title": "South Pacific",
+                  "tmdbId": 17352,
+                  "imdbId": "tt0052225"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "I Want to Live!",
+                  "tmdbId": 28577,
+                  "imdbId": "tt0051758"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leslie I. Carey"
+              ],
+              "movies": [
+                {
+                  "title": "A Time to Love and a Time to Die",
+                  "tmdbId": 84079,
+                  "imdbId": "tt0052296"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Dutton"
+              ],
+              "movies": [
+                {
+                  "title": "Vertigo",
+                  "tmdbId": 426,
+                  "imdbId": "tt0052357"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Carlton W. Faulkner"
+              ],
+              "movies": [
+                {
+                  "title": "The Young Lions",
+                  "tmdbId": 40739,
+                  "imdbId": "tt0052415"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Old Man and the Sea",
+                  "tmdbId": 11331,
+                  "imdbId": "tt0052027"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "David Raksin"
+              ],
+              "movies": [
+                {
+                  "title": "Separate Tables",
+                  "tmdbId": 43136,
+                  "imdbId": "tt0052182"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jerome Moross"
+              ],
+              "movies": [
+                {
+                  "title": "The Big Country",
+                  "tmdbId": 12501,
+                  "imdbId": "tt0051411"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hugo Friedhofer"
+              ],
+              "movies": [
+                {
+                  "title": "The Young Lions",
+                  "tmdbId": 40739,
+                  "imdbId": "tt0052415"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Wallace"
+              ],
+              "movies": [
+                {
+                  "title": "White Wilderness",
+                  "tmdbId": 114503,
+                  "imdbId": "tt0052389"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Andre Previn"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ray Heindorf"
+              ],
+              "movies": [
+                {
+                  "title": "Damn Yankees",
+                  "tmdbId": 41253,
+                  "imdbId": "tt0051516"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lionel Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Mardi Gras",
+                  "tmdbId": 169922,
+                  "imdbId": "tt0051908"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman",
+                "Ken Darby"
+              ],
+              "movies": [
+                {
+                  "title": "South Pacific",
+                  "tmdbId": 17352,
+                  "imdbId": "tt0052225"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Yuri Faier",
+                "G. Rozhdestvensky"
+              ],
+              "movies": [
+                {
+                  "title": "The Bolshoi Ballet",
+                  "tmdbId": 216863,
+                  "imdbId": "tt0051427"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Gigi"
+              ],
+              "movies": [
+                {
+                  "title": "Gigi",
+                  "tmdbId": 17281,
+                  "imdbId": "tt0051658"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Certain Smile"
+              ],
+              "movies": [
+                {
+                  "title": "A Certain Smile",
+                  "tmdbId": 98508,
+                  "imdbId": "tt0051466"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Almost in Your Arms"
+              ],
+              "movies": [
+                {
+                  "title": "Houseboat",
+                  "tmdbId": 1377,
+                  "imdbId": "tt0051745"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Very Precious Love"
+              ],
+              "movies": [
+                {
+                  "title": "Marjorie Morningstar",
+                  "tmdbId": 33731,
+                  "imdbId": "tt0051911"
+                }
+              ]
+            },
+            {
+              "names": [
+                "To Love",
+                "Be Loved"
+              ],
+              "movies": [
+                {
+                  "title": "Some Came Running",
+                  "tmdbId": 38724,
+                  "imdbId": "tt0052218"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Knighty Knight Bugs"
+              ],
+              "movies": [
+                {
+                  "title": "Knighty Knight Bugs",
+                  "tmdbId": 106927,
+                  "imdbId": "tt0051825"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Paul Bunyan"
+              ],
+              "movies": [
+                {
+                  "title": "Paul Bunyan",
+                  "tmdbId": 44293,
+                  "imdbId": "tt0052056"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sidney's Family Tree"
+              ],
+              "movies": [
+                {
+                  "title": "Sidney's Family Tree",
+                  "tmdbId": 234971,
+                  "imdbId": "tt0052195"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Grand Canyon"
+              ],
+              "movies": [
+                {
+                  "title": "Grand Canyon",
+                  "tmdbId": 47384,
+                  "imdbId": "tt0051677"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Journey Into Spring"
+              ],
+              "movies": [
+                {
+                  "title": "Journey Into Spring",
+                  "tmdbId": 243167,
+                  "imdbId": "tt0051802"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Kiss"
+              ],
+              "movies": [
+                {
+                  "title": "The Kiss",
+                  "tmdbId": 243171,
+                  "imdbId": "tt0051821"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Snows of Aorangi"
+              ],
+              "movies": [
+                {
+                  "title": "Snows of Aorangi",
+                  "tmdbId": 243173,
+                  "imdbId": "tt0052208"
+                }
+              ]
+            },
+            {
+              "names": [
+                "T Is for Tumbleweed"
+              ],
+              "movies": [
+                {
+                  "title": "T Is for Tumbleweed",
+                  "tmdbId": 243175,
+                  "imdbId": "tt0052267"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Ama Girls"
+              ],
+              "movies": [
+                {
+                  "title": "Ama Girls",
+                  "tmdbId": 243179,
+                  "imdbId": "tt0051339"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Employees Only"
+              ],
+              "movies": [
+                {
+                  "title": "Employees Only",
+                  "tmdbId": 243180,
+                  "imdbId": "tt0051578"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Journey Into Spring"
+              ],
+              "movies": [
+                {
+                  "title": "Journey Into Spring",
+                  "tmdbId": 243167,
+                  "imdbId": "tt0051802"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Living Stone"
+              ],
+              "movies": [
+                {
+                  "title": "The Living Stone",
+                  "tmdbId": 243181,
+                  "imdbId": "tt0051872"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Overture"
+              ],
+              "movies": [
+                {
+                  "title": "Overture",
+                  "tmdbId": 243182,
+                  "imdbId": "tt0052020"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1705 @@
+{
+  "ceremony": {
+    "ordinal": 33,
+    "ceremonyYear": 1961,
+    "ceremonyDate": "1961-04-17",
+    "filmYearLabel": "1960",
+    "slug": "1961",
+    "decade": "1960s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "The Apartment"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Alamo"
+              ],
+              "movies": [
+                {
+                  "title": "The Alamo",
+                  "tmdbId": 11209,
+                  "imdbId": "tt0053580"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Gantry"
+              ],
+              "movies": [
+                {
+                  "title": "Elmer Gantry",
+                  "tmdbId": 22013,
+                  "imdbId": "tt0053793"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sons and Lovers"
+              ],
+              "movies": [
+                {
+                  "title": "Sons and Lovers",
+                  "tmdbId": 53939,
+                  "imdbId": "tt0054326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Sundowners"
+              ],
+              "movies": [
+                {
+                  "title": "The Sundowners",
+                  "tmdbId": 43047,
+                  "imdbId": "tt0054353"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfred Hitchcock"
+              ],
+              "movies": [
+                {
+                  "title": "Psycho",
+                  "tmdbId": 539,
+                  "imdbId": "tt0054215"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jules Dassin"
+              ],
+              "movies": [
+                {
+                  "title": "Never on Sunday",
+                  "tmdbId": 43039,
+                  "imdbId": "tt0054198"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Cardiff"
+              ],
+              "movies": [
+                {
+                  "title": "Sons and Lovers",
+                  "tmdbId": 53939,
+                  "imdbId": "tt0054326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Fred Zinnemann"
+              ],
+              "movies": [
+                {
+                  "title": "The Sundowners",
+                  "tmdbId": 43047,
+                  "imdbId": "tt0054353"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Burt Lancaster"
+              ],
+              "movies": [
+                {
+                  "title": "Elmer Gantry",
+                  "tmdbId": 22013,
+                  "imdbId": "tt0053793"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Trevor Howard"
+              ],
+              "movies": [
+                {
+                  "title": "Sons and Lovers",
+                  "tmdbId": 53939,
+                  "imdbId": "tt0054326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Lemmon"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Laurence Olivier"
+              ],
+              "movies": [
+                {
+                  "title": "The Entertainer",
+                  "tmdbId": 18929,
+                  "imdbId": "tt0053796"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Spencer Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "Inherit the Wind",
+                  "tmdbId": 1908,
+                  "imdbId": "tt0053946"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Elizabeth Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "BUtterfield 8",
+                  "tmdbId": 23724,
+                  "imdbId": "tt0053622"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Greer Garson"
+              ],
+              "movies": [
+                {
+                  "title": "Sunrise at Campobello",
+                  "tmdbId": 72354,
+                  "imdbId": "tt0054354"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Deborah Kerr"
+              ],
+              "movies": [
+                {
+                  "title": "The Sundowners",
+                  "tmdbId": 43047,
+                  "imdbId": "tt0054353"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shirley MacLaine"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melina Mercouri"
+              ],
+              "movies": [
+                {
+                  "title": "Never on Sunday",
+                  "tmdbId": 43039,
+                  "imdbId": "tt0054198"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Peter Ustinov"
+              ],
+              "movies": [
+                {
+                  "title": "Spartacus",
+                  "tmdbId": 967,
+                  "imdbId": "tt0054331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Falk"
+              ],
+              "movies": [
+                {
+                  "title": "Murder, Inc.",
+                  "tmdbId": 15375,
+                  "imdbId": "tt0054102"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jack Kruschen"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sal Mineo"
+              ],
+              "movies": [
+                {
+                  "title": "Exodus",
+                  "tmdbId": 1941,
+                  "imdbId": "tt0053804"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chill Wills"
+              ],
+              "movies": [
+                {
+                  "title": "The Alamo",
+                  "tmdbId": 11209,
+                  "imdbId": "tt0053580"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Shirley Jones"
+              ],
+              "movies": [
+                {
+                  "title": "Elmer Gantry",
+                  "tmdbId": 22013,
+                  "imdbId": "tt0053793"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Glynis Johns"
+              ],
+              "movies": [
+                {
+                  "title": "The Sundowners",
+                  "tmdbId": 43047,
+                  "imdbId": "tt0054353"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shirley Knight"
+              ],
+              "movies": [
+                {
+                  "title": "The Dark at the Top of the Stairs",
+                  "tmdbId": 114875,
+                  "imdbId": "tt0053750"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Janet Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "Psycho",
+                  "tmdbId": 539,
+                  "imdbId": "tt0054215"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mary Ure"
+              ],
+              "movies": [
+                {
+                  "title": "Sons and Lovers",
+                  "tmdbId": 53939,
+                  "imdbId": "tt0054326"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "I. A. L. Diamond",
+                "Billy Wilder"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jules Dassin"
+              ],
+              "movies": [
+                {
+                  "title": "Never on Sunday",
+                  "tmdbId": 43039,
+                  "imdbId": "tt0054198"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marguerite Duras"
+              ],
+              "movies": [
+                {
+                  "title": "Hiroshima Mon Amour",
+                  "tmdbId": 5544,
+                  "imdbId": "tt0052893"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Richard Gregson",
+                "Bryan Forbes",
+                "Michael Craig"
+              ],
+              "movies": [
+                {
+                  "title": "The Angry Silence",
+                  "tmdbId": 83995,
+                  "imdbId": "tt0053602"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Melvin Frank",
+                "Norman Panama"
+              ],
+              "movies": [
+                {
+                  "title": "The Facts of Life",
+                  "tmdbId": 39219,
+                  "imdbId": "tt0053810"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Richard Brooks"
+              ],
+              "movies": [
+                {
+                  "title": "Elmer Gantry",
+                  "tmdbId": 22013,
+                  "imdbId": "tt0053793"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nathan E. Douglas (Nedrick Young)",
+                "Harold Jacob Smith"
+              ],
+              "movies": [
+                {
+                  "title": "Inherit the Wind",
+                  "tmdbId": 1908,
+                  "imdbId": "tt0053946"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gavin Lambert",
+                "T.E.B. Clarke"
+              ],
+              "movies": [
+                {
+                  "title": "Sons and Lovers",
+                  "tmdbId": 53939,
+                  "imdbId": "tt0054326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Isobel Lennart"
+              ],
+              "movies": [
+                {
+                  "title": "The Sundowners",
+                  "tmdbId": 43047,
+                  "imdbId": "tt0054353"
+                }
+              ]
+            },
+            {
+              "names": [
+                "James Kennaway"
+              ],
+              "movies": [
+                {
+                  "title": "Tunes of Glory",
+                  "tmdbId": 43048,
+                  "imdbId": "tt0054412"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "The Virgin Spring"
+              ],
+              "movies": [
+                {
+                  "title": "The Virgin Spring",
+                  "tmdbId": 11656,
+                  "imdbId": "tt0053976"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kapo"
+              ],
+              "movies": [
+                {
+                  "title": "Kapo",
+                  "tmdbId": 45884,
+                  "imdbId": "tt0052961"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Truth"
+              ],
+              "movies": [
+                {
+                  "title": "The Truth",
+                  "tmdbId": 61711,
+                  "imdbId": "tt0054452"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Macario"
+              ],
+              "movies": [
+                {
+                  "title": "Macario",
+                  "tmdbId": 122019,
+                  "imdbId": "tt0054042"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Ninth Circle"
+              ],
+              "movies": [
+                {
+                  "title": "The Ninth Circle",
+                  "tmdbId": 198909,
+                  "imdbId": "tt0053764"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "The Horse with the Flying Tail"
+              ],
+              "movies": [
+                {
+                  "title": "The Horse with the Flying Tail",
+                  "tmdbId": 114506,
+                  "imdbId": "tt0054993"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rebel in Paradise"
+              ],
+              "movies": [
+                {
+                  "title": "Rebel in Paradise",
+                  "tmdbId": 149279,
+                  "imdbId": "tt0054235"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Russell Metty"
+              ],
+              "movies": [
+                {
+                  "title": "Spartacus",
+                  "tmdbId": 967,
+                  "imdbId": "tt0054331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph Ruttenberg",
+                "Charles Harten"
+              ],
+              "movies": [
+                {
+                  "title": "BUtterfield 8",
+                  "tmdbId": 23724,
+                  "imdbId": "tt0053622"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sam Leavitt"
+              ],
+              "movies": [
+                {
+                  "title": "Exodus",
+                  "tmdbId": 1941,
+                  "imdbId": "tt0053804"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph MacDonald"
+              ],
+              "movies": [
+                {
+                  "title": "Pepe",
+                  "tmdbId": 82792,
+                  "imdbId": "tt0054172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William H. Clothier"
+              ],
+              "movies": [
+                {
+                  "title": "The Alamo",
+                  "tmdbId": 11209,
+                  "imdbId": "tt0053580"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Freddie Francis"
+              ],
+              "movies": [
+                {
+                  "title": "Sons and Lovers",
+                  "tmdbId": 53939,
+                  "imdbId": "tt0054326"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ernest Laszlo"
+              ],
+              "movies": [
+                {
+                  "title": "Inherit the Wind",
+                  "tmdbId": 1908,
+                  "imdbId": "tt0053946"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John L. Russell"
+              ],
+              "movies": [
+                {
+                  "title": "Psycho",
+                  "tmdbId": 539,
+                  "imdbId": "tt0054215"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph LaShelle"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Lang Jr."
+              ],
+              "movies": [
+                {
+                  "title": "The Facts of Life",
+                  "tmdbId": 39219,
+                  "imdbId": "tt0053810"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Daniel Mandell"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Frederic Knudtson"
+              ],
+              "movies": [
+                {
+                  "title": "Inherit the Wind",
+                  "tmdbId": 1908,
+                  "imdbId": "tt0053946"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Viola Lawrence",
+                "Al Clark"
+              ],
+              "movies": [
+                {
+                  "title": "Pepe",
+                  "tmdbId": 82792,
+                  "imdbId": "tt0054172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Lawrence"
+              ],
+              "movies": [
+                {
+                  "title": "Spartacus",
+                  "tmdbId": 967,
+                  "imdbId": "tt0054331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stuart Gilmore"
+              ],
+              "movies": [
+                {
+                  "title": "The Alamo",
+                  "tmdbId": 11209,
+                  "imdbId": "tt0053580"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "Alexander Golitzen",
+                "Eric Orbom",
+                "Russell A. Gausman",
+                "Julia Heron"
+              ],
+              "movies": [
+                {
+                  "title": "Spartacus",
+                  "tmdbId": 967,
+                  "imdbId": "tt0054331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Davis",
+                "Addison Hehr",
+                "Henry Grace",
+                "Hugh Hunt",
+                "Otto Siegel"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 46623,
+                  "imdbId": "tt0053715"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Roland Anderson",
+                "Samuel M. Comer",
+                "Arrigo Breschi"
+              ],
+              "movies": [
+                {
+                  "title": "It Started in Naples",
+                  "tmdbId": 38151,
+                  "imdbId": "tt0053957"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ted Haworth",
+                "William Kiernan"
+              ],
+              "movies": [
+                {
+                  "title": "Pepe",
+                  "tmdbId": 82792,
+                  "imdbId": "tt0054172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Carrere",
+                "George James Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "Sunrise at Campobello",
+                  "tmdbId": 72354,
+                  "imdbId": "tt0054354"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Alexander Trauner",
+                "Edward G. Boyle"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joseph Hurley",
+                "Robert Clatworthy",
+                "George Milo"
+              ],
+              "movies": [
+                {
+                  "title": "Psycho",
+                  "tmdbId": 539,
+                  "imdbId": "tt0054215"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tom Morahan",
+                "Lionel Couch"
+              ],
+              "movies": [
+                {
+                  "title": "Sons and Lovers",
+                  "tmdbId": 53939,
+                  "imdbId": "tt0054326"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joseph McMillan Johnson",
+                "Kenneth A. Reid",
+                "Ross Dowd"
+              ],
+              "movies": [
+                {
+                  "title": "The Facts of Life",
+                  "tmdbId": 39219,
+                  "imdbId": "tt0053810"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hal Pereira",
+                "Walter Tyler",
+                "Samuel M. Comer",
+                "Arthur Krams"
+              ],
+              "movies": [
+                {
+                  "title": "Visit to a Small Planet",
+                  "tmdbId": 88376,
+                  "imdbId": "tt0054446"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Arlington Valles",
+                "Bill Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "Spartacus",
+                  "tmdbId": 967,
+                  "imdbId": "tt0054331"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "Can-Can",
+                  "tmdbId": 33726,
+                  "imdbId": "tt0053690"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Irene Lentz"
+              ],
+              "movies": [
+                {
+                  "title": "Midnight Lace",
+                  "tmdbId": 12617,
+                  "imdbId": "tt0054084"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "Pepe",
+                  "tmdbId": 82792,
+                  "imdbId": "tt0054172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marjorie Best"
+              ],
+              "movies": [
+                {
+                  "title": "Sunrise at Campobello",
+                  "tmdbId": 72354,
+                  "imdbId": "tt0054354"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Edith Head",
+                "Edward Stevenson"
+              ],
+              "movies": [
+                {
+                  "title": "The Facts of Life",
+                  "tmdbId": 39219,
+                  "imdbId": "tt0053810"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Deni Vachlioti"
+              ],
+              "movies": [
+                {
+                  "title": "Never on Sunday",
+                  "tmdbId": 43039,
+                  "imdbId": "tt0054198"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marik Vos"
+              ],
+              "movies": [
+                {
+                  "title": "The Virgin Spring",
+                  "tmdbId": 11656,
+                  "imdbId": "tt0053976"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Bill Thomas"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Thieves",
+                  "tmdbId": 64605,
+                  "imdbId": "tt0054295"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Howard Shoup"
+              ],
+              "movies": [
+                {
+                  "title": "The Rise and Fall of Legs Diamond",
+                  "tmdbId": 43046,
+                  "imdbId": "tt0054243"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Gene Warren",
+                "Tim Baar"
+              ],
+              "movies": [
+                {
+                  "title": "The Time Machine",
+                  "tmdbId": 2134,
+                  "imdbId": "tt0054387"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A.J. Lohman"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Voyage",
+                  "tmdbId": 37605,
+                  "imdbId": "tt0054016"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Fred Hynes",
+                "Gordon Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "The Alamo",
+                  "tmdbId": 11209,
+                  "imdbId": "tt0053580"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "The Apartment",
+                  "tmdbId": 284,
+                  "imdbId": "tt0053604"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franklin Milton"
+              ],
+              "movies": [
+                {
+                  "title": "Cimarron",
+                  "tmdbId": 46623,
+                  "imdbId": "tt0053715"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles Rice"
+              ],
+              "movies": [
+                {
+                  "title": "Pepe",
+                  "tmdbId": 82792,
+                  "imdbId": "tt0054172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Groves"
+              ],
+              "movies": [
+                {
+                  "title": "Sunrise at Campobello",
+                  "tmdbId": 72354,
+                  "imdbId": "tt0054354"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Ernest Gold"
+              ],
+              "movies": [
+                {
+                  "title": "Exodus",
+                  "tmdbId": 1941,
+                  "imdbId": "tt0053804"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Andre Previn"
+              ],
+              "movies": [
+                {
+                  "title": "Elmer Gantry",
+                  "tmdbId": 22013,
+                  "imdbId": "tt0053793"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "Spartacus",
+                  "tmdbId": 967,
+                  "imdbId": "tt0054331"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dimitri Tiomkin"
+              ],
+              "movies": [
+                {
+                  "title": "The Alamo",
+                  "tmdbId": 11209,
+                  "imdbId": "tt0053580"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elmer Bernstein"
+              ],
+              "movies": [
+                {
+                  "title": "The Magnificent Seven",
+                  "tmdbId": 966,
+                  "imdbId": "tt0054047"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Morris Stoloff",
+                "Harry Sukman"
+              ],
+              "movies": [
+                {
+                  "title": "Song Without End",
+                  "tmdbId": 129553,
+                  "imdbId": "tt0054324"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Andre Previn"
+              ],
+              "movies": [
+                {
+                  "title": "Bells Are Ringing",
+                  "tmdbId": 43029,
+                  "imdbId": "tt0053645"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nelson Riddle"
+              ],
+              "movies": [
+                {
+                  "title": "Can-Can",
+                  "tmdbId": 33726,
+                  "imdbId": "tt0053690"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Johnny Green"
+              ],
+              "movies": [
+                {
+                  "title": "Pepe",
+                  "tmdbId": 82792,
+                  "imdbId": "tt0054172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lionel Newman",
+                "Earle H. Hagen"
+              ],
+              "movies": [
+                {
+                  "title": "Let's Make Love",
+                  "tmdbId": 24014,
+                  "imdbId": "tt0054022"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Never on Sunday"
+              ],
+              "movies": [
+                {
+                  "title": "Never on Sunday",
+                  "tmdbId": 43039,
+                  "imdbId": "tt0054198"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Second Time Around"
+              ],
+              "movies": [
+                {
+                  "title": "High Time",
+                  "tmdbId": 104602,
+                  "imdbId": "tt0053912"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Faraway Part of Town"
+              ],
+              "movies": [
+                {
+                  "title": "Pepe",
+                  "tmdbId": 82792,
+                  "imdbId": "tt0054172"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Green Leaves of Summer"
+              ],
+              "movies": [
+                {
+                  "title": "The Alamo",
+                  "tmdbId": 11209,
+                  "imdbId": "tt0053580"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Facts of Life"
+              ],
+              "movies": [
+                {
+                  "title": "The Facts of Life",
+                  "tmdbId": 39219,
+                  "imdbId": "tt0053810"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "Munro"
+              ],
+              "movies": [
+                {
+                  "title": "Munro",
+                  "tmdbId": 220905,
+                  "imdbId": "tt0054100"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Goliath II"
+              ],
+              "movies": [
+                {
+                  "title": "Goliath II",
+                  "tmdbId": 55566,
+                  "imdbId": "tt0053875"
+                }
+              ]
+            },
+            {
+              "names": [
+                "High Note"
+              ],
+              "movies": [
+                {
+                  "title": "High Note",
+                  "tmdbId": 134102,
+                  "imdbId": "tt0053909"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mouse and Garden"
+              ],
+              "movies": [
+                {
+                  "title": "Mouse and Garden",
+                  "tmdbId": 234760,
+                  "imdbId": "tt0054096"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Place in the Sun"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 243195,
+                  "imdbId": "tt0054186"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "Day of the Painter"
+              ],
+              "movies": [
+                {
+                  "title": "Day of the Painter",
+                  "tmdbId": 243193,
+                  "imdbId": "tt0053753"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Creation of Woman"
+              ],
+              "movies": [
+                {
+                  "title": "The Creation of Woman",
+                  "tmdbId": 185159,
+                  "imdbId": "tt0053737"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Islands of the Sea"
+              ],
+              "movies": [
+                {
+                  "title": "Islands of the Sea",
+                  "tmdbId": 75982,
+                  "imdbId": "tt0053956"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Sport Is Born"
+              ],
+              "movies": [
+                {
+                  "title": "A Sport Is Born",
+                  "tmdbId": 243194,
+                  "imdbId": "tt0054335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Giuseppina"
+              ],
+              "movies": [
+                {
+                  "title": "Giuseppina",
+                  "tmdbId": 243196,
+                  "imdbId": "tt0053866"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Beyond Silence"
+              ],
+              "movies": [
+                {
+                  "title": "Beyond Silence",
+                  "tmdbId": 243198,
+                  "imdbId": "tt0053649"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A City Called Copenhagen"
+              ],
+              "movies": [
+                {
+                  "title": "A City Called Copenhagen",
+                  "tmdbId": 243200,
+                  "imdbId": "tt0053685"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Grosz' Interregnum"
+              ],
+              "movies": [
+                {
+                  "title": "George Grosz' Interregnum",
+                  "tmdbId": 243201,
+                  "imdbId": "tt0053858"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Universe"
+              ],
+              "movies": [
+                {
+                  "title": "Universe",
+                  "tmdbId": 178729,
+                  "imdbId": "tt0054429"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

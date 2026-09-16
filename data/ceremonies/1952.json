@@ -1,0 +1,1708 @@
+{
+  "ceremony": {
+    "ordinal": 24,
+    "ceremonyYear": 1952,
+    "ceremonyDate": "1952-03-20",
+    "filmYearLabel": "1951",
+    "slug": "1952",
+    "decade": "1950s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "An American in Paris"
+              ],
+              "movies": [
+                {
+                  "title": "An American in Paris",
+                  "tmdbId": 2769,
+                  "imdbId": "tt0043278"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Decision Before Dawn"
+              ],
+              "movies": [
+                {
+                  "title": "Decision Before Dawn",
+                  "tmdbId": 4461,
+                  "imdbId": "tt0043459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Place in the Sun"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Quo Vadis"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis",
+                  "tmdbId": 11620,
+                  "imdbId": "tt0043949"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Streetcar Named Desire"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "George Stevens"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The African Queen",
+                  "tmdbId": 488,
+                  "imdbId": "tt0043265"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elia Kazan"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Vincente Minnelli"
+              ],
+              "movies": [
+                {
+                  "title": "An American in Paris",
+                  "tmdbId": 2769,
+                  "imdbId": "tt0043278"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "Detective Story",
+                  "tmdbId": 20853,
+                  "imdbId": "tt0043465"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Humphrey Bogart"
+              ],
+              "movies": [
+                {
+                  "title": "The African Queen",
+                  "tmdbId": 488,
+                  "imdbId": "tt0043265"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Marlon Brando"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Montgomery Clift"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Arthur Kennedy"
+              ],
+              "movies": [
+                {
+                  "title": "Bright Victory",
+                  "tmdbId": 109258,
+                  "imdbId": "tt0043361"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frederic March"
+              ],
+              "movies": [
+                {
+                  "title": "Death of a Salesman",
+                  "tmdbId": 104394,
+                  "imdbId": "tt0043458"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Vivien Leigh"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Katharine Hepburn"
+              ],
+              "movies": [
+                {
+                  "title": "The African Queen",
+                  "tmdbId": 488,
+                  "imdbId": "tt0043265"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Eleanor Parker"
+              ],
+              "movies": [
+                {
+                  "title": "Detective Story",
+                  "tmdbId": 20853,
+                  "imdbId": "tt0043465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Shelley Winters"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Wyman"
+              ],
+              "movies": [
+                {
+                  "title": "The Blue Veil",
+                  "tmdbId": 114081,
+                  "imdbId": "tt0043350"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Karl Malden"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leo Genn"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis",
+                  "tmdbId": 11620,
+                  "imdbId": "tt0043949"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kevin McCarthy"
+              ],
+              "movies": [
+                {
+                  "title": "Death of a Salesman",
+                  "tmdbId": 104394,
+                  "imdbId": "tt0043458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Peter Ustinov"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis",
+                  "tmdbId": 11620,
+                  "imdbId": "tt0043949"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gig Young"
+              ],
+              "movies": [
+                {
+                  "title": "Come Fill the Cup",
+                  "tmdbId": 150808,
+                  "imdbId": "tt0043424"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Kim Hunter"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Joan Blondell"
+              ],
+              "movies": [
+                {
+                  "title": "The Blue Veil",
+                  "tmdbId": 114081,
+                  "imdbId": "tt0043350"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Mildred Dunnock"
+              ],
+              "movies": [
+                {
+                  "title": "Death of a Salesman",
+                  "tmdbId": 104394,
+                  "imdbId": "tt0043458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lee Grant"
+              ],
+              "movies": [
+                {
+                  "title": "Detective Story",
+                  "tmdbId": 20853,
+                  "imdbId": "tt0043465"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thelma Ritter"
+              ],
+              "movies": [
+                {
+                  "title": "The Mating Season",
+                  "tmdbId": 108232,
+                  "imdbId": "tt0043792"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Alan Jay Lerner"
+              ],
+              "movies": [
+                {
+                  "title": "An American in Paris",
+                  "tmdbId": 2769,
+                  "imdbId": "tt0043278"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Philip Dunne"
+              ],
+              "movies": [
+                {
+                  "title": "David and Bathsheba",
+                  "tmdbId": 42567,
+                  "imdbId": "tt0043455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Clarence Greene",
+                "Russell Rouse"
+              ],
+              "movies": [
+                {
+                  "title": "The Well",
+                  "tmdbId": 29112,
+                  "imdbId": "tt0044202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Pirosh"
+              ],
+              "movies": [
+                {
+                  "title": "Go for Broke!",
+                  "tmdbId": 37214,
+                  "imdbId": "tt0043590"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Billy Wilder",
+                "Lesser Samuels",
+                "Walter Newman"
+              ],
+              "movies": [
+                {
+                  "title": "Ace in the Hole",
+                  "tmdbId": 25364,
+                  "imdbId": "tt0043338"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Harry Brown",
+                "Michael Wilson"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "James Agee",
+                "John Huston"
+              ],
+              "movies": [
+                {
+                  "title": "The African Queen",
+                  "tmdbId": 488,
+                  "imdbId": "tt0043265"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacques Natanson",
+                "Max Ophuls"
+              ],
+              "movies": [
+                {
+                  "title": "La Ronde",
+                  "tmdbId": 50030,
+                  "imdbId": "tt0042906"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Tennessee Williams"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Philip Yordan",
+                "Robert Wyler"
+              ],
+              "movies": [
+                {
+                  "title": "Detective Story",
+                  "tmdbId": 20853,
+                  "imdbId": "tt0043465"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "James Bernard",
+                "Paul Dehn"
+              ],
+              "movies": [
+                {
+                  "title": "Seven Days to Noon",
+                  "tmdbId": 46932,
+                  "imdbId": "tt0042949"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Budd Boetticher",
+                "Ray Nazarro"
+              ],
+              "movies": [
+                {
+                  "title": "Bullfighter and the Lady",
+                  "tmdbId": 77650,
+                  "imdbId": "tt0043363"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Hayes",
+                "Stewart Stern"
+              ],
+              "movies": [
+                {
+                  "title": "Teresa",
+                  "tmdbId": 217948,
+                  "imdbId": "tt0044112"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oscar Millard"
+              ],
+              "movies": [
+                {
+                  "title": "The Frogmen",
+                  "tmdbId": 44890,
+                  "imdbId": "tt0043565"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Riskin",
+                "Liam O'Brien"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes the Groom",
+                  "tmdbId": 27629,
+                  "imdbId": "tt0043633"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-international-feature",
+          "label": "Best Foreign Language Film",
+          "winners": [
+            {
+              "names": [
+                "Rashomon"
+              ],
+              "movies": [
+                {
+                  "title": "Rashomon",
+                  "tmdbId": 548,
+                  "imdbId": "tt0042876"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature",
+          "winners": [
+            {
+              "names": [
+                "Kon-Tiki"
+              ],
+              "movies": [
+                {
+                  "title": "Kon-Tiki",
+                  "tmdbId": 20088,
+                  "imdbId": "tt0042650"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "I Was a Communist for the FBI"
+              ],
+              "movies": [
+                {
+                  "title": "I Was a Communist for the FBI",
+                  "tmdbId": 49508,
+                  "imdbId": "tt0043665"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography (Color)",
+          "winners": [
+            {
+              "names": [
+                "Alfred Gilks",
+                "John Alton"
+              ],
+              "movies": [
+                {
+                  "title": "An American in Paris",
+                  "tmdbId": 2769,
+                  "imdbId": "tt0043278"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Charles Rosher"
+              ],
+              "movies": [
+                {
+                  "title": "Show Boat",
+                  "tmdbId": 17820,
+                  "imdbId": "tt0044030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John F. Seitz",
+                "W. Howard Greene"
+              ],
+              "movies": [
+                {
+                  "title": "When Worlds Collide",
+                  "tmdbId": 16380,
+                  "imdbId": "tt0044207"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leon Shamroy"
+              ],
+              "movies": [
+                {
+                  "title": "David and Bathsheba",
+                  "tmdbId": 42567,
+                  "imdbId": "tt0043455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Surtees",
+                "William V. Skall"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis",
+                  "tmdbId": 11620,
+                  "imdbId": "tt0043949"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "William C. Mellor"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Norbert Brodine"
+              ],
+              "movies": [
+                {
+                  "title": "The Frogmen",
+                  "tmdbId": 44890,
+                  "imdbId": "tt0043565"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Robert Burks"
+              ],
+              "movies": [
+                {
+                  "title": "Strangers on a Train",
+                  "tmdbId": 845,
+                  "imdbId": "tt0044079"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Franz Planer"
+              ],
+              "movies": [
+                {
+                  "title": "Death of a Salesman",
+                  "tmdbId": 104394,
+                  "imdbId": "tt0043458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Harry Stradling"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "William Hornbeck"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Adrienne Fazan"
+              ],
+              "movies": [
+                {
+                  "title": "An American in Paris",
+                  "tmdbId": 2769,
+                  "imdbId": "tt0043278"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chester Schaeffer"
+              ],
+              "movies": [
+                {
+                  "title": "The Well",
+                  "tmdbId": 29112,
+                  "imdbId": "tt0044202"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Dorothy Spencer"
+              ],
+              "movies": [
+                {
+                  "title": "Decision Before Dawn",
+                  "tmdbId": 4461,
+                  "imdbId": "tt0043459"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ralph E. Winters"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis",
+                  "tmdbId": 11620,
+                  "imdbId": "tt0043949"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Art Direction (Color)",
+          "winners": [
+            {
+              "names": [
+                "E. Preston Ames",
+                "Cedric Gibbons",
+                "Edwin B. Willis",
+                "Keogh Gleason"
+              ],
+              "movies": [
+                {
+                  "title": "An American in Paris",
+                  "tmdbId": 2769,
+                  "imdbId": "tt0043278"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hein Heckroth"
+              ],
+              "movies": [
+                {
+                  "title": "The Tales of Hoffmann",
+                  "tmdbId": 44334,
+                  "imdbId": "tt0044103"
+                }
+              ]
+            },
+            {
+              "names": [
+                "William A. Horning",
+                "Edward Carfagno",
+                "Cedric Gibbons",
+                "Hugh Hunt"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis",
+                  "tmdbId": 11620,
+                  "imdbId": "tt0043949"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "George Davis",
+                "Paul S. Fox",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "David and Bathsheba",
+                  "tmdbId": 42567,
+                  "imdbId": "tt0043455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Leland Fuller",
+                "Thomas Little",
+                "Walter M. Scott"
+              ],
+              "movies": [
+                {
+                  "title": "On the Riviera",
+                  "tmdbId": 29577,
+                  "imdbId": "tt0043882"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Richard Day",
+                "George James Hopkins"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "D'Eaubonne"
+              ],
+              "movies": [
+                {
+                  "title": "La Ronde",
+                  "tmdbId": 50030,
+                  "imdbId": "tt0042906"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cedric Gibbons",
+                "Paul Groesse",
+                "Edwin B. Willis",
+                "Jack D. Moore"
+              ],
+              "movies": [
+                {
+                  "title": "Too Young to Kiss",
+                  "tmdbId": 103934,
+                  "imdbId": "tt0044138"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "John DeCuir",
+                "Paul S. Fox",
+                "Thomas Little"
+              ],
+              "movies": [
+                {
+                  "title": "The House on Telegraph Hill",
+                  "tmdbId": 28434,
+                  "imdbId": "tt0043660"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lyle Wheeler",
+                "Leland Fuller",
+                "Thomas Little",
+                "Fred J. Rode"
+              ],
+              "movies": [
+                {
+                  "title": "Fourteen Hours",
+                  "tmdbId": 54139,
+                  "imdbId": "tt0043560"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design (Color)",
+          "winners": [
+            {
+              "names": [
+                "Orry-Kelly",
+                "Walter Plunkett",
+                "Irene Sharaff"
+              ],
+              "movies": [
+                {
+                  "title": "An American in Paris",
+                  "tmdbId": 2769,
+                  "imdbId": "tt0043278"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Hein Heckroth"
+              ],
+              "movies": [
+                {
+                  "title": "The Tales of Hoffmann",
+                  "tmdbId": 44334,
+                  "imdbId": "tt0044103"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles LeMaire",
+                "Edward Stevenson"
+              ],
+              "movies": [
+                {
+                  "title": "David and Bathsheba",
+                  "tmdbId": 42567,
+                  "imdbId": "tt0043455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herschel McCoy"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis",
+                  "tmdbId": 11620,
+                  "imdbId": "tt0043949"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Helen Rose",
+                "Gile Steele"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Caruso",
+                  "tmdbId": 98328,
+                  "imdbId": "tt0043599"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design-bw",
+          "label": "Best Costume Design (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Edith Head"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lucinda Ballard"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charles LeMaire",
+                "Renie"
+              ],
+              "movies": [
+                {
+                  "title": "The Model and the Marriage Broker",
+                  "tmdbId": 132094,
+                  "imdbId": "tt0043813"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Walter Plunkett",
+                "Gile Steele"
+              ],
+              "movies": [
+                {
+                  "title": "Kind Lady",
+                  "tmdbId": 193547,
+                  "imdbId": "tt0043709"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Edward Stevenson",
+                "Margaret Furse"
+              ],
+              "movies": [
+                {
+                  "title": "The Mudlark",
+                  "tmdbId": 126596,
+                  "imdbId": "tt0042757"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Paramount Studio"
+              ],
+              "movies": [
+                {
+                  "title": "When Worlds Collide",
+                  "tmdbId": 16380,
+                  "imdbId": "tt0044207"
+                }
+              ]
+            }
+          ],
+          "nominees": []
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound Recording",
+          "winners": [
+            {
+              "names": [
+                "Douglas Shearer"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Caruso",
+                  "tmdbId": 98328,
+                  "imdbId": "tt0043599"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Leslie I. Carey"
+              ],
+              "movies": [
+                {
+                  "title": "Bright Victory",
+                  "tmdbId": 109258,
+                  "imdbId": "tt0043361"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gordon E. Sawyer"
+              ],
+              "movies": [
+                {
+                  "title": "I Want You",
+                  "tmdbId": 216953,
+                  "imdbId": "tt0043664"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Nathan Levinson"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            },
+            {
+              "names": [
+                "John Aalberg"
+              ],
+              "movies": [
+                {
+                  "title": "Two Tickets to Broadway",
+                  "tmdbId": 131491,
+                  "imdbId": "tt0044158"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Franz Waxman"
+              ],
+              "movies": [
+                {
+                  "title": "A Place in the Sun",
+                  "tmdbId": 25673,
+                  "imdbId": "tt0043924"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "David and Bathsheba",
+                  "tmdbId": 42567,
+                  "imdbId": "tt0043455"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "Death of a Salesman",
+                  "tmdbId": 104394,
+                  "imdbId": "tt0043458"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alex North"
+              ],
+              "movies": [
+                {
+                  "title": "A Streetcar Named Desire",
+                  "tmdbId": 702,
+                  "imdbId": "tt0044081"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miklos Rozsa"
+              ],
+              "movies": [
+                {
+                  "title": "Quo Vadis",
+                  "tmdbId": 11620,
+                  "imdbId": "tt0043949"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-score-musical-adaptation",
+          "label": "Best Score (Musical or Adaptation)",
+          "winners": [
+            {
+              "names": [
+                "Johnny Green",
+                "Saul Chaplin"
+              ],
+              "movies": [
+                {
+                  "title": "An American in Paris",
+                  "tmdbId": 2769,
+                  "imdbId": "tt0043278"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Peter Herman Adler",
+                "Johnny Green"
+              ],
+              "movies": [
+                {
+                  "title": "The Great Caruso",
+                  "tmdbId": 98328,
+                  "imdbId": "tt0043599"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adolph Deutsch",
+                "Conrad Salinger"
+              ],
+              "movies": [
+                {
+                  "title": "Show Boat",
+                  "tmdbId": 17820,
+                  "imdbId": "tt0044030"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred Newman"
+              ],
+              "movies": [
+                {
+                  "title": "On the Riviera",
+                  "tmdbId": 29577,
+                  "imdbId": "tt0043882"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Oliver Wallace"
+              ],
+              "movies": [
+                {
+                  "title": "Alice in Wonderland",
+                  "tmdbId": 12092,
+                  "imdbId": "tt0043274"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "In the Cool",
+                "Cool",
+                "Cool of the Evening"
+              ],
+              "movies": [
+                {
+                  "title": "Here Comes the Groom",
+                  "tmdbId": 27629,
+                  "imdbId": "tt0043633"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "A Kiss to Build a Dream On"
+              ],
+              "movies": [
+                {
+                  "title": "The Strip",
+                  "tmdbId": 95949,
+                  "imdbId": "tt0044083"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Never"
+              ],
+              "movies": [
+                {
+                  "title": "Golden Girl",
+                  "tmdbId": 188520,
+                  "imdbId": "tt0043592"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Too Late Now"
+              ],
+              "movies": [
+                {
+                  "title": "Royal Wedding",
+                  "tmdbId": 18646,
+                  "imdbId": "tt0043983"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wonder Why"
+              ],
+              "movies": [
+                {
+                  "title": "Rich, Young and Pretty",
+                  "tmdbId": 131781,
+                  "imdbId": "tt0043968"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Two Mouseketeers"
+              ],
+              "movies": [
+                {
+                  "title": "The Two Mouseketeers",
+                  "tmdbId": 46852,
+                  "imdbId": "tt0044157"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lambert the Sheepish Lion"
+              ],
+              "movies": [
+                {
+                  "title": "Lambert the Sheepish Lion",
+                  "tmdbId": 54184,
+                  "imdbId": "tt0044821"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rooty Toot Toot"
+              ],
+              "movies": [
+                {
+                  "title": "Rooty Toot Toot",
+                  "tmdbId": 103956,
+                  "imdbId": "tt0043980"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film (One Reel)",
+          "winners": [
+            {
+              "names": [
+                "World of Kids"
+              ],
+              "movies": [
+                {
+                  "title": "World of Kids",
+                  "tmdbId": 242975,
+                  "imdbId": "tt0044218"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ridin' the Rails"
+              ],
+              "movies": [
+                {
+                  "title": "Ridin' the Rails",
+                  "tmdbId": 242976,
+                  "imdbId": "tt0043969"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Story of Time"
+              ],
+              "movies": [
+                {
+                  "title": "The Story of Time",
+                  "tmdbId": 242979,
+                  "imdbId": "tt0044077"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short-two-reel",
+          "label": "Best Live Action Short Film (Two-Reel)",
+          "winners": [
+            {
+              "names": [
+                "Nature's Half Acre"
+              ],
+              "movies": [
+                {
+                  "title": "Nature's Half Acre",
+                  "tmdbId": 179182,
+                  "imdbId": "tt0043839"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Balzac"
+              ],
+              "movies": [
+                {
+                  "title": "Balzac",
+                  "tmdbId": 242973,
+                  "imdbId": "tt0043316"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Danger Under the Sea"
+              ],
+              "movies": [
+                {
+                  "title": "Danger Under the Sea",
+                  "tmdbId": 242974,
+                  "imdbId": "tt0043447"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "Benjy"
+              ],
+              "movies": [
+                {
+                  "title": "Benjy",
+                  "tmdbId": 242980,
+                  "imdbId": "tt0043334"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "One Who Came Back"
+              ],
+              "movies": [
+                {
+                  "title": "One Who Came Back",
+                  "tmdbId": 242981,
+                  "imdbId": "tt0043883"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Seeing Eye"
+              ],
+              "movies": [
+                {
+                  "title": "The Seeing Eye",
+                  "tmdbId": 242982,
+                  "imdbId": "tt0044017"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

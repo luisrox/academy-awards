@@ -1,0 +1,552 @@
+{
+  "ceremony": {
+    "ordinal": 1,
+    "ceremonyYear": 1929,
+    "ceremonyDate": "1929-05-16",
+    "filmYearLabel": "1927/28",
+    "slug": "1929",
+    "decade": "1920s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "Wings"
+              ],
+              "movies": [
+                {
+                  "title": "Wings",
+                  "tmdbId": 28966,
+                  "imdbId": "tt0018578"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Racket"
+              ],
+              "movies": [
+                {
+                  "title": "The Racket",
+                  "tmdbId": 27777,
+                  "imdbId": "tt0019304"
+                }
+              ]
+            },
+            {
+              "names": [
+                "7th Heaven"
+              ],
+              "movies": [
+                {
+                  "title": "7th Heaven",
+                  "tmdbId": 82474,
+                  "imdbId": "tt0018379"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Frank Borzage"
+              ],
+              "movies": [
+                {
+                  "title": "7th Heaven",
+                  "tmdbId": 82474,
+                  "imdbId": "tt0018379"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Lewis Milestone"
+              ],
+              "movies": [
+                {
+                  "title": "Two Arabian Knights",
+                  "tmdbId": 102384,
+                  "imdbId": "tt0018515"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ted Wilde"
+              ],
+              "movies": [
+                {
+                  "title": "Speedy",
+                  "tmdbId": 22595,
+                  "imdbId": "tt0019412"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Herbert Brenon"
+              ],
+              "movies": [
+                {
+                  "title": "Sorrell and Son",
+                  "tmdbId": 183587,
+                  "imdbId": "tt0018429"
+                }
+              ]
+            },
+            {
+              "names": [
+                "King Vidor"
+              ],
+              "movies": [
+                {
+                  "title": "The Crowd",
+                  "tmdbId": 3061,
+                  "imdbId": "tt0018806"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Emil Jannings"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Command",
+                  "tmdbId": 52679,
+                  "imdbId": "tt0019071"
+                },
+                {
+                  "title": "The Way of All Flesh",
+                  "tmdbId": 85499,
+                  "imdbId": "tt0019553"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Richard Barthelmess"
+              ],
+              "movies": [
+                {
+                  "title": "The Noose",
+                  "tmdbId": 113167,
+                  "imdbId": "tt0019217"
+                },
+                {
+                  "title": "The Patent Leather Kid",
+                  "tmdbId": 102541,
+                  "imdbId": "tt0018253"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Janet Gaynor"
+              ],
+              "movies": [
+                {
+                  "title": "7th Heaven",
+                  "tmdbId": 82474,
+                  "imdbId": "tt0018379"
+                },
+                {
+                  "title": "Street Angel",
+                  "tmdbId": 28391,
+                  "imdbId": "tt0019429"
+                },
+                {
+                  "title": "Sunrise: A Song of Two Humans",
+                  "tmdbId": 631,
+                  "imdbId": "tt0018455"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Louise Dresser"
+              ],
+              "movies": [
+                {
+                  "title": "A Ship Comes In",
+                  "tmdbId": 104212,
+                  "imdbId": "tt0018389"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gloria Swanson"
+              ],
+              "movies": [
+                {
+                  "title": "Sadie Thompson",
+                  "tmdbId": 42538,
+                  "imdbId": "tt0019344"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Joseph Farnham"
+              ],
+              "movies": [
+                {
+                  "title": "The Red Mill",
+                  "tmdbId": 134475,
+                  "imdbId": "tt0018311"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Marion Jr."
+              ],
+              "movies": [
+                {
+                  "title": "The Magic Flame",
+                  "tmdbId": 171343,
+                  "imdbId": "tt0018129"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gerald Duffy"
+              ],
+              "movies": [
+                {
+                  "title": "The Private Life of Helen of Troy",
+                  "tmdbId": 218413,
+                  "imdbId": "tt0017979"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Benjamin Glazer"
+              ],
+              "movies": [
+                {
+                  "title": "7th Heaven",
+                  "tmdbId": 82474,
+                  "imdbId": "tt0018379"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Anthony Coldeway"
+              ],
+              "movies": [
+                {
+                  "title": "Glorious Betsy",
+                  "tmdbId": 171354,
+                  "imdbId": "tt0018945"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alfred A. Cohn"
+              ],
+              "movies": [
+                {
+                  "title": "The Jazz Singer",
+                  "tmdbId": 939,
+                  "imdbId": "tt0018037"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-story",
+          "label": "Best Original Story",
+          "winners": [
+            {
+              "names": [
+                "Ben Hecht"
+              ],
+              "movies": [
+                {
+                  "title": "Underworld",
+                  "tmdbId": 42565,
+                  "imdbId": "tt0018526"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Lajos Biro"
+              ],
+              "movies": [
+                {
+                  "title": "The Last Command",
+                  "tmdbId": 52679,
+                  "imdbId": "tt0019071"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography-bw",
+          "label": "Best Cinematography (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "Charles Rosher",
+                "Karl Struss"
+              ],
+              "movies": [
+                {
+                  "title": "Sunrise: A Song of Two Humans",
+                  "tmdbId": 631,
+                  "imdbId": "tt0018455"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "George Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "The Devil Dancer",
+                  "tmdbId": 171341,
+                  "imdbId": "tt0017806"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "The Magic Flame",
+                  "tmdbId": 171343,
+                  "imdbId": "tt0018129"
+                }
+              ]
+            },
+            {
+              "names": [
+                "George Barnes"
+              ],
+              "movies": [
+                {
+                  "title": "Sadie Thompson",
+                  "tmdbId": 42538,
+                  "imdbId": "tt0019344"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design-bw",
+          "label": "Best Art Direction (Black and White)",
+          "winners": [
+            {
+              "names": [
+                "William Cameron Menzies"
+              ],
+              "movies": [
+                {
+                  "title": "The Dove",
+                  "tmdbId": 79760,
+                  "imdbId": "tt0017822"
+                },
+                {
+                  "title": "Tempest",
+                  "tmdbId": 79757,
+                  "imdbId": "tt0019451"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Harry Oliver"
+              ],
+              "movies": [
+                {
+                  "title": "7th Heaven",
+                  "tmdbId": 82474,
+                  "imdbId": "tt0018379"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Rochus Gliese"
+              ],
+              "movies": [
+                {
+                  "title": "Sunrise: A Song of Two Humans",
+                  "tmdbId": 631,
+                  "imdbId": "tt0018455"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Special Effects",
+          "winners": [
+            {
+              "names": [
+                "Roy Pomeroy"
+              ],
+              "movies": [
+                {
+                  "title": "Wings",
+                  "tmdbId": 28966,
+                  "imdbId": "tt0018578"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ralph Hammeras"
+              ],
+              "movies": []
+            },
+            {
+              "names": [
+                "Nugent Slaughter"
+              ],
+              "movies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "retired",
+      "label": "Retired Categories",
+      "categories": [
+        {
+          "id": "unique-artistic-production",
+          "label": "Unique and Artistic Production",
+          "winners": [
+            {
+              "names": [
+                "Sunrise: A Song of Two Humans"
+              ],
+              "movies": [
+                {
+                  "title": "Sunrise: A Song of Two Humans",
+                  "tmdbId": 631,
+                  "imdbId": "tt0018455"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chang: A Drama of the Wilderness"
+              ],
+              "movies": [
+                {
+                  "title": "Chang: A Drama of the Wilderness",
+                  "tmdbId": 44657,
+                  "imdbId": "tt0017743"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Crowd"
+              ],
+              "movies": [
+                {
+                  "title": "The Crowd",
+                  "tmdbId": 3061,
+                  "imdbId": "tt0018806"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

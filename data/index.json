@@ -1,0 +1,2786 @@
+[
+  {
+    "slug": "2024",
+    "label": "2024",
+    "subtitle": "96th Ceremony — Films of 2023",
+    "decade": "2020s",
+    "ordinal": 96,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Oppenheimer",
+        "movie": "Oppenheimer"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Christopher Nolan",
+        "movie": "Oppenheimer"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Cillian Murphy",
+        "movie": "Oppenheimer"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Emma Stone",
+        "movie": "Poor Things"
+      }
+    ]
+  },
+  {
+    "slug": "2023",
+    "label": "2023",
+    "subtitle": "95th Ceremony — Films of 2022",
+    "decade": "2020s",
+    "ordinal": 95,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Everything Everywhere All at Once",
+        "movie": "Everything Everywhere All at Once"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Daniel Kwan",
+        "movie": "Everything Everywhere All at Once"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Brendan Fraser",
+        "movie": "The Whale"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Michelle Yeoh",
+        "movie": "Everything Everywhere All at Once"
+      }
+    ]
+  },
+  {
+    "slug": "2022",
+    "label": "2022",
+    "subtitle": "94th Ceremony — Films of 2021",
+    "decade": "2020s",
+    "ordinal": 94,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "CODA",
+        "movie": "CODA"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Jane Campion",
+        "movie": "The Power of the Dog"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Will Smith",
+        "movie": "King Richard"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jessica Chastain",
+        "movie": "The Eyes of Tammy Faye"
+      }
+    ]
+  },
+  {
+    "slug": "2021",
+    "label": "2021",
+    "subtitle": "93rd Ceremony — Films of 2020",
+    "decade": "2020s",
+    "ordinal": 93,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Nomadland",
+        "movie": "Nomadland"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Chloe Zhao",
+        "movie": "Nomadland"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Anthony Hopkins",
+        "movie": "The Father"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Frances McDormand",
+        "movie": "Nomadland"
+      }
+    ]
+  },
+  {
+    "slug": "2020",
+    "label": "2020",
+    "subtitle": "92nd Ceremony — Films of 2019",
+    "decade": "2020s",
+    "ordinal": 92,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Parasite",
+        "movie": "Parasite"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Bong Joon-ho",
+        "movie": "Parasite"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Joaquin Phoenix",
+        "movie": "Joker"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Renee Zellweger",
+        "movie": "Judy"
+      }
+    ]
+  },
+  {
+    "slug": "2019",
+    "label": "2019",
+    "subtitle": "91st Ceremony — Films of 2018",
+    "decade": "2010s",
+    "ordinal": 91,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Green Book",
+        "movie": "Green Book"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Alfonso Cuaron",
+        "movie": "Roma"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Rami Malek",
+        "movie": "Bohemian Rhapsody"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Olivia Colman",
+        "movie": "The Favourite"
+      }
+    ]
+  },
+  {
+    "slug": "2018",
+    "label": "2018",
+    "subtitle": "90th Ceremony — Films of 2017",
+    "decade": "2010s",
+    "ordinal": 90,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Shape of Water",
+        "movie": "The Shape of Water"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Guillermo del Toro",
+        "movie": "The Shape of Water"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Gary Oldman",
+        "movie": "Darkest Hour"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Frances McDormand",
+        "movie": "Three Billboards Outside Ebbing, Missouri"
+      }
+    ]
+  },
+  {
+    "slug": "2017",
+    "label": "2017",
+    "subtitle": "89th Ceremony — Films of 2016",
+    "decade": "2010s",
+    "ordinal": 89,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Moonlight",
+        "movie": "Moonlight"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Damien Chazelle",
+        "movie": "La La Land"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Casey Affleck",
+        "movie": "Manchester by the Sea"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Emma Stone",
+        "movie": "La La Land"
+      }
+    ]
+  },
+  {
+    "slug": "2016",
+    "label": "2016",
+    "subtitle": "88th Ceremony — Films of 2015",
+    "decade": "2010s",
+    "ordinal": 88,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Spotlight",
+        "movie": "Spotlight"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Alejandro G. Inarritu",
+        "movie": "The Revenant"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Leonardo DiCaprio",
+        "movie": "The Revenant"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Brie Larson",
+        "movie": "Room"
+      }
+    ]
+  },
+  {
+    "slug": "2015",
+    "label": "2015",
+    "subtitle": "87th Ceremony — Films of 2014",
+    "decade": "2010s",
+    "ordinal": 87,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Birdman or: (The Unexpected Virtue of Ignorance)",
+        "movie": "Birdman or (The Unexpected Virtue of Ignorance)"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Alejandro Gonzalez Inarritu",
+        "movie": "Birdman or (The Unexpected Virtue of Ignorance)"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Eddie Redmayne",
+        "movie": "The Theory of Everything"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Julianne Moore",
+        "movie": "Still Alice"
+      }
+    ]
+  },
+  {
+    "slug": "2014",
+    "label": "2014",
+    "subtitle": "86th Ceremony — Films of 2013",
+    "decade": "2010s",
+    "ordinal": 86,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "12 Years a Slave",
+        "movie": "12 Years a Slave"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Alfonso Cuaron",
+        "movie": "Gravity"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Matthew McConaughey",
+        "movie": "Dallas Buyers Club"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Cate Blanchett",
+        "movie": "Blue Jasmine"
+      }
+    ]
+  },
+  {
+    "slug": "2013",
+    "label": "2013",
+    "subtitle": "85th Ceremony — Films of 2012",
+    "decade": "2010s",
+    "ordinal": 85,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Argo",
+        "movie": "Argo"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Ang Lee",
+        "movie": "Life of Pi"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Daniel Day-Lewis",
+        "movie": "Lincoln"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jennifer Lawrence",
+        "movie": "Silver Linings Playbook"
+      }
+    ]
+  },
+  {
+    "slug": "2012",
+    "label": "2012",
+    "subtitle": "84th Ceremony — Films of 2011",
+    "decade": "2010s",
+    "ordinal": 84,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Artist",
+        "movie": "The Artist"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Michel Hazanavicius",
+        "movie": "The Artist"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jean Dujardin",
+        "movie": "The Artist"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Meryl Streep",
+        "movie": "The Iron Lady"
+      }
+    ]
+  },
+  {
+    "slug": "2011",
+    "label": "2011",
+    "subtitle": "83rd Ceremony — Films of 2010",
+    "decade": "2010s",
+    "ordinal": 83,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The King's Speech",
+        "movie": "The King's Speech"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Tom Hooper",
+        "movie": "The King's Speech"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Colin Firth",
+        "movie": "The King's Speech"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Natalie Portman",
+        "movie": "Black Swan"
+      }
+    ]
+  },
+  {
+    "slug": "2010",
+    "label": "2010",
+    "subtitle": "82nd Ceremony — Films of 2009",
+    "decade": "2010s",
+    "ordinal": 82,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Hurt Locker",
+        "movie": "The Hurt Locker"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Kathryn Bigelow",
+        "movie": "The Hurt Locker"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jeff Bridges",
+        "movie": "Crazy Heart"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Sandra Bullock",
+        "movie": "The Blind Side"
+      }
+    ]
+  },
+  {
+    "slug": "2009",
+    "label": "2009",
+    "subtitle": "81st Ceremony — Films of 2008",
+    "decade": "2000s",
+    "ordinal": 81,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Slumdog Millionaire",
+        "movie": "Slumdog Millionaire"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Danny Boyle",
+        "movie": "Slumdog Millionaire"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Sean Penn",
+        "movie": "Milk"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Kate Winslet",
+        "movie": "The Reader"
+      }
+    ]
+  },
+  {
+    "slug": "2008",
+    "label": "2008",
+    "subtitle": "80th Ceremony — Films of 2007",
+    "decade": "2000s",
+    "ordinal": 80,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "No Country for Old Men",
+        "movie": "No Country for Old Men"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Joel",
+        "movie": "No Country for Old Men"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Daniel Day-Lewis",
+        "movie": "There Will Be Blood"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Marion Cotillard",
+        "movie": "La Vie en Rose"
+      }
+    ]
+  },
+  {
+    "slug": "2007",
+    "label": "2007",
+    "subtitle": "79th Ceremony — Films of 2006",
+    "decade": "2000s",
+    "ordinal": 79,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Departed",
+        "movie": "The Departed"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Martin Scorsese",
+        "movie": "The Departed"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Forest Whitaker",
+        "movie": "The Last King of Scotland"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Helen Mirren",
+        "movie": "The Queen"
+      }
+    ]
+  },
+  {
+    "slug": "2006",
+    "label": "2006",
+    "subtitle": "78th Ceremony — Films of 2005",
+    "decade": "2000s",
+    "ordinal": 78,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Crash",
+        "movie": "Crash"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Ang Lee",
+        "movie": "Brokeback Mountain"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Philip Seymour Hoffman",
+        "movie": "Capote"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Reese Witherspoon",
+        "movie": "Walk the Line"
+      }
+    ]
+  },
+  {
+    "slug": "2005",
+    "label": "2005",
+    "subtitle": "77th Ceremony — Films of 2004",
+    "decade": "2000s",
+    "ordinal": 77,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Million Dollar Baby",
+        "movie": "Million Dollar Baby"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Clint Eastwood",
+        "movie": "Million Dollar Baby"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jamie Foxx",
+        "movie": "Ray"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Hilary Swank",
+        "movie": "Million Dollar Baby"
+      }
+    ]
+  },
+  {
+    "slug": "2004",
+    "label": "2004",
+    "subtitle": "76th Ceremony — Films of 2003",
+    "decade": "2000s",
+    "ordinal": 76,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Lord of the Rings: The Return of the King",
+        "movie": "The Lord of the Rings: The Return of the King"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Peter Jackson",
+        "movie": "The Lord of the Rings: The Return of the King"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Sean Penn",
+        "movie": "Mystic River"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Charlize Theron",
+        "movie": "Monster"
+      }
+    ]
+  },
+  {
+    "slug": "2003",
+    "label": "2003",
+    "subtitle": "75th Ceremony — Films of 2002",
+    "decade": "2000s",
+    "ordinal": 75,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Chicago",
+        "movie": "Chicago"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Roman Polanski",
+        "movie": "The Pianist"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Adrien Brody",
+        "movie": "The Pianist"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Nicole Kidman",
+        "movie": "The Hours"
+      }
+    ]
+  },
+  {
+    "slug": "2002",
+    "label": "2002",
+    "subtitle": "74th Ceremony — Films of 2001",
+    "decade": "2000s",
+    "ordinal": 74,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "A Beautiful Mind",
+        "movie": "A Beautiful Mind"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Ron Howard",
+        "movie": "A Beautiful Mind"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Denzel Washington",
+        "movie": "Training Day"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Halle Berry",
+        "movie": "Monster's Ball"
+      }
+    ]
+  },
+  {
+    "slug": "2001",
+    "label": "2001",
+    "subtitle": "73rd Ceremony — Films of 2000",
+    "decade": "2000s",
+    "ordinal": 73,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Gladiator",
+        "movie": "Gladiator"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Steven Soderbergh",
+        "movie": "Traffic"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Russell Crowe",
+        "movie": "Gladiator"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Julia Roberts",
+        "movie": "Erin Brockovich"
+      }
+    ]
+  },
+  {
+    "slug": "2000",
+    "label": "2000",
+    "subtitle": "72nd Ceremony — Films of 1999",
+    "decade": "2000s",
+    "ordinal": 72,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "American Beauty",
+        "movie": "American Beauty"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Sam Mendes",
+        "movie": "American Beauty"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Kevin Spacey",
+        "movie": "American Beauty"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Hilary Swank",
+        "movie": "Boys Don't Cry"
+      }
+    ]
+  },
+  {
+    "slug": "1999",
+    "label": "1999",
+    "subtitle": "71st Ceremony — Films of 1998",
+    "decade": "1990s",
+    "ordinal": 71,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Shakespeare in Love",
+        "movie": "Shakespeare in Love"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Steven Spielberg",
+        "movie": "Saving Private Ryan"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Roberto Benigni",
+        "movie": "Life Is Beautiful"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Gwyneth Paltrow",
+        "movie": "Shakespeare in Love"
+      }
+    ]
+  },
+  {
+    "slug": "1998",
+    "label": "1998",
+    "subtitle": "70th Ceremony — Films of 1997",
+    "decade": "1990s",
+    "ordinal": 70,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Titanic",
+        "movie": "Titanic"
+      },
+      {
+        "category": "Best Director",
+        "winner": "James Cameron",
+        "movie": "Titanic"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jack Nicholson",
+        "movie": "As Good as It Gets"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Helen Hunt",
+        "movie": "As Good as It Gets"
+      }
+    ]
+  },
+  {
+    "slug": "1997",
+    "label": "1997",
+    "subtitle": "69th Ceremony — Films of 1996",
+    "decade": "1990s",
+    "ordinal": 69,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The English Patient",
+        "movie": "The English Patient"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Anthony Minghella",
+        "movie": "The English Patient"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Geoffrey Rush",
+        "movie": "Shine"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Frances McDormand",
+        "movie": "Fargo"
+      }
+    ]
+  },
+  {
+    "slug": "1996",
+    "label": "1996",
+    "subtitle": "68th Ceremony — Films of 1995",
+    "decade": "1990s",
+    "ordinal": 68,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Braveheart",
+        "movie": "Braveheart"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Mel Gibson",
+        "movie": "Braveheart"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Nicolas Cage",
+        "movie": "Leaving Las Vegas"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Susan Sarandon",
+        "movie": "Dead Man Walking"
+      }
+    ]
+  },
+  {
+    "slug": "1995",
+    "label": "1995",
+    "subtitle": "67th Ceremony — Films of 1994",
+    "decade": "1990s",
+    "ordinal": 67,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Forrest Gump",
+        "movie": "Forrest Gump"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Robert Zemeckis",
+        "movie": "Forrest Gump"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Tom Hanks",
+        "movie": "Forrest Gump"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jessica Lange",
+        "movie": "Blue Sky"
+      }
+    ]
+  },
+  {
+    "slug": "1994",
+    "label": "1994",
+    "subtitle": "66th Ceremony — Films of 1993",
+    "decade": "1990s",
+    "ordinal": 66,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Schindler's List",
+        "movie": "Schindler's List"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Steven Spielberg",
+        "movie": "Schindler's List"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Tom Hanks",
+        "movie": "Philadelphia"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Holly Hunter",
+        "movie": "The Piano"
+      }
+    ]
+  },
+  {
+    "slug": "1993",
+    "label": "1993",
+    "subtitle": "65th Ceremony — Films of 1992",
+    "decade": "1990s",
+    "ordinal": 65,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Unforgiven",
+        "movie": "Unforgiven"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Clint Eastwood",
+        "movie": "Unforgiven"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Al Pacino",
+        "movie": "Scent of a Woman"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Emma Thompson",
+        "movie": "Howards End"
+      }
+    ]
+  },
+  {
+    "slug": "1992",
+    "label": "1992",
+    "subtitle": "64th Ceremony — Films of 1991",
+    "decade": "1990s",
+    "ordinal": 64,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Silence of the Lambs",
+        "movie": "The Silence of the Lambs"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Jonathan Demme",
+        "movie": "The Silence of the Lambs"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Anthony Hopkins",
+        "movie": "The Silence of the Lambs"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jodie Foster",
+        "movie": "The Silence of the Lambs"
+      }
+    ]
+  },
+  {
+    "slug": "1991",
+    "label": "1991",
+    "subtitle": "63rd Ceremony — Films of 1990",
+    "decade": "1990s",
+    "ordinal": 63,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Dances with Wolves",
+        "movie": "Dances with Wolves"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Kevin Costner",
+        "movie": "Dances with Wolves"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jeremy Irons",
+        "movie": "Reversal of Fortune"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Kathy Bates",
+        "movie": "Misery"
+      }
+    ]
+  },
+  {
+    "slug": "1990",
+    "label": "1990",
+    "subtitle": "62nd Ceremony — Films of 1989",
+    "decade": "1990s",
+    "ordinal": 62,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Driving Miss Daisy",
+        "movie": "Driving Miss Daisy"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Oliver Stone",
+        "movie": "Born on the Fourth of July"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Daniel Day-Lewis",
+        "movie": "My Left Foot: The Story of Christy Brown"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jessica Tandy",
+        "movie": "Driving Miss Daisy"
+      }
+    ]
+  },
+  {
+    "slug": "1989",
+    "label": "1989",
+    "subtitle": "61st Ceremony — Films of 1988",
+    "decade": "1980s",
+    "ordinal": 61,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Rain Man",
+        "movie": "Rain Man"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Barry Levinson",
+        "movie": "Rain Man"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Dustin Hoffman",
+        "movie": "Rain Man"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jodie Foster",
+        "movie": "The Accused"
+      }
+    ]
+  },
+  {
+    "slug": "1988",
+    "label": "1988",
+    "subtitle": "60th Ceremony — Films of 1987",
+    "decade": "1980s",
+    "ordinal": 60,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Last Emperor",
+        "movie": "The Last Emperor"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Bernardo Bertolucci",
+        "movie": "The Last Emperor"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Michael Douglas",
+        "movie": "Wall Street"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Cher",
+        "movie": "Moonstruck"
+      }
+    ]
+  },
+  {
+    "slug": "1987",
+    "label": "1987",
+    "subtitle": "59th Ceremony — Films of 1986",
+    "decade": "1980s",
+    "ordinal": 59,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Platoon",
+        "movie": "Platoon"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Oliver Stone",
+        "movie": "Platoon"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Paul Newman",
+        "movie": "The Color of Money"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Marlee Matlin",
+        "movie": "Children of a Lesser God"
+      }
+    ]
+  },
+  {
+    "slug": "1986",
+    "label": "1986",
+    "subtitle": "58th Ceremony — Films of 1985",
+    "decade": "1980s",
+    "ordinal": 58,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Out of Africa",
+        "movie": "Out of Africa"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Sydney Pollack",
+        "movie": "Out of Africa"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "William Hurt",
+        "movie": "Kiss of the Spider Woman"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Geraldine Page",
+        "movie": "The Trip to Bountiful"
+      }
+    ]
+  },
+  {
+    "slug": "1985",
+    "label": "1985",
+    "subtitle": "57th Ceremony — Films of 1984",
+    "decade": "1980s",
+    "ordinal": 57,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Amadeus",
+        "movie": "Amadeus"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Milos Forman",
+        "movie": "Amadeus"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "F. Murray Abraham",
+        "movie": "Amadeus"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Sally Field",
+        "movie": "Places in the Heart"
+      }
+    ]
+  },
+  {
+    "slug": "1984",
+    "label": "1984",
+    "subtitle": "56th Ceremony — Films of 1983",
+    "decade": "1980s",
+    "ordinal": 56,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Terms of Endearment",
+        "movie": "Terms of Endearment"
+      },
+      {
+        "category": "Best Director",
+        "winner": "James L. Brooks",
+        "movie": "Terms of Endearment"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Robert Duvall",
+        "movie": "Tender Mercies"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Shirley MacLaine",
+        "movie": "Terms of Endearment"
+      }
+    ]
+  },
+  {
+    "slug": "1983",
+    "label": "1983",
+    "subtitle": "55th Ceremony — Films of 1982",
+    "decade": "1980s",
+    "ordinal": 55,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Gandhi",
+        "movie": "Gandhi"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Richard Attenborough",
+        "movie": "Gandhi"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Ben Kingsley",
+        "movie": "Gandhi"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Meryl Streep",
+        "movie": "Sophie's Choice"
+      }
+    ]
+  },
+  {
+    "slug": "1982",
+    "label": "1982",
+    "subtitle": "54th Ceremony — Films of 1981",
+    "decade": "1980s",
+    "ordinal": 54,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Chariots of Fire",
+        "movie": "Chariots of Fire"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Warren Beatty",
+        "movie": "Reds"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Henry Fonda",
+        "movie": "On Golden Pond"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Katharine Hepburn",
+        "movie": "On Golden Pond"
+      }
+    ]
+  },
+  {
+    "slug": "1981",
+    "label": "1981",
+    "subtitle": "53rd Ceremony — Films of 1980",
+    "decade": "1980s",
+    "ordinal": 53,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Ordinary People",
+        "movie": "Ordinary People"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Robert Redford",
+        "movie": "Ordinary People"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Robert De Niro",
+        "movie": "Raging Bull"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Sissy Spacek",
+        "movie": "Coal Miner's Daughter"
+      }
+    ]
+  },
+  {
+    "slug": "1980",
+    "label": "1980",
+    "subtitle": "52nd Ceremony — Films of 1979",
+    "decade": "1980s",
+    "ordinal": 52,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Kramer vs. Kramer",
+        "movie": "Kramer vs. Kramer"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Robert Benton",
+        "movie": "Kramer vs. Kramer"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Dustin Hoffman",
+        "movie": "Kramer vs. Kramer"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Sally Field",
+        "movie": "Norma Rae"
+      }
+    ]
+  },
+  {
+    "slug": "1979",
+    "label": "1979",
+    "subtitle": "51st Ceremony — Films of 1978",
+    "decade": "1970s",
+    "ordinal": 51,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Deer Hunter",
+        "movie": "The Deer Hunter"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Michael Cimino",
+        "movie": "The Deer Hunter"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jon Voight",
+        "movie": "Coming Home"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jane Fonda",
+        "movie": "Coming Home"
+      }
+    ]
+  },
+  {
+    "slug": "1978",
+    "label": "1978",
+    "subtitle": "50th Ceremony — Films of 1977",
+    "decade": "1970s",
+    "ordinal": 50,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Annie Hall",
+        "movie": "Annie Hall"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Woody Allen",
+        "movie": "Annie Hall"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Richard Dreyfuss",
+        "movie": "The Goodbye Girl"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Diane Keaton",
+        "movie": "Annie Hall"
+      }
+    ]
+  },
+  {
+    "slug": "1977",
+    "label": "1977",
+    "subtitle": "49th Ceremony — Films of 1976",
+    "decade": "1970s",
+    "ordinal": 49,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Rocky",
+        "movie": "Rocky"
+      },
+      {
+        "category": "Best Director",
+        "winner": "John G. Avildsen",
+        "movie": "Rocky"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Peter Finch",
+        "movie": "Network"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Faye Dunaway",
+        "movie": "Network"
+      }
+    ]
+  },
+  {
+    "slug": "1976",
+    "label": "1976",
+    "subtitle": "48th Ceremony — Films of 1975",
+    "decade": "1970s",
+    "ordinal": 48,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "One Flew Over the Cuckoo's Nest",
+        "movie": "One Flew Over the Cuckoo's Nest"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Milos Forman",
+        "movie": "One Flew Over the Cuckoo's Nest"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jack Nicholson",
+        "movie": "One Flew Over the Cuckoo's Nest"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Louise Fletcher",
+        "movie": "One Flew Over the Cuckoo's Nest"
+      }
+    ]
+  },
+  {
+    "slug": "1975",
+    "label": "1975",
+    "subtitle": "47th Ceremony — Films of 1974",
+    "decade": "1970s",
+    "ordinal": 47,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Godfather Part II",
+        "movie": "The Godfather Part II"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Francis Ford Coppola",
+        "movie": "The Godfather Part II"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Art Carney",
+        "movie": "Harry and Tonto"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Ellen Burstyn",
+        "movie": "Alice Doesn't Live Here Anymore"
+      }
+    ]
+  },
+  {
+    "slug": "1974",
+    "label": "1974",
+    "subtitle": "46th Ceremony — Films of 1973",
+    "decade": "1970s",
+    "ordinal": 46,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Sting",
+        "movie": "The Sting"
+      },
+      {
+        "category": "Best Director",
+        "winner": "George Roy Hill",
+        "movie": "The Sting"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jack Lemmon",
+        "movie": "Save the Tiger"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Glenda Jackson",
+        "movie": "A Touch of Class"
+      }
+    ]
+  },
+  {
+    "slug": "1973",
+    "label": "1973",
+    "subtitle": "45th Ceremony — Films of 1972",
+    "decade": "1970s",
+    "ordinal": 45,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Godfather",
+        "movie": "The Godfather"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Bob Fosse",
+        "movie": "Cabaret"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Marlon Brando",
+        "movie": "The Godfather"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Liza Minnelli",
+        "movie": "Cabaret"
+      }
+    ]
+  },
+  {
+    "slug": "1972",
+    "label": "1972",
+    "subtitle": "44th Ceremony — Films of 1971",
+    "decade": "1970s",
+    "ordinal": 44,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The French Connection",
+        "movie": "The French Connection"
+      },
+      {
+        "category": "Best Director",
+        "winner": "William Friedkin",
+        "movie": "The French Connection"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Gene Hackman",
+        "movie": "The French Connection"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jane Fonda",
+        "movie": "Klute"
+      }
+    ]
+  },
+  {
+    "slug": "1971",
+    "label": "1971",
+    "subtitle": "43rd Ceremony — Films of 1970",
+    "decade": "1970s",
+    "ordinal": 43,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Patton",
+        "movie": "Patton"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Franklin J. Schaffner",
+        "movie": "Patton"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "George C. Scott",
+        "movie": "Patton"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Glenda Jackson",
+        "movie": "Women in Love"
+      }
+    ]
+  },
+  {
+    "slug": "1970",
+    "label": "1970",
+    "subtitle": "42nd Ceremony — Films of 1969",
+    "decade": "1970s",
+    "ordinal": 42,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Midnight Cowboy",
+        "movie": "Midnight Cowboy"
+      },
+      {
+        "category": "Best Director",
+        "winner": "John Schlesinger",
+        "movie": "Midnight Cowboy"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "John Wayne",
+        "movie": "True Grit"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Maggie Smith",
+        "movie": "The Prime of Miss Jean Brodie"
+      }
+    ]
+  },
+  {
+    "slug": "1969",
+    "label": "1969",
+    "subtitle": "41st Ceremony — Films of 1968",
+    "decade": "1960s",
+    "ordinal": 41,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Oliver!",
+        "movie": "Oliver!"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Carol Reed",
+        "movie": "Oliver!"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Cliff Robertson",
+        "movie": "Charly"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Katharine Hepburn",
+        "movie": "The Lion in Winter"
+      }
+    ]
+  },
+  {
+    "slug": "1968",
+    "label": "1968",
+    "subtitle": "40th Ceremony — Films of 1967",
+    "decade": "1960s",
+    "ordinal": 40,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "In the Heat of the Night",
+        "movie": "In the Heat of the Night"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Mike Nichols",
+        "movie": "The Graduate"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Rod Steiger",
+        "movie": "In the Heat of the Night"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Katharine Hepburn",
+        "movie": "Guess Who's Coming to Dinner"
+      }
+    ]
+  },
+  {
+    "slug": "1967",
+    "label": "1967",
+    "subtitle": "39th Ceremony — Films of 1966",
+    "decade": "1960s",
+    "ordinal": 39,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "A Man for All Seasons",
+        "movie": "A Man for All Seasons"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Fred Zinnemann",
+        "movie": "A Man for All Seasons"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Paul Scofield",
+        "movie": "A Man for All Seasons"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Elizabeth Taylor",
+        "movie": "Who's Afraid of Virginia Woolf?"
+      }
+    ]
+  },
+  {
+    "slug": "1966",
+    "label": "1966",
+    "subtitle": "38th Ceremony — Films of 1965",
+    "decade": "1960s",
+    "ordinal": 38,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Sound of Music",
+        "movie": "The Sound of Music"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Robert Wise",
+        "movie": "The Sound of Music"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Lee Marvin",
+        "movie": "Cat Ballou"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Julie Christie",
+        "movie": "Darling"
+      }
+    ]
+  },
+  {
+    "slug": "1965",
+    "label": "1965",
+    "subtitle": "37th Ceremony — Films of 1964",
+    "decade": "1960s",
+    "ordinal": 37,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "My Fair Lady",
+        "movie": "My Fair Lady"
+      },
+      {
+        "category": "Best Director",
+        "winner": "George Cukor",
+        "movie": "My Fair Lady"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Rex Harrison",
+        "movie": "My Fair Lady"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Julie Andrews",
+        "movie": "Mary Poppins"
+      }
+    ]
+  },
+  {
+    "slug": "1964",
+    "label": "1964",
+    "subtitle": "36th Ceremony — Films of 1963",
+    "decade": "1960s",
+    "ordinal": 36,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Tom Jones",
+        "movie": "Tom Jones"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Tony Richardson",
+        "movie": "Tom Jones"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Sidney Poitier",
+        "movie": "Lilies of the Field"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Patricia Neal",
+        "movie": "Hud"
+      }
+    ]
+  },
+  {
+    "slug": "1963",
+    "label": "1963",
+    "subtitle": "35th Ceremony — Films of 1962",
+    "decade": "1960s",
+    "ordinal": 35,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Lawrence of Arabia",
+        "movie": "Lawrence of Arabia"
+      },
+      {
+        "category": "Best Director",
+        "winner": "David Lean",
+        "movie": "Lawrence of Arabia"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Gregory Peck",
+        "movie": "To Kill a Mockingbird"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Anne Bancroft",
+        "movie": "The Miracle Worker"
+      }
+    ]
+  },
+  {
+    "slug": "1962",
+    "label": "1962",
+    "subtitle": "34th Ceremony — Films of 1961",
+    "decade": "1960s",
+    "ordinal": 34,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "West Side Story",
+        "movie": "West Side Story"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Robert Wise",
+        "movie": "West Side Story"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Maximilian Schell",
+        "movie": "Judgment at Nuremberg"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Sophia Loren",
+        "movie": "Two Women"
+      }
+    ]
+  },
+  {
+    "slug": "1961",
+    "label": "1961",
+    "subtitle": "33rd Ceremony — Films of 1960",
+    "decade": "1960s",
+    "ordinal": 33,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Apartment",
+        "movie": "The Apartment"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Billy Wilder",
+        "movie": "The Apartment"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Burt Lancaster",
+        "movie": "Elmer Gantry"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Elizabeth Taylor",
+        "movie": "BUtterfield 8"
+      }
+    ]
+  },
+  {
+    "slug": "1960",
+    "label": "1960",
+    "subtitle": "32nd Ceremony — Films of 1959",
+    "decade": "1960s",
+    "ordinal": 32,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Ben-Hur",
+        "movie": "Ben-Hur"
+      },
+      {
+        "category": "Best Director",
+        "winner": "William Wyler",
+        "movie": "Ben-Hur"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Charlton Heston",
+        "movie": "Ben-Hur"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Simone Signoret",
+        "movie": "Room at the Top"
+      }
+    ]
+  },
+  {
+    "slug": "1959",
+    "label": "1959",
+    "subtitle": "31st Ceremony — Films of 1958",
+    "decade": "1950s",
+    "ordinal": 31,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Gigi",
+        "movie": "Gigi"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Vincente Minnelli",
+        "movie": "Gigi"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "David Niven",
+        "movie": "Separate Tables"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Susan Hayward",
+        "movie": "I Want to Live!"
+      }
+    ]
+  },
+  {
+    "slug": "1958",
+    "label": "1958",
+    "subtitle": "30th Ceremony — Films of 1957",
+    "decade": "1950s",
+    "ordinal": 30,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Bridge on the River Kwai",
+        "movie": "The Bridge on the River Kwai"
+      },
+      {
+        "category": "Best Director",
+        "winner": "David Lean",
+        "movie": "The Bridge on the River Kwai"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Alec Guinness",
+        "movie": "The Bridge on the River Kwai"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Joanne Woodward",
+        "movie": "The Three Faces of Eve"
+      }
+    ]
+  },
+  {
+    "slug": "1957",
+    "label": "1957",
+    "subtitle": "29th Ceremony — Films of 1956",
+    "decade": "1950s",
+    "ordinal": 29,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Around the World in Eighty Days",
+        "movie": "Around the World in Eighty Days"
+      },
+      {
+        "category": "Best Director",
+        "winner": "George Stevens",
+        "movie": "Giant"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Yul Brynner",
+        "movie": "The King and I"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Ingrid Bergman",
+        "movie": "Anastasia"
+      }
+    ]
+  },
+  {
+    "slug": "1956",
+    "label": "1956",
+    "subtitle": "28th Ceremony — Films of 1955",
+    "decade": "1950s",
+    "ordinal": 28,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Marty",
+        "movie": "Marty"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Delbert Mann",
+        "movie": "Marty"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Ernest Borgnine",
+        "movie": "Marty"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Anna Magnani",
+        "movie": "The Rose Tattoo"
+      }
+    ]
+  },
+  {
+    "slug": "1955",
+    "label": "1955",
+    "subtitle": "27th Ceremony — Films of 1954",
+    "decade": "1950s",
+    "ordinal": 27,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "On the Waterfront",
+        "movie": "On the Waterfront"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Elia Kazan",
+        "movie": "On the Waterfront"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Marlon Brando",
+        "movie": "On the Waterfront"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Grace Kelly",
+        "movie": "The Country Girl"
+      }
+    ]
+  },
+  {
+    "slug": "1954",
+    "label": "1954",
+    "subtitle": "26th Ceremony — Films of 1953",
+    "decade": "1950s",
+    "ordinal": 26,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "From Here to Eternity",
+        "movie": "From Here to Eternity"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Fred Zinnemann",
+        "movie": "From Here to Eternity"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "William Holden",
+        "movie": "Stalag 17"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Audrey Hepburn",
+        "movie": "Roman Holiday"
+      }
+    ]
+  },
+  {
+    "slug": "1953",
+    "label": "1953",
+    "subtitle": "25th Ceremony — Films of 1952",
+    "decade": "1950s",
+    "ordinal": 25,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Greatest Show on Earth",
+        "movie": "The Greatest Show on Earth"
+      },
+      {
+        "category": "Best Director",
+        "winner": "John Ford",
+        "movie": "The Quiet Man"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Gary Cooper",
+        "movie": "High Noon"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Shirley Booth",
+        "movie": "Come Back, Little Sheba"
+      }
+    ]
+  },
+  {
+    "slug": "1952",
+    "label": "1952",
+    "subtitle": "24th Ceremony — Films of 1951",
+    "decade": "1950s",
+    "ordinal": 24,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "An American in Paris",
+        "movie": "An American in Paris"
+      },
+      {
+        "category": "Best Director",
+        "winner": "George Stevens",
+        "movie": "A Place in the Sun"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Humphrey Bogart",
+        "movie": "The African Queen"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Vivien Leigh",
+        "movie": "A Streetcar Named Desire"
+      }
+    ]
+  },
+  {
+    "slug": "1951",
+    "label": "1951",
+    "subtitle": "23rd Ceremony — Films of 1950",
+    "decade": "1950s",
+    "ordinal": 23,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "All About Eve",
+        "movie": "All About Eve"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Joseph L. Mankiewicz",
+        "movie": "All About Eve"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Jose Ferrer",
+        "movie": "Cyrano de Bergerac"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Judy Holliday",
+        "movie": "Born Yesterday"
+      }
+    ]
+  },
+  {
+    "slug": "1950",
+    "label": "1950",
+    "subtitle": "22nd Ceremony — Films of 1949",
+    "decade": "1950s",
+    "ordinal": 22,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "All the King's Men",
+        "movie": "All the King's Men"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Joseph L. Mankiewicz",
+        "movie": "A Letter to Three Wives"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Broderick Crawford",
+        "movie": "All the King's Men"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Olivia de Havilland",
+        "movie": "The Heiress"
+      }
+    ]
+  },
+  {
+    "slug": "1949",
+    "label": "1949",
+    "subtitle": "21st Ceremony — Films of 1948",
+    "decade": "1940s",
+    "ordinal": 21,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Hamlet",
+        "movie": "Hamlet"
+      },
+      {
+        "category": "Best Director",
+        "winner": "John Huston",
+        "movie": "The Treasure of the Sierra Madre"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Laurence Olivier",
+        "movie": "Hamlet"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jane Wyman",
+        "movie": "Johnny Belinda"
+      }
+    ]
+  },
+  {
+    "slug": "1948",
+    "label": "1948",
+    "subtitle": "20th Ceremony — Films of 1947",
+    "decade": "1940s",
+    "ordinal": 20,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Gentleman's Agreement",
+        "movie": "Gentleman's Agreement"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Elia Kazan",
+        "movie": "Gentleman's Agreement"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Ronald Colman",
+        "movie": "A Double Life"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Loretta Young",
+        "movie": "The Farmer's Daughter"
+      }
+    ]
+  },
+  {
+    "slug": "1947",
+    "label": "1947",
+    "subtitle": "19th Ceremony — Films of 1946",
+    "decade": "1940s",
+    "ordinal": 19,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Best Years of Our Lives",
+        "movie": "The Best Years of Our Lives"
+      },
+      {
+        "category": "Best Director",
+        "winner": "William Wyler",
+        "movie": "The Best Years of Our Lives"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Frederic March",
+        "movie": "The Best Years of Our Lives"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Olivia de Havilland",
+        "movie": "To Each His Own"
+      }
+    ]
+  },
+  {
+    "slug": "1946",
+    "label": "1946",
+    "subtitle": "18th Ceremony — Films of 1945",
+    "decade": "1940s",
+    "ordinal": 18,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Lost Weekend",
+        "movie": "The Lost Weekend"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Billy Wilder",
+        "movie": "The Lost Weekend"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Ray Milland",
+        "movie": "The Lost Weekend"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Joan Crawford",
+        "movie": "Mildred Pierce"
+      }
+    ]
+  },
+  {
+    "slug": "1945",
+    "label": "1945",
+    "subtitle": "17th Ceremony — Films of 1944",
+    "decade": "1940s",
+    "ordinal": 17,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Going My Way",
+        "movie": "Going My Way"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Leo McCarey",
+        "movie": "Going My Way"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Bing Crosby",
+        "movie": "Going My Way"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Ingrid Bergman",
+        "movie": "Gaslight"
+      }
+    ]
+  },
+  {
+    "slug": "1944",
+    "label": "1944",
+    "subtitle": "16th Ceremony — Films of 1943",
+    "decade": "1940s",
+    "ordinal": 16,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Casablanca",
+        "movie": "Casablanca"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Michael Curtiz",
+        "movie": "Casablanca"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Paul Lukas",
+        "movie": "Watch on the Rhine"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jennifer Jones",
+        "movie": "The Song of Bernadette"
+      }
+    ]
+  },
+  {
+    "slug": "1943",
+    "label": "1943",
+    "subtitle": "15th Ceremony — Films of 1942",
+    "decade": "1940s",
+    "ordinal": 15,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Mrs. Miniver",
+        "movie": "Mrs. Miniver"
+      },
+      {
+        "category": "Best Director",
+        "winner": "William Wyler",
+        "movie": "Mrs. Miniver"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "James Cagney",
+        "movie": "Yankee Doodle Dandy"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Greer Garson",
+        "movie": "Mrs. Miniver"
+      }
+    ]
+  },
+  {
+    "slug": "1942",
+    "label": "1942",
+    "subtitle": "14th Ceremony — Films of 1941",
+    "decade": "1940s",
+    "ordinal": 14,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "How Green Was My Valley",
+        "movie": "How Green Was My Valley"
+      },
+      {
+        "category": "Best Director",
+        "winner": "John Ford",
+        "movie": "How Green Was My Valley"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Gary Cooper",
+        "movie": "Sergeant York"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Joan Fontaine",
+        "movie": "Suspicion"
+      }
+    ]
+  },
+  {
+    "slug": "1941",
+    "label": "1941",
+    "subtitle": "13th Ceremony — Films of 1940",
+    "decade": "1940s",
+    "ordinal": 13,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Rebecca",
+        "movie": "Rebecca"
+      },
+      {
+        "category": "Best Director",
+        "winner": "John Ford",
+        "movie": "The Grapes of Wrath"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "James Stewart",
+        "movie": "The Philadelphia Story"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Ginger Rogers",
+        "movie": "Kitty Foyle"
+      }
+    ]
+  },
+  {
+    "slug": "1940",
+    "label": "1940",
+    "subtitle": "12th Ceremony — Films of 1939",
+    "decade": "1940s",
+    "ordinal": 12,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Gone with the Wind",
+        "movie": "Gone with the Wind"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Victor Fleming",
+        "movie": "Gone with the Wind"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Robert Donat",
+        "movie": "Goodbye, Mr. Chips"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Vivien Leigh",
+        "movie": "Gone with the Wind"
+      }
+    ]
+  },
+  {
+    "slug": "1939",
+    "label": "1939",
+    "subtitle": "11th Ceremony — Films of 1938",
+    "decade": "1930s",
+    "ordinal": 11,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "You Can't Take It With You",
+        "movie": "You Can't Take It with You"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Frank Capra",
+        "movie": "You Can't Take It with You"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Spencer Tracy",
+        "movie": "Boys Town"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Bette Davis",
+        "movie": "Jezebel"
+      }
+    ]
+  },
+  {
+    "slug": "1938",
+    "label": "1938",
+    "subtitle": "10th Ceremony — Films of 1937",
+    "decade": "1930s",
+    "ordinal": 10,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Life of Emile Zola",
+        "movie": "The Life of Emile Zola"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Leo McCarey",
+        "movie": "The Awful Truth"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Spencer Tracy",
+        "movie": "Captains Courageous"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Luise Rainer",
+        "movie": "The Good Earth"
+      }
+    ]
+  },
+  {
+    "slug": "1937",
+    "label": "1937",
+    "subtitle": "9th Ceremony — Films of 1936",
+    "decade": "1930s",
+    "ordinal": 9,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Great Ziegfeld",
+        "movie": "The Great Ziegfeld"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Frank Capra",
+        "movie": "Mr. Deeds Goes to Town"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Paul Muni",
+        "movie": "The Story of Louis Pasteur"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Luise Rainer",
+        "movie": "The Great Ziegfeld"
+      }
+    ]
+  },
+  {
+    "slug": "1936",
+    "label": "1936",
+    "subtitle": "8th Ceremony — Films of 1935",
+    "decade": "1930s",
+    "ordinal": 8,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Mutiny on the Bounty",
+        "movie": "Mutiny on the Bounty"
+      },
+      {
+        "category": "Best Director",
+        "winner": "John Ford",
+        "movie": "The Informer"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Victor McLaglen",
+        "movie": "The Informer"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Bette Davis",
+        "movie": "Dangerous"
+      }
+    ]
+  },
+  {
+    "slug": "1935",
+    "label": "1935",
+    "subtitle": "7th Ceremony — Films of 1934",
+    "decade": "1930s",
+    "ordinal": 7,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "It Happened One Night",
+        "movie": "It Happened One Night"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Frank Capra",
+        "movie": "It Happened One Night"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Clark Gable",
+        "movie": "It Happened One Night"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Claudette Colbert",
+        "movie": "It Happened One Night"
+      }
+    ]
+  },
+  {
+    "slug": "1934",
+    "label": "1934",
+    "subtitle": "6th Ceremony — Films of 1932/33",
+    "decade": "1930s",
+    "ordinal": 6,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Cavalcade",
+        "movie": "Cavalcade"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Frank Lloyd",
+        "movie": "Cavalcade"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Charles Laughton",
+        "movie": "The Private Life of Henry VIII"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Katharine Hepburn",
+        "movie": "Morning Glory"
+      }
+    ]
+  },
+  {
+    "slug": "1932",
+    "label": "1932",
+    "subtitle": "5th Ceremony — Films of 1931/32",
+    "decade": "1930s",
+    "ordinal": 5,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Grand Hotel",
+        "movie": "Grand Hotel"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Frank Borzage",
+        "movie": "Bad Girl"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Wallace Beery",
+        "movie": "The Champ"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Helen Hayes",
+        "movie": "The Sin of Madelon Claudet"
+      }
+    ]
+  },
+  {
+    "slug": "1931",
+    "label": "1931",
+    "subtitle": "4th Ceremony — Films of 1930/31",
+    "decade": "1930s",
+    "ordinal": 4,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Cimarron",
+        "movie": "Cimarron"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Norman Taurog",
+        "movie": "Skippy"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Lionel Barrymore",
+        "movie": "A Free Soul"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Marie Dressler",
+        "movie": "Min and Bill"
+      }
+    ]
+  },
+  {
+    "slug": "1930-3rd",
+    "label": "1930",
+    "subtitle": "3rd Ceremony — Films of 1929/30",
+    "decade": "1930s",
+    "ordinal": 3,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "All Quiet on the Western Front",
+        "movie": "All Quiet on the Western Front"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Lewis Milestone",
+        "movie": "All Quiet on the Western Front"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "George Arliss",
+        "movie": "Disraeli"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Norma Shearer",
+        "movie": "The Divorcee"
+      }
+    ]
+  },
+  {
+    "slug": "1930-2nd",
+    "label": "1930",
+    "subtitle": "2nd Ceremony — Films of 1928/29",
+    "decade": "1930s",
+    "ordinal": 2,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "The Broadway Melody",
+        "movie": "The Broadway Melody"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Frank Lloyd",
+        "movie": "The Divine Lady"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Warner Baxter",
+        "movie": "In Old Arizona"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Mary Pickford",
+        "movie": "Coquette"
+      }
+    ]
+  },
+  {
+    "slug": "1929",
+    "label": "1929",
+    "subtitle": "1st Ceremony — Films of 1927/28",
+    "decade": "1920s",
+    "ordinal": 1,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Wings",
+        "movie": "Wings"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Frank Borzage",
+        "movie": "7th Heaven"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Emil Jannings",
+        "movie": "The Last Command"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Janet Gaynor",
+        "movie": "7th Heaven"
+      }
+    ]
+  }
+]
