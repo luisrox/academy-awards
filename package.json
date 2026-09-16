@@ -10,7 +10,8 @@
     "start": "next start",
     "lint": "eslint",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "sync:oscars": "tsx scripts/sync-oscars.ts"
   },
   "dependencies": {
     "motion": "^13.4.0",
