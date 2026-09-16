@@ -72,14 +72,26 @@ describe("known facts", () => {
     expect(categoryById(detail, "best-costume-design-bw")).toBeUndefined();
   });
 
-  it.skip("97th ceremony (2025) exists and comes from the official source — enable in step 13", () => {
+  it("97th ceremony (2025) exists and comes from the official source", () => {
     const detail = loadDetail("2025");
     expect(detail.ceremony.ordinal).toBe(97);
+    const winner = categoryById(detail, "best-picture")?.winners[0];
+    expect(winner?.movies[0]?.title).toBeTruthy();
+    expect(winner?.movies[0]?.tmdbId).toBeUndefined();
+    expect(winner?.movies[0]?.imdbId).toBeUndefined();
   });
 
-  it.skip("98th ceremony (2026) exists and comes from the official source, not the historical feed — enable in step 13", () => {
+  it("98th ceremony (2026) exists and comes from the official source, not the historical feed", () => {
     const detail = loadDetail("2026");
     expect(detail.ceremony.ordinal).toBe(98);
-    expect(categoryById(detail, "best-casting")).toBeDefined();
+    const winner = categoryById(detail, "best-picture")?.winners[0];
+    expect(winner?.movies[0]?.title).toBeTruthy();
+    expect(winner?.movies[0]?.tmdbId).toBeUndefined();
+    expect(winner?.movies[0]?.imdbId).toBeUndefined();
+  });
+
+  it("98th ceremony includes best-casting, which the historical feed does not have", () => {
+    expect(categoryById(loadDetail("2026"), "best-casting")).toBeDefined();
+    expect(categoryById(loadDetail("2025"), "best-casting")).toBeUndefined();
   });
 });

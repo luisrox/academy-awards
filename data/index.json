@@ -1,5 +1,63 @@
 [
   {
+    "slug": "2026",
+    "label": "2026",
+    "subtitle": "98th Ceremony — Films of 2025",
+    "decade": "2020s",
+    "ordinal": 98,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "One Battle after Another",
+        "movie": "One Battle after Another"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Paul Thomas Anderson",
+        "movie": "One Battle after Another"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Michael B. Jordan",
+        "movie": "Sinners"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Jessie Buckley",
+        "movie": "Hamnet"
+      }
+    ]
+  },
+  {
+    "slug": "2025",
+    "label": "2025",
+    "subtitle": "97th Ceremony — Films of 2024",
+    "decade": "2020s",
+    "ordinal": 97,
+    "headline": [
+      {
+        "category": "Best Picture",
+        "winner": "Anora",
+        "movie": "Anora"
+      },
+      {
+        "category": "Best Director",
+        "winner": "Sean Baker",
+        "movie": "Anora"
+      },
+      {
+        "category": "Best Actor",
+        "winner": "Adrien Brody",
+        "movie": "The Brutalist"
+      },
+      {
+        "category": "Best Actress",
+        "winner": "Mikey Madison",
+        "movie": "Anora"
+      }
+    ]
+  },
+  {
     "slug": "2024",
     "label": "2024",
     "subtitle": "96th Ceremony — Films of 2023",

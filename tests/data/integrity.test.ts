@@ -19,6 +19,10 @@ import {
   loadHistoricalRecords,
 } from "../../scripts/lib/load-historical";
 import {
+  loadOfficialRecords,
+  mergeNominationSources,
+} from "../../scripts/lib/load-official";
+import {
   allCategories,
   detailPath,
   indexPath,
@@ -31,8 +35,6 @@ import {
  * live in src/data/ceremonies.test.ts. This file covers D7–D15 on data/.
  */
 
-const PENDING_OFFICIAL_ORDINALS = new Set([97, 98]);
-
 function entryKey(entry: { names: string[]; movies: { title: string }[] }): string {
   return JSON.stringify({
     names: [...entry.names].sort(),
@@ -41,18 +43,11 @@ function entryKey(entry: { names: string[]; movies: { title: string }[] }): stri
 }
 
 describe("data integrity D7–D15", () => {
-  it("D7: every known slug except the pending 97th/98th has a detail file", () => {
+  it("D7: every known slug has a detail file", () => {
     const missing = CEREMONIES.filter(
-      (ceremony) =>
-        !PENDING_OFFICIAL_ORDINALS.has(ceremony.ordinal) &&
-        !existsSync(detailPath(ceremony.slug)),
+      (ceremony) => !existsSync(detailPath(ceremony.slug)),
     ).map((ceremony) => ceremony.slug);
     expect(missing).toEqual([]);
-  });
-
-  it.skip("D7: 97th and 98th ceremony files exist — enable in step 13", () => {
-    expect(existsSync(detailPath("2025"))).toBe(true);
-    expect(existsSync(detailPath("2026"))).toBe(true);
   });
 
   it("D8: every historical dataset category name resolves in the dictionary", async () => {
@@ -122,9 +117,13 @@ describe("data integrity D7–D15", () => {
     }
   });
 
-  it("D13: nomination totals in details match the historical feed", async () => {
-    const records = loadHistoricalRecords(
+  it("D13: nomination totals in details match historical plus official raw", async () => {
+    const historical = loadHistoricalRecords(
       JSON.parse(await fetchCached(HISTORICAL_URL, "oscar-nominations.json")),
+    );
+    const records = mergeNominationSources(
+      historical,
+      await loadOfficialRecords(),
     );
     const fromDetails = loadIndex()
       .map((entry) => nominationCount(loadDetail(entry.slug)))

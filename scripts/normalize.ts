@@ -10,16 +10,26 @@ import {
 import { buildCeremonyDetails, buildGridEntries } from "./lib/build-details";
 import { DATA_DIR, fetchCached, writeJson } from "./lib/cache";
 import { HISTORICAL_URL, loadHistoricalRecords } from "./lib/load-historical";
+import {
+  loadOfficialRecords,
+  mergeNominationSources,
+} from "./lib/load-official";
 import { dataWarnings } from "./data-check";
 
 /**
- * Rebuild data/ from the historical feed. Network is used only on a cache miss
- * (.cache/). Production `npm run build` does not run this — it only checks the
+ * Rebuild data/ from the historical feed plus any official scrapes in
+ * data/raw/. Network is used only on a historical cache miss (.cache/).
+ * Production `npm run build` does not run this — it only checks the
  * committed artifacts — so a Vercel build never depends on GitHub being up.
+ *
+ * Official records win over historical ones for the same ordinal: the Academy
+ * database is the source of truth. The scraper never writes these artifacts.
  */
 export async function normalizeData(): Promise<void> {
   const rawText = await fetchCached(HISTORICAL_URL, "oscar-nominations.json");
-  const records = loadHistoricalRecords(JSON.parse(rawText) as unknown);
+  const historical = loadHistoricalRecords(JSON.parse(rawText) as unknown);
+  const official = await loadOfficialRecords();
+  const records = mergeNominationSources(historical, official);
   const details = buildCeremonyDetails(records);
   const index = buildGridEntries(details);
 

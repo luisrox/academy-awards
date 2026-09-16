@@ -1,0 +1,1738 @@
+[
+  {
+    "ordinal": 97,
+    "categoryId": "best-actor",
+    "categoryLabel": "Best Actor",
+    "names": [
+      "Adrien Brody"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actor",
+    "categoryLabel": "Best Actor",
+    "names": [
+      "Timothée Chalamet"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actor",
+    "categoryLabel": "Best Actor",
+    "names": [
+      "Colman Domingo"
+    ],
+    "movies": [
+      {
+        "title": "Sing Sing"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actor",
+    "categoryLabel": "Best Actor",
+    "names": [
+      "Ralph Fiennes"
+    ],
+    "movies": [
+      {
+        "title": "Conclave"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actor",
+    "categoryLabel": "Best Actor",
+    "names": [
+      "Sebastian Stan"
+    ],
+    "movies": [
+      {
+        "title": "The Apprentice"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actor",
+    "categoryLabel": "Best Supporting Actor",
+    "names": [
+      "Yura Borisov"
+    ],
+    "movies": [
+      {
+        "title": "Anora"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actor",
+    "categoryLabel": "Best Supporting Actor",
+    "names": [
+      "Kieran Culkin"
+    ],
+    "movies": [
+      {
+        "title": "A Real Pain"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actor",
+    "categoryLabel": "Best Supporting Actor",
+    "names": [
+      "Edward Norton"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actor",
+    "categoryLabel": "Best Supporting Actor",
+    "names": [
+      "Guy Pearce"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actor",
+    "categoryLabel": "Best Supporting Actor",
+    "names": [
+      "Jeremy Strong"
+    ],
+    "movies": [
+      {
+        "title": "The Apprentice"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actress",
+    "categoryLabel": "Best Actress",
+    "names": [
+      "Cynthia Erivo"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actress",
+    "categoryLabel": "Best Actress",
+    "names": [
+      "Karla Sofía Gascón"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actress",
+    "categoryLabel": "Best Actress",
+    "names": [
+      "Mikey Madison"
+    ],
+    "movies": [
+      {
+        "title": "Anora"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actress",
+    "categoryLabel": "Best Actress",
+    "names": [
+      "Demi Moore"
+    ],
+    "movies": [
+      {
+        "title": "The Substance"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-actress",
+    "categoryLabel": "Best Actress",
+    "names": [
+      "Fernanda Torres"
+    ],
+    "movies": [
+      {
+        "title": "I'm Still Here"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actress",
+    "categoryLabel": "Best Supporting Actress",
+    "names": [
+      "Monica Barbaro"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actress",
+    "categoryLabel": "Best Supporting Actress",
+    "names": [
+      "Ariana Grande"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actress",
+    "categoryLabel": "Best Supporting Actress",
+    "names": [
+      "Felicity Jones"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actress",
+    "categoryLabel": "Best Supporting Actress",
+    "names": [
+      "Isabella Rossellini"
+    ],
+    "movies": [
+      {
+        "title": "Conclave"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-supporting-actress",
+    "categoryLabel": "Best Supporting Actress",
+    "names": [
+      "Zoe Saldaña"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-feature",
+    "categoryLabel": "Best Animated Feature",
+    "names": [
+      "Flow"
+    ],
+    "movies": [
+      {
+        "title": "Flow"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-feature",
+    "categoryLabel": "Best Animated Feature",
+    "names": [
+      "Inside Out 2"
+    ],
+    "movies": [
+      {
+        "title": "Inside Out 2"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-feature",
+    "categoryLabel": "Best Animated Feature",
+    "names": [
+      "Memoir of a Snail"
+    ],
+    "movies": [
+      {
+        "title": "Memoir of a Snail"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-feature",
+    "categoryLabel": "Best Animated Feature",
+    "names": [
+      "Wallace & Gromit: Vengeance Most Fowl"
+    ],
+    "movies": [
+      {
+        "title": "Wallace & Gromit: Vengeance Most Fowl"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-feature",
+    "categoryLabel": "Best Animated Feature",
+    "names": [
+      "The Wild Robot"
+    ],
+    "movies": [
+      {
+        "title": "The Wild Robot"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-short",
+    "categoryLabel": "Best Animated Short",
+    "names": [
+      "Beautiful Men"
+    ],
+    "movies": [
+      {
+        "title": "Beautiful Men"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-short",
+    "categoryLabel": "Best Animated Short",
+    "names": [
+      "In the Shadow of the Cypress"
+    ],
+    "movies": [
+      {
+        "title": "In the Shadow of the Cypress"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-short",
+    "categoryLabel": "Best Animated Short",
+    "names": [
+      "Magic Candies"
+    ],
+    "movies": [
+      {
+        "title": "Magic Candies"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-short",
+    "categoryLabel": "Best Animated Short",
+    "names": [
+      "Wander to Wonder"
+    ],
+    "movies": [
+      {
+        "title": "Wander to Wonder"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-animated-short",
+    "categoryLabel": "Best Animated Short",
+    "names": [
+      "Yuck!"
+    ],
+    "movies": [
+      {
+        "title": "Yuck!"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-cinematography",
+    "categoryLabel": "Best Cinematography",
+    "names": [
+      "Lol Crawley"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-cinematography",
+    "categoryLabel": "Best Cinematography",
+    "names": [
+      "Greig Fraser"
+    ],
+    "movies": [
+      {
+        "title": "Dune: Part Two"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-cinematography",
+    "categoryLabel": "Best Cinematography",
+    "names": [
+      "Paul Guilhaume"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-cinematography",
+    "categoryLabel": "Best Cinematography",
+    "names": [
+      "Ed Lachman"
+    ],
+    "movies": [
+      {
+        "title": "Maria"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-cinematography",
+    "categoryLabel": "Best Cinematography",
+    "names": [
+      "Jarin Blaschke"
+    ],
+    "movies": [
+      {
+        "title": "Nosferatu"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-costume-design",
+    "categoryLabel": "Best Costume Design",
+    "names": [
+      "Arianne Phillips"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-costume-design",
+    "categoryLabel": "Best Costume Design",
+    "names": [
+      "Lisy Christl"
+    ],
+    "movies": [
+      {
+        "title": "Conclave"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-costume-design",
+    "categoryLabel": "Best Costume Design",
+    "names": [
+      "Janty Yates",
+      "Dave Crossman"
+    ],
+    "movies": [
+      {
+        "title": "Gladiator II"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-costume-design",
+    "categoryLabel": "Best Costume Design",
+    "names": [
+      "Linda Muir"
+    ],
+    "movies": [
+      {
+        "title": "Nosferatu"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-costume-design",
+    "categoryLabel": "Best Costume Design",
+    "names": [
+      "Paul Tazewell"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-director",
+    "categoryLabel": "Best Director",
+    "names": [
+      "Sean Baker"
+    ],
+    "movies": [
+      {
+        "title": "Anora"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-director",
+    "categoryLabel": "Best Director",
+    "names": [
+      "Brady Corbet"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-director",
+    "categoryLabel": "Best Director",
+    "names": [
+      "James Mangold"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-director",
+    "categoryLabel": "Best Director",
+    "names": [
+      "Jacques Audiard"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-director",
+    "categoryLabel": "Best Director",
+    "names": [
+      "Coralie Fargeat"
+    ],
+    "movies": [
+      {
+        "title": "The Substance"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-feature",
+    "categoryLabel": "Best Documentary Feature Film",
+    "names": [
+      "Black Box Diaries"
+    ],
+    "movies": [
+      {
+        "title": "Black Box Diaries"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-feature",
+    "categoryLabel": "Best Documentary Feature Film",
+    "names": [
+      "No Other Land"
+    ],
+    "movies": [
+      {
+        "title": "No Other Land"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-feature",
+    "categoryLabel": "Best Documentary Feature Film",
+    "names": [
+      "Porcelain War"
+    ],
+    "movies": [
+      {
+        "title": "Porcelain War"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-feature",
+    "categoryLabel": "Best Documentary Feature Film",
+    "names": [
+      "Soundtrack to a Coup d'Etat"
+    ],
+    "movies": [
+      {
+        "title": "Soundtrack to a Coup d'Etat"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-feature",
+    "categoryLabel": "Best Documentary Feature Film",
+    "names": [
+      "Sugarcane"
+    ],
+    "movies": [
+      {
+        "title": "Sugarcane"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-short",
+    "categoryLabel": "Best Documentary Short",
+    "names": [
+      "Death by Numbers"
+    ],
+    "movies": [
+      {
+        "title": "Death by Numbers"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-short",
+    "categoryLabel": "Best Documentary Short",
+    "names": [
+      "I Am Ready, Warden"
+    ],
+    "movies": [
+      {
+        "title": "I Am Ready, Warden"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-short",
+    "categoryLabel": "Best Documentary Short",
+    "names": [
+      "Incident"
+    ],
+    "movies": [
+      {
+        "title": "Incident"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-short",
+    "categoryLabel": "Best Documentary Short",
+    "names": [
+      "Instruments of a Beating Heart"
+    ],
+    "movies": [
+      {
+        "title": "Instruments of a Beating Heart"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-documentary-short",
+    "categoryLabel": "Best Documentary Short",
+    "names": [
+      "The Only Girl in the Orchestra"
+    ],
+    "movies": [
+      {
+        "title": "The Only Girl in the Orchestra"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-film-editing",
+    "categoryLabel": "Best Film Editing",
+    "names": [
+      "Sean Baker"
+    ],
+    "movies": [
+      {
+        "title": "Anora"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-film-editing",
+    "categoryLabel": "Best Film Editing",
+    "names": [
+      "David Jancso"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-film-editing",
+    "categoryLabel": "Best Film Editing",
+    "names": [
+      "Nick Emerson"
+    ],
+    "movies": [
+      {
+        "title": "Conclave"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-film-editing",
+    "categoryLabel": "Best Film Editing",
+    "names": [
+      "Juliette Welfling"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-film-editing",
+    "categoryLabel": "Best Film Editing",
+    "names": [
+      "Myron Kerstein"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-international-feature",
+    "categoryLabel": "Best International Feature Film",
+    "names": [
+      "Emilia Pérez"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-international-feature",
+    "categoryLabel": "Best International Feature Film",
+    "names": [
+      "Flow"
+    ],
+    "movies": [
+      {
+        "title": "Flow"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-international-feature",
+    "categoryLabel": "Best International Feature Film",
+    "names": [
+      "The Girl with the Needle"
+    ],
+    "movies": [
+      {
+        "title": "The Girl with the Needle"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-international-feature",
+    "categoryLabel": "Best International Feature Film",
+    "names": [
+      "I'm Still Here"
+    ],
+    "movies": [
+      {
+        "title": "I'm Still Here"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-international-feature",
+    "categoryLabel": "Best International Feature Film",
+    "names": [
+      "The Seed of the Sacred Fig"
+    ],
+    "movies": [
+      {
+        "title": "The Seed of the Sacred Fig"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-makeup-hairstyling",
+    "categoryLabel": "Best Makeup and Hairstyling",
+    "names": [
+      "Mike Marino",
+      "David Presto",
+      "Crystal Jurado"
+    ],
+    "movies": [
+      {
+        "title": "A Different Man"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-makeup-hairstyling",
+    "categoryLabel": "Best Makeup and Hairstyling",
+    "names": [
+      "Julia Floch Carbonel",
+      "Emmanuel Janvier",
+      "Jean-Christophe Spadaccini"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-makeup-hairstyling",
+    "categoryLabel": "Best Makeup and Hairstyling",
+    "names": [
+      "David White",
+      "Traci Loader",
+      "Suzanne Stokes-Munton"
+    ],
+    "movies": [
+      {
+        "title": "Nosferatu"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-makeup-hairstyling",
+    "categoryLabel": "Best Makeup and Hairstyling",
+    "names": [
+      "Pierre-Olivier Persin",
+      "Stéphanie Guillon",
+      "Marilyne Scarselli"
+    ],
+    "movies": [
+      {
+        "title": "The Substance"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-makeup-hairstyling",
+    "categoryLabel": "Best Makeup and Hairstyling",
+    "names": [
+      "Frances Hannon",
+      "Laura Blount",
+      "Sarah Nuth"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-score",
+    "categoryLabel": "Best Original Score",
+    "names": [
+      "Daniel Blumberg"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-score",
+    "categoryLabel": "Best Original Score",
+    "names": [
+      "Volker Bertelmann"
+    ],
+    "movies": [
+      {
+        "title": "Conclave"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-score",
+    "categoryLabel": "Best Original Score",
+    "names": [
+      "Clément Ducol",
+      "Camille"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-score",
+    "categoryLabel": "Best Original Score",
+    "names": [
+      "John Powell",
+      "Stephen Schwartz"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-score",
+    "categoryLabel": "Best Original Score",
+    "names": [
+      "Kris Bowers"
+    ],
+    "movies": [
+      {
+        "title": "The Wild Robot"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-song",
+    "categoryLabel": "Best Original Song",
+    "names": [
+      "El Mal"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-song",
+    "categoryLabel": "Best Original Song",
+    "names": [
+      "The Journey"
+    ],
+    "movies": [
+      {
+        "title": "The Six Triple Eight"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-song",
+    "categoryLabel": "Best Original Song",
+    "names": [
+      "Like A Bird"
+    ],
+    "movies": [
+      {
+        "title": "Sing Sing"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-song",
+    "categoryLabel": "Best Original Song",
+    "names": [
+      "Mi Camino"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-song",
+    "categoryLabel": "Best Original Song",
+    "names": [
+      "Never Too Late"
+    ],
+    "movies": [
+      {
+        "title": "Elton John: Never Too Late"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "Anora"
+    ],
+    "movies": [
+      {
+        "title": "Anora"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "The Brutalist"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "A Complete Unknown"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "Conclave"
+    ],
+    "movies": [
+      {
+        "title": "Conclave"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "Dune: Part Two"
+    ],
+    "movies": [
+      {
+        "title": "Dune: Part Two"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "Emilia Pérez"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "I'm Still Here"
+    ],
+    "movies": [
+      {
+        "title": "I'm Still Here"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "Nickel Boys"
+    ],
+    "movies": [
+      {
+        "title": "Nickel Boys"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "The Substance"
+    ],
+    "movies": [
+      {
+        "title": "The Substance"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-picture",
+    "categoryLabel": "Best Picture",
+    "names": [
+      "Wicked"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-production-design",
+    "categoryLabel": "Best Production Design",
+    "names": [
+      "Production Design: Judy Becker; Set Decoration: Patricia Cuccia"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-production-design",
+    "categoryLabel": "Best Production Design",
+    "names": [
+      "Production Design: Suzie Davies; Set Decoration: Cynthia Sleiter"
+    ],
+    "movies": [
+      {
+        "title": "Conclave"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-production-design",
+    "categoryLabel": "Best Production Design",
+    "names": [
+      "Production Design: Patrice Vermette; Set Decoration: Shane Vieau"
+    ],
+    "movies": [
+      {
+        "title": "Dune: Part Two"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-production-design",
+    "categoryLabel": "Best Production Design",
+    "names": [
+      "Production Design: Craig Lathrop; Set Decoration: Beatrice Brentnerová"
+    ],
+    "movies": [
+      {
+        "title": "Nosferatu"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-production-design",
+    "categoryLabel": "Best Production Design",
+    "names": [
+      "Production Design: Nathan Crowley; Set Decoration: Lee Sandales"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-live-action-short",
+    "categoryLabel": "Best Live Action Short Film",
+    "names": [
+      "A Lien"
+    ],
+    "movies": [
+      {
+        "title": "A Lien"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-live-action-short",
+    "categoryLabel": "Best Live Action Short Film",
+    "names": [
+      "Anuja"
+    ],
+    "movies": [
+      {
+        "title": "Anuja"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-live-action-short",
+    "categoryLabel": "Best Live Action Short Film",
+    "names": [
+      "I'm Not a Robot"
+    ],
+    "movies": [
+      {
+        "title": "I'm Not a Robot"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-live-action-short",
+    "categoryLabel": "Best Live Action Short Film",
+    "names": [
+      "The Last Ranger"
+    ],
+    "movies": [
+      {
+        "title": "The Last Ranger"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-live-action-short",
+    "categoryLabel": "Best Live Action Short Film",
+    "names": [
+      "The Man Who Could Not Remain Silent"
+    ],
+    "movies": [
+      {
+        "title": "The Man Who Could Not Remain Silent"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-sound",
+    "categoryLabel": "Best Sound",
+    "names": [
+      "Tod A. Maitland",
+      "Donald Sylvester",
+      "Ted Caplan",
+      "Paul Massey",
+      "David Giammarco"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-sound",
+    "categoryLabel": "Best Sound",
+    "names": [
+      "Gareth John",
+      "Richard King",
+      "Ron Bartlett",
+      "Doug Hemphill"
+    ],
+    "movies": [
+      {
+        "title": "Dune: Part Two"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-sound",
+    "categoryLabel": "Best Sound",
+    "names": [
+      "Erwan Kerzanet",
+      "Aymeric Devoldère",
+      "Maxence Dussère",
+      "Cyril Holtz",
+      "Niels Barletta"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-sound",
+    "categoryLabel": "Best Sound",
+    "names": [
+      "Simon Hayes",
+      "Nancy Nugent Title",
+      "Jack Dolman",
+      "Andy Nelson",
+      "John Marquis"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-sound",
+    "categoryLabel": "Best Sound",
+    "names": [
+      "Randy Thom",
+      "Brian Chumney",
+      "Gary A. Rizzo",
+      "Leff Lefferts"
+    ],
+    "movies": [
+      {
+        "title": "The Wild Robot"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-visual-effects",
+    "categoryLabel": "Best Visual Effects",
+    "names": [
+      "Eric Barba",
+      "Nelson Sepulveda-Fauser",
+      "Daniel Macarin",
+      "Shane Mahan"
+    ],
+    "movies": [
+      {
+        "title": "Alien: Romulus"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-visual-effects",
+    "categoryLabel": "Best Visual Effects",
+    "names": [
+      "Luke Millar",
+      "David Clayton",
+      "Keith Herft",
+      "Peter Stubbs"
+    ],
+    "movies": [
+      {
+        "title": "Better Man"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-visual-effects",
+    "categoryLabel": "Best Visual Effects",
+    "names": [
+      "Paul Lambert",
+      "Stephen James",
+      "Rhys Salcombe",
+      "Gerd Nefzer"
+    ],
+    "movies": [
+      {
+        "title": "Dune: Part Two"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-visual-effects",
+    "categoryLabel": "Best Visual Effects",
+    "names": [
+      "Erik Winquist",
+      "Stephen Unterfranz",
+      "Paul Story",
+      "Rodney Burke"
+    ],
+    "movies": [
+      {
+        "title": "Kingdom of the Planet of the Apes"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-visual-effects",
+    "categoryLabel": "Best Visual Effects",
+    "names": [
+      "Pablo Helman",
+      "Jonathan Fawkner",
+      "David Shirk",
+      "Paul Corbould"
+    ],
+    "movies": [
+      {
+        "title": "Wicked"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-adapted-screenplay",
+    "categoryLabel": "Best Adapted Screenplay",
+    "names": [
+      "Screenplay by James Mangold",
+      "Jay Cocks"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-adapted-screenplay",
+    "categoryLabel": "Best Adapted Screenplay",
+    "names": [
+      "Screenplay by Peter Straughan"
+    ],
+    "movies": [
+      {
+        "title": "Conclave"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-adapted-screenplay",
+    "categoryLabel": "Best Adapted Screenplay",
+    "names": [
+      "Screenplay by Jacques Audiard; In collaboration with Thomas Bidegain",
+      "Léa Mysius",
+      "Nicolas Livecchi"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-adapted-screenplay",
+    "categoryLabel": "Best Adapted Screenplay",
+    "names": [
+      "Screenplay by RaMell Ross",
+      "Joslyn Barnes"
+    ],
+    "movies": [
+      {
+        "title": "Nickel Boys"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-adapted-screenplay",
+    "categoryLabel": "Best Adapted Screenplay",
+    "names": [
+      "Screenplay by Clint Bentley",
+      "Greg Kwedar; Story by Clint Bentley",
+      "Greg Kwedar",
+      "Clarence Maclin",
+      "John \"Divine G\" Whitfield"
+    ],
+    "movies": [
+      {
+        "title": "Sing Sing"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-screenplay",
+    "categoryLabel": "Best Original Screenplay",
+    "names": [
+      "Written by Sean Baker"
+    ],
+    "movies": [
+      {
+        "title": "Anora"
+      }
+    ],
+    "won": true
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-screenplay",
+    "categoryLabel": "Best Original Screenplay",
+    "names": [
+      "Written by Brady Corbet",
+      "Mona Fastvold"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-screenplay",
+    "categoryLabel": "Best Original Screenplay",
+    "names": [
+      "Written by Jesse Eisenberg"
+    ],
+    "movies": [
+      {
+        "title": "A Real Pain"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-screenplay",
+    "categoryLabel": "Best Original Screenplay",
+    "names": [
+      "Written by Moritz Binder",
+      "Tim Fehlbaum; Co-Written by Alex David"
+    ],
+    "movies": [
+      {
+        "title": "September 5"
+      }
+    ],
+    "won": false
+  },
+  {
+    "ordinal": 97,
+    "categoryId": "best-original-screenplay",
+    "categoryLabel": "Best Original Screenplay",
+    "names": [
+      "Written by Coralie Fargeat"
+    ],
+    "movies": [
+      {
+        "title": "The Substance"
+      }
+    ],
+    "won": false
+  }
+]

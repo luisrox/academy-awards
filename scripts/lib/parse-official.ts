@@ -50,10 +50,17 @@ function peopleFrom(statement: string): string[] {
     .filter(Boolean);
 }
 
-function nominationFields(row: Cheerio<AnyNode>): { statement: string; film: string } {
+function unquote(text: string): string {
+  return text.replace(/^["“«']+|["”»']+$/g, "").trim();
+}
+
+function nominationFields(
+  row: Cheerio<AnyNode>,
+): { statement: string; film: string; song: string } {
   const statement = clean(row.find(".awards-result-nominationstatement").text());
   const film = clean(row.find(".awards-result-film-title").first().text());
-  return { statement, film };
+  const song = unquote(clean(row.find(".awards-result-songtitle").text()));
+  return { statement, film, song };
 }
 
 /**
@@ -104,10 +111,12 @@ export function parseOfficialResults(
         const won = row.find(WINNER_ICON_SELECTOR).length > 0;
         if (won) winners += 1;
 
-        const { statement, film } = nominationFields(row);
+        const { statement, film, song } = nominationFields(row);
         const movies: Movie[] = film ? [{ title: film }] : [];
         let names: string[];
-        if (acting) {
+        if (song) {
+          names = [song];
+        } else if (acting) {
           names = statement ? [statement] : [];
         } else if (FILM_AS_NAME.has(definition.id) && film) {
           names = [film];

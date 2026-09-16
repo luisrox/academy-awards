@@ -1,0 +1,1543 @@
+{
+  "ceremony": {
+    "ordinal": 98,
+    "ceremonyYear": 2026,
+    "ceremonyDate": "2026-03-15",
+    "filmYearLabel": "2025",
+    "slug": "2026",
+    "decade": "2020s"
+  },
+  "groups": [
+    {
+      "id": "headline",
+      "label": "The Big Two",
+      "categories": [
+        {
+          "id": "best-picture",
+          "label": "Best Picture",
+          "winners": [
+            {
+              "names": [
+                "One Battle after Another"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Bugonia"
+              ],
+              "movies": [
+                {
+                  "title": "Bugonia"
+                }
+              ]
+            },
+            {
+              "names": [
+                "F1"
+              ],
+              "movies": [
+                {
+                  "title": "F1"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Frankenstein"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Hamnet"
+              ],
+              "movies": [
+                {
+                  "title": "Hamnet"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Marty Supreme"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Secret Agent"
+              ],
+              "movies": [
+                {
+                  "title": "The Secret Agent"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sentimental Value"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sinners"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Train Dreams"
+              ],
+              "movies": [
+                {
+                  "title": "Train Dreams"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-director",
+          "label": "Best Director",
+          "winners": [
+            {
+              "names": [
+                "Paul Thomas Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Chloé Zhao"
+              ],
+              "movies": [
+                {
+                  "title": "Hamnet"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Josh Safdie"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Joachim Trier"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ryan Coogler"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "Acting",
+      "categories": [
+        {
+          "id": "best-actor",
+          "label": "Best Actor",
+          "winners": [
+            {
+              "names": [
+                "Michael B. Jordan"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Timothée Chalamet"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Leonardo DiCaprio"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ethan Hawke"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Moon"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wagner Moura"
+              ],
+              "movies": [
+                {
+                  "title": "The Secret Agent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-actress",
+          "label": "Best Actress",
+          "winners": [
+            {
+              "names": [
+                "Jessie Buckley"
+              ],
+              "movies": [
+                {
+                  "title": "Hamnet"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Rose Byrne"
+              ],
+              "movies": [
+                {
+                  "title": "If I Had Legs I'd Kick You"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kate Hudson"
+              ],
+              "movies": [
+                {
+                  "title": "Song Sung Blue"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Renate Reinsve"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Emma Stone"
+              ],
+              "movies": [
+                {
+                  "title": "Bugonia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actor",
+          "label": "Best Supporting Actor",
+          "winners": [
+            {
+              "names": [
+                "Sean Penn"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Benicio Del Toro"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jacob Elordi"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Delroy Lindo"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Stellan Skarsgård"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-supporting-actress",
+          "label": "Best Supporting Actress",
+          "winners": [
+            {
+              "names": [
+                "Amy Madigan"
+              ],
+              "movies": [
+                {
+                  "title": "Weapons"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Elle Fanning"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Inga Ibsdotter Lilleaas"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Wunmi Mosaku"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Teyana Taylor"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "categories": [
+        {
+          "id": "best-original-screenplay",
+          "label": "Best Original Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Written by Ryan Coogler"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Written by Robert Kaplow"
+              ],
+              "movies": [
+                {
+                  "title": "Blue Moon"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Written by Jafar Panahi; Script collaborators - Nader Saïvar",
+                "Shadmehr Rastin",
+                "Mehdi Mahmoudian"
+              ],
+              "movies": [
+                {
+                  "title": "It Was Just an Accident"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Written by Ronald Bronstein",
+                "Josh Safdie"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Written by Eskil Vogt",
+                "Joachim Trier"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-adapted-screenplay",
+          "label": "Best Adapted Screenplay",
+          "winners": [
+            {
+              "names": [
+                "Written by Paul Thomas Anderson"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Screenplay by Will Tracy"
+              ],
+              "movies": [
+                {
+                  "title": "Bugonia"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Written for the Screen by Guillermo del Toro"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Screenplay by Chloé Zhao",
+                "Maggie O'Farrell"
+              ],
+              "movies": [
+                {
+                  "title": "Hamnet"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Screenplay by Clint Bentley",
+                "Greg Kwedar"
+              ],
+              "movies": [
+                {
+                  "title": "Train Dreams"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feature",
+      "label": "Features",
+      "categories": [
+        {
+          "id": "best-animated-feature",
+          "label": "Best Animated Feature",
+          "winners": [
+            {
+              "names": [
+                "KPop Demon Hunters"
+              ],
+              "movies": [
+                {
+                  "title": "KPop Demon Hunters"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Arco"
+              ],
+              "movies": [
+                {
+                  "title": "Arco"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Elio"
+              ],
+              "movies": [
+                {
+                  "title": "Elio"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Little Amélie or the Character of Rain"
+              ],
+              "movies": [
+                {
+                  "title": "Little Amélie or the Character of Rain"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Zootopia 2"
+              ],
+              "movies": [
+                {
+                  "title": "Zootopia 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-international-feature",
+          "label": "Best International Feature Film",
+          "winners": [
+            {
+              "names": [
+                "Sentimental Value"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Secret Agent"
+              ],
+              "movies": [
+                {
+                  "title": "The Secret Agent"
+                }
+              ]
+            },
+            {
+              "names": [
+                "It Was Just an Accident"
+              ],
+              "movies": [
+                {
+                  "title": "It Was Just an Accident"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sirāt"
+              ],
+              "movies": [
+                {
+                  "title": "Sirāt"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Voice of Hind Rajab"
+              ],
+              "movies": [
+                {
+                  "title": "The Voice of Hind Rajab"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-feature",
+          "label": "Best Documentary Feature Film",
+          "winners": [
+            {
+              "names": [
+                "Mr. Nobody against Putin"
+              ],
+              "movies": [
+                {
+                  "title": "Mr. Nobody against Putin"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "The Alabama Solution"
+              ],
+              "movies": [
+                {
+                  "title": "The Alabama Solution"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Come See Me in the Good Light"
+              ],
+              "movies": [
+                {
+                  "title": "Come See Me in the Good Light"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Cutting through Rocks"
+              ],
+              "movies": [
+                {
+                  "title": "Cutting through Rocks"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Perfect Neighbor"
+              ],
+              "movies": [
+                {
+                  "title": "The Perfect Neighbor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Crafts",
+      "categories": [
+        {
+          "id": "best-cinematography",
+          "label": "Best Cinematography",
+          "winners": [
+            {
+              "names": [
+                "Autumn Durald Arkapaw"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dan Laustsen"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Darius Khondji"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Bauman"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Adolpho Veloso"
+              ],
+              "movies": [
+                {
+                  "title": "Train Dreams"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-film-editing",
+          "label": "Best Film Editing",
+          "winners": [
+            {
+              "names": [
+                "Andy Jurgensen"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Stephen Mirrione"
+              ],
+              "movies": [
+                {
+                  "title": "F1"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ronald Bronstein",
+                "Josh Safdie"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Olivier Bugge Coutté"
+              ],
+              "movies": [
+                {
+                  "title": "Sentimental Value"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael P. Shawver"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-production-design",
+          "label": "Best Production Design",
+          "winners": [
+            {
+              "names": [
+                "Production Design: Tamara Deverell; Set Decoration: Shane Vieau"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Production Design: Fiona Crombie; Set Decoration: Alice Felton"
+              ],
+              "movies": [
+                {
+                  "title": "Hamnet"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Production Design: Jack Fisk; Set Decoration: Adam Willis"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Production Design: Florencia Martin; Set Decoration: Anthony Carlino"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Production Design: Hannah Beachler; Set Decoration: Monique Champagne"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-costume-design",
+          "label": "Best Costume Design",
+          "winners": [
+            {
+              "names": [
+                "Kate Hawley"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Deborah L. Scott"
+              ],
+              "movies": [
+                {
+                  "title": "Avatar: Fire and Ash"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Malgosia Turzanska"
+              ],
+              "movies": [
+                {
+                  "title": "Hamnet"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Miyako Bellizzi"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ruth E. Carter"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-makeup-hairstyling",
+          "label": "Best Makeup and Hairstyling",
+          "winners": [
+            {
+              "names": [
+                "Mike Hill",
+                "Jordan Samuel",
+                "Cliona Furey"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Kyoko Toyokawa",
+                "Naomi Hibino",
+                "Tadashi Nishimatsu"
+              ],
+              "movies": [
+                {
+                  "title": "Kokuho"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Ken Diaz",
+                "Mike Fontaine",
+                "Shunika Terry"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Kazu Hiro",
+                "Glen Griffin",
+                "Bjoern Rehbein"
+              ],
+              "movies": [
+                {
+                  "title": "The Smashing Machine"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Thomas Foldberg",
+                "Anne Cathrine Sauerberg"
+              ],
+              "movies": [
+                {
+                  "title": "The Ugly Stepsister"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-visual-effects",
+          "label": "Best Visual Effects",
+          "winners": [
+            {
+              "names": [
+                "Joe Letteri",
+                "Richard Baneham",
+                "Eric Saindon",
+                "Daniel Barrett"
+              ],
+              "movies": [
+                {
+                  "title": "Avatar: Fire and Ash"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Ryan Tudhope",
+                "Nicolas Chevallier",
+                "Robert Harrington",
+                "Keith Dawson"
+              ],
+              "movies": [
+                {
+                  "title": "F1"
+                }
+              ]
+            },
+            {
+              "names": [
+                "David Vickery",
+                "Stephen Aplin",
+                "Charmaine Chan",
+                "Neil Corbould"
+              ],
+              "movies": [
+                {
+                  "title": "Jurassic World Rebirth"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Charlie Noble",
+                "David Zaretti",
+                "Russell Bowen",
+                "Brandon K. McLaughlin"
+              ],
+              "movies": [
+                {
+                  "title": "The Lost Bus"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Michael Ralla",
+                "Espen Nordahl",
+                "Guido Wolter",
+                "Donnie Dean"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-sound",
+          "label": "Best Sound",
+          "winners": [
+            {
+              "names": [
+                "Gareth John",
+                "Al Nelson",
+                "Gwendolyn Yates Whittle",
+                "Gary A. Rizzo",
+                "Juan Peralta"
+              ],
+              "movies": [
+                {
+                  "title": "F1"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Greg Chapman",
+                "Nathan Robitaille",
+                "Nelson Ferreira",
+                "Christian Cooke",
+                "Brad Zoern"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            },
+            {
+              "names": [
+                "José Antonio García",
+                "Christopher Scarabosio",
+                "Tony Villaflor"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Chris Welcker",
+                "Benjamin A. Burtt",
+                "Felipe Pacheco",
+                "Brandon Proctor",
+                "Steve Boeddeker"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Amanda Villavieja",
+                "Laia Casanovas",
+                "Yasmina Praderas"
+              ],
+              "movies": [
+                {
+                  "title": "Sirāt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-casting",
+          "label": "Best Casting",
+          "winners": [
+            {
+              "names": [
+                "Cassandra Kulukundis"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Nina Gold"
+              ],
+              "movies": [
+                {
+                  "title": "Hamnet"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jennifer Venditti"
+              ],
+              "movies": [
+                {
+                  "title": "Marty Supreme"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Gabriel Domingues"
+              ],
+              "movies": [
+                {
+                  "title": "The Secret Agent"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Francine Maisler"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "categories": [
+        {
+          "id": "best-original-score",
+          "label": "Best Original Score",
+          "winners": [
+            {
+              "names": [
+                "Ludwig Goransson"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Jerskin Fendrix"
+              ],
+              "movies": [
+                {
+                  "title": "Bugonia"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Alexandre Desplat"
+              ],
+              "movies": [
+                {
+                  "title": "Frankenstein"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Max Richter"
+              ],
+              "movies": [
+                {
+                  "title": "Hamnet"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jonny Greenwood"
+              ],
+              "movies": [
+                {
+                  "title": "One Battle after Another"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-original-song",
+          "label": "Best Original Song",
+          "winners": [
+            {
+              "names": [
+                "Golden"
+              ],
+              "movies": [
+                {
+                  "title": "KPop Demon Hunters"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Dear Me"
+              ],
+              "movies": [
+                {
+                  "title": "Diane Warren: Relentless"
+                }
+              ]
+            },
+            {
+              "names": [
+                "I Lied To You"
+              ],
+              "movies": [
+                {
+                  "title": "Sinners"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Sweet Dreams Of Joy"
+              ],
+              "movies": [
+                {
+                  "title": "Viva Verdi!"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Train Dreams"
+              ],
+              "movies": [
+                {
+                  "title": "Train Dreams"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "label": "Short Films",
+      "categories": [
+        {
+          "id": "best-animated-short",
+          "label": "Best Animated Short",
+          "winners": [
+            {
+              "names": [
+                "The Girl Who Cried Pearls"
+              ],
+              "movies": [
+                {
+                  "title": "The Girl Who Cried Pearls"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Butterfly"
+              ],
+              "movies": [
+                {
+                  "title": "Butterfly"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Forevergreen"
+              ],
+              "movies": [
+                {
+                  "title": "Forevergreen"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Retirement Plan"
+              ],
+              "movies": [
+                {
+                  "title": "Retirement Plan"
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Three Sisters"
+              ],
+              "movies": [
+                {
+                  "title": "The Three Sisters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-live-action-short",
+          "label": "Best Live Action Short Film",
+          "winners": [
+            {
+              "names": [
+                "The Singers"
+              ],
+              "movies": [
+                {
+                  "title": "The Singers"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Two People Exchanging Saliva"
+              ],
+              "movies": [
+                {
+                  "title": "Two People Exchanging Saliva"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Butcher's Stain"
+              ],
+              "movies": [
+                {
+                  "title": "Butcher's Stain"
+                }
+              ]
+            },
+            {
+              "names": [
+                "A Friend of Dorothy"
+              ],
+              "movies": [
+                {
+                  "title": "A Friend of Dorothy"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Jane Austen's Period Drama"
+              ],
+              "movies": [
+                {
+                  "title": "Jane Austen's Period Drama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "best-documentary-short",
+          "label": "Best Documentary Short",
+          "winners": [
+            {
+              "names": [
+                "All the Empty Rooms"
+              ],
+              "movies": [
+                {
+                  "title": "All the Empty Rooms"
+                }
+              ]
+            }
+          ],
+          "nominees": [
+            {
+              "names": [
+                "Armed Only with a Camera: The Life and Death of Brent Renaud"
+              ],
+              "movies": [
+                {
+                  "title": "Armed Only with a Camera: The Life and Death of Brent Renaud"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Children No More: \"Were and Are Gone\""
+              ],
+              "movies": [
+                {
+                  "title": "Children No More: \"Were and Are Gone\""
+                }
+              ]
+            },
+            {
+              "names": [
+                "The Devil Is Busy"
+              ],
+              "movies": [
+                {
+                  "title": "The Devil Is Busy"
+                }
+              ]
+            },
+            {
+              "names": [
+                "Perfectly a Strangeness"
+              ],
+              "movies": [
+                {
+                  "title": "Perfectly a Strangeness"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

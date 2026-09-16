@@ -51,6 +51,16 @@ describe("parseOfficialResults", () => {
     );
   });
 
+  it("puts the original song title in names, not the writers", () => {
+    const winner = records.find(
+      (record) => record.categoryId === "best-original-song" && record.won,
+    );
+    expect(winner?.names).toEqual(["Golden"]);
+    expect(winner?.movies.map((movie) => movie.title)).toContain(
+      "KPop Demon Hunters",
+    );
+  });
+
   it("resolves every row to a canonical id", () => {
     for (const record of records) {
       expect(record.categoryId).toBeTruthy();
