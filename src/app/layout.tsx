@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
+import { SiteFooter } from "@/components/SiteFooter";
+import { SiteHeader } from "@/components/SiteHeader";
 import "./globals.css";
 
 const playfair = Playfair_Display({
@@ -26,8 +28,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${playfair.variable} ${inter.variable}`}>
-      <body className="deco-grain bg-ink font-sans text-muted antialiased">
-        {children}
+      <body className="deco-grain flex min-h-screen flex-col bg-ink font-sans text-muted antialiased">
+        <SiteHeader />
+        <div className="flex-1">{children}</div>
+        <SiteFooter />
       </body>
     </html>
   );
