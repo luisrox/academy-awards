@@ -104,4 +104,48 @@ describe("checkDataDir", () => {
       await rm(dir, { recursive: true, force: true });
     }
   });
+
+  it("fails when a posterPath does not exist on disk", async () => {
+    const dir = await mkdtemp(path.join(os.tmpdir(), "oscars-data-img-"));
+    const publicDir = path.join(dir, "public");
+    try {
+      const indexed = structuredClone(validIndex);
+      indexed[0].posterPath = "/images/posters/1.webp";
+      const detailed = structuredClone(validDetail);
+      detailed.groups[0].categories[0].winners[0].movies[0].posterPath =
+        "/images/posters/1.webp";
+      await writeTree(dir, {
+        "index.json": indexed,
+        "search.json": validSearch,
+        "ceremonies/2024.json": detailed,
+      });
+      await expect(checkDataDir(dir, { publicDir })).rejects.toThrow(
+        /images\/posters\/1\.webp/,
+      );
+    } finally {
+      await rm(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("fails when public/images exceeds the budget", async () => {
+    const dir = await mkdtemp(path.join(os.tmpdir(), "oscars-data-budget-"));
+    const publicDir = path.join(dir, "public");
+    try {
+      await writeTree(dir, {
+        "index.json": validIndex,
+        "search.json": validSearch,
+        "ceremonies/2024.json": validDetail,
+      });
+      await mkdir(path.join(publicDir, "images"), { recursive: true });
+      await writeFile(
+        path.join(publicDir, "images", "heavy.bin"),
+        Buffer.alloc(64),
+      );
+      await expect(
+        checkDataDir(dir, { publicDir, imagesBudgetBytes: 8 }),
+      ).rejects.toThrow(/public\/images\//);
+    } finally {
+      await rm(dir, { recursive: true, force: true });
+    }
+  });
 });

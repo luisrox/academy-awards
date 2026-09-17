@@ -193,5 +193,20 @@ export function buildGridEntries(details: CeremonyDetail[]): GridEntry[] {
       decade: detail.ceremony.decade,
       ordinal: detail.ceremony.ordinal,
       headline: headlineWinners(detail),
+      ...(bestPictureMoviePoster(detail)
+        ? { posterPath: bestPictureMoviePoster(detail) }
+        : {}),
     }));
+}
+
+function bestPictureMoviePoster(detail: CeremonyDetail): string | undefined {
+  for (const group of detail.groups) {
+    for (const category of group.categories) {
+      if (category.id === "best-picture") {
+        return category.winners[0]?.movies[0]?.posterPath;
+      }
+    }
+  }
+  return undefined;
+
 }

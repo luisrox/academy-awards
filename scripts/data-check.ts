@@ -12,9 +12,19 @@ import {
   type GridEntry,
 } from "@/lib/schemas";
 import { DATA_DIR } from "./lib/cache";
+import {
+  IMAGES_BUDGET_BYTES,
+  PUBLIC_DIR,
+  bestPictureMovie,
+  collectImagePaths,
+  directorySizeBytes,
+  heaviestImages,
+  missingImageFiles,
+} from "./lib/posters";
 
 /** Soft budget for the grid payload. D15 will enforce this in integrity tests. */
 export const INDEX_JSON_BUDGET_BYTES = 128 * 1024;
+export { IMAGES_BUDGET_BYTES };
 
 /**
  * Spec.md 5.2 estimated ~300 KB. The compact index of unique film/person
@@ -59,16 +69,30 @@ export function dataWarnings(args: {
         `Ceremony ${detail.ceremony.ordinal} (${detail.ceremony.slug}) has ${count} nominations (expected ${NOMINATION_COUNT_MIN}–${NOMINATION_COUNT_MAX})`,
       );
     }
+    const movie = bestPictureMovie(detail);
+    if (movie?.tmdbId != null && !movie.posterPath) {
+      warnings.push(
+        `Missing Best Picture poster for ${detail.ceremony.ordinal} (${detail.ceremony.slug}) tmdb ${movie.tmdbId}`,
+      );
+    }
   }
   return warnings;
 }
+
+export type CheckDataOptions = {
+  publicDir?: string;
+  imagesBudgetBytes?: number;
+};
 
 /**
  * Validate data/ as it exists on disk. No network, no writes.
  * `npm run build` runs this instead of regenerating so the site build never
  * depends on GitHub or the Academy being reachable.
  */
-export async function checkDataDir(dataDir: string): Promise<void> {
+export async function checkDataDir(
+  dataDir: string,
+  options: CheckDataOptions = {},
+): Promise<void> {
   const indexPath = path.join(dataDir, "index.json");
   if (!existsSync(indexPath)) {
     throw new Error(`Missing ${indexPath}`);
@@ -140,6 +164,27 @@ export async function checkDataDir(dataDir: string): Promise<void> {
   const searchBytes = (await stat(searchPath)).size;
   for (const warning of dataWarnings({ indexBytes, searchBytes, details })) {
     console.warn(warning);
+  }
+
+  const publicDir = options.publicDir ?? PUBLIC_DIR;
+  const imagePaths = collectImagePaths(index, details);
+  const missing = missingImageFiles(imagePaths, publicDir);
+  if (missing.length > 0) {
+    throw new Error(
+      `Image path does not exist on disk: ${missing.join("; ")}`,
+    );
+  }
+
+  const imagesDir = path.join(publicDir, "images");
+  const imagesBytes = directorySizeBytes(imagesDir);
+  const budget = options.imagesBudgetBytes ?? IMAGES_BUDGET_BYTES;
+  if (imagesBytes > budget) {
+    const heavy = heaviestImages(imagesDir)
+      .map((file) => `${file.file} (${file.bytes} bytes)`)
+      .join(", ");
+    throw new Error(
+      `public/images/ is ${imagesBytes} bytes; budget is ${budget}. Heaviest: ${heavy}`,
+    );
   }
 }
 

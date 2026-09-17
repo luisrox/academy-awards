@@ -124,8 +124,14 @@
   .hover-backdrop-poster {
     position: absolute;
     inset: 0;
-    opacity: 0.08;
+    opacity: 0;
     pointer-events: none;
+    transition: opacity 420ms ease;
+  }
+
+  .group:hover .hover-backdrop-poster,
+  .group[data-hovering="true"] .hover-backdrop-poster {
+    opacity: 0.08;
   }
 
   .hover-flash {
@@ -173,7 +179,8 @@
 
   @media (prefers-reduced-motion: reduce) {
     .hover-backdrop-vignette,
-    .hover-flash {
+    .hover-flash,
+    .hover-backdrop-poster {
       animation: none !important;
       transition: none !important;
       opacity: 0 !important;

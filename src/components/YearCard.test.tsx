@@ -7,6 +7,13 @@ import { HEADLINE_ROTATION_MS } from "@/hooks/useHeadlineRotation";
 import type { GridEntry, HeadlineWinner } from "@/lib/types";
 import { YearCard } from "./YearCard";
 
+vi.mock("next/image", () => ({
+  default: function MockImage({ src, alt }: { src: string; alt: string }) {
+    // eslint-disable-next-line @next/next/no-img-element -- jsdom stand-in for next/image
+    return <img src={src} alt={alt} />;
+  },
+}));
+
 vi.mock("next/link", async () => {
   const { forwardRef } = await import("react");
   return {

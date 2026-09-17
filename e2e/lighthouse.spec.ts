@@ -65,6 +65,8 @@ test("Lighthouse mobile budget: performance ≥95, accessibility 100, SEO ≥95"
       scores.performance,
       `performance ${scores.performance}; LCP ${result?.lhr.audits["largest-contentful-paint"]?.displayValue}`,
     ).toBeGreaterThanOrEqual(95);
+    const cls = result?.lhr.audits["cumulative-layout-shift"]?.numericValue ?? 1;
+    expect(cls, `CLS ${cls}`).toBeLessThanOrEqual(0.02);
   } finally {
     try {
       chrome.kill();

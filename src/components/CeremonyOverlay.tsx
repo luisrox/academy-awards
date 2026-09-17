@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { DecoFrame } from "@/components/deco/DecoFrame";
 import { Emblem } from "@/components/deco/Emblem";
+import { PosterSlot } from "@/components/PosterSlot";
 import {
   adjacentCeremonies,
   ceremonyDateLabel,
@@ -12,6 +13,7 @@ import {
   siblingCeremonies,
 } from "@/data/ceremonies";
 import { useOverlay } from "@/hooks/useOverlay";
+import { bestPictureMovie } from "@/lib/poster";
 import type {
   CeremonyCategory,
   CeremonyDetail as CeremonyDetailData,
@@ -349,12 +351,7 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
             </p>
             <AmbiguousYearNotice slug={ceremony.slug} />
           </div>
-          <DecoFrame
-            variant="flat"
-            data-poster-slot
-            aria-hidden="true"
-            className="aspect-[2/3] w-24 shrink-0 md:w-28"
-          />
+          <PosterSlot movie={bestPictureMovie({ ceremony, groups })} />
         </header>
         {groups.map((group) => (
           <section

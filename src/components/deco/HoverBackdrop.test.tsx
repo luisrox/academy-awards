@@ -1,9 +1,16 @@
 /** @vitest-environment jsdom */
 import { cleanup, render } from "@testing-library/react";
-import { afterEach, describe, expect, it } from "vitest";
+import { afterEach, describe, expect, it, vi } from "vitest";
 import "@testing-library/jest-dom/vitest";
 import { HoverBackdrop } from "./HoverBackdrop";
 import { sparkLayout } from "./spark-layout";
+
+vi.mock("next/image", () => ({
+  default: function MockImage({ src, alt }: { src: string; alt: string }) {
+    // eslint-disable-next-line @next/next/no-img-element -- jsdom stand-in for next/image
+    return <img src={src} alt={alt} />;
+  },
+}));
 
 afterEach(cleanup);
 
@@ -21,6 +28,17 @@ describe("HoverBackdrop", () => {
     );
     const first = [...flashes].map((node) => (node as HTMLElement).style.left);
     expect(again).toEqual(first);
+  });
+
+  it("renders the Best Picture poster inside the 8% curtain", () => {
+    const { container } = render(
+      <HoverBackdrop slug="2024" posterPath="/images/posters/872585.webp" />,
+    );
+    const curtain = container.querySelector("[data-poster-curtain='ready']");
+    expect(curtain?.querySelector("img")).toHaveAttribute(
+      "src",
+      "/images/posters/872585.webp",
+    );
   });
 
   it("renders no flashes or vignette under reduced motion", () => {

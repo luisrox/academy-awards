@@ -15,6 +15,14 @@ import {
   SEARCH_JSON_BUDGET_BYTES,
   nominationCount,
 } from "../../scripts/data-check";
+import {
+  IMAGES_BUDGET_BYTES,
+  IMAGES_DIR,
+  PUBLIC_DIR,
+  collectImagePaths,
+  directorySizeBytes,
+  missingImageFiles,
+} from "../../scripts/lib/posters";
 import { DATA_DIR, fetchCached } from "../../scripts/lib/cache";
 import {
   HISTORICAL_URL,
@@ -36,7 +44,7 @@ import {
 
 /**
  * D1–D6 (ceremony table shape: 98 rows, slugs, 1930/1933, film years)
- * live in src/data/ceremonies.test.ts. This file covers D7–D15 on data/.
+ * live in src/data/ceremonies.test.ts. This file covers D7–D17 on data/.
  */
 
 function entryKey(entry: { names: string[]; movies: { title: string }[] }): string {
@@ -46,7 +54,7 @@ function entryKey(entry: { names: string[]; movies: { title: string }[] }): stri
   });
 }
 
-describe("data integrity D7–D15", () => {
+describe("data integrity D7–D17", () => {
   it("D7: every known slug has a detail file", () => {
     const missing = CEREMONIES.filter(
       (ceremony) => !existsSync(detailPath(ceremony.slug)),
@@ -161,6 +169,23 @@ describe("data integrity D7–D15", () => {
   it("D15: index.json stays under its size budget", () => {
     expect(statSync(indexPath()).size).toBeLessThanOrEqual(
       INDEX_JSON_BUDGET_BYTES,
+    );
+  });
+
+  it("D16: every image path in the artifacts exists under public/images/", () => {
+    const missing = missingImageFiles(
+      collectImagePaths(
+        loadIndex(),
+        loadIndex().map((entry) => loadDetail(entry.slug)),
+      ),
+      PUBLIC_DIR,
+    );
+    expect(missing).toEqual([]);
+  });
+
+  it("D17: public/images/ stays under 4 MB", () => {
+    expect(directorySizeBytes(IMAGES_DIR)).toBeLessThanOrEqual(
+      IMAGES_BUDGET_BYTES,
     );
   });
 

@@ -1,3 +1,6 @@
+"use client";
+
+import Image from "next/image";
 import { sparkLayout } from "./spark-layout";
 
 type HoverBackdropProps = {
@@ -35,7 +38,17 @@ export function HoverBackdrop({
       <div
         className="hover-backdrop-poster"
         data-poster-curtain={posterPath ? "ready" : "empty"}
-      />
+      >
+        {posterPath ? (
+          <Image
+            src={posterPath}
+            alt=""
+            fill
+            sizes="280px"
+            className="object-cover"
+          />
+        ) : null}
+      </div>
     </div>
   );
 }

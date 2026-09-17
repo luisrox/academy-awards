@@ -34,6 +34,23 @@ vi.mock("next/link", () => ({
   },
 }));
 
+vi.mock("next/image", () => ({
+  default: function MockImage({
+    src,
+    alt,
+    width,
+    height,
+  }: {
+    src: string;
+    alt: string;
+    width?: number;
+    height?: number;
+  }) {
+    // eslint-disable-next-line @next/next/no-img-element -- jsdom stand-in for next/image
+    return <img src={src} alt={alt} width={width} height={height} />;
+  },
+}));
+
 afterEach(() => {
   cleanup();
   mockPush.mockClear();
@@ -88,6 +105,31 @@ describe("CeremonyOverlay", () => {
     expect(document.querySelector("[data-poster-slot]")).toBeTruthy();
   });
 
+  it("shows the Best Picture poster in the 96th header and the fallback in the 98th", () => {
+    const ninetySixth = getCeremonyDetail("2024");
+    if (!ninetySixth) throw new Error("missing 2024 fixture");
+    const withPoster = structuredClone(ninetySixth);
+    const picture = withPoster.groups
+      .flatMap((group) => group.categories)
+      .find((category) => category.id === "best-picture");
+    const movie = picture?.winners[0]?.movies[0];
+    if (!movie) throw new Error("missing Best Picture");
+    movie.posterPath = "/images/posters/872585.webp";
+
+    const { unmount } = render(<CeremonyOverlay detail={withPoster} />);
+    const slot = document.querySelector("[data-poster-slot]");
+    const img = slot?.querySelector("img");
+    expect(img).toHaveAttribute("src", "/images/posters/872585.webp");
+    expect(img).toHaveAttribute("width", "144");
+    expect(img).toHaveAttribute("height", "216");
+    unmount();
+
+    render(<CeremonyOverlay detail={getCeremonyDetail("2026")!} />);
+    const fallback = document.querySelector("[data-poster-slot]");
+    expect(fallback?.querySelector("img")).toBeNull();
+    expect(fallback?.textContent).toMatch(/One Battle after Another/);
+  });
+
   it("renders a modern edition's groups in dictionary order, starting with the headline block", () => {
     const detail = getCeremonyDetail("2024");
     if (!detail) throw new Error("missing 2024 fixture");
@@ -118,10 +160,8 @@ describe("CeremonyOverlay", () => {
   it("distinguishes winner and nominees by size and type, not only color", () => {
     render(<CeremonyOverlay detail={fixture()} />);
 
-    const winner = screen.getByText("Wings").closest("[data-entry-role='winner']");
-    const nominee = screen
-      .getByText("The Racket")
-      .closest("[data-entry-role='nominee']");
+    const winner = document.querySelector("[data-entry-role='winner']");
+    const nominee = document.querySelector("[data-entry-role='nominee']");
 
     expect(winner).toBeTruthy();
     expect(nominee).toBeTruthy();

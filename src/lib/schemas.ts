@@ -46,6 +46,7 @@ export const movieSchema = z.object({
   title: z.string().min(1),
   tmdbId: z.number().int().optional(),
   imdbId: z.string().optional(),
+  posterPath: z.string().optional(),
 });
 
 export const entrySchema = z.object({

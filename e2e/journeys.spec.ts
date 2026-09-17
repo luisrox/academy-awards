@@ -69,6 +69,23 @@ test.describe("spec.md 11.5 journeys", () => {
     await expect(ceremonyCard(page, "1994")).toBeVisible();
   });
 
+  test("poster slots are 144×216; the 98th uses the typographic fallback", async ({
+    page,
+  }) => {
+    await page.goto("/2024");
+    const ninetySixth = overlay(page).locator("[data-poster-slot]");
+    const sixthBox = await ninetySixth.boundingBox();
+    expect(sixthBox?.width).toBe(144);
+    expect(sixthBox?.height).toBe(216);
+    await page.goto("/2026");
+    const ninetyEighth = overlay(page).locator("[data-poster-slot]");
+    const eighthBox = await ninetyEighth.boundingBox();
+    expect(eighthBox?.width).toBe(144);
+    expect(eighthBox?.height).toBe(216);
+    await expect(ninetyEighth.locator("img")).toHaveCount(0);
+    await expect(ninetyEighth).toContainText("One Battle after Another");
+  });
+
   test("E7: an invalid slug shows the not-found page", async ({ page }) => {
     const response = await page.goto("/not-a-ceremony");
     expect(response?.status()).toBe(404);

@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs";
 import { readdir, unlink, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -16,6 +17,7 @@ import {
   loadOfficialRecords,
   mergeNominationSources,
 } from "./lib/load-official";
+import { attachBestPicturePosters, IMAGES_DIR } from "./lib/posters";
 import { dataWarnings } from "./data-check";
 
 /**
@@ -33,6 +35,9 @@ export async function normalizeData(): Promise<void> {
   const official = await loadOfficialRecords();
   const records = mergeNominationSources(historical, official);
   const details = buildCeremonyDetails(records);
+  attachBestPicturePosters(details, (relative) =>
+    existsSync(path.join(IMAGES_DIR, relative)),
+  );
   const index = buildGridEntries(details);
   const search = buildSearchIndex(details);
 
