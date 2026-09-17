@@ -138,7 +138,7 @@ function Chevron({ direction }: { direction: "previous" | "next" }) {
     <svg
       aria-hidden="true"
       viewBox="0 0 24 24"
-      className="h-6 w-6"
+      className="h-4 w-4"
       fill="none"
       stroke="currentColor"
       strokeWidth="1.5"
@@ -187,17 +187,21 @@ function EditionArrow({
 }) {
   const disabled = !slug;
   const label = direction === "previous" ? "Previous ceremony" : "Next ceremony";
-  const sideClass = direction === "previous" ? "left-3 md:left-6" : "right-3 md:right-6";
+  const sideClass =
+    direction === "previous"
+      ? "left-3 top-4 md:top-1/2 md:-translate-y-1/2"
+      : "right-3 top-4 md:top-1/2 md:-translate-y-1/2";
 
   return (
     <button
       type="button"
+      data-edition-arrow={direction}
       aria-label={label}
       disabled={disabled}
       onClick={() => {
         if (slug) onNavigate(slug);
       }}
-      className={`fixed top-1/2 z-50 -translate-y-1/2 deco-frame deco-frame-flat rounded-pill p-3 text-gold hover:text-gold-light disabled:cursor-not-allowed disabled:opacity-40 ${sideClass}`}
+      className={`absolute z-50 flex h-10 w-10 items-center justify-center rounded-pill border border-gold bg-ink/55 text-gold backdrop-blur-sm hover:text-gold-light disabled:cursor-not-allowed disabled:opacity-40 ${sideClass}`}
     >
       <Chevron direction={direction} />
     </button>
@@ -281,21 +285,23 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
       tabIndex={-1}
       className="fixed inset-0 z-40 flex justify-center bg-ink md:bg-ink/80 md:p-8"
     >
-      <DecoFrame
-        ref={contentRef}
-        radius="panel"
-        onTouchStart={onTouchStart}
-        onTouchEnd={onTouchEnd}
-        className="flex h-full max-h-full w-full max-w-none gap-10 overflow-y-auto px-6 py-10 md:max-w-6xl"
-      >
+      <div ref={contentRef} className="contents">
         <EditionArrow
           direction="previous"
           slug={previous?.slug}
           onNavigate={goTo}
         />
+        <DecoFrame
+          data-overlay-panel
+          radius="panel"
+          onTouchStart={onTouchStart}
+          onTouchEnd={onTouchEnd}
+          className="flex h-full max-h-full w-full max-w-none gap-10 overflow-y-auto px-6 pb-10 pt-14 md:max-w-6xl md:pt-10"
+        >
+          {children}
+        </DecoFrame>
         <EditionArrow direction="next" slug={next?.slug} onNavigate={goTo} />
-        {children}
-      </DecoFrame>
+      </div>
     </div>
   );
 }

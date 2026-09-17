@@ -283,7 +283,7 @@ describe("CeremonyOverlay", () => {
     const ceremony = ceremonyBySlug("2024");
     if (!ceremony) throw new Error("missing 2024");
     render(<CeremonyOverlay detail={fixture({ ceremony })} />);
-    const panel = screen.getByRole("dialog").querySelector("div");
+    const panel = document.querySelector("[data-overlay-panel]");
     if (!panel) throw new Error("missing overlay panel");
 
     fireEvent.touchStart(panel, {
@@ -310,6 +310,31 @@ describe("CeremonyOverlay", () => {
     const next = screen.getByRole("button", { name: "Next ceremony" });
     expect(previous).toBeDisabled();
     expect(next).toBeEnabled();
+  });
+
+  it("places arrows outside the scrolling panel, as siblings inside the dialog", () => {
+    render(<CeremonyOverlay detail={fixture()} />);
+    const dialog = screen.getByRole("dialog");
+    const panel = dialog.querySelector("[data-overlay-panel]");
+    const previous = screen.getByRole("button", { name: "Previous ceremony" });
+    const next = screen.getByRole("button", { name: "Next ceremony" });
+    expect(panel).toBeTruthy();
+    expect(panel?.contains(previous)).toBe(false);
+    expect(panel?.contains(next)).toBe(false);
+    expect(dialog.contains(previous)).toBe(true);
+    expect(dialog.contains(next)).toBe(true);
+    expect(previous).toHaveClass("h-10", "w-10", "rounded-pill", "absolute");
+    expect(previous).not.toHaveClass("deco-frame");
+    expect(next).not.toHaveClass("deco-frame");
+  });
+
+  it("does not close the overlay when clicking an edition arrow", () => {
+    const ceremony = ceremonyBySlug("2024");
+    if (!ceremony) throw new Error("missing 2024");
+    render(<CeremonyOverlay detail={fixture({ ceremony })} />);
+    fireEvent.mouseDown(screen.getByRole("button", { name: "Next ceremony" }));
+    expect(mockPush).not.toHaveBeenCalledWith("/", { scroll: false });
+    expect(screen.getByRole("dialog")).toBeInTheDocument();
   });
 
   it("navigates with arrow keys the same way as the buttons and keeps the overlay open", () => {

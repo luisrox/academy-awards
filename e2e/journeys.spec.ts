@@ -28,12 +28,6 @@ test.describe("spec.md 11.5 journeys", () => {
   test("E3: arrows navigate editions and the URL follows", async ({ page }) => {
     await page.goto("/2026");
     await expect(overlay(page)).toBeVisible();
-    await expect(
-      page.getByRole("button", { name: "Previous ceremony" }),
-    ).toHaveCSS("position", "fixed");
-    await expect(
-      page.getByRole("button", { name: "Next ceremony" }),
-    ).toHaveCSS("position", "fixed");
     await page.getByRole("button", { name: "Previous ceremony" }).click();
     await expect(page).toHaveURL(/\/2025$/);
     await expect(page.getByRole("heading", { level: 1, name: "2025" })).toBeVisible();
@@ -127,5 +121,45 @@ test.describe("spec.md 11.5 journeys", () => {
     await page.keyboard.press("Escape");
     await expect(page).toHaveURL(/\/$/);
     await expect(card).toBeFocused();
+  });
+
+  test("E14: previous arrow is left of the panel, next is right, and neither moves with scroll", async ({
+    page,
+  }) => {
+    await page.setViewportSize({ width: 1440, height: 900 });
+    await page.goto("/2026");
+    const dialog = overlay(page);
+    await expect(dialog).toBeVisible();
+    const panel = dialog.locator("[data-overlay-panel]");
+    const previous = page.getByRole("button", { name: "Previous ceremony" });
+    const next = page.getByRole("button", { name: "Next ceremony" });
+    const panelBox = await panel.boundingBox();
+    const previousBox = await previous.boundingBox();
+    const nextBox = await next.boundingBox();
+    expect(panelBox).toBeTruthy();
+    expect(previousBox).toBeTruthy();
+    expect(nextBox).toBeTruthy();
+    expect(previousBox!.x + previousBox!.width / 2).toBeLessThan(
+      panelBox!.x + panelBox!.width / 2,
+    );
+    expect(nextBox!.x + nextBox!.width / 2).toBeGreaterThan(
+      panelBox!.x + panelBox!.width / 2,
+    );
+    expect(previousBox!.x + previousBox!.width).toBeLessThanOrEqual(
+      panelBox!.x + previousBox!.width / 2,
+    );
+    expect(nextBox!.x).toBeGreaterThanOrEqual(
+      panelBox!.x + panelBox!.width - nextBox!.width / 2,
+    );
+
+    const previousY = previousBox!.y;
+    const nextY = nextBox!.y;
+    await panel.evaluate((node) => {
+      node.scrollTop = 480;
+    });
+    const previousAfter = await previous.boundingBox();
+    const nextAfter = await next.boundingBox();
+    expect(previousAfter?.y).toBe(previousY);
+    expect(nextAfter?.y).toBe(nextY);
   });
 });
