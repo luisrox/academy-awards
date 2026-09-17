@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { REPO_ROOT } from "../../scripts/lib/cache";
-import { contrastRatio } from "./contrast";
+import { blendHex, contrastRatio } from "./contrast";
 import { AA_CONTRAST_MIN, PALETTE, TEXT_TOKENS } from "./palette";
 
 const CSS_TOKEN = {
@@ -56,6 +56,17 @@ describe("text palette on Art Deco surfaces", () => {
       expect(contrastRatio(hex, ink), `${name} on ink`).toBeGreaterThanOrEqual(
         AA_CONTRAST_MIN,
       );
+    }
+  });
+
+  it("keeps AA contrast when the gold hover vignette sits over the raised face", () => {
+    const raisedFace = "#191612";
+    const hovered = blendHex(PALETTE.gold, raisedFace, 0.14);
+    for (const [name, hex] of Object.entries(TEXT_TOKENS)) {
+      expect(
+        contrastRatio(hex, hovered),
+        `${name} on hover vignette`,
+      ).toBeGreaterThanOrEqual(AA_CONTRAST_MIN);
     }
   });
 });

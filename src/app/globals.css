@@ -95,6 +95,91 @@
     background: var(--color-ink);
   }
 
+  .deco-frame::before,
+  .deco-frame::after {
+    z-index: 2;
+  }
+
+  .hover-backdrop {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    overflow: hidden;
+    pointer-events: none;
+    border-radius: inherit;
+  }
+
+  .hover-backdrop-vignette {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    background: radial-gradient(
+      130% 90% at 0% 0%,
+      color-mix(in srgb, var(--color-gold) 14%, transparent),
+      transparent 64%
+    );
+    transition: opacity 420ms ease;
+  }
+
+  .hover-backdrop-poster {
+    position: absolute;
+    inset: 0;
+    opacity: 0.08;
+    pointer-events: none;
+  }
+
+  .hover-flash {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    margin-left: -5px;
+    margin-top: -5px;
+    background: var(--color-gold-light);
+    clip-path: polygon(
+      50% 0%,
+      62% 38%,
+      100% 50%,
+      62% 62%,
+      50% 100%,
+      38% 62%,
+      0% 50%,
+      38% 38%
+    );
+    opacity: 0;
+    transform: scale(0.2);
+  }
+
+  .group:hover .hover-backdrop-vignette,
+  .group[data-hovering="true"] .hover-backdrop-vignette {
+    opacity: 1;
+  }
+
+  .group:hover .hover-flash,
+  .group[data-hovering="true"] .hover-flash {
+    animation: hover-flash 1.9s ease-in-out infinite;
+  }
+
+  @keyframes hover-flash {
+    0%,
+    100% {
+      opacity: 0;
+      transform: scale(0.2);
+    }
+    38% {
+      opacity: 0.28;
+      transform: scale(var(--flash-scale, 1));
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hover-backdrop-vignette,
+    .hover-flash {
+      animation: none !important;
+      transition: none !important;
+      opacity: 0 !important;
+    }
+  }
+
   /* Concentric inner fillet: inset from the outer radius. */
   .deco-frame::before {
     content: "";

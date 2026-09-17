@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import Link from "next/link";
 import { DecoFrame } from "@/components/deco/DecoFrame";
+import { HoverBackdrop } from "@/components/deco/HoverBackdrop";
 import { useHeadlineRotation } from "@/hooks/useHeadlineRotation";
 import type { GridEntry, HeadlineWinner } from "@/lib/types";
 
@@ -73,43 +74,51 @@ export function YearCard({ entry }: YearCardProps) {
       href={`/${entry.slug}`}
       scroll={false}
       className="group block rounded-card no-underline transition-transform duration-200 hover:-translate-y-0.5"
+      data-hovering={rotation.hovering ? "true" : undefined}
       onMouseEnter={rotation.onMouseEnter}
       onMouseLeave={rotation.onMouseLeave}
     >
       <DecoFrame className="flex min-h-[11.5rem] flex-col justify-center px-5 py-6 group-hover:shadow-lifted group-focus-visible:shadow-lifted">
-        <p className="font-display text-4xl font-semibold tracking-tight text-gold sm:text-5xl">
-          {entry.label}
-        </p>
-        {rotation.reducedMotion ? (
-          <ul className="mt-3 flex flex-col gap-2">
-            {entry.headline.map((winner) => (
-              <li key={winner.category}>
-                <WinnerLines winner={winner} />
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <div className="mt-3 min-h-[4.75rem]">
-            {!rotation.hovering ? (
-              <p className="font-sans text-xs tracking-wide text-muted">
-                {entry.subtitle}
-              </p>
-            ) : null}
-            <AnimatePresence mode="wait">
-              {rotation.current ? (
-                <motion.div
-                  key={rotation.current.category}
-                  initial={{ opacity: 0, y: 8 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: -8 }}
-                  transition={{ duration: 0.28 }}
-                >
-                  <WinnerLines winner={rotation.current} />
-                </motion.div>
+        <HoverBackdrop
+          slug={entry.slug}
+          reducedMotion={rotation.reducedMotion}
+          posterPath={entry.posterPath}
+        />
+        <div className="relative z-[1]">
+          <p className="font-display text-4xl font-semibold tracking-tight text-gold sm:text-5xl">
+            {entry.label}
+          </p>
+          {rotation.reducedMotion ? (
+            <ul className="mt-3 flex flex-col gap-2">
+              {entry.headline.map((winner) => (
+                <li key={winner.category}>
+                  <WinnerLines winner={winner} />
+                </li>
+              ))}
+            </ul>
+          ) : (
+            <div className="mt-3 min-h-[4.75rem]">
+              {!rotation.hovering ? (
+                <p className="font-sans text-xs tracking-wide text-muted">
+                  {entry.subtitle}
+                </p>
               ) : null}
-            </AnimatePresence>
-          </div>
-        )}
+              <AnimatePresence mode="wait">
+                {rotation.current ? (
+                  <motion.div
+                    key={rotation.current.category}
+                    initial={{ opacity: 0, y: 8 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0, y: -8 }}
+                    transition={{ duration: 0.28 }}
+                  >
+                    <WinnerLines winner={rotation.current} />
+                  </motion.div>
+                ) : null}
+              </AnimatePresence>
+            </div>
+          )}
+        </div>
       </DecoFrame>
     </Link>
   );

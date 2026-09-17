@@ -36,3 +36,17 @@ export function contrastRatio(foreground: string, background: string): number {
   const [hi, lo] = lighter >= darker ? [lighter, darker] : [darker, lighter];
   return (hi + 0.05) / (lo + 0.05);
 }
+
+/** Overlay `foreground` at `opacity` onto `background`. */
+export function blendHex(
+  foreground: string,
+  background: string,
+  opacity: number,
+): string {
+  const [fr, fg, fb] = parseHex(foreground);
+  const [br, bg, bb] = parseHex(background);
+  const mix = (over: number, under: number) =>
+    Math.round(over * opacity + under * (1 - opacity));
+  const hex = (channel: number) => channel.toString(16).padStart(2, "0");
+  return `#${hex(mix(fr, br))}${hex(mix(fg, bg))}${hex(mix(fb, bb))}`;
+}

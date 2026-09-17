@@ -21,6 +21,7 @@ vi.mock("next/link", async () => {
         id?: string;
         onMouseEnter?: () => void;
         onMouseLeave?: () => void;
+        "data-hovering"?: string;
       }
     >(function MockLink({ href, children, scroll, ...props }, ref) {
       return (
@@ -140,7 +141,7 @@ describe("YearCard hover rotation", () => {
     expect(vi.getTimerCount()).toBe(0);
 
     fireEvent.mouseEnter(link);
-    expect(vi.getTimerCount()).toBeGreaterThan(0);
+    expect(vi.getTimerCount()).toBe(1);
     expect(screen.getByText("One Battle after Another")).toBeInTheDocument();
 
     act(() => {
@@ -174,6 +175,7 @@ describe("YearCard hover rotation", () => {
     expect(screen.getByText("Jessie Buckley")).toBeInTheDocument();
     fireEvent.mouseEnter(screen.getByRole("link"));
     expect(vi.getTimerCount()).toBe(0);
+    expect(document.querySelectorAll("[data-hover-flash]")).toHaveLength(0);
   });
 
   it("does not render empty slots when only two headline winners exist", () => {
