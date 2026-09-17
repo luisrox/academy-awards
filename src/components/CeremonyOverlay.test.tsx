@@ -126,9 +126,37 @@ describe("CeremonyOverlay", () => {
     expect(winner).toBeTruthy();
     expect(nominee).toBeTruthy();
     expect(winner?.className).toMatch(/font-display/);
-    expect(winner?.className).toMatch(/text-(2xl|3xl|4xl|5xl)/);
+    expect(winner?.className).toMatch(/\btext-xl\b/);
+    expect(winner?.className).toMatch(/md:text-2xl/);
     expect(nominee?.className).toMatch(/font-sans/);
-    expect(nominee?.className).toMatch(/text-(xs|sm)/);
+    expect(nominee?.className).toMatch(/0\.8125rem/);
+  });
+
+  it("puts film year and ceremony date on a single header line", () => {
+    const detail = getCeremonyDetail("2024");
+    if (!detail) throw new Error("missing 2024 fixture");
+    render(<CeremonyOverlay detail={detail} />);
+    const heading = screen.getByRole("heading", { level: 1, name: "2024" });
+    expect(heading).toHaveClass("text-4xl");
+    expect(heading.className).toMatch(/md:text-5xl/);
+    const line = screen.getByText(/Films of 2023/).closest("p");
+    expect(line).toContainElement(
+      screen.getByText(ceremonyDateLabel(detail.ceremony)),
+    );
+  });
+
+  it("flows categories in two columns from lg without splitting a block", () => {
+    const detail = getCeremonyDetail("2024");
+    if (!detail) throw new Error("missing 2024 fixture");
+    render(<CeremonyOverlay detail={detail} />);
+    const acting = document.querySelector("#group-acting");
+    const flow = acting?.querySelector("[data-category-flow]");
+    expect(flow?.className).toMatch(/lg:grid-cols-2/);
+    const blocks = acting?.querySelectorAll("[data-category-block]");
+    expect(blocks?.length).toBeGreaterThan(1);
+    for (const block of blocks ?? []) {
+      expect(block.className).toMatch(/break-inside-avoid/);
+    }
   });
 
   it("does not render a Nominees heading when a category has only a winner", () => {

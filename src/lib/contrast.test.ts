@@ -48,6 +48,12 @@ describe("text palette on Art Deco surfaces", () => {
     expect(contrastRatio(muted, surface)).toBeGreaterThanOrEqual(AA_CONTRAST_MIN);
   });
 
+  it("keeps muted at 4.5:1 because overlay nominees are 0.8125rem, below the large-text exception", () => {
+    const muted = tokenFromCss(css, CSS_TOKEN.muted);
+    expect(contrastRatio(muted, surface)).toBeGreaterThanOrEqual(AA_CONTRAST_MIN);
+    expect(contrastRatio(muted, ink)).toBeGreaterThanOrEqual(AA_CONTRAST_MIN);
+  });
+
   it("gives every text token at least AA contrast on surface and ink", () => {
     for (const [name, hex] of Object.entries(TEXT_TOKENS)) {
       expect(contrastRatio(hex, surface), `${name} on surface`).toBeGreaterThanOrEqual(

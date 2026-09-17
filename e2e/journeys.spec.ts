@@ -1,5 +1,5 @@
 import { test, expect } from "@playwright/test";
-import { ceremonyCard, overlay } from "./helpers";
+import { ceremonyCard, isFullyInOverlayPanel, overlay } from "./helpers";
 
 /** Visible duration of each headline winner while hovering, spec.md 6.1. */
 const HEADLINE_ROTATION_MS = 1600;
@@ -121,6 +121,39 @@ test.describe("spec.md 11.5 journeys", () => {
     await page.keyboard.press("Escape");
     await expect(page).toHaveURL(/\/$/);
     await expect(card).toBeFocused();
+  });
+
+  test("E13: 1440×900 shows header, headline block, and first acting category without scroll", async ({
+    page,
+  }) => {
+    await page.setViewportSize({ width: 1440, height: 900 });
+    await page.goto("/2026");
+    const dialog = overlay(page);
+    await expect(dialog).toBeVisible();
+    const header = dialog.locator("header");
+    const headline = dialog.locator("#group-headline");
+    const firstActingHeading = dialog.locator("#category-best-actor");
+    const firstActingWinner = dialog
+      .locator('[aria-labelledby="category-best-actor"]')
+      .locator('[data-entry-role="winner"]');
+    await expect(header).toBeVisible();
+    await expect(headline).toBeVisible();
+    await expect(firstActingHeading).toBeVisible();
+    expect(await isFullyInOverlayPanel(header)).toBe(true);
+    expect(await isFullyInOverlayPanel(headline)).toBe(true);
+    expect(await isFullyInOverlayPanel(firstActingHeading)).toBe(true);
+    expect(await isFullyInOverlayPanel(firstActingWinner)).toBe(true);
+
+    const picture = dialog.locator('[aria-labelledby="category-best-picture"]');
+    const director = dialog.locator('[aria-labelledby="category-best-director"]');
+    const pictureBox = await picture.boundingBox();
+    const directorBox = await director.boundingBox();
+    expect(pictureBox).toBeTruthy();
+    expect(directorBox).toBeTruthy();
+    expect(pictureBox!.x + pictureBox!.width / 2).toBeLessThan(
+      directorBox!.x + directorBox!.width / 2,
+    );
+    expect(Math.abs(pictureBox!.y - directorBox!.y)).toBeLessThan(48);
   });
 
   test("E14: previous arrow is left of the panel, next is right, and neither moves with scroll", async ({

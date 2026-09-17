@@ -45,13 +45,13 @@ function WinnerEntry({ entry }: { entry: Entry }) {
   return (
     <div
       data-entry-role="winner"
-      className="flex items-start gap-2 font-display text-3xl leading-tight text-gold-light"
+      className="flex items-start gap-2 font-display text-xl leading-tight text-gold-light md:text-2xl"
     >
-      <Emblem size={12} className="mt-2 shrink-0 text-gold" />
+      <Emblem size={12} className="mt-1.5 shrink-0 text-gold" />
       <div>
         {names ? <p>{names}</p> : null}
         {movies.map((title) => (
-          <p key={title} className="mt-1 font-display text-xl text-gold-light">
+          <p key={title} className="mt-0.5 font-display">
             {title}
           </p>
         ))}
@@ -63,28 +63,31 @@ function WinnerEntry({ entry }: { entry: Entry }) {
 function NomineeEntry({ entry }: { entry: Entry }) {
   const names = formatNames(entry.names);
   const movies = movieTitles(entry);
+  const line = [names, ...movies].filter(Boolean).join(" — ");
   return (
-    <div data-entry-role="nominee" className="font-sans text-sm text-muted">
-      {names ? <p>{names}</p> : null}
-      {movies.map((title) => (
-        <p key={title} className="text-xs text-muted">
-          {title}
-        </p>
-      ))}
+    <div
+      data-entry-role="nominee"
+      className="font-sans text-[0.8125rem] leading-snug text-muted"
+    >
+      <p>{line}</p>
     </div>
   );
 }
 
 function CategoryBlock({ category }: { category: CeremonyCategory }) {
   return (
-    <section className="mt-8" aria-labelledby={`category-${category.id}`}>
+    <section
+      data-category-block
+      className="mb-0 break-inside-avoid"
+      aria-labelledby={`category-${category.id}`}
+    >
       <h3
         id={`category-${category.id}`}
-        className="font-sans text-xs tracking-[0.25em] text-gold uppercase"
+        className="font-sans text-[0.65rem] tracking-[0.25em] text-gold uppercase"
       >
         {category.label}
       </h3>
-      <ul className="mt-3 flex flex-col gap-4">
+      <ul className="mt-2 flex flex-col gap-2">
         {category.winners.map((entry, index) => (
           <li key={`winner-${index}`}>
             <WinnerEntry entry={entry} />
@@ -92,11 +95,11 @@ function CategoryBlock({ category }: { category: CeremonyCategory }) {
         ))}
       </ul>
       {category.nominees.length > 0 ? (
-        <div className="mt-5">
+        <div className="mt-3">
           <h4 className="font-sans text-[0.65rem] tracking-[0.2em] text-muted uppercase">
             Nominees
           </h4>
-          <ul className="mt-2 flex flex-col gap-2">
+          <ul className="mt-1.5 flex flex-col gap-1">
             {category.nominees.map((entry, index) => (
               <li key={`nominee-${index}`}>
                 <NomineeEntry entry={entry} />
@@ -296,7 +299,7 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
           radius="panel"
           onTouchStart={onTouchStart}
           onTouchEnd={onTouchEnd}
-          className="flex h-full max-h-full w-full max-w-none gap-10 overflow-y-auto px-6 pb-10 pt-14 md:max-w-6xl md:pt-10"
+          className="flex h-full max-h-full w-full max-w-none gap-8 overflow-y-auto px-6 pb-6 pt-14 md:max-w-6xl md:px-8 md:pb-8 md:pt-6"
         >
           {children}
         </DecoFrame>
@@ -319,58 +322,61 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
         <GroupLinks groups={groups} />
       </nav>
       <div className="min-w-0 flex-1">
-        <details className="deco-frame deco-frame-flat mb-8 px-4 py-3 lg:hidden">
+        <details className="deco-frame deco-frame-flat mb-4 px-4 py-2 lg:hidden">
           <summary className="cursor-pointer font-sans text-sm tracking-wide text-gold">
             Category groups
           </summary>
           <GroupLinks groups={groups} className="mt-3" />
         </details>
-        <header className="mb-12 flex flex-col gap-8 md:flex-row md:items-start md:justify-between">
+        <header className="mb-4 flex flex-col gap-4 md:flex-row md:items-start md:justify-between">
           <div>
-            <p className="flex items-center gap-2 font-sans text-sm tracking-[0.25em] text-gold uppercase">
-              <Emblem size={18} />
+            <p className="flex items-center gap-2 font-sans text-xs tracking-[0.25em] text-gold uppercase">
+              <Emblem size={16} />
               {ordinalSuffix(ceremony.ordinal)} Ceremony
             </p>
             <h1
               id="ceremony-heading"
-              className="mt-2 font-display text-6xl tracking-tight text-gold md:text-8xl"
+              className="mt-1 font-display text-4xl tracking-tight text-gold md:text-5xl"
             >
               {ceremony.ceremonyYear}
             </h1>
-            <p className="mt-3 font-sans text-muted">
+            <p className="mt-2 font-sans text-sm text-muted">
               Films of {ceremony.filmYearLabel}
+              <span aria-hidden="true"> · </span>
+              <time dateTime={ceremony.ceremonyDate}>
+                {ceremonyDateLabel(ceremony)}
+              </time>
             </p>
-            <time
-              dateTime={ceremony.ceremonyDate}
-              className="mt-1 block font-sans text-muted"
-            >
-              {ceremonyDateLabel(ceremony)}
-            </time>
             <AmbiguousYearNotice slug={ceremony.slug} />
           </div>
           <DecoFrame
             variant="flat"
             data-poster-slot
             aria-hidden="true"
-            className="aspect-[2/3] w-36 shrink-0"
+            className="aspect-[2/3] w-24 shrink-0 md:w-28"
           />
         </header>
         {groups.map((group) => (
           <section
             key={group.id}
             id={`group-${group.id}`}
-            className="scroll-mt-8 border-t border-gold/20 py-10"
+            className="scroll-mt-6 border-t border-gold/20 py-4"
             aria-labelledby={`group-label-${group.id}`}
           >
             <h2
               id={`group-label-${group.id}`}
-              className="font-display text-sm tracking-[0.3em] text-gold uppercase"
+              className="mb-2 font-display text-xs tracking-[0.3em] text-gold uppercase"
             >
               {group.label}
             </h2>
-            {group.categories.map((category) => (
-              <CategoryBlock key={category.id} category={category} />
-            ))}
+            <div
+              data-category-flow
+              className="grid gap-y-4 lg:grid-cols-2 lg:gap-x-10"
+            >
+              {group.categories.map((category) => (
+                <CategoryBlock key={category.id} category={category} />
+              ))}
+            </div>
           </section>
         ))}
       </div>
