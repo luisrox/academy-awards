@@ -14,7 +14,7 @@ export function DecadeNav({
   return (
     <nav
       aria-label="Decades"
-      className="sticky top-0 z-20 border-b border-gold/25 bg-ink"
+      className="stage-sticky sticky top-0 z-20 border-b border-gold/25"
     >
       <ul className="flex gap-2 overflow-x-auto px-6 py-3 md:gap-1">
         {decades.map((decade) => (

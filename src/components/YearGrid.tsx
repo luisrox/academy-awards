@@ -33,16 +33,16 @@ export function YearGrid({ entries }: YearGridProps) {
           aria-labelledby={`${decadeSectionId(decade)}-label`}
           className="scroll-mt-16"
         >
-          <header className="sticky top-12 z-10 bg-ink py-5">
+          <header className="stage-sticky sticky top-12 z-10 py-5">
             <h2
               id={`${decadeSectionId(decade)}-label`}
-              className="font-display text-sm tracking-[0.3em] text-gold uppercase"
+              className="font-display text-sm tracking-[0.3em] text-gold"
             >
               {decade}
             </h2>
             <RayDivider className="mt-3" />
           </header>
-          <ul className="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-6">
+          <ul className="grid grid-cols-2 gap-4 pt-2 md:grid-cols-4 lg:grid-cols-6">
             {decadeEntries.map((entry) => (
               <li key={entry.slug}>
                 <YearCard entry={entry} />

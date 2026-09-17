@@ -50,14 +50,16 @@ export default function RootLayout({
   const entries = getGridEntries();
   return (
     <html lang="en" className={`${playfair.variable} ${inter.variable}`}>
-      <body className="deco-grain flex min-h-screen flex-col bg-ink font-sans text-muted antialiased">
-        <SiteHeader />
-        <DecadeNav />
-        <main className="relative flex-1">
-          <YearGrid entries={entries} />
-          {children}
-        </main>
-        <SiteFooter />
+      <body className="deco-grain min-h-screen font-sans text-muted antialiased">
+        <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col">
+          <SiteHeader />
+          <DecadeNav />
+          <main className="relative flex-1">
+            <YearGrid entries={entries} />
+            {children}
+          </main>
+          <SiteFooter />
+        </div>
       </body>
     </html>
   );

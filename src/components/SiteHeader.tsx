@@ -4,7 +4,7 @@ import { SearchPalette } from "./SearchPalette";
 
 export function SiteHeader() {
   return (
-    <header className="flex items-center justify-between border-b border-gold/25 px-6 py-4">
+    <header className="stage-sticky flex items-center justify-between border-b border-gold/25 px-6 py-4">
       <h1 className="m-0 font-display text-xl font-normal tracking-wide">
         <Link
           href="/"

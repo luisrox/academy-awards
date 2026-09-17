@@ -31,14 +31,30 @@
 @layer base {
   html {
     color-scheme: dark;
-    background: var(--color-ink);
+    background-color: #000000;
     scroll-behavior: smooth;
   }
 
   body {
-    background: var(--color-ink);
+    --stage-image:
+      radial-gradient(
+        ellipse 85% 55% at 50% 8%,
+        #2c2924 0%,
+        transparent 58%
+      ),
+      linear-gradient(
+        90deg,
+        #000000 0%,
+        #12110f 18%,
+        #1a1814 50%,
+        #12110f 82%,
+        #000000 100%
+      );
     color: var(--color-muted);
     font-family: var(--font-sans);
+    background-color: #000000;
+    background-image: var(--stage-image);
+    background-attachment: fixed;
   }
 
   ::selection {
@@ -76,6 +92,16 @@
 }
 
 @layer components {
+  /*
+    Same fixed stage wash as the page so sticky titles don't sit in a
+    different-colored rectangle over the gradient.
+  */
+  .stage-sticky {
+    background-color: #000000;
+    background-image: var(--stage-image);
+    background-attachment: fixed;
+  }
+
   .deco-frame {
     --deco-radius: var(--radius-card);
     position: relative;

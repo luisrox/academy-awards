@@ -73,7 +73,7 @@ export function YearCard({ entry }: YearCardProps) {
       id={`year-card-${entry.slug}`}
       href={`/${entry.slug}`}
       scroll={false}
-      className="group block rounded-card no-underline transition-transform duration-200 hover:-translate-y-0.5"
+      className="group relative z-0 block rounded-card no-underline transition-transform duration-200 hover:z-30 hover:-translate-y-0.5 focus-visible:z-30"
       data-hovering={rotation.hovering ? "true" : undefined}
       onMouseEnter={rotation.onMouseEnter}
       onMouseLeave={rotation.onMouseLeave}

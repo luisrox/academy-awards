@@ -223,7 +223,9 @@ test.describe("spec.md 11.5 journeys", () => {
     const previousY = previousBox!.y;
     const nextY = nextBox!.y;
     await panel.evaluate((node) => {
-      node.scrollTop = 480;
+      const scroller =
+        node.querySelector("[data-overlay-scroll]") ?? node;
+      (scroller as HTMLElement).scrollTop = 480;
     });
     const previousAfter = await previous.boundingBox();
     const nextAfter = await next.boundingBox();

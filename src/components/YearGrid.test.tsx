@@ -58,6 +58,9 @@ describe("YearGrid", () => {
     const headings = screen.getAllByRole("heading", { level: 2 });
     expect(headings.map((heading) => heading.textContent)).toEqual(decades);
     expect(screen.getAllByRole("separator")).toHaveLength(decades.length);
+    expect(document.querySelector("#decade-2020s ul")?.className).toMatch(
+      /\bpt-2\b/,
+    );
   });
 
   it("puts exactly one card in the 1920s, per spec 5.5", () => {

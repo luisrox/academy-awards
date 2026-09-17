@@ -137,6 +137,8 @@ describe("YearCard in rest", () => {
     });
     expect(link.tagName).toBe("A");
     expect(link).not.toHaveAttribute("tabindex", "-1");
+    expect(link.className).toMatch(/hover:z-30/);
+    expect(link.className).toMatch(/hover:-translate-y-0\.5/);
   });
 });
 

@@ -335,11 +335,16 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
         <DecoFrame
           data-overlay-panel
           radius="panel"
-          onTouchStart={onTouchStart}
-          onTouchEnd={onTouchEnd}
-          className="flex h-full max-h-full w-full max-w-none gap-8 overflow-y-auto px-6 pb-6 pt-14 md:max-w-6xl md:px-8 md:pb-8 md:pt-6"
+          className="flex h-full max-h-full min-h-0 w-full max-w-none flex-col overflow-hidden md:max-w-6xl"
         >
-          {children}
+          <div
+            data-overlay-scroll
+            className="flex min-h-0 flex-1 gap-8 overflow-y-auto px-6 pb-6 pt-14 md:px-8 md:pb-8 md:pt-6"
+            onTouchStart={onTouchStart}
+            onTouchEnd={onTouchEnd}
+          >
+            {children}
+          </div>
         </DecoFrame>
         <EditionArrow direction="next" slug={next?.slug} onNavigate={goTo} />
       </div>
