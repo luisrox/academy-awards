@@ -1,9 +1,10 @@
 import Link from "next/link";
+import { DecoFrame } from "@/components/deco/DecoFrame";
 
 export default function NotFound() {
   return (
     <div className="fixed inset-0 z-40 flex items-center justify-center bg-ink/80 px-6">
-      <section className="deco-frame max-w-lg bg-surface px-10 py-12 text-center">
+      <DecoFrame radius="panel" className="max-w-lg px-10 py-12 text-center">
         <p className="font-sans text-xs tracking-[0.3em] text-gold uppercase">
           Not found
         </p>
@@ -19,7 +20,7 @@ export default function NotFound() {
         >
           Back to the grid
         </Link>
-      </section>
+      </DecoFrame>
     </div>
   );
 }

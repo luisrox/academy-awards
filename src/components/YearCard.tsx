@@ -72,11 +72,11 @@ export function YearCard({ entry }: YearCardProps) {
       id={`year-card-${entry.slug}`}
       href={`/${entry.slug}`}
       scroll={false}
-      className="block no-underline"
+      className="group block rounded-card no-underline transition-transform duration-200 hover:-translate-y-0.5"
       onMouseEnter={rotation.onMouseEnter}
       onMouseLeave={rotation.onMouseLeave}
     >
-      <DecoFrame className="flex min-h-[11.5rem] flex-col justify-center bg-surface px-5 py-6">
+      <DecoFrame className="flex min-h-[11.5rem] flex-col justify-center px-5 py-6 group-hover:shadow-lifted group-focus-visible:shadow-lifted">
         <p className="font-display text-4xl font-semibold tracking-tight text-gold sm:text-5xl">
           {entry.label}
         </p>

@@ -2,7 +2,7 @@
 
 /*
   Spec.md 8.1 tokens. Tailwind v4 @theme exposes them as utilities
-  (bg-ink, text-gold-light, font-display) and as CSS variables.
+  (bg-ink, text-gold-light, rounded-card, shadow-raised) and as CSS variables.
 */
 @theme {
   --color-ink: #0A0908;
@@ -12,92 +12,133 @@
   --color-muted: #B8A990;
   --font-display: var(--font-playfair), "Times New Roman", serif;
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --radius-card: 14px;
+  --radius-panel: 20px;
+  --radius-inner: 8px;
+  --radius-pill: 999px;
+  --surface-raised: linear-gradient(160deg, #191612, #0f0d0b);
+  --shadow-raised:
+    inset 0 1px 0 color-mix(in srgb, var(--color-gold-light) 22%, transparent),
+    inset 0 -1px 0 rgb(0 0 0 / 0.5),
+    0 6px 16px -4px rgb(0 0 0 / 0.48);
+  --shadow-lifted:
+    inset 0 1px 0 color-mix(in srgb, var(--color-gold-light) 36%, transparent),
+    inset 0 -1px 0 rgb(0 0 0 / 0.4),
+    0 10px 22px -6px rgb(0 0 0 / 0.55),
+    0 0 16px -2px color-mix(in srgb, var(--color-gold) 20%, transparent);
 }
 
-html {
-  color-scheme: dark;
-  background: var(--color-ink);
-  scroll-behavior: smooth;
-}
-
-body {
-  background: var(--color-ink);
-  color: var(--color-muted);
-  font-family: var(--font-sans);
-}
-
-::selection {
-  background: var(--color-gold);
-  color: var(--color-ink);
-}
-
-/* Visible, own focus ring — 8.4. Geometric, not the browser default. */
-:focus-visible {
-  outline: 2px solid var(--color-gold-light);
-  outline-offset: 3px;
-}
-
-:focus:not(:focus-visible) {
-  outline: none;
-}
-
-@media (prefers-reduced-motion: reduce) {
+@layer base {
   html {
-    scroll-behavior: auto;
+    color-scheme: dark;
+    background: var(--color-ink);
+    scroll-behavior: smooth;
   }
 
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
+  body {
+    background: var(--color-ink);
+    color: var(--color-muted);
+    font-family: var(--font-sans);
+  }
+
+  ::selection {
+    background: var(--color-gold);
+    color: var(--color-ink);
+  }
+
+  /*
+    Focus ring stays a hard outline with an ink spacer so it does not melt
+    into the gold hover halo of raised surfaces (spec.md 8.5).
+  */
+  :focus-visible {
+    outline: 2px solid var(--color-gold-light);
+    outline-offset: 5px;
+    box-shadow: 0 0 0 5px var(--color-ink);
+  }
+
+  :focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
   }
 }
 
-/* 1 px geometric frame with a second inset rule and stepped corners. */
-.deco-frame {
-  position: relative;
-  border: 1px solid var(--color-gold);
-}
+@layer components {
+  .deco-frame {
+    --deco-radius: var(--radius-card);
+    position: relative;
+    border: 1px solid var(--color-gold);
+    border-radius: var(--deco-radius);
+  }
 
-.deco-frame::before {
-  content: "";
-  position: absolute;
-  inset: 6px;
-  border: 1px solid color-mix(in srgb, var(--color-gold) 45%, transparent);
-  pointer-events: none;
-}
+  .deco-frame-panel {
+    --deco-radius: var(--radius-panel);
+  }
 
-.deco-frame::after {
-  content: "";
-  position: absolute;
-  inset: -1px;
-  pointer-events: none;
-  background:
-    linear-gradient(var(--color-gold), var(--color-gold)) 0 0 / 7px 1px no-repeat,
-    linear-gradient(var(--color-gold), var(--color-gold)) 0 0 / 1px 7px no-repeat,
-    linear-gradient(var(--color-gold), var(--color-gold)) 100% 0 / 7px 1px no-repeat,
-    linear-gradient(var(--color-gold), var(--color-gold)) 100% 0 / 1px 7px no-repeat,
-    linear-gradient(var(--color-gold), var(--color-gold)) 0 100% / 7px 1px no-repeat,
-    linear-gradient(var(--color-gold), var(--color-gold)) 0 100% / 1px 7px no-repeat,
-    linear-gradient(var(--color-gold), var(--color-gold)) 100% 100% / 7px 1px no-repeat,
-    linear-gradient(var(--color-gold), var(--color-gold)) 100% 100% / 1px 7px no-repeat;
-}
+  .deco-frame-raised {
+    background: var(--surface-raised);
+  }
 
-/* Subtle film-grain overlay. SVG noise, not a heavy bitmap. */
-.deco-grain {
-  position: relative;
-}
+  .deco-frame-flat {
+    background: var(--color-ink);
+  }
 
-.deco-grain::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 80;
-  opacity: 0.045;
-  mix-blend-mode: overlay;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
-  background-size: 256px 256px;
+  /* Concentric inner fillet: inset from the outer radius. */
+  .deco-frame::before {
+    content: "";
+    position: absolute;
+    inset: 6px;
+    border: 1px solid color-mix(in srgb, var(--color-gold) 45%, transparent);
+    border-radius: var(--radius-inner);
+    pointer-events: none;
+  }
+
+  /* Four tiny gold diamonds on the diagonals — not stepped corners. */
+  .deco-frame::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    --deco-diamond: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 6 6'%3E%3Cpath fill='%23C9A227' d='M3 0L6 3L3 6L0 3Z'/%3E%3C/svg%3E");
+    background-image:
+      var(--deco-diamond),
+      var(--deco-diamond),
+      var(--deco-diamond),
+      var(--deco-diamond);
+    background-repeat: no-repeat;
+    background-size: 6px 6px;
+    background-position:
+      10px 10px,
+      calc(100% - 10px) 10px,
+      10px calc(100% - 10px),
+      calc(100% - 10px) calc(100% - 10px);
+  }
+
+  .deco-grain {
+    position: relative;
+  }
+
+  .deco-grain::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 80;
+    opacity: 0.045;
+    mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
+    background-size: 256px 256px;
+  }
 }

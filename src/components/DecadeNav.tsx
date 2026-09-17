@@ -21,7 +21,7 @@ export function DecadeNav({
           <li key={decade} className="shrink-0">
             <a
               href={`#${decadeSectionId(decade)}`}
-              className="inline-block border border-gold/50 px-3 py-1.5 font-sans text-sm tracking-wide text-gold hover:text-gold-light md:border-transparent md:px-2 md:py-1"
+              className="inline-block rounded-pill border border-gold/50 px-3 py-1.5 font-sans text-sm tracking-wide text-gold hover:text-gold-light md:border-transparent md:px-2 md:py-1"
             >
               {decade}
             </a>

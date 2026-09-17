@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import { DecoFrame } from "@/components/deco/DecoFrame";
 import { useOverlay } from "@/hooks/useOverlay";
 import { fetchSearchIndex } from "@/lib/load-search-index";
 import { filterSearchDocs, groupSearchDocs } from "@/lib/search";
@@ -138,7 +139,7 @@ export function SearchPalette() {
         aria-expanded={open}
         aria-haspopup="dialog"
         onClick={() => setOpen(true)}
-        className="inline-flex h-9 w-9 items-center justify-center text-gold hover:text-gold-light"
+        className="inline-flex h-9 w-9 items-center justify-center rounded-pill text-gold hover:text-gold-light"
       >
         <svg
           viewBox="0 0 24 24"
@@ -161,9 +162,10 @@ export function SearchPalette() {
           tabIndex={-1}
           className="fixed inset-0 z-[60] flex items-start justify-center bg-ink/80 px-4 pt-[12vh]"
         >
-          <div
+          <DecoFrame
             ref={contentRef}
-            className="deco-frame w-full max-w-xl bg-surface px-6 py-6"
+            radius="panel"
+            className="w-full max-w-xl px-6 py-6"
           >
             <h2
               id="search-heading"
@@ -260,7 +262,7 @@ export function SearchPalette() {
                 </section>
               ))}
             </div>
-          </div>
+          </DecoFrame>
         </div>
       ) : null}
     </>

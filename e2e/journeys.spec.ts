@@ -28,6 +28,12 @@ test.describe("spec.md 11.5 journeys", () => {
   test("E3: arrows navigate editions and the URL follows", async ({ page }) => {
     await page.goto("/2026");
     await expect(overlay(page)).toBeVisible();
+    await expect(
+      page.getByRole("button", { name: "Previous ceremony" }),
+    ).toHaveCSS("position", "fixed");
+    await expect(
+      page.getByRole("button", { name: "Next ceremony" }),
+    ).toHaveCSS("position", "fixed");
     await page.getByRole("button", { name: "Previous ceremony" }).click();
     await expect(page).toHaveURL(/\/2025$/);
     await expect(page.getByRole("heading", { level: 1, name: "2025" })).toBeVisible();
@@ -92,6 +98,7 @@ test.describe("spec.md 11.5 journeys", () => {
 
   test("E9: searching Parasite goes to the right edition", async ({ page }) => {
     await page.goto("/");
+    await page.waitForLoadState("networkidle");
     await page.keyboard.press("/");
     const search = page.getByRole("combobox", { name: /search/i });
     await expect(search).toBeFocused();

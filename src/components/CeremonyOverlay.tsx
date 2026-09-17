@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState, type ReactNode, type TouchEvent } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import { DecoFrame } from "@/components/deco/DecoFrame";
 import {
   adjacentCeremonies,
   ceremonyDateLabel,
@@ -192,7 +193,7 @@ function EditionArrow({
       onClick={() => {
         if (slug) onNavigate(slug);
       }}
-      className={`fixed top-1/2 z-50 -translate-y-1/2 deco-frame bg-surface p-3 text-gold hover:text-gold-light disabled:cursor-not-allowed disabled:opacity-40 ${sideClass}`}
+      className={`fixed top-1/2 z-50 -translate-y-1/2 deco-frame deco-frame-flat rounded-pill p-3 text-gold hover:text-gold-light disabled:cursor-not-allowed disabled:opacity-40 ${sideClass}`}
     >
       <Chevron direction={direction} />
     </button>
@@ -276,11 +277,12 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
       tabIndex={-1}
       className="fixed inset-0 z-40 flex justify-center bg-ink md:bg-ink/80 md:p-8"
     >
-      <div
+      <DecoFrame
         ref={contentRef}
+        radius="panel"
         onTouchStart={onTouchStart}
         onTouchEnd={onTouchEnd}
-        className="flex h-full max-h-full w-full max-w-none gap-10 overflow-y-auto bg-surface px-6 py-10 md:max-w-6xl"
+        className="flex h-full max-h-full w-full max-w-none gap-10 overflow-y-auto px-6 py-10 md:max-w-6xl"
       >
         <EditionArrow
           direction="previous"
@@ -289,7 +291,7 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
         />
         <EditionArrow direction="next" slug={next?.slug} onNavigate={goTo} />
         {children}
-      </div>
+      </DecoFrame>
     </div>
   );
 }
@@ -307,7 +309,7 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
         <GroupLinks groups={groups} />
       </nav>
       <div className="min-w-0 flex-1">
-        <details className="deco-frame mb-8 bg-ink px-4 py-3 lg:hidden">
+        <details className="deco-frame deco-frame-flat mb-8 px-4 py-3 lg:hidden">
           <summary className="cursor-pointer font-sans text-sm tracking-wide text-gold">
             Category groups
           </summary>
@@ -335,10 +337,11 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
             </time>
             <AmbiguousYearNotice slug={ceremony.slug} />
           </div>
-          <div
+          <DecoFrame
+            variant="flat"
             data-poster-slot
             aria-hidden="true"
-            className="deco-frame aspect-[2/3] w-36 shrink-0 bg-ink"
+            className="aspect-[2/3] w-36 shrink-0"
           />
         </header>
         {groups.map((group) => (
