@@ -52,6 +52,7 @@ export const movieSchema = z.object({
 export const entrySchema = z.object({
   names: z.array(z.string()),
   movies: z.array(movieSchema),
+  portraitPath: z.string().optional(),
 });
 
 export const ceremonyCategorySchema = z.object({
@@ -99,6 +100,12 @@ export const searchDocSchema = z.object({
   won: z.boolean(),
 });
 
+export const personLinkSchema = z.object({
+  name: z.string().min(1),
+  tmdbId: z.number().int().nullable(),
+  provenBy: z.string().min(1),
+});
+
 export type CategoryGroup = z.infer<typeof categoryGroupSchema>;
 export type HistoricalMovie = z.infer<typeof historicalMovieSchema>;
 export type HistoricalRecord = z.infer<typeof historicalRecordSchema>;
@@ -112,6 +119,7 @@ export type HeadlineWinner = z.infer<typeof headlineWinnerSchema>;
 export type GridEntry = z.infer<typeof gridEntrySchema>;
 export type SearchKind = z.infer<typeof searchKindSchema>;
 export type SearchDoc = z.infer<typeof searchDocSchema>;
+export type PersonLink = z.infer<typeof personLinkSchema>;
 
 /** Joins Zod issue paths so a nested failure names the exact field. */
 export function formatZodIssues(error: z.ZodError): string {

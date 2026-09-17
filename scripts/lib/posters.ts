@@ -68,6 +68,7 @@ export function collectImagePaths(
     for (const group of detail.groups) {
       for (const category of group.categories) {
         for (const row of [...category.winners, ...category.nominees]) {
+          if (row.portraitPath) paths.add(row.portraitPath);
           for (const movie of row.movies) {
             if (movie.posterPath) paths.add(movie.posterPath);
           }

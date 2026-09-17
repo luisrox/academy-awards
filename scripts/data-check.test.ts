@@ -148,4 +148,39 @@ describe("checkDataDir", () => {
       await rm(dir, { recursive: true, force: true });
     }
   });
+
+  it("fails when people.json maps one name to two ids", async () => {
+    const dir = await mkdtemp(path.join(os.tmpdir(), "oscars-data-d18-"));
+    try {
+      await writeTree(dir, {
+        "index.json": validIndex,
+        "search.json": validSearch,
+        "ceremonies/2024.json": validDetail,
+        "people.json": [
+          { name: "A", tmdbId: 1, provenBy: "x" },
+          { name: "A", tmdbId: 2, provenBy: "y" },
+        ],
+      });
+      await expect(checkDataDir(dir)).rejects.toThrow(/more than one TMDB id/);
+    } finally {
+      await rm(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("fails when portraitPath appears outside directing and acting winners", async () => {
+    const dir = await mkdtemp(path.join(os.tmpdir(), "oscars-data-d19-"));
+    try {
+      const detailed = structuredClone(validDetail);
+      detailed.groups[0].categories[0].winners[0].portraitPath =
+        "/images/people/1.webp";
+      await writeTree(dir, {
+        "index.json": validIndex,
+        "search.json": validSearch,
+        "ceremonies/2024.json": detailed,
+      });
+      await expect(checkDataDir(dir)).rejects.toThrow(/portraitPath is only allowed/);
+    } finally {
+      await rm(dir, { recursive: true, force: true });
+    }
+  });
 });

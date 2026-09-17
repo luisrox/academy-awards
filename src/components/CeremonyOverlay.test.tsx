@@ -40,14 +40,16 @@ vi.mock("next/image", () => ({
     alt,
     width,
     height,
+    className,
   }: {
     src: string;
     alt: string;
     width?: number;
     height?: number;
+    className?: string;
   }) {
     // eslint-disable-next-line @next/next/no-img-element -- jsdom stand-in for next/image
-    return <img src={src} alt={alt} width={width} height={height} />;
+    return <img src={src} alt={alt} width={width} height={height} className={className} />;
   },
 }));
 
@@ -127,7 +129,111 @@ describe("CeremonyOverlay", () => {
     render(<CeremonyOverlay detail={getCeremonyDetail("2026")!} />);
     const fallback = document.querySelector("[data-poster-slot]");
     expect(fallback?.querySelector("img")).toBeNull();
-    expect(fallback?.textContent).toMatch(/One Battle after Another/);
+    expect(fallback?.textContent).toMatch(/^OB$/);
+  });
+
+  it("renders a typographic monogram when a directing or acting winner has no portrait", () => {
+    render(
+      <CeremonyOverlay
+        detail={fixture({
+          groups: [
+            {
+              id: "acting",
+              label: "Acting",
+              categories: [
+                {
+                  id: "best-actress",
+                  label: "Best Actress",
+                  winners: [
+                    {
+                      names: ["Cher"],
+                      movies: [{ title: "Moonstruck" }],
+                    },
+                    {
+                      names: ["Pedro Almodóvar Caballero"],
+                      movies: [{ title: "A Film" }],
+                    },
+                  ],
+                  nominees: [],
+                },
+              ],
+            },
+          ],
+        })}
+      />,
+    );
+
+    const portraits = document.querySelectorAll("[data-portrait]");
+    expect(portraits).toHaveLength(2);
+    expect(portraits[0]).toHaveAttribute("data-image-fallback", "monogram");
+    expect(portraits[0]).toHaveTextContent("CH");
+    expect(portraits[1]).toHaveTextContent("PA");
+    expect(screen.getByText("Cher")).toBeInTheDocument();
+    expect(screen.getByText("Pedro Almodóvar Caballero")).toBeInTheDocument();
+  });
+
+  it("keeps the portrait box the same size with a photo and with a monogram", () => {
+    const withPhoto = fixture({
+      groups: [
+        {
+          id: "headline",
+          label: "The Big Two",
+          categories: [
+            {
+              id: "best-director",
+              label: "Best Director",
+              winners: [
+                {
+                  names: ["Christopher Nolan"],
+                  movies: [{ title: "Oppenheimer" }],
+                  portraitPath: "/images/people/1.webp",
+                },
+              ],
+              nominees: [],
+            },
+          ],
+        },
+      ],
+    });
+    const { unmount } = render(<CeremonyOverlay detail={withPhoto} />);
+    const photo = document.querySelector("[data-portrait]") as HTMLElement | null;
+    expect(photo).toHaveAttribute("data-image-fallback", "image");
+    expect(photo?.style.width).toBe("56px");
+    expect(photo?.style.height).toBe("56px");
+    const img = photo?.querySelector("img");
+    expect(img).toHaveAttribute("alt", "");
+    expect(img?.className).toMatch(/object-top/);
+    unmount();
+
+    render(
+      <CeremonyOverlay
+        detail={fixture({
+          groups: [
+            {
+              id: "headline",
+              label: "The Big Two",
+              categories: [
+                {
+                  id: "best-director",
+                  label: "Best Director",
+                  winners: [
+                    {
+                      names: ["Christopher Nolan"],
+                      movies: [{ title: "Oppenheimer" }],
+                    },
+                  ],
+                  nominees: [],
+                },
+              ],
+            },
+          ],
+        })}
+      />,
+    );
+    const monogram = document.querySelector("[data-portrait]") as HTMLElement | null;
+    expect(monogram).toHaveAttribute("data-image-fallback", "monogram");
+    expect(monogram?.style.width).toBe("56px");
+    expect(monogram?.style.height).toBe("56px");
   });
 
   it("renders a modern edition's groups in dictionary order, starting with the headline block", () => {
@@ -249,6 +355,7 @@ describe("CeremonyOverlay", () => {
     expect(within(actress).getByText("Katharine Hepburn")).toBeInTheDocument();
     expect(within(actress).getByText("Barbra Streisand")).toBeInTheDocument();
     expect(winners).toHaveLength(2);
+    expect(actress.querySelectorAll("[data-portrait]")).toHaveLength(2);
   });
 
   it("renders a nomination with no movie without breaking", () => {

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { DecoFrame } from "@/components/deco/DecoFrame";
 import { Emblem } from "@/components/deco/Emblem";
+import { ImageMonogram } from "@/components/ImageMonogram";
 import { PosterSlot } from "@/components/PosterSlot";
 import {
   adjacentCeremonies,
@@ -13,7 +14,11 @@ import {
   siblingCeremonies,
 } from "@/data/ceremonies";
 import { useOverlay } from "@/hooks/useOverlay";
-import { bestPictureMovie } from "@/lib/poster";
+import {
+  PORTRAIT_SIZE,
+  bestPictureMovie,
+  isPortraitCategory,
+} from "@/lib/poster";
 import type {
   CeremonyCategory,
   CeremonyDetail as CeremonyDetailData,
@@ -41,23 +46,43 @@ function movieTitles(entry: Entry): string[] {
     .filter((title) => !entry.names.includes(title));
 }
 
-function WinnerEntry({ entry }: { entry: Entry }) {
+function WinnerEntry({
+  entry,
+  showPortrait,
+  portraitPriority,
+}: {
+  entry: Entry;
+  showPortrait: boolean;
+  portraitPriority: boolean;
+}) {
   const names = formatNames(entry.names);
   const movies = movieTitles(entry);
   return (
     <div
       data-entry-role="winner"
-      className="flex items-start gap-2 font-display text-xl leading-tight text-gold-light md:text-2xl"
+      className="font-display text-xl leading-tight text-gold-light md:text-2xl"
     >
-      <Emblem size={12} className="mt-1.5 shrink-0 text-gold" />
-      <div>
+      <div className="flex items-baseline gap-2">
+        {showPortrait ? (
+          <ImageMonogram
+            slot="portrait"
+            src={entry.portraitPath}
+            label={entry.names[0] ?? ""}
+            width={PORTRAIT_SIZE}
+            height={PORTRAIT_SIZE}
+            objectPosition="top"
+            priority={portraitPriority}
+          />
+        ) : (
+          <Emblem size={12} className="shrink-0 text-gold" />
+        )}
         {names ? <p>{names}</p> : null}
-        {movies.map((title) => (
-          <p key={title} className="mt-0.5 font-display">
-            {title}
-          </p>
-        ))}
       </div>
+      {movies.map((title) => (
+        <p key={title} className="mt-0.5 font-display">
+          {title}
+        </p>
+      ))}
     </div>
   );
 }
@@ -76,7 +101,14 @@ function NomineeEntry({ entry }: { entry: Entry }) {
   );
 }
 
-function CategoryBlock({ category }: { category: CeremonyCategory }) {
+function CategoryBlock({
+  category,
+  groupId,
+}: {
+  category: CeremonyCategory;
+  groupId: string;
+}) {
+  const showPortrait = isPortraitCategory(category.id);
   return (
     <section
       data-category-block
@@ -92,7 +124,11 @@ function CategoryBlock({ category }: { category: CeremonyCategory }) {
       <ul className="mt-2 flex flex-col gap-2">
         {category.winners.map((entry, index) => (
           <li key={`winner-${index}`}>
-            <WinnerEntry entry={entry} />
+            <WinnerEntry
+              entry={entry}
+              showPortrait={showPortrait}
+              portraitPriority={groupId === "headline"}
+            />
           </li>
         ))}
       </ul>
@@ -371,7 +407,11 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
               className="grid gap-y-4 lg:grid-cols-2 lg:gap-x-10"
             >
               {group.categories.map((category) => (
-                <CategoryBlock key={category.id} category={category} />
+                <CategoryBlock
+                  key={category.id}
+                  category={category}
+                  groupId={group.id}
+                />
               ))}
             </div>
           </section>

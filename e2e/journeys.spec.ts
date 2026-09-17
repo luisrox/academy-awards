@@ -83,7 +83,20 @@ test.describe("spec.md 11.5 journeys", () => {
     expect(eighthBox?.width).toBe(144);
     expect(eighthBox?.height).toBe(216);
     await expect(ninetyEighth.locator("img")).toHaveCount(0);
-    await expect(ninetyEighth).toContainText("One Battle after Another");
+    await expect(ninetyEighth).toHaveText("OB");
+  });
+
+  test("portrait slots are 56×56 with or without a photo", async ({ page }) => {
+    await page.goto("/2026");
+    const portraits = overlay(page).locator("[data-portrait]");
+    await expect(portraits.first()).toBeVisible();
+    const box = await portraits.first().boundingBox();
+    expect(box?.width).toBe(56);
+    expect(box?.height).toBe(56);
+    await expect(portraits.first()).toHaveAttribute(
+      "data-image-fallback",
+      "monogram",
+    );
   });
 
   test("E7: an invalid slug shows the not-found page", async ({ page }) => {

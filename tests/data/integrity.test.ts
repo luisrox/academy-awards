@@ -8,6 +8,7 @@ import {
   ceremonyDetailSchema,
   gridEntrySchema,
   parseData,
+  personLinkSchema,
   searchDocSchema,
 } from "@/lib/schemas";
 import {
@@ -15,6 +16,10 @@ import {
   SEARCH_JSON_BUDGET_BYTES,
   nominationCount,
 } from "../../scripts/data-check";
+import {
+  peopleMappingErrors,
+  strayPortraitPaths,
+} from "../../scripts/lib/people";
 import {
   IMAGES_BUDGET_BYTES,
   IMAGES_DIR,
@@ -44,7 +49,7 @@ import {
 
 /**
  * D1–D6 (ceremony table shape: 98 rows, slugs, 1930/1933, film years)
- * live in src/data/ceremonies.test.ts. This file covers D7–D17 on data/.
+ * live in src/data/ceremonies.test.ts. This file covers D7–D19 on data/.
  */
 
 function entryKey(entry: { names: string[]; movies: { title: string }[] }): string {
@@ -164,6 +169,13 @@ describe("data integrity D7–D17", () => {
         `ceremonies/${name}`,
       );
     }
+    parseData(
+      z.array(personLinkSchema),
+      JSON.parse(
+        readFileSync(path.join(DATA_DIR, "people.json"), "utf8"),
+      ) as unknown,
+      "people.json",
+    );
   });
 
   it("D15: index.json stays under its size budget", () => {
@@ -187,6 +199,23 @@ describe("data integrity D7–D17", () => {
     expect(directorySizeBytes(IMAGES_DIR)).toBeLessThanOrEqual(
       IMAGES_BUDGET_BYTES,
     );
+  });
+
+  it("D18: people.json does not map a name to two ids or an id to two names", () => {
+    const people = parseData(
+      z.array(personLinkSchema),
+      JSON.parse(
+        readFileSync(path.join(DATA_DIR, "people.json"), "utf8"),
+      ) as unknown,
+      "people.json",
+    );
+    expect(peopleMappingErrors(people)).toEqual([]);
+  });
+
+  it("D19: portraitPath only appears on directing and acting winners", () => {
+    expect(
+      strayPortraitPaths(loadIndex().map((entry) => loadDetail(entry.slug))),
+    ).toEqual([]);
   });
 
   it("search.json stays under its size budget and only points at real slugs", () => {

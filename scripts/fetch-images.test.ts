@@ -2,6 +2,7 @@ import { describe, expect, it, vi } from "vitest";
 import {
   applyEnvFile,
   downloadBestPicturePosters,
+  downloadPersonPortraits,
   loadTmdbApiKey,
   withRetries,
 } from "./fetch-images";
@@ -166,5 +167,49 @@ describe("downloadBestPicturePosters", () => {
     expect(report.failed).toBe(1);
     expect(report.downloaded).toBe(1);
     expect(written.some((file) => file.endsWith("2.webp"))).toBe(true);
+  });
+});
+
+describe("downloadPersonPortraits", () => {
+  it("skips a resolved person who has no TMDB profile photo", async () => {
+    const fetchFn = vi.fn(async () => ({
+      ok: true,
+      json: async () => ({ profile_path: null }),
+    }));
+    const writeFileFn = vi.fn();
+    const report = await downloadPersonPortraits({
+      apiKey: "test-key",
+      people: [{ name: "Cillian Murphy", tmdbId: 2037, provenBy: "Oppenheimer" }],
+      imagesDir: "/tmp/images",
+      budgetBytes: 4 * 1024 * 1024,
+      fetchFn: fetchFn as unknown as typeof fetch,
+      encodeWebp: async (bytes) => bytes,
+      exists: () => false,
+      writeFileFn,
+      ensureDir: async () => undefined,
+      dirSize: () => 0,
+      log: () => undefined,
+    });
+    expect(report.skipped).toBe(1);
+    expect(report.downloaded).toBe(0);
+    expect(writeFileFn).not.toHaveBeenCalled();
+  });
+
+  it("does not download a portrait that is already on disk", async () => {
+    const fetchFn = vi.fn();
+    const report = await downloadPersonPortraits({
+      apiKey: "test-key",
+      people: [{ name: "Cillian Murphy", tmdbId: 2037, provenBy: "Oppenheimer" }],
+      imagesDir: "/tmp/images",
+      budgetBytes: 4 * 1024 * 1024,
+      fetchFn: fetchFn as unknown as typeof fetch,
+      encodeWebp: async (bytes) => bytes,
+      exists: () => true,
+      writeFileFn: vi.fn(),
+      ensureDir: async () => undefined,
+      dirSize: () => 0,
+    });
+    expect(report.skippedExisting).toBe(1);
+    expect(fetchFn).not.toHaveBeenCalled();
   });
 });

@@ -7,11 +7,13 @@ import {
   ceremonyDetailSchema,
   gridEntrySchema,
   parseData,
+  personLinkSchema,
   searchDocSchema,
   type CeremonyDetail,
   type GridEntry,
 } from "@/lib/schemas";
 import { DATA_DIR } from "./lib/cache";
+import { loadPeople, peopleMappingErrors, strayPortraitPaths } from "./lib/people";
 import {
   IMAGES_BUDGET_BYTES,
   PUBLIC_DIR,
@@ -162,6 +164,19 @@ export async function checkDataDir(
 
   const indexBytes = (await stat(indexPath)).size;
   const searchBytes = (await stat(searchPath)).size;
+  const people = loadPeople(dataDir);
+  parseData(z.array(personLinkSchema), people, "people.json");
+  const mappingErrors = peopleMappingErrors(people);
+  if (mappingErrors.length > 0) {
+    throw new Error(mappingErrors.join("; "));
+  }
+  const stray = strayPortraitPaths(details);
+  if (stray.length > 0) {
+    throw new Error(
+      `portraitPath is only allowed on directing and acting winners: ${stray.join("; ")}`,
+    );
+  }
+
   for (const warning of dataWarnings({ indexBytes, searchBytes, details })) {
     console.warn(warning);
   }

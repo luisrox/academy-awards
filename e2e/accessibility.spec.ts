@@ -70,4 +70,5 @@ test("axe: muted nominees on the dark overlay pass WCAG AA contrast", async ({
     (violation) => violation.impact === "critical" || violation.impact === "serious",
   );
   expect(blocking, formatViolations(blocking)).toEqual([]);
+  expect(results.violations, formatViolations(results.violations)).toEqual([]);
 });

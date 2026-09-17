@@ -17,6 +17,7 @@ import {
   loadOfficialRecords,
   mergeNominationSources,
 } from "./lib/load-official";
+import { attachWinnerPortraits, loadPeople } from "./lib/people";
 import { attachBestPicturePosters, IMAGES_DIR } from "./lib/posters";
 import { dataWarnings } from "./data-check";
 
@@ -36,6 +37,9 @@ export async function normalizeData(): Promise<void> {
   const records = mergeNominationSources(historical, official);
   const details = buildCeremonyDetails(records);
   attachBestPicturePosters(details, (relative) =>
+    existsSync(path.join(IMAGES_DIR, relative)),
+  );
+  attachWinnerPortraits(details, loadPeople(), (relative) =>
     existsSync(path.join(IMAGES_DIR, relative)),
   );
   const index = buildGridEntries(details);
