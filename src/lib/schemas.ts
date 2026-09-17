@@ -4,7 +4,7 @@ import { z } from "zod";
  * Runtime schemas are the source of truth for generated artifacts and the
  * historical feed. Types in types.ts are `z.infer` of these schemas so a
  * shape change cannot silently desync the TypeScript view from validation.
- * SearchDoc stays handmade until step 26 adds search.json.
+ * SearchDoc is validated with the other generated artifacts.
  */
 
 export const categoryGroupSchema = z.enum([
@@ -87,6 +87,17 @@ export const gridEntrySchema = z.object({
   posterPath: z.string().optional(),
 });
 
+export const searchKindSchema = z.enum(["year", "film", "person"]);
+
+export const searchDocSchema = z.object({
+  slug: z.string().min(1),
+  label: z.string().min(1),
+  kind: searchKindSchema,
+  title: z.string().min(1),
+  detail: z.string().min(1),
+  won: z.boolean(),
+});
+
 export type CategoryGroup = z.infer<typeof categoryGroupSchema>;
 export type HistoricalMovie = z.infer<typeof historicalMovieSchema>;
 export type HistoricalRecord = z.infer<typeof historicalRecordSchema>;
@@ -98,6 +109,8 @@ export type CeremonyCategoryGroup = z.infer<typeof ceremonyCategoryGroupSchema>;
 export type CeremonyDetail = z.infer<typeof ceremonyDetailSchema>;
 export type HeadlineWinner = z.infer<typeof headlineWinnerSchema>;
 export type GridEntry = z.infer<typeof gridEntrySchema>;
+export type SearchKind = z.infer<typeof searchKindSchema>;
+export type SearchDoc = z.infer<typeof searchDocSchema>;
 
 /** Joins Zod issue paths so a nested failure names the exact field. */
 export function formatZodIssues(error: z.ZodError): string {

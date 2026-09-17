@@ -7,6 +7,7 @@ import {
   ceremonyDetailSchema,
   gridEntrySchema,
   parseData,
+  searchDocSchema,
   type CeremonyDetail,
   type GridEntry,
 } from "@/lib/schemas";
@@ -14,6 +15,13 @@ import { DATA_DIR } from "./lib/cache";
 
 /** Soft budget for the grid payload. D15 will enforce this in integrity tests. */
 export const INDEX_JSON_BUDGET_BYTES = 128 * 1024;
+
+/**
+ * Spec.md 5.2 estimated ~300 KB. The compact index of unique film/person
+ * documents per ceremony is larger; SEARCH_JSON_BUDGET_BYTES is the hard cap.
+ */
+export const SEARCH_JSON_ESTIMATE_BYTES = 300 * 1024;
+export const SEARCH_JSON_BUDGET_BYTES = 2 * 1024 * 1024;
 
 /** Inclusive range for nominations (winners + nominees) per ceremony. Outside it, warn. */
 export const NOMINATION_COUNT_MIN = 10;
@@ -30,12 +38,18 @@ export function nominationCount(detail: CeremonyDetail): number {
 
 export function dataWarnings(args: {
   indexBytes: number;
+  searchBytes?: number;
   details: CeremonyDetail[];
 }): string[] {
   const warnings: string[] = [];
   if (args.indexBytes > INDEX_JSON_BUDGET_BYTES) {
     warnings.push(
       `index.json is ${args.indexBytes} bytes; budget is ${INDEX_JSON_BUDGET_BYTES}`,
+    );
+  }
+  if (args.searchBytes !== undefined && args.searchBytes > SEARCH_JSON_BUDGET_BYTES) {
+    warnings.push(
+      `search.json is ${args.searchBytes} bytes; budget is ${SEARCH_JSON_BUDGET_BYTES}`,
     );
   }
   for (const detail of args.details) {
@@ -105,8 +119,26 @@ export async function checkDataDir(dataDir: string): Promise<void> {
     }
   }
 
+  const searchPath = path.join(dataDir, "search.json");
+  if (!existsSync(searchPath)) {
+    throw new Error(`Missing ${searchPath}`);
+  }
+  const search = parseData(
+    z.array(searchDocSchema),
+    JSON.parse(await readFile(searchPath, "utf8")) as unknown,
+    "search.json",
+  );
+  for (const doc of search) {
+    if (!indexSlugs.has(doc.slug)) {
+      throw new Error(
+        `search.json ${doc.kind} "${doc.title}" points at unknown slug "${doc.slug}"`,
+      );
+    }
+  }
+
   const indexBytes = (await stat(indexPath)).size;
-  for (const warning of dataWarnings({ indexBytes, details })) {
+  const searchBytes = (await stat(searchPath)).size;
+  for (const warning of dataWarnings({ indexBytes, searchBytes, details })) {
     console.warn(warning);
   }
 }

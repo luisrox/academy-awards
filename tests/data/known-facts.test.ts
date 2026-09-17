@@ -1,8 +1,10 @@
 import { describe, expect, it } from "vitest";
 import { ceremonyByFilmYear } from "@/data/ceremonies";
+import { normalizeSearchText } from "@/lib/search";
 import {
   categoryById,
   loadDetail,
+  loadSearch,
   pictureWinner,
 } from "./artifacts";
 
@@ -93,5 +95,17 @@ describe("known facts", () => {
   it("98th ceremony includes best-casting, which the historical feed does not have", () => {
     expect(categoryById(loadDetail("2026"), "best-casting")).toBeDefined();
     expect(categoryById(loadDetail("2025"), "best-casting")).toBeUndefined();
+  });
+
+  it("search.json has one Amélie film document, found by typing Amelie", () => {
+    const films = loadSearch().filter(
+      (doc) =>
+        doc.kind === "film" &&
+        normalizeSearchText(doc.title) === normalizeSearchText("Amelie"),
+    );
+    expect(films).toHaveLength(1);
+    expect(films[0]?.title).toBe("Amélie");
+    expect(films[0]?.slug).toBe("2002");
+    expect(films[0]?.won).toBe(false);
   });
 });

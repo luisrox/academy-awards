@@ -3,6 +3,7 @@ import {
   ceremonyDetailSchema,
   historicalRecordSchema,
   parseData,
+  searchDocSchema,
 } from "./schemas";
 
 const validRecord = {
@@ -70,5 +71,22 @@ describe("ceremonyDetailSchema", () => {
     expect(() => parseData(ceremonyDetailSchema, detail, "detail")).toThrow(
       /winners/,
     );
+  });
+});
+
+describe("searchDocSchema", () => {
+  it("accepts a film document and rejects an unknown kind", () => {
+    const doc = {
+      slug: "2002",
+      label: "Amélie",
+      kind: "film",
+      title: "Amélie",
+      detail: "2002",
+      won: false,
+    };
+    expect(parseData(searchDocSchema, doc)).toEqual(doc);
+    expect(() =>
+      parseData(searchDocSchema, { ...doc, kind: "song" }, "search.json"),
+    ).toThrow(/kind/);
   });
 });

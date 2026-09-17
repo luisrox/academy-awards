@@ -5,14 +5,28 @@ import {
   ceremonyDetailSchema,
   gridEntrySchema,
   parseData,
+  searchDocSchema,
   type CeremonyCategory,
   type CeremonyDetail,
   type GridEntry,
+  type SearchDoc,
 } from "@/lib/schemas";
 import { DATA_DIR } from "../../scripts/lib/cache";
 
+export function searchPath(): string {
+  return path.join(DATA_DIR, "search.json");
+}
+
 export function indexPath(): string {
   return path.join(DATA_DIR, "index.json");
+}
+
+export function loadSearch(): SearchDoc[] {
+  return parseData(
+    z.array(searchDocSchema),
+    JSON.parse(readFileSync(searchPath(), "utf8")) as unknown,
+    "search.json",
+  );
 }
 
 export function detailPath(slug: string): string {

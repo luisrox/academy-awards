@@ -3,7 +3,7 @@
  * guarantee that schema and type stay aligned: there is only one definition.
  * Compatibility tests would still allow the two copies to be edited apart.
  *
- * SearchDoc remains handmade here; its Zod schema arrives with search.json.
+ * SearchDoc is inferred with the other artifacts since search.json exists.
  */
 export type {
   CategoryGroup,
@@ -16,13 +16,5 @@ export type {
   HeadlineWinner,
   HistoricalRecord,
   Movie,
+  SearchDoc,
 } from "./schemas";
-
-export type SearchDoc = {
-  slug: string;
-  label: string;
-  kind: "year" | "film" | "person";
-  title: string;
-  detail: string;
-  won: boolean;
-};

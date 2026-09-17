@@ -1,4 +1,4 @@
-import { readdir, unlink } from "node:fs/promises";
+import { readdir, unlink, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { z } from "zod";
@@ -6,8 +6,10 @@ import {
   ceremonyDetailSchema,
   gridEntrySchema,
   parseData,
+  searchDocSchema,
 } from "@/lib/schemas";
 import { buildCeremonyDetails, buildGridEntries } from "./lib/build-details";
+import { buildSearchIndex } from "./lib/build-search";
 import { DATA_DIR, fetchCached, writeJson } from "./lib/cache";
 import { HISTORICAL_URL, loadHistoricalRecords } from "./lib/load-historical";
 import {
@@ -32,8 +34,10 @@ export async function normalizeData(): Promise<void> {
   const records = mergeNominationSources(historical, official);
   const details = buildCeremonyDetails(records);
   const index = buildGridEntries(details);
+  const search = buildSearchIndex(details);
 
   parseData(z.array(gridEntrySchema).min(1), index, "index.json");
+  parseData(z.array(searchDocSchema), search, "search.json");
   for (const detail of details) {
     parseData(
       ceremonyDetailSchema,
@@ -43,8 +47,10 @@ export async function normalizeData(): Promise<void> {
   }
 
   const indexPath = path.join(DATA_DIR, "index.json");
+  const searchPath = path.join(DATA_DIR, "search.json");
   const ceremoniesDir = path.join(DATA_DIR, "ceremonies");
   await writeJson(indexPath, index);
+  await writeFile(searchPath, `${JSON.stringify(search)}\n`, "utf8");
 
   const written = new Set<string>();
   for (const detail of details) {
@@ -66,12 +72,13 @@ export async function normalizeData(): Promise<void> {
     `${JSON.stringify(index, null, 2)}\n`,
     "utf8",
   );
-  for (const warning of dataWarnings({ indexBytes, details })) {
+  const searchBytes = Buffer.byteLength(`${JSON.stringify(search)}\n`, "utf8");
+  for (const warning of dataWarnings({ indexBytes, searchBytes, details })) {
     console.warn(warning);
   }
 
   console.log(
-    `Wrote ${index.length} grid entries and ${details.length} ceremony files to data/`,
+    `Wrote ${index.length} grid entries, ${search.length} search docs, and ${details.length} ceremony files to data/`,
   );
 }
 

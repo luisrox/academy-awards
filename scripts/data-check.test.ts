@@ -36,6 +36,17 @@ const validDetail = {
   ],
 };
 
+const validSearch = [
+  {
+    slug: "2024",
+    label: "2024",
+    kind: "year",
+    title: "2024",
+    detail: "96th Ceremony \u2014 Films of 2023",
+    won: false,
+  },
+];
+
 const validIndex = [
   {
     slug: "2024",
@@ -70,6 +81,7 @@ describe("checkDataDir", () => {
     try {
       await writeTree(dir, {
         "index.json": validIndex,
+        "search.json": validSearch,
         "ceremonies/2024.json": validDetail,
       });
       await expect(checkDataDir(dir)).resolves.toBeUndefined();

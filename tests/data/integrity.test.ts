@@ -8,9 +8,11 @@ import {
   ceremonyDetailSchema,
   gridEntrySchema,
   parseData,
+  searchDocSchema,
 } from "@/lib/schemas";
 import {
   INDEX_JSON_BUDGET_BYTES,
+  SEARCH_JSON_BUDGET_BYTES,
   nominationCount,
 } from "../../scripts/data-check";
 import { DATA_DIR, fetchCached } from "../../scripts/lib/cache";
@@ -28,6 +30,8 @@ import {
   indexPath,
   loadDetail,
   loadIndex,
+  loadSearch,
+  searchPath,
 } from "./artifacts";
 
 /**
@@ -137,6 +141,11 @@ describe("data integrity D7–D15", () => {
       JSON.parse(readFileSync(indexPath(), "utf8")) as unknown,
       "index.json",
     );
+    parseData(
+      z.array(searchDocSchema),
+      JSON.parse(readFileSync(searchPath(), "utf8")) as unknown,
+      "search.json",
+    );
     const ceremonyDir = path.join(DATA_DIR, "ceremonies");
     for (const name of readdirSync(ceremonyDir).filter((file) =>
       file.endsWith(".json"),
@@ -153,5 +162,19 @@ describe("data integrity D7–D15", () => {
     expect(statSync(indexPath()).size).toBeLessThanOrEqual(
       INDEX_JSON_BUDGET_BYTES,
     );
+  });
+
+  it("search.json stays under its size budget and only points at real slugs", () => {
+    expect(statSync(searchPath()).size).toBeLessThanOrEqual(
+      SEARCH_JSON_BUDGET_BYTES,
+    );
+    const slugs = new Set(loadIndex().map((entry) => entry.slug));
+    const search = loadSearch();
+    expect(search.some((doc) => doc.kind === "year")).toBe(true);
+    expect(search.some((doc) => doc.kind === "film")).toBe(true);
+    expect(search.some((doc) => doc.kind === "person")).toBe(true);
+    for (const doc of search) {
+      expect(slugs.has(doc.slug), `${doc.kind}:${doc.title}`).toBe(true);
+    }
   });
 });
