@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState, type ReactNode, type TouchEve
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { DecoFrame } from "@/components/deco/DecoFrame";
+import { Emblem } from "@/components/deco/Emblem";
 import {
   adjacentCeremonies,
   ceremonyDateLabel,
@@ -44,14 +45,17 @@ function WinnerEntry({ entry }: { entry: Entry }) {
   return (
     <div
       data-entry-role="winner"
-      className="font-display text-3xl leading-tight text-gold-light"
+      className="flex items-start gap-2 font-display text-3xl leading-tight text-gold-light"
     >
-      {names ? <p>{names}</p> : null}
-      {movies.map((title) => (
-        <p key={title} className="mt-1 font-display text-xl text-gold-light">
-          {title}
-        </p>
-      ))}
+      <Emblem size={12} className="mt-2 shrink-0 text-gold" />
+      <div>
+        {names ? <p>{names}</p> : null}
+        {movies.map((title) => (
+          <p key={title} className="mt-1 font-display text-xl text-gold-light">
+            {title}
+          </p>
+        ))}
+      </div>
     </div>
   );
 }
@@ -317,7 +321,8 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
         </details>
         <header className="mb-12 flex flex-col gap-8 md:flex-row md:items-start md:justify-between">
           <div>
-            <p className="font-sans text-sm tracking-[0.25em] text-gold uppercase">
+            <p className="flex items-center gap-2 font-sans text-sm tracking-[0.25em] text-gold uppercase">
+              <Emblem size={18} />
               {ordinalSuffix(ceremony.ordinal)} Ceremony
             </p>
             <h1

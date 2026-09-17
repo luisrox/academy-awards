@@ -1,27 +1,11 @@
 import { ImageResponse } from "next/og";
 import { EmblemGraphic } from "@/components/deco/Emblem";
-import {
-  ambiguousYearRedirect,
-  ceremonyBySlug,
-  ordinalSuffix,
-} from "@/data/ceremonies";
 
 export const alt = "Oscars Winners";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-export default async function OpenGraphImage({
-  params,
-}: {
-  params: Promise<{ slug: string }>;
-}) {
-  const { slug } = await params;
-  const ceremony = ceremonyBySlug(ambiguousYearRedirect(slug) ?? slug);
-  const year = ceremony?.ceremonyYear ?? slug;
-  const edition = ceremony
-    ? `${ordinalSuffix(ceremony.ordinal)} Academy Awards`
-    : "";
-
+export default function OpenGraphImage() {
   return new ImageResponse(
     (
       <div
@@ -36,7 +20,7 @@ export default async function OpenGraphImage({
           padding: 80,
         }}
       >
-        <svg width="80" height="80" viewBox="0 0 64 64">
+        <svg width="96" height="96" viewBox="0 0 64 64">
           <EmblemGraphic color="#C9A227" />
         </svg>
         <div
@@ -44,14 +28,13 @@ export default async function OpenGraphImage({
             fontSize: 24,
             letterSpacing: 8,
             color: "#B8A990",
-            marginTop: 28,
+            marginTop: 32,
           }}
         >
           OSCARS WINNERS
         </div>
-        <div style={{ fontSize: 96, marginTop: 24 }}>{String(year)}</div>
-        <div style={{ fontSize: 36, color: "#E8C96A", marginTop: 16 }}>
-          {edition}
+        <div style={{ fontSize: 56, marginTop: 16 }}>
+          Every Academy Awards ceremony
         </div>
       </div>
     ),

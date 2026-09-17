@@ -15,6 +15,21 @@ function formatViolations(
     .join("\n");
 }
 
+test("axe: the year grid has no serious or critical violations", async ({
+  page,
+}) => {
+  await page.goto("/");
+  const results = await new AxeBuilder({ page })
+    .exclude("[role='dialog']")
+    .withTags(["wcag2a", "wcag2aa", "wcag21aa"])
+    .analyze();
+
+  const blocking = results.violations.filter(
+    (violation) => violation.impact === "critical" || violation.impact === "serious",
+  );
+  expect(blocking, formatViolations(blocking)).toEqual([]);
+});
+
 test("axe: muted nominees on the dark overlay pass WCAG AA contrast", async ({
   page,
 }) => {
