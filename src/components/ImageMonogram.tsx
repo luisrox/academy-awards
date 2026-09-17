@@ -1,4 +1,9 @@
+"use client";
+
+import { useRef, useState } from "react";
 import Image from "next/image";
+import { DecoFrame } from "@/components/deco/DecoFrame";
+import { useOverlay } from "@/hooks/useOverlay";
 import { pictureMonogram } from "@/lib/poster";
 
 type ImageMonogramProps = {
@@ -13,8 +18,8 @@ type ImageMonogramProps = {
 
 /**
  * Shared image-or-monogram box (spec.md 8.7). Same radius and gold edge
- * whether the file exists. Decorative: alt is empty because the name/title
- * is already on the page.
+ * whether the file exists. Decorative at rest: alt is empty because the
+ * name/title is already on the page. A real file opens a large view.
  */
 export function ImageMonogram({
   src,
@@ -25,13 +30,29 @@ export function ImageMonogram({
   priority = false,
   slot,
 }: ImageMonogramProps) {
+  const [open, setOpen] = useState(false);
+  const triggerRef = useRef<HTMLButtonElement>(null);
+  const { overlayRef, contentRef } = useOverlay({
+    isOpen: open,
+    onClose: () => setOpen(false),
+    returnFocus: () => triggerRef.current,
+  });
   const slotProp =
     slot === "poster"
       ? { "data-poster-slot": true }
       : slot === "portrait"
         ? { "data-portrait": true }
         : {};
-  return (
+  const viewLabel =
+    slot === "poster"
+      ? `View poster of ${label}`
+      : slot === "portrait"
+        ? `View portrait of ${label}`
+        : `View image of ${label}`;
+  const largeWidth = 480;
+  const largeHeight = slot === "portrait" ? 480 : 720;
+
+  const frame = (
     <div
       {...slotProp}
       aria-hidden="true"
@@ -63,5 +84,46 @@ export function ImageMonogram({
         </div>
       )}
     </div>
+  );
+
+  if (!src) return frame;
+
+  return (
+    <>
+      <button
+        ref={triggerRef}
+        type="button"
+        aria-label={viewLabel}
+        onClick={() => setOpen(true)}
+        className="relative shrink-0 cursor-zoom-in border-0 bg-transparent p-0"
+      >
+        {frame}
+      </button>
+      {open ? (
+        <div
+          ref={overlayRef}
+          role="dialog"
+          aria-modal="true"
+          aria-label={label}
+          tabIndex={-1}
+          className="fixed inset-0 z-[70] flex items-center justify-center bg-ink/85 p-6"
+        >
+          <DecoFrame
+            ref={contentRef}
+            radius="panel"
+            variant="flat"
+            className="max-h-[90vh] max-w-[min(90vw,32rem)] p-3"
+          >
+            <Image
+              src={src}
+              alt=""
+              width={largeWidth}
+              height={largeHeight}
+              className="h-auto max-h-[80vh] w-auto max-w-full object-contain"
+            />
+          </DecoFrame>
+        </div>
+      ) : null}
+    </>
   );
 }

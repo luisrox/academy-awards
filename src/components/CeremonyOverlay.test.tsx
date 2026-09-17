@@ -247,6 +247,8 @@ describe("CeremonyOverlay", () => {
       detail.groups.map((group) => group.label),
     );
     expect(groupHeadings[0]).toHaveTextContent("The Big Two");
+    const headline = document.querySelector("#group-headline");
+    expect(headline?.querySelector("[data-group-rule]")).toBeTruthy();
   });
 
   it("does not render empty groups for the 1935 ceremony", () => {
@@ -423,6 +425,13 @@ describe("CeremonyOverlay", () => {
     expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
   });
 
+  it("closes when clicking the close control", () => {
+    render(<CeremonyOverlay detail={fixture()} />);
+    fireEvent.click(screen.getByRole("button", { name: "Close" }));
+    expect(mockPush).toHaveBeenCalledWith("/", { scroll: false });
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+  });
+
   it("does not close when clicking the content", () => {
     render(<CeremonyOverlay detail={fixture()} />);
     fireEvent.mouseDown(screen.getByRole("heading", { level: 1 }));
@@ -499,6 +508,9 @@ describe("CeremonyOverlay", () => {
     expect(panel?.contains(next)).toBe(false);
     expect(dialog.contains(previous)).toBe(true);
     expect(dialog.contains(next)).toBe(true);
+    const close = screen.getByRole("button", { name: "Close" });
+    expect(panel?.contains(close)).toBe(false);
+    expect(dialog.contains(close)).toBe(true);
     expect(previous).toHaveClass("h-10", "w-10", "rounded-pill", "absolute");
     expect(previous).not.toHaveClass("deco-frame");
     expect(next).not.toHaveClass("deco-frame");

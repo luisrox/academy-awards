@@ -29,6 +29,11 @@ export type UseOverlayResult = {
   contentRef: RefObject<HTMLDivElement | null>;
 };
 
+/** True when a nested overlay (search, lightbox) sits on top of another. */
+export function nestedOverlayOpen(): boolean {
+  return overlayStack.length > 1;
+}
+
 function getFocusableElements(root: HTMLElement): HTMLElement[] {
   return [...root.querySelectorAll<HTMLElement>(FOCUSABLE_SELECTOR)];
 }

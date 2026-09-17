@@ -152,6 +152,12 @@ describe("YearCard hover rotation", () => {
     fireEvent.mouseEnter(link);
     expect(vi.getTimerCount()).toBe(1);
     expect(screen.getByText("One Battle after Another")).toBeInTheDocument();
+    expect(
+      screen.getByText("One Battle after Another").closest("div")?.className,
+    ).toMatch(/absolute/);
+    expect(screen.getByText("98th Ceremony — Films of 2025")).toHaveClass(
+      "invisible",
+    );
 
     act(() => {
       vi.advanceTimersByTime(HEADLINE_ROTATION_MS);

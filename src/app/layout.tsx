@@ -10,16 +10,14 @@ import "./globals.css";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
-  display: "optional",
-  preload: false,
+  display: "swap",
   variable: "--font-playfair",
   weight: ["400", "600"],
 });
 
 const inter = Inter({
   subsets: ["latin"],
-  display: "optional",
-  preload: false,
+  display: "swap",
   variable: "--font-inter",
   weight: ["400"],
 });

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { DecoFrame } from "@/components/deco/DecoFrame";
 import { Emblem } from "@/components/deco/Emblem";
+import { RayDivider } from "@/components/deco/RayDivider";
 import { ImageMonogram } from "@/components/ImageMonogram";
 import { PosterSlot } from "@/components/PosterSlot";
 import {
@@ -13,7 +14,7 @@ import {
   ordinalSuffix,
   siblingCeremonies,
 } from "@/data/ceremonies";
-import { useOverlay } from "@/hooks/useOverlay";
+import { nestedOverlayOpen, useOverlay } from "@/hooks/useOverlay";
 import {
   PORTRAIT_SIZE,
   bestPictureMovie,
@@ -193,6 +194,21 @@ function Chevron({ direction }: { direction: "previous" | "next" }) {
   );
 }
 
+function CloseIcon() {
+  return (
+    <svg
+      aria-hidden="true"
+      viewBox="0 0 24 24"
+      className="h-4 w-4"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.5"
+    >
+      <path d="M6 6l12 12M18 6L6 18" />
+    </svg>
+  );
+}
+
 function AmbiguousYearNotice({ slug }: { slug: string }) {
   const siblings = siblingCeremonies(slug);
   if (siblings.length === 0) return null;
@@ -249,6 +265,19 @@ function EditionArrow({
   );
 }
 
+function CloseButton({ onClose }: { onClose: () => void }) {
+  return (
+    <button
+      type="button"
+      aria-label="Close"
+      onClick={onClose}
+      className="absolute right-14 top-4 z-50 flex h-10 w-10 items-center justify-center rounded-pill border border-gold bg-ink/55 text-gold backdrop-blur-sm hover:text-gold-light md:right-3"
+    >
+      <CloseIcon />
+    </button>
+  );
+}
+
 /**
  * Persistent overlay chrome. Lives in the [slug] layout so prev/next
  * navigation does not remount the dialog or drop the focus trap.
@@ -299,6 +328,7 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
     if (!open) return;
 
     function onKeyDown(event: KeyboardEvent) {
+      if (nestedOverlayOpen()) return;
       if (event.metaKey || event.ctrlKey || event.altKey) return;
       if (event.key === "ArrowLeft") {
         event.preventDefault();
@@ -332,6 +362,7 @@ export function CeremonyChrome({ slug, children }: CeremonyChromeProps) {
           slug={previous?.slug}
           onNavigate={goTo}
         />
+        <CloseButton onClose={onClose} />
         <DecoFrame
           data-overlay-panel
           radius="panel"
@@ -403,10 +434,11 @@ export function CeremonyDetail({ detail }: { detail: CeremonyDetailData }) {
           >
             <h2
               id={`group-label-${group.id}`}
-              className="mb-2 font-display text-xs tracking-[0.3em] text-gold uppercase"
+              className="font-display text-xs tracking-[0.3em] text-gold uppercase"
             >
               {group.label}
             </h2>
+            <RayDivider size="sm" className="mb-4 mt-2 max-w-[11rem]" />
             <div
               data-category-flow
               className="grid gap-y-4 lg:grid-cols-2 lg:gap-x-10"

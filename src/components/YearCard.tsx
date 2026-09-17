@@ -99,16 +99,19 @@ export function YearCard({ entry }: YearCardProps) {
               ))}
             </ul>
           ) : (
-            <div className="mt-3 min-h-[4.75rem]">
-              {!rotation.hovering ? (
-                <p className="font-sans text-xs tracking-wide text-muted">
-                  {entry.subtitle}
-                </p>
-              ) : null}
+            <div className="relative mt-3 min-h-[4.75rem] overflow-hidden">
+              <p
+                className={`font-sans text-xs tracking-wide text-muted ${
+                  rotation.hovering ? "invisible" : ""
+                }`}
+              >
+                {entry.subtitle}
+              </p>
               <AnimatePresence mode="wait">
                 {rotation.current ? (
                   <motion.div
                     key={rotation.current.category}
+                    className="absolute inset-0"
                     initial={{ opacity: 0, y: 8 }}
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, y: -8 }}
