@@ -202,6 +202,42 @@ describe("YearCard hover rotation", () => {
     expect(screen.getByText("Frank Borzage")).toBeInTheDocument();
     expect(screen.queryByText("Wings")).not.toBeInTheDocument();
   });
+
+  it("leaves no live timers after hovering many cards in sequence with the curtain mounted", () => {
+    vi.useFakeTimers();
+    const slugs = [
+      "2026",
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+    ];
+    render(
+      <>
+        {slugs.map((slug) => (
+          <YearCard key={slug} entry={entry({ slug, label: slug })} />
+        ))}
+      </>,
+    );
+    const links = screen.getAllByRole("link");
+    expect(links).toHaveLength(slugs.length);
+    expect(document.querySelectorAll("[data-hover-flash]")).toHaveLength(0);
+
+    for (const link of links) {
+      fireEvent.mouseEnter(link);
+      expect(vi.getTimerCount()).toBe(1);
+      expect(document.querySelectorAll("[data-hover-flash]").length).toBeGreaterThan(
+        0,
+      );
+      fireEvent.mouseLeave(link);
+      expect(vi.getTimerCount()).toBe(0);
+      expect(document.querySelectorAll("[data-hover-flash]")).toHaveLength(0);
+    }
+    expect(vi.getTimerCount()).toBe(0);
+  });
 });
 
 type MockObserver = {

@@ -75,3 +75,21 @@ test("Lighthouse mobile budget: performance ≥95, accessibility 100, SEO ≥95"
     }
   }
 });
+
+test("CLS on the overlay is ≤ 0.02 with relief and images active", async ({
+  page,
+}) => {
+  await page.goto("/2026", { waitUntil: "networkidle" });
+  await expect(page.getByRole("dialog")).toBeVisible();
+  await expect(page.locator("[data-portrait]").first()).toBeVisible();
+  const cls = await page.evaluate(() =>
+    performance.getEntriesByType("layout-shift").reduce((sum, entry) => {
+      const shift = entry as PerformanceEntry & {
+        value: number;
+        hadRecentInput: boolean;
+      };
+      return shift.hadRecentInput ? sum : sum + shift.value;
+    }, 0),
+  );
+  expect(cls, `overlay CLS ${cls}`).toBeLessThanOrEqual(0.02);
+});

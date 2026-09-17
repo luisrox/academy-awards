@@ -100,22 +100,76 @@ function categoryCount(records: NominationRecord[]): number {
   return new Set(records.map((record) => record.categoryId)).size;
 }
 
-function formatDiff(
+function formatEntry(record: NominationRecord): string {
+  const names = record.names.join(", ") || "(unnamed)";
+  const films = record.movies
+    .map((movie) => movie.title)
+    .filter(Boolean)
+    .join(", ");
+  return films ? `${names} (${films})` : names;
+}
+
+function winnersByCategory(records: NominationRecord[]): Map<string, string> {
+  const grouped = new Map<string, string[]>();
+  for (const record of records) {
+    if (!record.won) continue;
+    const lines = grouped.get(record.categoryId) ?? [];
+    lines.push(formatEntry(record));
+    grouped.set(record.categoryId, lines);
+  }
+  return new Map(
+    [...grouped].map(([id, lines]) => [id, lines.join(" / ")]),
+  );
+}
+
+/**
+ * Human-readable scrape diff for the overwrite guard (spec.md 10.2).
+ * Categories and winners first — those are what a reviewer needs to approve.
+ */
+export function formatOfficialDiff(
+  dest: string,
   previous: NominationRecord[] | undefined,
   next: NominationRecord[],
 ): string {
-  const nextCount = categoryCount(next);
+  const incoming = `${next.length} nominations across ${categoryCount(next)} categories`;
   if (!previous) {
-    return `Existing file is not valid JSON. Incoming records: ${nextCount} categories.`;
+    return [
+      `Existing ${dest} is not valid JSON.`,
+      `Incoming: ${incoming}.`,
+      "Pass --yes to overwrite.",
+    ].join("\n");
   }
-  const prevCount = categoryCount(previous);
+
   const prevIds = new Set(previous.map((record) => record.categoryId));
   const nextIds = new Set(next.map((record) => record.categoryId));
-  const added = [...nextIds].filter((id) => !prevIds.has(id));
-  const removed = [...prevIds].filter((id) => !nextIds.has(id));
-  const lines = [`Categories: ${prevCount} → ${nextCount}`];
+  const added = [...nextIds].filter((id) => !prevIds.has(id)).sort();
+  const removed = [...prevIds].filter((id) => !nextIds.has(id)).sort();
+  const prevWinners = winnersByCategory(previous);
+  const nextWinners = winnersByCategory(next);
+  const winnerIds = new Set([...prevWinners.keys(), ...nextWinners.keys()]);
+  const winnerChanges = [...winnerIds]
+    .sort()
+    .flatMap((id) => {
+      const from = prevWinners.get(id) ?? "(none)";
+      const to = nextWinners.get(id) ?? "(none)";
+      if (from === to) return [];
+      return [`  ${id}: ${from} → ${to}`];
+    });
+
+  const lines = [
+    `Existing ${dest}`,
+    `Nominations: ${previous.length} → ${next.length}`,
+    `Categories: ${categoryCount(previous)} → ${categoryCount(next)}`,
+  ];
   if (added.length > 0) lines.push(`Added: ${added.join(", ")}`);
   if (removed.length > 0) lines.push(`Removed: ${removed.join(", ")}`);
+  if (winnerChanges.length > 0) {
+    lines.push("Winner changes:");
+    lines.push(...winnerChanges);
+  } else {
+    lines.push("Winner changes: none");
+  }
+  lines.push("Pass --yes to overwrite.");
   return lines.join("\n");
 }
 
@@ -153,12 +207,14 @@ export async function syncOscars(
     );
   }
 
-  if (existsSync(dest) && !options.confirmOverwrite) {
+  if (existsSync(dest)) {
     const existingText = await readFile(dest, "utf8");
-    log(formatDiff(readExistingRecords(existingText), records));
-    throw new Error(
-      `Refusing to overwrite ${dest} without confirmation; pass --yes to overwrite`,
-    );
+    log(formatOfficialDiff(dest, readExistingRecords(existingText), records));
+    if (!options.confirmOverwrite) {
+      throw new Error(
+        `Refusing to overwrite ${dest} without confirmation; pass --yes to overwrite`,
+      );
+    }
   }
 
   await writeJson(dest, records);

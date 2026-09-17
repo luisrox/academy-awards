@@ -79,11 +79,13 @@ export function YearCard({ entry }: YearCardProps) {
       onMouseLeave={rotation.onMouseLeave}
     >
       <DecoFrame className="flex min-h-[11.5rem] flex-col justify-center px-5 py-6 group-hover:shadow-lifted group-focus-visible:shadow-lifted">
-        <HoverBackdrop
-          slug={entry.slug}
-          reducedMotion={rotation.reducedMotion}
-          posterPath={entry.posterPath}
-        />
+        {rotation.hovering ? (
+          <HoverBackdrop
+            slug={entry.slug}
+            reducedMotion={rotation.reducedMotion}
+            posterPath={entry.posterPath}
+          />
+        ) : null}
         <div className="relative z-[1]">
           <p className="font-display text-4xl font-semibold tracking-tight text-gold sm:text-5xl">
             {entry.label}

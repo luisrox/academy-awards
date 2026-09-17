@@ -38,7 +38,12 @@ test.describe("spec.md 11.5 journeys", () => {
 
   test("E4: Escape closes the overlay and returns to /", async ({ page }) => {
     await page.goto("/2026");
-    await expect(overlay(page)).toBeVisible();
+    const dialog = overlay(page);
+    await expect(dialog).toBeVisible();
+    await expect(
+      page.getByRole("heading", { level: 1, name: "2026" }),
+    ).toBeVisible();
+    await dialog.focus();
     await page.keyboard.press("Escape");
     await expect(page).toHaveURL(/\/$/);
     await expect(overlay(page)).toHaveCount(0);

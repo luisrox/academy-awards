@@ -79,19 +79,20 @@ describe("useHeadlineRotation", () => {
 
   it("leaves no live timers after hovering several cards in sequence", () => {
     vi.useFakeTimers();
-    const first = renderHook(() => useHeadlineRotation(WINNERS));
-    const second = renderHook(() => useHeadlineRotation(WINNERS));
+    const hooks = Array.from({ length: 8 }, () =>
+      renderHook(() => useHeadlineRotation(WINNERS)),
+    );
 
-    act(() => {
-      first.result.current.onMouseEnter();
-    });
-    act(() => {
-      first.result.current.onMouseLeave();
-      second.result.current.onMouseEnter();
-    });
-    act(() => {
-      second.result.current.onMouseLeave();
-    });
+    for (const hook of hooks) {
+      act(() => {
+        hook.result.current.onMouseEnter();
+      });
+      expect(vi.getTimerCount()).toBe(1);
+      act(() => {
+        hook.result.current.onMouseLeave();
+      });
+      expect(vi.getTimerCount()).toBe(0);
+    }
 
     expect(vi.getTimerCount()).toBe(0);
   });

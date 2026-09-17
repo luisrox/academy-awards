@@ -2,7 +2,8 @@ import { mkdir, mkdtemp, readFile, rm, writeFile } from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
-import { syncOscars } from "./sync-oscars";
+import { formatOfficialDiff, syncOscars } from "./sync-oscars";
+import type { NominationRecord } from "./lib/load-historical";
 
 function officialHtml(
   categories: { title: string; person: string; film: string }[],
@@ -123,5 +124,83 @@ describe("syncOscars", () => {
 
     await expect(run(fetchImpl)).rejects.toThrow(/overwrite/i);
     expect(await readFile(dest, "utf8")).toBe("UNTOUCHED\n");
+  });
+
+  it("prints a readable category and winner diff before refusing to overwrite", async () => {
+    const dest = path.join(rawDir, "official-98.json");
+    await mkdir(rawDir, { recursive: true });
+    await writeFile(
+      dest,
+      `${JSON.stringify([
+        {
+          ordinal: 98,
+          categoryId: "best-picture",
+          categoryLabel: "Best Picture",
+          names: ["Old Picture"],
+          movies: [{ title: "Old Picture" }],
+          won: true,
+        },
+      ])}\n`,
+      "utf8",
+    );
+    const lines: string[] = [];
+    const fetchImpl = vi.fn<typeof fetch>().mockResolvedValue(htmlResponse(200));
+
+    await expect(run(fetchImpl, { log: (line) => lines.push(line) })).rejects.toThrow(
+      /overwrite/i,
+    );
+    const diff = lines.join("\n");
+    expect(diff).toMatch(/Nominations:/);
+    expect(diff).toMatch(/Categories:/);
+    expect(diff).toMatch(/Winner changes:/);
+    expect(diff).toMatch(/best-picture: Old Picture \(Old Picture\) →/);
+    expect(diff).toMatch(/--yes/);
+    expect(await readFile(dest, "utf8")).toMatch(/Old Picture/);
+  });
+
+  it("overwrites an existing file when confirmation is passed", async () => {
+    const dest = path.join(rawDir, "official-98.json");
+    await mkdir(rawDir, { recursive: true });
+    await writeFile(dest, "UNTOUCHED\n", "utf8");
+    const fetchImpl = vi.fn<typeof fetch>().mockResolvedValue(htmlResponse(200));
+
+    const result = await run(fetchImpl, { confirmOverwrite: true });
+    expect(result.written).toBe(true);
+    const raw = JSON.parse(await readFile(dest, "utf8")) as unknown[];
+    expect(raw.length).toBeGreaterThan(0);
+  });
+});
+
+describe("formatOfficialDiff", () => {
+  const picture = (title: string, won = true): NominationRecord => ({
+    ordinal: 98,
+    categoryId: "best-picture",
+    categoryLabel: "Best Picture",
+    names: [title],
+    movies: [{ title }],
+    won,
+  });
+
+  it("lists added categories and winner changes", () => {
+    const diff = formatOfficialDiff(
+      "data/raw/official-98.json",
+      [picture("Old Picture")],
+      [
+        picture("New Picture"),
+        {
+          ordinal: 98,
+          categoryId: "best-casting",
+          categoryLabel: "Best Casting",
+          names: ["A Caster"],
+          movies: [{ title: "New Picture" }],
+          won: true,
+        },
+      ],
+    );
+    expect(diff).toMatch(/Nominations: 1 → 2/);
+    expect(diff).toMatch(/Added: best-casting/);
+    expect(diff).toMatch(
+      /best-picture: Old Picture \(Old Picture\) → New Picture \(New Picture\)/,
+    );
   });
 });

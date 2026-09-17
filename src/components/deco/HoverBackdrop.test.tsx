@@ -12,7 +12,10 @@ vi.mock("next/image", () => ({
   },
 }));
 
-afterEach(cleanup);
+afterEach(() => {
+  cleanup();
+  vi.useRealTimers();
+});
 
 describe("HoverBackdrop", () => {
   it("renders one flash per deterministic spark and a poster slot", () => {
@@ -47,5 +50,12 @@ describe("HoverBackdrop", () => {
     );
     expect(container.querySelectorAll("[data-hover-flash]")).toHaveLength(0);
     expect(container.querySelector(".hover-backdrop-vignette")).toBeNull();
+  });
+
+  it("does not mount JavaScript timers", () => {
+    vi.useFakeTimers();
+    render(<HoverBackdrop slug="2026" posterPath="/images/posters/1.webp" />);
+    expect(vi.getTimerCount()).toBe(0);
+    vi.useRealTimers();
   });
 });
