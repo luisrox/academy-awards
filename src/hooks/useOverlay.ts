@@ -9,6 +9,8 @@ const FOCUSABLE_SELECTOR = [
   "[tabindex]:not([tabindex='-1'])",
 ].join(",");
 
+const overlayStack: symbol[] = [];
+
 export type OverlayReturnFocus =
   | string
   | HTMLElement
@@ -19,6 +21,7 @@ export type UseOverlayOptions = {
   isOpen: boolean;
   onClose: () => void;
   returnFocus?: OverlayReturnFocus;
+  initialFocus?: OverlayReturnFocus;
 };
 
 export type UseOverlayResult = {
@@ -42,26 +45,33 @@ function resolveReturnFocus(
 }
 
 /**
- * Accessible overlay behavior shared by the ceremony detail view and,
- * later, the search palette: Esc, click-outside, focus trap, scroll lock,
- * and restoring focus to the opener.
+ * Accessible overlay behavior shared by the ceremony detail view and the
+ * search palette: Esc, click-outside, focus trap, scroll lock, restoring
+ * focus to the opener, and stacking so a nested overlay (search over a
+ * ceremony) is the only one that handles Esc and click-outside.
  */
 export function useOverlay({
   isOpen,
   onClose,
   returnFocus,
+  initialFocus,
 }: UseOverlayOptions): UseOverlayResult {
   const overlayRef = useRef<HTMLDivElement | null>(null);
   const contentRef = useRef<HTMLDivElement | null>(null);
   const onCloseRef = useRef(onClose);
   const returnFocusRef = useRef(returnFocus);
+  const initialFocusRef = useRef(initialFocus);
   const fallbackFocusRef = useRef<HTMLElement | null>(null);
 
   onCloseRef.current = onClose;
   returnFocusRef.current = returnFocus;
+  initialFocusRef.current = initialFocus;
 
   useEffect(() => {
     if (!isOpen) return;
+
+    const token = Symbol("overlay");
+    overlayStack.push(token);
 
     const active = document.activeElement;
     fallbackFocusRef.current =
@@ -69,15 +79,23 @@ export function useOverlay({
 
     const overlay = overlayRef.current;
     overlay?.focus();
+    const initial = resolveReturnFocus(initialFocusRef.current);
+    if (initial) initial.focus();
 
     const previousBodyOverflow = document.body.style.overflow;
     const previousHtmlOverflow = document.documentElement.style.overflow;
     document.body.style.overflow = "hidden";
     document.documentElement.style.overflow = "hidden";
 
+    function isTopmost() {
+      return overlayStack[overlayStack.length - 1] === token;
+    }
+
     function onKeyDown(event: KeyboardEvent) {
+      if (!isTopmost()) return;
       if (event.key === "Escape") {
         event.preventDefault();
+        event.stopImmediatePropagation();
         onCloseRef.current();
         return;
       }
@@ -111,6 +129,7 @@ export function useOverlay({
     }
 
     function onMouseDown(event: MouseEvent) {
+      if (!isTopmost()) return;
       const content = contentRef.current;
       if (!content) return;
       if (event.target instanceof Node && !content.contains(event.target)) {
@@ -124,6 +143,8 @@ export function useOverlay({
     return () => {
       document.removeEventListener("keydown", onKeyDown);
       document.removeEventListener("mousedown", onMouseDown);
+      const idx = overlayStack.lastIndexOf(token);
+      if (idx >= 0) overlayStack.splice(idx, 1);
       document.body.style.overflow = previousBodyOverflow;
       document.documentElement.style.overflow = previousHtmlOverflow;
 

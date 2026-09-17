@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SearchPalette } from "./SearchPalette";
 
 export function SiteHeader() {
   return (
@@ -8,8 +9,9 @@ export function SiteHeader() {
           Oscars Winners
         </Link>
       </h1>
-      {/* Search lands here in step 27. Empty on purpose until then. */}
-      <div data-slot="search" className="h-9 w-9" />
+      <div data-slot="search">
+        <SearchPalette />
+      </div>
     </header>
   );
 }

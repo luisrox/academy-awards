@@ -6,8 +6,10 @@ import {
   ceremonyDetailSchema,
   gridEntrySchema,
   parseData,
+  searchDocSchema,
   type CeremonyDetail,
   type GridEntry,
+  type SearchDoc,
 } from "@/lib/schemas";
 
 /**
@@ -51,5 +53,13 @@ export function getCeremonyDetail(slug: string): CeremonyDetail | null {
     ceremonyDetailSchema,
     JSON.parse(readFileSync(file, "utf8")) as unknown,
     `ceremonies/${slug}.json`,
+  );
+}
+
+export function getSearchIndex(): SearchDoc[] {
+  return parseData(
+    z.array(searchDocSchema),
+    readJson("search.json"),
+    "search.json",
   );
 }

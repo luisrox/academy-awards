@@ -90,8 +90,19 @@ test.describe("spec.md 11.5 journeys", () => {
     await expect(ceremonyCard(page, "1929")).toBeVisible();
   });
 
-  test.skip("E9: searching Parasite goes to the right edition", async () => {
-    // Search lands in paso 27; this scenario stays skipped until then.
+  test("E9: searching Parasite goes to the right edition", async ({ page }) => {
+    await page.goto("/");
+    await page.keyboard.press("/");
+    const search = page.getByRole("combobox", { name: /search/i });
+    await expect(search).toBeFocused();
+    await search.fill("Parasite");
+    await expect(page.getByRole("option", { name: /Parasite/i })).toBeVisible({
+      timeout: 15_000,
+    });
+    await page.keyboard.press("Enter");
+    await expect(page).toHaveURL(/\/2020$/);
+    await expect(page.getByRole("heading", { level: 1, name: "2020" })).toBeVisible();
+    await expect(overlay(page)).toBeVisible();
   });
 
   test("E11: grid and overlay are usable with the keyboard only", async ({

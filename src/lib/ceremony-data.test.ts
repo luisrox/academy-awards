@@ -1,10 +1,11 @@
 import { describe, expect, it } from "vitest";
 import { CEREMONIES } from "@/data/ceremonies";
-import { ceremonyDetailSchema, gridEntrySchema } from "@/lib/schemas";
+import { ceremonyDetailSchema, gridEntrySchema, searchDocSchema } from "@/lib/schemas";
 import {
   getAllSlugs,
   getCeremonyDetail,
   getGridEntries,
+  getSearchIndex,
 } from "./ceremony-data";
 
 describe("ceremony-data", () => {
@@ -31,5 +32,17 @@ describe("ceremony-data", () => {
     const entries = getGridEntries();
     expect(entries).toHaveLength(98);
     expect(gridEntrySchema.safeParse(entries[0]).success).toBe(true);
+  });
+
+  it("getSearchIndex returns Zod-valid documents pointing at real slugs", () => {
+    const index = getSearchIndex();
+    const slugs = new Set(getAllSlugs());
+    expect(index.length).toBeGreaterThan(10_000);
+    expect(searchDocSchema.safeParse(index[0]).success).toBe(true);
+    const parasite = index.find(
+      (doc) => doc.kind === "film" && doc.title === "Parasite" && doc.won,
+    );
+    expect(parasite?.slug).toBe("2020");
+    expect(index.every((doc) => slugs.has(doc.slug))).toBe(true);
   });
 });

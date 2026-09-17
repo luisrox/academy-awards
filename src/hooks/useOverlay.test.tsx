@@ -14,9 +14,11 @@ afterEach(() => {
 function OverlayHarness({
   onClose,
   returnFocus,
+  initialFocus,
 }: {
   onClose?: () => void;
   returnFocus?: string | HTMLElement | (() => HTMLElement | null);
+  initialFocus?: string | HTMLElement | (() => HTMLElement | null);
 }) {
   const [open, setOpen] = useState(true);
   const close = () => {
@@ -27,6 +29,7 @@ function OverlayHarness({
     isOpen: open,
     onClose: close,
     returnFocus,
+    initialFocus,
   });
 
   return (
@@ -138,6 +141,84 @@ describe("useOverlay", () => {
     fireEvent.mouseDown(screen.getByTestId("overlay"));
 
     expect(onClose).toHaveBeenCalledTimes(1);
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+  });
+
+  it("moves initial focus to the requested control", () => {
+    function FocusHarness() {
+      const [open, setOpen] = useState(true);
+      const { overlayRef, contentRef } = useOverlay({
+        isOpen: open,
+        onClose: () => setOpen(false),
+        initialFocus: "#search-field",
+      });
+      return open ? (
+        <div ref={overlayRef} role="dialog" tabIndex={-1} data-testid="overlay">
+          <div ref={contentRef}>
+            <input id="search-field" aria-label="Find" />
+          </div>
+        </div>
+      ) : null;
+    }
+
+    render(<FocusHarness />);
+    expect(screen.getByRole("textbox", { name: "Find" })).toHaveFocus();
+  });
+
+  it("lets only the topmost overlay handle Escape and click-outside", () => {
+    function NestedHarness() {
+      const [outerOpen, setOuterOpen] = useState(true);
+      const [innerOpen, setInnerOpen] = useState(true);
+      const outer = useOverlay({
+        isOpen: outerOpen,
+        onClose: () => setOuterOpen(false),
+      });
+      const inner = useOverlay({
+        isOpen: innerOpen,
+        onClose: () => setInnerOpen(false),
+      });
+      return (
+        <div>
+          {outerOpen ? (
+            <div
+              ref={outer.overlayRef}
+              role="dialog"
+              aria-label="Outer"
+              tabIndex={-1}
+              data-testid="outer-overlay"
+            >
+              <div ref={outer.contentRef} data-testid="outer-content">
+                Outer
+              </div>
+            </div>
+          ) : null}
+          {innerOpen ? (
+            <div
+              ref={inner.overlayRef}
+              role="dialog"
+              aria-label="Inner"
+              tabIndex={-1}
+              data-testid="inner-overlay"
+            >
+              <div ref={inner.contentRef} data-testid="inner-content">
+                Inner
+              </div>
+            </div>
+          ) : null}
+        </div>
+      );
+    }
+
+    render(<NestedHarness />);
+    act(() => {
+      fireEvent.keyDown(document, { key: "Escape" });
+    });
+    expect(screen.queryByRole("dialog", { name: "Inner" })).not.toBeInTheDocument();
+    expect(screen.getByRole("dialog", { name: "Outer" })).toBeInTheDocument();
+
+    act(() => {
+      fireEvent.keyDown(document, { key: "Escape" });
+    });
     expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
   });
 });

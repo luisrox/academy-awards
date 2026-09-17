@@ -1,4 +1,4 @@
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { getAllSlugs } from "@/lib/ceremony-data";
@@ -27,6 +27,39 @@ export function checkPrerenderManifest(
   }
 }
 
+const SEARCH_INDEX_MARKER = '"kind":"film"';
+const SEARCH_INDEX_LEAK_THRESHOLD = 20;
+
+/** True when a client chunk looks like it inlined data/search.json. */
+export function clientChunksContainSearchIndex(contents: string[]): boolean {
+  return contents.some((content) => {
+    let count = 0;
+    let from = 0;
+    while ((from = content.indexOf(SEARCH_INDEX_MARKER, from)) !== -1) {
+      count += 1;
+      if (count >= SEARCH_INDEX_LEAK_THRESHOLD) return true;
+      from += SEARCH_INDEX_MARKER.length;
+    }
+    return false;
+  });
+}
+
+export function clientChunkFiles(staticDir: string): string[] {
+  if (!existsSync(staticDir)) return [];
+  return readdirSync(staticDir, { recursive: true, encoding: "utf8" })
+    .filter((name) => name.endsWith(".js"))
+    .map((name) => path.join(staticDir, name));
+}
+
+function assertSearchIndexStayedOutOfClientBundle(): void {
+  const staticDir = path.join(process.cwd(), ".next", "static");
+  const files = clientChunkFiles(staticDir);
+  const contents = files.map((file) => readFileSync(file, "utf8"));
+  if (clientChunksContainSearchIndex(contents)) {
+    throw new Error("search.json leaked into the client JavaScript bundle");
+  }
+}
+
 function runCli(): void {
   const manifestPath =
     process.argv[2] ?? path.join(process.cwd(), ".next", "prerender-manifest.json");
@@ -37,6 +70,7 @@ function runCli(): void {
     readFileSync(manifestPath, "utf8"),
   ) as PrerenderManifest;
   checkPrerenderManifest(manifest, getAllSlugs());
+  assertSearchIndexStayedOutOfClientBundle();
   console.log(`Prerendered ${getAllSlugs().length} ceremony routes`);
 }
 
