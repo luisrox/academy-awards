@@ -24,7 +24,8 @@
                 {
                   "title": "Cimarron",
                   "tmdbId": 42861,
-                  "imdbId": "tt0021746"
+                  "imdbId": "tt0021746",
+                  "posterPath": "/images/posters/42861.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 84295,
                   "imdbId": "tt0022397"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/82800.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 50600,
                   "imdbId": "tt0021885"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/17753.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 85505,
                   "imdbId": "tt0021148"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/89610.webp"
             }
           ],
           "nominees": [

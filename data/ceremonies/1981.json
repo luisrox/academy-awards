@@ -24,7 +24,8 @@
                 {
                   "title": "Ordinary People",
                   "tmdbId": 16619,
-                  "imdbId": "tt0081283"
+                  "imdbId": "tt0081283",
+                  "posterPath": "/images/posters/16619.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 16619,
                   "imdbId": "tt0081283"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4135.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 1578,
                   "imdbId": "tt0081398"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/380.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 16769,
                   "imdbId": "tt0080549"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/5606.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 16619,
                   "imdbId": "tt0081283"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/16327.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 38772,
                   "imdbId": "tt0081150"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2453.webp"
             }
           ],
           "nominees": [

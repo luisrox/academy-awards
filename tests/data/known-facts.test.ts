@@ -1,6 +1,8 @@
 import { describe, expect, it } from "vitest";
 import { ceremonyByFilmYear } from "@/data/ceremonies";
 import { normalizeSearchText } from "@/lib/search";
+import { DATA_DIR } from "../../scripts/lib/cache";
+import { loadFilms } from "../../scripts/lib/films";
 import {
   categoryById,
   loadDetail,
@@ -74,23 +76,27 @@ describe("known facts", () => {
     expect(categoryById(detail, "best-costume-design-bw")).toBeUndefined();
   });
 
-  it("97th ceremony (2025) exists and comes from the official source", () => {
-    const detail = loadDetail("2025");
-    expect(detail.ceremony.ordinal).toBe(97);
-    const winner = categoryById(detail, "best-picture")?.winners[0];
-    expect(winner?.movies[0]?.title).toBeTruthy();
-    expect(winner?.movies[0]?.tmdbId).toBeUndefined();
-    expect(winner?.movies[0]?.imdbId).toBeUndefined();
-  });
-
-  it("98th ceremony (2026) exists and comes from the official source, not the historical feed", () => {
-    const detail = loadDetail("2026");
-    expect(detail.ceremony.ordinal).toBe(98);
-    const winner = categoryById(detail, "best-picture")?.winners[0];
-    expect(winner?.movies[0]?.title).toBeTruthy();
-    expect(winner?.movies[0]?.tmdbId).toBeUndefined();
-    expect(winner?.movies[0]?.imdbId).toBeUndefined();
-  });
+  /**
+   * The Academy HTML carries no ids at all, so imdbId stays absent for these
+   * editions and any tmdbId has to trace back to a committed films.json row.
+   */
+  it.each([
+    { slug: "2025", ordinal: 97, filmYear: 2024 },
+    { slug: "2026", ordinal: 98, filmYear: 2025 },
+  ])(
+    "$ordinal ceremony ($slug) comes from the official source, with its film id resolved through films.json",
+    ({ slug, ordinal, filmYear }) => {
+      const detail = loadDetail(slug);
+      expect(detail.ceremony.ordinal).toBe(ordinal);
+      const movie = categoryById(detail, "best-picture")?.winners[0]?.movies[0];
+      expect(movie?.title).toBeTruthy();
+      expect(movie?.imdbId).toBeUndefined();
+      const resolved = loadFilms(DATA_DIR).find(
+        (film) => film.title === movie?.title && film.filmYear === filmYear,
+      );
+      expect(movie?.tmdbId).toBe(resolved?.tmdbId);
+    },
+  );
 
   it("98th ceremony includes best-casting, which the historical feed does not have", () => {
     expect(categoryById(loadDetail("2026"), "best-casting")).toBeDefined();

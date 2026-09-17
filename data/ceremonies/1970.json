@@ -24,7 +24,8 @@
                 {
                   "title": "Midnight Cowboy",
                   "tmdbId": 3116,
-                  "imdbId": "tt0064665"
+                  "imdbId": "tt0064665",
+                  "posterPath": "/images/posters/3116.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 3116,
                   "imdbId": "tt0064665"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/19304.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 17529,
                   "imdbId": "tt0065126"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4165.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 5179,
                   "imdbId": "tt0064840"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10978.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 28145,
                   "imdbId": "tt0065088"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/70985.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 28289,
                   "imdbId": "tt0064117"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18892.webp"
             }
           ],
           "nominees": [

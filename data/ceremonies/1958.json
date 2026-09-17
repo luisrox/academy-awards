@@ -24,7 +24,8 @@
                 {
                   "title": "The Bridge on the River Kwai",
                   "tmdbId": 826,
-                  "imdbId": "tt0050212"
+                  "imdbId": "tt0050212",
+                  "posterPath": "/images/posters/826.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 826,
                   "imdbId": "tt0050212"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/12238.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 826,
                   "imdbId": "tt0050212"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/12248.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 28285,
                   "imdbId": "tt0051077"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/109410.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 40885,
                   "imdbId": "tt0050933"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/7503.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 40885,
                   "imdbId": "tt0050933"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/124933.webp"
             }
           ],
           "nominees": [

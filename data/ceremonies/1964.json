@@ -24,7 +24,8 @@
                 {
                   "title": "Tom Jones",
                   "tmdbId": 5769,
-                  "imdbId": "tt0057590"
+                  "imdbId": "tt0057590",
+                  "posterPath": "/images/posters/5769.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 5769,
                   "imdbId": "tt0057590"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/32765.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 38805,
                   "imdbId": "tt0057251"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/16897.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 24748,
                   "imdbId": "tt0057163"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1934.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 24748,
                   "imdbId": "tt0057163"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/19550.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 37222,
                   "imdbId": "tt0057634"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11127.webp"
             }
           ],
           "nominees": [

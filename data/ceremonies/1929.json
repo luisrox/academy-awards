@@ -24,7 +24,8 @@
                 {
                   "title": "Wings",
                   "tmdbId": 28966,
-                  "imdbId": "tt0018578"
+                  "imdbId": "tt0018578",
+                  "posterPath": "/images/posters/28966.webp"
                 }
               ]
             }
@@ -70,7 +71,8 @@
                   "tmdbId": 82474,
                   "imdbId": "tt0018379"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/14855.webp"
             },
             {
               "names": [
@@ -82,7 +84,8 @@
                   "tmdbId": 102384,
                   "imdbId": "tt0018515"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2000.webp"
             }
           ],
           "nominees": [
@@ -149,7 +152,8 @@
                   "tmdbId": 85499,
                   "imdbId": "tt0019553"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2895.webp"
             }
           ],
           "nominees": [
@@ -196,7 +200,8 @@
                   "tmdbId": 631,
                   "imdbId": "tt0018455"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/9088.webp"
             }
           ],
           "nominees": [

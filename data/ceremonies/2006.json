@@ -24,7 +24,8 @@
                 {
                   "title": "Crash",
                   "tmdbId": 1640,
-                  "imdbId": "tt0375679"
+                  "imdbId": "tt0375679",
+                  "posterPath": "/images/posters/1640.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 142,
                   "imdbId": "tt0388795"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1614.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 398,
                   "imdbId": "tt0379725"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1233.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 69,
                   "imdbId": "tt0358273"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/368.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 231,
                   "imdbId": "tt0365737"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1461.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 1985,
                   "imdbId": "tt0387131"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3293.webp"
             }
           ],
           "nominees": [

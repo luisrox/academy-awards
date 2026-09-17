@@ -12,6 +12,7 @@ import {
 import { buildCeremonyDetails, buildGridEntries } from "./lib/build-details";
 import { buildSearchIndex } from "./lib/build-search";
 import { DATA_DIR, fetchCached, writeJson } from "./lib/cache";
+import { attachFilmIds, loadFilms } from "./lib/films";
 import { HISTORICAL_URL, loadHistoricalRecords } from "./lib/load-historical";
 import {
   loadOfficialRecords,
@@ -36,6 +37,7 @@ export async function normalizeData(): Promise<void> {
   const official = await loadOfficialRecords();
   const records = mergeNominationSources(historical, official);
   const details = buildCeremonyDetails(records);
+  attachFilmIds(details, loadFilms());
   attachBestPicturePosters(details, (relative) =>
     existsSync(path.join(IMAGES_DIR, relative)),
   );

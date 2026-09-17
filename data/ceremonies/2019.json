@@ -24,7 +24,8 @@
                 {
                   "title": "Green Book",
                   "tmdbId": 490132,
-                  "imdbId": "tt6966692"
+                  "imdbId": "tt6966692",
+                  "posterPath": "/images/posters/490132.webp"
                 }
               ]
             }
@@ -130,7 +131,8 @@
                   "tmdbId": 426426,
                   "imdbId": "tt6155172"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11218.webp"
             }
           ],
           "nominees": [
@@ -204,7 +206,8 @@
                   "tmdbId": 424694,
                   "imdbId": "tt1727824"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/17838.webp"
             }
           ],
           "nominees": [
@@ -272,7 +275,8 @@
                   "tmdbId": 375262,
                   "imdbId": "tt5083738"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/39187.webp"
             }
           ],
           "nominees": [
@@ -340,7 +344,8 @@
                   "tmdbId": 490132,
                   "imdbId": "tt6966692"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/932967.webp"
             }
           ],
           "nominees": [
@@ -408,7 +413,8 @@
                   "tmdbId": 465914,
                   "imdbId": "tt7125860"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/9788.webp"
             }
           ],
           "nominees": [

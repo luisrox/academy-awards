@@ -24,7 +24,8 @@
                 {
                   "title": "Mutiny on the Bounty",
                   "tmdbId": 12311,
-                  "imdbId": "tt0026752"
+                  "imdbId": "tt0026752",
+                  "posterPath": "/images/posters/12311.webp"
                 }
               ]
             }
@@ -178,7 +179,8 @@
                   "tmdbId": 43896,
                   "imdbId": "tt0026529"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8500.webp"
             }
           ],
           "nominees": [
@@ -240,7 +242,8 @@
                   "tmdbId": 43896,
                   "imdbId": "tt0026529"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/30495.webp"
             }
           ],
           "nominees": [
@@ -308,7 +311,8 @@
                   "tmdbId": 52863,
                   "imdbId": "tt0026261"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3380.webp"
             }
           ],
           "nominees": [

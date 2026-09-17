@@ -24,7 +24,8 @@
                 {
                   "title": "Everything Everywhere All at Once",
                   "tmdbId": 545611,
-                  "imdbId": "tt6710474"
+                  "imdbId": "tt6710474",
+                  "posterPath": "/images/posters/545611.webp"
                 }
               ]
             }
@@ -155,7 +156,8 @@
                   "tmdbId": 545611,
                   "imdbId": "tt6710474"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1383612.webp"
             }
           ],
           "nominees": [
@@ -229,7 +231,8 @@
                   "tmdbId": 785084,
                   "imdbId": "tt13833688"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18269.webp"
             }
           ],
           "nominees": [
@@ -297,7 +300,8 @@
                   "tmdbId": 545611,
                   "imdbId": "tt6710474"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1620.webp"
             }
           ],
           "nominees": [
@@ -365,7 +369,8 @@
                   "tmdbId": 545611,
                   "imdbId": "tt6710474"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/690.webp"
             }
           ],
           "nominees": [
@@ -433,7 +438,8 @@
                   "tmdbId": 545611,
                   "imdbId": "tt6710474"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8944.webp"
             }
           ],
           "nominees": [

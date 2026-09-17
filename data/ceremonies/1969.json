@@ -24,7 +24,8 @@
                 {
                   "title": "Oliver!",
                   "tmdbId": 17917,
-                  "imdbId": "tt0063385"
+                  "imdbId": "tt0063385",
+                  "posterPath": "/images/posters/17917.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 17917,
                   "imdbId": "tt0063385"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/15378.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 29146,
                   "imdbId": "tt0062794"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/19153.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 18988,
                   "imdbId": "tt0063227"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/6598.webp"
             },
             {
               "names": [
@@ -248,7 +252,8 @@
                   "tmdbId": 16085,
                   "imdbId": "tt0062994"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10400.webp"
             }
           ],
           "nominees": [
@@ -304,7 +309,8 @@
                   "tmdbId": 118872,
                   "imdbId": "tt0063654"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3461.webp"
             }
           ],
           "nominees": [
@@ -372,7 +378,8 @@
                   "tmdbId": 805,
                   "imdbId": "tt0063522"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4970.webp"
             }
           ],
           "nominees": [

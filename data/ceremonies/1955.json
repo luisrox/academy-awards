@@ -24,7 +24,8 @@
                 {
                   "title": "On the Waterfront",
                   "tmdbId": 654,
-                  "imdbId": "tt0047296"
+                  "imdbId": "tt0047296",
+                  "posterPath": "/images/posters/654.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 654,
                   "imdbId": "tt0047296"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2746.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 654,
                   "imdbId": "tt0047296"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3084.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 2438,
                   "imdbId": "tt0046874"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4070.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 34689,
                   "imdbId": "tt0046754"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8254.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 654,
                   "imdbId": "tt0047296"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2639.webp"
             }
           ],
           "nominees": [

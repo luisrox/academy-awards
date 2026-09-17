@@ -121,6 +121,7 @@ oscars/
 │   ├── search.json                # Índice de búsqueda
 │   ├── ceremonies/{slug}.json     # 98 archivos de detalle
 │   ├── people.json                # Nombre → persona de TMDB, editable a mano
+│   ├── films.json                 # Título → película de TMDB, editable a mano
 │   └── raw/official-{n}.json      # Salida cruda normalizada del scraper
 ├── scripts/
 │   ├── lib/
@@ -236,11 +237,15 @@ Todas las imágenes vienen de TMDB, se descargan **una vez en desarrollo** con `
 3. Escribir el par resuelto en `data/people.json`, **committeado y revisable a mano**, con el nombre, el id de TMDB, la película que sirvió de prueba y la confianza.
 4. En adelante el script lee ese archivo y no vuelve a buscar. Un nombre ya resuelto nunca se re-resuelve en silencio.
 
-`data/people.json` es el único artefacto de datos que admite corrección manual, y por eso `normalize.ts` lo respeta en lugar de regenerarlo.
+Cuando las fuentes escriben a una misma persona de dos maneras («Alejandro G.» y «Alejandro Gonzalez»), se conservan las dos filas y la variante declara `aliasOf` apuntando al nombre canónico. Un id repetido **sin** `aliasOf` sigue siendo un error: significa que la desambiguación le dio la misma persona a dos nombres distintos.
+
+**Las ediciones de la fuente oficial no traen ningún id de película**, porque el HTML de la Academia solo publica títulos. Sin id no hay póster que descargar ni lista de créditos con la que probar un retrato, así que una edición sin resolver pierde *todas* sus imágenes a la vez. Por eso `npm run images` resuelve primero los títulos que necesita —el ganador de Mejor Película y las películas de los ganadores de dirección y actuación— con `/search/movie`, aceptando un resultado solo si el título coincide exacto (ignorando mayúsculas, acentos y puntuación) y el año de estreno es el año de la película o el siguiente. El par resuelto se escribe en `data/films.json`. Si sobrevive más de un candidato no se escribe nada y el script los imprime con su fecha de estreno y su número de votos, que es lo que hace falta para decidir a mano.
+
+`data/people.json` y `data/films.json` son los únicos artefactos de datos que admiten corrección manual, y por eso `normalize.ts` los respeta en lugar de regenerarlos.
 
 **Presupuesto de peso:** `public/images/` completo no debe pasar de 4 MB. `data:check` lo verifica y falla si se excede, porque el crecimiento de imágenes es silencioso y se paga en cada visita.
 
-**Cobertura esperada, no excepcional:** las ediciones antiguas casi no tienen retratos en TMDB y las ediciones 97ª y 98ª no tienen ningún `tmdb_id` porque vienen de la fuente oficial. La ausencia de imagen es el caso normal, no el borde: el fallback tipográfico de [10.3](#103-en-runtime) es parte del diseño, no una red de seguridad.
+**Cobertura esperada, no excepcional:** las ediciones antiguas casi no tienen retratos en TMDB, y en cualquier edición un nombre puede quedarse sin resolver. La ausencia de imagen es el caso normal, no el borde: el fallback tipográfico de [10.3](#103-en-runtime) es parte del diseño, no una red de seguridad. Lo que **sí** es un defecto es una edición entera sin imágenes por un título sin id: `data:check` avisa cuando el ganador de Mejor Película no tiene `tmdbId`.
 
 ### 4.6 Nota legal
 
@@ -284,6 +289,16 @@ type PersonLink = {
   name: string;          // tal como aparece en los datos
   tmdbId: number | null; // null = buscado y no resuelto; no se reintenta
   provenBy: string;      // película cuyo crédito confirmó la identidad
+  aliasOf?: string;      // esta fila es otra grafía del nombre canónico
+};
+
+// data/films.json: resolución título → película de TMDB, editable a mano.
+// Solo hace falta para las ediciones de la fuente oficial, que no traen ids.
+type FilmLink = {
+  title: string;         // tal como lo publicó la Academia
+  filmYear: number;      // desambigua títulos reutilizados entre décadas
+  tmdbId: number | null; // null = buscado y no resuelto; no se reintenta
+  provenBy: string;      // título y fecha de estreno que confirmaron la película
 };
 
 type CeremonyCategory = {
@@ -317,7 +332,8 @@ Esta es la decisión de rendimiento central:
 | `data/index.json` | 98 `GridEntry`, solo los 4 ganadores clave | pocos KB | Siempre, con el grid |
 | `data/ceremonies/{slug}.json` | Detalle completo de una edición | ~10-40 KB | Solo al abrir esa edición |
 | `data/search.json` | Índice de búsqueda | ~300 KB | Diferido, al abrir el buscador |
-| `data/people.json` | Resolución nombre → persona de TMDB | ~40 KB | Nunca en runtime; lo lee solo `npm run images` |
+| `data/people.json` | Resolución nombre → persona de TMDB | ~40 KB | Nunca en runtime; lo leen solo `npm run images` y `normalize.ts` |
+| `data/films.json` | Resolución título → película de TMDB | pocos KB | Nunca en runtime; lo leen solo `npm run images` y `normalize.ts` |
 | `public/images/**` | Pósters y retratos | ≤ 4 MB en total | Una a una vía `next/image`, solo las visibles |
 
 El grid nunca carga los 2,9 MB completos.
@@ -632,6 +648,8 @@ La regla general: **los errores de datos se detectan en build y rompen el build;
 | `posterPath` o `portraitPath` que apunta a un archivo que no existe | **Falla** con la ruta exacta: una imagen rota es peor que ninguna |
 | `public/images/` por encima del presupuesto de 4 MB | **Falla** listando los archivos más pesados |
 | `data/people.json` con un nombre mapeado a dos ids de TMDB | **Falla**: la desambiguación quedó corrupta |
+| Un id de TMDB compartido por dos nombres sin declarar `aliasOf` | **Falla**: o son dos personas con la misma foto, o falta declarar la variante |
+| Ganador de Mejor Película sin `tmdbId` | **Advierte** nombrando la edición: sin id esa edición pierde póster y retratos a la vez |
 | Retrato faltante para un ganador de dirección o actuación | **Silencio.** Es el caso esperado en la mayoría de ediciones ([4.5](#45-imágenes-pósters-y-retratos)), y advertir 300 veces entrena a ignorar las advertencias |
 
 El motivo de ser tan estricto es concreto: el único valor del sitio es que los datos sean correctos, así que es preferible un build roto a publicar datos mal agrupados en silencio.
@@ -666,6 +684,8 @@ Se ejecuta a mano y nunca en build, así que puede ser conversacional, pero no p
 | Situación | Comportamiento |
 |---|---|
 | `TMDB_API_KEY` ausente | Aborta explicando que solo hace falta para este script |
+| Película sin id (ediciones de la fuente oficial) | Resuelve el título por `/search/movie` exigiendo título exacto y año de estreno igual al año de la película o el siguiente, antes de descargar nada |
+| Varias películas con el mismo título dentro de la ventana de año | **No escribe ningún id.** Imprime cada candidato con su fecha de estreno y sus votos, y lo deja para `data/films.json` |
 | Búsqueda de persona sin coincidencia de crédito | **No escribe ningún id.** Registra el nombre con `tmdbId: null` y sigue |
 | Varios candidatos con crédito en la misma película | Aborta para ese nombre y lo deja para resolución manual, con los candidatos impresos |
 | La persona no tiene foto de perfil en TMDB | Registra el id y omite la descarga. Es el caso normal |
@@ -702,8 +722,10 @@ Corren en CI y bloquean el merge. Son la red de seguridad del producto.
 | D15 | `index.json` se mantiene bajo un presupuesto de tamaño definido |
 | D16 | Toda ruta de imagen de todo artefacto corresponde a un archivo real en `public/images/` |
 | D17 | `public/images/` se mantiene bajo el presupuesto de 4 MB |
-| D18 | `data/people.json` no mapea un nombre a dos ids ni un id a dos nombres distintos |
+| D18 | `data/people.json` no mapea un nombre a dos ids, ni un id a dos nombres canónicos distintos (una variante declarada con `aliasOf` sí puede compartirlo) |
 | D19 | No hay `portraitPath` en categorías fuera de dirección y actuación |
+| D20 | `data/films.json` no mapea un mismo título y año de película a dos ids |
+| D21 | El ganador de Mejor Película de cada edición resuelve a un id de TMDB |
 
 ### 11.2 Verificación puntual contra la fuente oficial
 
@@ -857,9 +879,9 @@ Si la ceremonia introduce una categoría nueva, el build fallará a propósito c
 
 Último commit de retratos `9a2e0ea`. **Hecho: el MVP (puntos 1 a 10), el buscador global (punto 11) y la fase 3 (puntos 12 a 19).**
 
-- Pipeline de datos entero: diccionario canónico con etiquetas por época, `normalize.ts`, scraper de la fuente oficial y las ediciones 97ª y 98ª integradas. `data/` contiene `index.json`, `search.json`, `people.json` y los 98 detalles.
-- Imágenes: `npm run images` descarga pósters y retratos verificados; el fallback es un monograma tipográfico en la misma caja. El presupuesto de `public/images/` (4 MB) se comprueba en CI.
-- Suite de pruebas: unitarias, integridad D1–D19, componentes con Testing Library, y end-to-end con Playwright más auditoría `axe` y Lighthouse (Rendimiento ≥95, Accesibilidad 100, SEO ≥95, CLS ≤ 0,02 en grid y overlay).
+- Pipeline de datos entero: diccionario canónico con etiquetas por época, `normalize.ts`, scraper de la fuente oficial y las ediciones 97ª y 98ª integradas. `data/` contiene `index.json`, `search.json`, `people.json`, `films.json` y los 98 detalles.
+- Imágenes: `npm run images` resuelve por TMDB los títulos que la fuente oficial no trae con id y descarga pósters y retratos verificados; las 98 ediciones tienen póster. El fallback sigue siendo un monograma tipográfico en la misma caja. El presupuesto de `public/images/` (4 MB) se comprueba en CI.
+- Suite de pruebas: unitarias, integridad D1–D21, componentes con Testing Library, y end-to-end con Playwright más auditoría `axe` y Lighthouse (Rendimiento ≥95, Accesibilidad 100, SEO ≥95, CLS ≤ 0,02 en grid y overlay).
 - UI: grid con relieve, emblema, telón de hover y disciplina de temporizadores de [6.2](#62-restricciones-de-implementación-del-hover); overlay con póster, retratos, flechas fuera del panel y densidad de primera pantalla; `not-found`, móvil, SEO y buscador global.
 - Runbook anual en el README: `CEREMONY_DATES` es el único dato a mano; `sync:oscars` muestra un diff legible antes de sobrescribir.
 

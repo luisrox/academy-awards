@@ -98,18 +98,27 @@ export function mergePeople(
   return [...byName.values()].sort((a, b) => a.name.localeCompare(b.name));
 }
 
+/**
+ * A name must resolve to exactly one id, and an id to exactly one canonical
+ * name. Sources do spell one person two ways ("Alejandro G." vs "Alejandro
+ * Gonzalez"), so a second row may share an id only by declaring `aliasOf`:
+ * an undeclared collision still means the disambiguation picked one id for two
+ * different people.
+ */
 export function peopleMappingErrors(people: PersonLink[]): string[] {
   const errors: string[] = [];
+  const byName = new Map<string, PersonLink>();
   const idsByName = new Map<string, Set<number | null>>();
-  const namesById = new Map<number, Set<string>>();
+  const rowsById = new Map<number, PersonLink[]>();
   for (const link of people) {
+    byName.set(link.name, link);
     const ids = idsByName.get(link.name) ?? new Set();
     ids.add(link.tmdbId);
     idsByName.set(link.name, ids);
     if (link.tmdbId == null) continue;
-    const names = namesById.get(link.tmdbId) ?? new Set();
-    names.add(link.name);
-    namesById.set(link.tmdbId, names);
+    const rows = rowsById.get(link.tmdbId) ?? [];
+    rows.push(link);
+    rowsById.set(link.tmdbId, rows);
   }
   for (const [name, ids] of idsByName) {
     if (ids.size > 1) {
@@ -118,10 +127,30 @@ export function peopleMappingErrors(people: PersonLink[]): string[] {
       );
     }
   }
-  for (const [id, names] of namesById) {
-    if (names.size > 1) {
+  for (const link of people) {
+    if (link.aliasOf === undefined) continue;
+    const target = byName.get(link.aliasOf);
+    if (!target) {
       errors.push(
-        `people.json maps TMDB ${id} to more than one name: ${[...names].join(", ")}`,
+        `people.json calls "${link.name}" an alias of "${link.aliasOf}", which it does not list`,
+      );
+    } else if (target.tmdbId !== link.tmdbId) {
+      errors.push(
+        `people.json calls "${link.name}" an alias of "${link.aliasOf}" but gives them different TMDB ids`,
+      );
+    } else if (target.aliasOf !== undefined) {
+      errors.push(
+        `people.json chains aliases: "${link.name}" points at "${link.aliasOf}", itself an alias`,
+      );
+    }
+  }
+  for (const [id, rows] of rowsById) {
+    const canonical = rows.filter((row) => row.aliasOf === undefined);
+    if (canonical.length > 1) {
+      errors.push(
+        `people.json maps TMDB ${id} to more than one name: ${canonical
+          .map((row) => row.name)
+          .join(", ")}. If they are one person, mark the variants with aliasOf.`,
       );
     }
   }

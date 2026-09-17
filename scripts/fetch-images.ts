@@ -5,6 +5,13 @@ import { fileURLToPath } from "node:url";
 import { ceremonyDetailSchema, parseData, type PersonLink } from "@/lib/schemas";
 import { DATA_DIR, REPO_ROOT, writeJson } from "./lib/cache";
 import {
+  attachFilmIds,
+  collectFilmJobs,
+  discoverFilms,
+  loadFilms,
+  mergeFilms,
+} from "./lib/films";
+import {
   collectPortraitJobs,
   discoverPeople,
   loadPeople,
@@ -296,6 +303,22 @@ async function runCli(): Promise<void> {
   applyEnvFile(path.join(REPO_ROOT, ".env.local"));
   const apiKey = loadTmdbApiKey();
   const details = loadCeremonyDetails();
+
+  // Editions scraped from the Academy arrive without TMDB ids; resolve them
+  // first or there is nothing to download for those years.
+  const existingFilms = loadFilms();
+  const discoveredFilms = await discoverFilms(
+    collectFilmJobs(details),
+    existingFilms,
+    { apiKey, fetchFn: fetch },
+  );
+  const films = mergeFilms(existingFilms, discoveredFilms);
+  await writeJson(path.join(DATA_DIR, "films.json"), films);
+  attachFilmIds(details, films);
+  console.log(
+    `Films: resolved ${discoveredFilms.filter((film) => film.tmdbId != null).length} new TMDB ids, films.json now has ${films.length} titles.`,
+  );
+
   const posterReport = await downloadBestPicturePosters({
     apiKey,
     jobs: collectPosterJobs(details),

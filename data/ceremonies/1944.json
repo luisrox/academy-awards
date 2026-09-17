@@ -24,7 +24,8 @@
                 {
                   "title": "Casablanca",
                   "tmdbId": 289,
-                  "imdbId": "tt0034583"
+                  "imdbId": "tt0034583",
+                  "posterPath": "/images/posters/289.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 289,
                   "imdbId": "tt0034583"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4109.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 68440,
                   "imdbId": "tt0036515"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2092.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 43516,
                   "imdbId": "tt0036377"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/39554.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 80616,
                   "imdbId": "tt0036172"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11169.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 27854,
                   "imdbId": "tt0035896"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/54905.webp"
             }
           ],
           "nominees": [

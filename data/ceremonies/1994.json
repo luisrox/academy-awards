@@ -24,7 +24,8 @@
                 {
                   "title": "Schindler's List",
                   "tmdbId": 424,
-                  "imdbId": "tt0108052"
+                  "imdbId": "tt0108052",
+                  "posterPath": "/images/posters/424.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 424,
                   "imdbId": "tt0108052"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/488.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 9800,
                   "imdbId": "tt0107818"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/31.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 713,
                   "imdbId": "tt0107822"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18686.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 5503,
                   "imdbId": "tt0106977"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2176.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 713,
                   "imdbId": "tt0107822"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10690.webp"
             }
           ],
           "nominees": [

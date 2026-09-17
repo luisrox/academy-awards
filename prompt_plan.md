@@ -3,7 +3,8 @@
 Documento de trabajo para ejecutar [`spec.md`](spec.md) mediante una serie de prompts incrementales dirigidos a un LLM de generación de código, con enfoque TDD.
 
 - **Compañero obligatorio**: `spec.md`. Los prompts citan sus secciones en lugar de repetirlas.
-- **Estado de partida**: commit `6798d39`. Ver [sección 15 de `spec.md`](spec.md).
+- **Estado de partida de la fase 1**: commit `6798d39`.
+- **Estado actual**: commit `77d7c5b`. Pasos 1 a 27 aplicados. El paso 28 quedó sin aplicar y lo absorbe la fase 3 (pasos 29 a 36). Ver [sección 15 de `spec.md`](spec.md).
 
 ---
 
@@ -78,6 +79,16 @@ Se partieron en 22 fragmentos. Detectados tres problemas:
 - Se separó el `not-found` y el caso ambiguo de `/1930` en su propio paso; son reglas de negocio, no decoración.
 - Los pasos 3 y 26 quedaron pequeños, y se aceptan así: el 3 desbloquea todo el pipeline y el 26 es un artefacto de datos independiente.
 
+### Pasada 4 — La fase 3
+
+Con el MVP y el buscador en producción, la revisión del sitio dejó seis pedidos de presentación: superficies con relieve en lugar de recuadros planos, un emblema de premio, fondo animado en el hover, imágenes en la modal, las flechas a ambos lados, y más información visible en la primera pantalla de la modal. Se descompusieron en ocho pasos (29 a 36) con el mismo criterio de dimensionamiento, y con tres decisiones de ordenamiento:
+
+- **Los tokens de relieve van primero.** Son la base de la que dependen todas las superficies; hacerlos después obligaría a retocar cada componente dos veces. Es el mismo razonamiento por el que el sistema de diseño se puso antes del grid en la pasada 3.
+- **El paso 28 se reparte, no se ejecuta.** Mezclaba descarga de pósters, consumo en la UI, pulido del CLI y documentación: cuatro riesgos distintos en un solo paso. Ahora son el 34 (pósters), el 35 (retratos) y el 36 (CLI y runbook).
+- **Pósters y retratos se separan.** Los pósters ya tienen su `tmdb_id` en los datos y son una descarga directa. Los retratos exigen resolver un nombre a una persona sin equivocarse, que es un problema de datos con su propio artefacto revisable. Meterlos juntos esconde el riesgo real debajo de la parte fácil.
+
+Dos pasos arrastran una **deuda de CSS que hay que pagar en el 29**: `.deco-frame` vive fuera de toda capa y le gana a las utilidades de Tailwind. Es la causa del bug de las flechas del paso 32, y cualquier arreglo de posición que no toque las capas sería un parche sobre un problema que volverá.
+
 ---
 
 ## 4. Mapa de dependencias
@@ -110,12 +121,26 @@ flowchart TD
     P24 --> P25["25. E2E"]
     P25 --> P26["26. search.json"]
     P26 --> P27["27. Buscador UI"]
-    P27 --> P28["28. Posters y runbook"]
+    P27 --> P29["29. Relieve y radio"]
+    P29 --> P30["30. Emblema"]
+    P29 --> P31["31. Telon de hover"]
+    P29 --> P32["32. Flechas a los lados"]
+    P29 --> P33["33. Densidad de la modal"]
+    P33 --> P34["34. Posters"]
+    P34 --> P35["35. Retratos"]
+    P31 --> P34
+    P35 --> P36["36. CLI, runbook y auditoria"]
+    P32 --> P36
+    P30 --> P36
 ```
+
+El paso 28 no aparece: quedó sin aplicar y su contenido está repartido entre el 34, el 35 y el 36.
+
+Los pasos 30 a 33 solo dependen del 29 y entre ellos no tienen relación, así que su orden es intercambiable si conviene priorizar. El 34 depende del 31 porque el telón del hover consume el póster como capa de fondo, y del 33 porque la cabecera compacta es donde el póster va a vivir.
 
 ---
 
-## 5. Los 28 pasos
+## 5. Los pasos
 
 | # | Paso | Entrega verificable |
 |---|---|---|
@@ -146,9 +171,17 @@ flowchart TD
 | 25 | Suite E2E | E1-E12 de `spec.md` |
 | 26 | Generación de `search.json` | Índice con normalización de acentos |
 | 27 | Buscador global | UI accesible por teclado |
-| 28 | Pósters y runbook anual | Fase 2 cerrada |
+| ~~28~~ | ~~Pósters y runbook anual~~ | Sin aplicar. Repartido entre los pasos 34, 35 y 36 |
+| 29 | Relieve, radio y capas de CSS | `DecoFrame` con variantes `raised` y `flat` |
+| 30 | Emblema Art Déco original | SVG propio colocado en las 7 posiciones de 8.6 |
+| 31 | Telón animado del hover | Destellos deterministas, cero temporizadores nuevos |
+| 32 | Flechas a izquierda y derecha | Fuera del panel, 40 px, extremos deshabilitados |
+| 33 | Densidad de la primera pantalla | Dos columnas y escala reducida, E13 en verde |
+| 34 | Pipeline y consumo de pósters | `npm run images` y póster en la cabecera |
+| 35 | Retratos y monograma de fallback | `data/people.json` y foto junto al ganador |
+| 36 | CLI, runbook y re-auditoría | Presupuestos en verde con imágenes activas |
 
-Los pasos 1 a 25 son el MVP. Los pasos 26 a 28 son la fase 2.
+Los pasos 1 a 25 son el MVP y ya están aplicados. Los pasos 26 y 27 son la fase 2, también aplicados. Los pasos 29 a 36 son la fase 3.
 
 ---
 
@@ -1118,7 +1151,11 @@ Pruebas:
 Commit: "Add global search over lazy-loaded index"
 ```
 
-#### Paso 28: Pósters y runbook anual
+#### Paso 28: Pósters y runbook anual — SIN APLICAR, SUPERSEDIDO
+
+> **No ejecutes este prompt.** Quedó sin aplicar y la fase 3 lo reemplaza con
+> mayor alcance: los pósters están en el paso 34, los retratos en el 35, y el CLI
+> con el runbook en el 36. Se conserva aquí solo como registro de la decisión.
 
 ```
 Contexto: solo falta el enriquecimiento visual y dejar el proyecto preparado para
@@ -1159,6 +1196,440 @@ Pruebas:
 Commit: "Add Best Picture posters and annual update runbook"
 ```
 
+### Fase K — Fase 3: imágenes y pulido visual
+
+Ocho pasos que no cambian ni un dato y cambian toda la presentación. Reglas comunes
+a la fase: ningún paso puede bajar el presupuesto Lighthouse de la sección 11.6 de
+`spec.md`, romper el contraste AA, ni añadir temporizadores de JavaScript al grid.
+
+#### Paso 29: Relieve, radio y capas de CSS
+
+```
+Contexto: la UI está completa y probada, pero se lee como una tabla: superficies
+planas, bordes de 1 px y ángulos rectos. src/app/globals.css tiene las clases
+propias .deco-frame y .deco-grain, y src/components/deco/DecoFrame.tsx envuelve
+cada recuadro del grid. La estética objetivo está en la sección 8.5 de spec.md.
+
+Objetivo: que las superficies se sientan piezas apoyadas sobre el fondo, con
+esquinas redondeadas y relieve, sin salir del vocabulario Art Déco. Es la base de
+la que dependen los siete pasos siguientes, así que se hace una sola vez y bien.
+
+Tareas:
+1. Añade a globals.css los tokens de la sección 8.1: --radius-card, --radius-panel,
+   --radius-inner, --radius-pill, --surface-raised, --shadow-raised y
+   --shadow-lifted. Los valores concretos de sombra y degradado los eliges tú
+   respetando la tabla de la sección 8.5: cara en degradado, filo claro arriba y
+   oscuro abajo, sombra difusa desplazada hacia abajo, nunca un contorno duro.
+2. MUEVE todas las clases propias de globals.css a @layer components. Hoy están
+   sin capa, y el CSS sin capa le gana siempre a @layer utilities de Tailwind: por
+   eso .deco-frame { position: relative } anula el `fixed` de las flechas del
+   overlay. Es la causa raíz del bug que arregla el paso 32, y este paso es el que
+   la elimina.
+3. Reescribe DecoFrame con dos variantes: "raised" (radio, degradado, filo y
+   sombra; por defecto) y "flat" (radio y filete, sin sombra), para los
+   contenedores internos que no deben competir. Una sola implementación del
+   relieve; no lo repitas clase por clase en cada pantalla.
+4. Retira los esquineros escalonados del ::after: son incompatibles con el radio.
+   Su papel de acento lo asumen cuatro rombos dorados diminutos en las diagonales,
+   según la sección 8.3.
+5. Haz concéntrico el filete interior: si el marco usa --radius-card, el filete
+   interior usa --radius-inner.
+6. Aplica el radio de panel al contenedor del overlay y a la caja del buscador, y
+   --radius-pill a los chips de década.
+7. El hover de YearCard eleva la tarjeta 2 px con transform y pasa a
+   --shadow-lifted. No animes box-shadow ni dimensiones.
+8. Revisa que el anillo de foco siga distinguiéndose del halo dorado del hover,
+   como exige el punto 2 de la sección 8.5. Si se pierde, cambia el estilo del
+   foco, no el del hover.
+
+Restricciones:
+- Ninguna superficie de contenido queda con ángulo recto.
+- No cambies ni un dato, ni una etiqueta, ni la estructura del DOM más allá de lo
+  que exija el nuevo marco. Este paso es puramente de presentación.
+
+Pruebas:
+- DecoFrame en "raised" aplica la clase de sombra; en "flat" no.
+- Una prueba de regresión de capas: un elemento con la clase propia y la utilidad
+  `fixed` resuelve a position: fixed. Es la prueba que evita que el bug de las
+  flechas vuelva.
+- El grid y el overlay siguen renderizando con toda la suite existente en verde.
+- Lighthouse sigue cumpliendo el presupuesto: 98 recuadros con sombra son un
+  riesgo real de coste de pintado.
+
+Criterio de aceptación: la suite completa sigue en verde y ningún test existente
+necesitó cambiar su lógica, solo sus selectores si acaso.
+
+Commit: "Give surfaces rounded corners and raised relief"
+```
+
+#### Paso 30: Emblema Art Déco original
+
+```
+Contexto: los tokens de relieve ya están. El sitio no tiene ninguna marca visual
+propia. La sección 4.6 de spec.md prohíbe la estatuilla del Oscar y su silueta, y
+la 2.1 explica por qué no existe una versión libre de derechos: copyright de AMPAS
+registrado en 1941, marca figurativa vigente, y Creative House v. AMPAS (1994)
+confirmando que nunca cayó al dominio público.
+
+Objetivo: un emblema propio que comunique "premio" con el vocabulario Art Déco,
+que sí es de dominio público, según la sección 8.6 de spec.md.
+
+Tareas:
+1. Crea src/components/deco/Emblem.tsx: un SVG inline, dorado y monocromo, con
+   trofeo estilizado sobre plinto escalonado, media corona de laurel y rayos de
+   sunburst. Debe seguir legible a 16 px y no romperse a 96 px.
+2. Cumple las cuatro reglas de distinción de la sección 8.6 al pie de la letra: sin
+   figura humana ni estilizada, sin espada ni brazos cruzados, sin base cilíndrica
+   con carrete de cinco radios, y sin las proporciones de la estatuilla. Escribe
+   esas cuatro reglas como comentario en el componente, para que quien lo edite
+   mañana sepa qué no puede añadir.
+3. Acepta una prop de tamaño y hereda el color con currentColor.
+4. Colócalo en las siete posiciones de la sección 8.6: lockup de la cabecera junto
+   al nombre del sitio, centro de los separadores de década de RayDivider, marca de
+   12 px antes del ganador en el bloque destacado del overlay, cabecera del
+   overlay, footer, página de no encontrado, y como base del favicon y de la imagen
+   social.
+5. Accesibilidad: aria-hidden cuando acompaña a un texto que ya dice lo mismo, y
+   nombre accesible cuando va solo. Nunca de un tamaño o posición que sugiera un
+   sello oficial.
+
+Pruebas:
+- El emblema renderiza y respeta la prop de tamaño.
+- Es aria-hidden en el lockup de la cabecera, donde el nombre del sitio ya está
+  escrito, y tiene nombre accesible cuando va suelto.
+- Una prueba de contenido del SVG: no contiene ningún elemento marcado como figura
+  humana. Es una prueba débil por naturaleza, así que documéntala como recordatorio
+  de las reglas y no como garantía legal.
+- axe sigue en 0 violaciones en el grid y en el overlay.
+
+Commit: "Add original Art Deco award emblem"
+```
+
+#### Paso 31: Telón animado del hover
+
+```
+Contexto: el hover de YearCard ya rota los 4 ganadores clave con la disciplina de
+temporizadores de la sección 6.2 de spec.md, cuya prueba de limpieza es una de las
+dos más valiosas del proyecto. El fondo del recuadro, en cambio, no cambia.
+
+Objetivo: el telón de tres capas de la sección 6.1.1 de spec.md, elegante y
+coherente con el tono formal del sitio, sin tocar el mecanismo de rotación.
+
+Tareas:
+1. Crea src/components/deco/HoverBackdrop.tsx con las tres capas de la sección
+   6.1.1, todas detrás del contenido y con pointer-events: none: viñeta dorada que
+   entra con fade, de 5 a 7 estrellas Art Déco de cuatro puntas que florecen
+   escalonadas como flashes de prensa con opacidad máxima 0,35, y un hueco
+   preparado para el póster al 8 % que el paso 34 rellenará.
+2. Las posiciones y los retardos de los destellos se derivan de un HASH DEL SLUG,
+   no de Math.random(). Con random habría posiciones distintas en servidor y
+   cliente, es decir un error de hidratación, y el componente sería imposible de
+   probar.
+3. El telón NO añade ni un temporizador de JavaScript. Se anima con CSS a partir de
+   la clase que ya marca la tarjeta con hover. El único temporizador del sistema
+   sigue siendo el de useHeadlineRotation.
+4. Anima solo opacity y transform, para que el trabajo quede en el compositor.
+5. Con prefers-reduced-motion: reduce no hay destellos ni viñeta animada.
+6. Verifica el contraste del texto SOBRE el telón, no solo sobre el fondo en
+   reposo. Si el texto pierde AA, baja la opacidad del telón; el texto no se toca.
+
+Pruebas:
+- Dos renders del mismo slug producen posiciones de destello idénticas, y dos slugs
+  distintos producen posiciones distintas.
+- El conteo de temporizadores vivos durante el hover es el mismo con telón que sin
+  él: la prueba que impide que este paso erosione la restricción de la sección 6.2.
+- Con prefers-reduced-motion no se renderiza ningún destello.
+- axe con contraste sobre el estado de hover, no solo en reposo.
+- Lighthouse en verde: el telón se monta en 98 tarjetas.
+
+Commit: "Animate year card backdrop with Art Deco flash sparks"
+```
+
+#### Paso 32: Flechas del overlay a izquierda y derecha
+
+```
+Contexto: las flechas de anterior y siguiente del overlay aparecen las dos
+apiladas a la izquierda y dentro del área que hace scroll. La causa raíz no son
+sus clases de posición sino las capas de CSS, y el paso 29 ya la eliminó al mover
+las clases propias a @layer components. Este paso hace el rediseño que la sección
+7.2 de spec.md describe en "Colocación de las flechas".
+
+Objetivo: flechas discretas, una a cada lado, fuera del panel de contenido.
+
+Tareas:
+1. Saca los dos EditionArrow del contenedor con scroll y hazlos hermanos del panel
+   dentro del role="dialog", para que sigan dentro de la trampa de foco del paso 20
+   y no se desplacen con el scroll del contenido.
+2. Anterior a la izquierda, siguiente a la derecha, centradas verticalmente sobre
+   el fondo oscurecido.
+3. Rediséñalas como círculos de 40 px con fondo translúcido, desenfoque de fondo y
+   filo dorado de 1 px, usando --radius-pill. Deliberadamente más pequeñas que
+   cualquier elemento de la jerarquía de contenido: no deben competir con la info
+   de la edición. No uses DecoFrame aquí; su marco es para superficies de
+   contenido.
+4. Mantén intacto lo que ya funciona: en los extremos la flecha se deshabilita y no
+   se oculta, para que el layout no salte; y las teclas de flecha siguen navegando.
+5. Por debajo de md no hay margen lateral donde ponerlas: recógelas en la cabecera
+   del overlay. El swipe de la sección 7.3 sigue siendo el gesto principal en
+   móvil.
+
+Pruebas:
+- Por coordenadas: la flecha de anterior queda a la izquierda del panel y la de
+  siguiente a la derecha.
+- Ninguna de las dos está dentro del contenedor con scroll, y hacer scroll del
+  panel no las mueve.
+- En la 1ª edición la flecha de anterior está presente y deshabilitada; en la 98ª,
+  la de siguiente.
+- El foco sigue atrapado en el diálogo y las flechas son alcanzables con Tab.
+- Activa el escenario E14 de la sección 11.5 de spec.md.
+
+Commit: "Place ceremony arrows outside the panel, one per side"
+```
+
+#### Paso 33: Densidad de la primera pantalla del overlay
+
+```
+Contexto: al abrir una edición, la cabecera ocupa casi todo el alto útil y el
+usuario ve un año gigante y nada de lo que vino a buscar. El contenido es el
+correcto; está mal acomodado. La sección 7.4 de spec.md fija el objetivo medible.
+
+Objetivo: en 1440 x 900, abrir una edición muestra la cabecera completa, el bloque
+destacado entero y al menos la primera categoría de actuación, sin scroll. En
+390 x 844, la cabecera y el ganador de Mejor Película.
+
+Tareas, en el orden de impacto de la sección 7.4:
+1. Dos columnas de categorías desde lg. Es el único cambio que aporta un salto de
+   verdad; el resto son ajustes. Un bloque de categoría no puede partirse entre
+   columnas.
+2. Escala tipográfica reducida dentro del overlay: el año de text-6xl/text-8xl a
+   text-4xl/text-5xl, el ganador de text-3xl a text-xl/text-2xl, y los nominados a
+   0.8125rem.
+3. Ritmo vertical más apretado entre categorías, entre grupos y bajo la cabecera.
+4. Cabecera compacta: año de películas y fecha en una sola línea en lugar de
+   apiladas, junto al hueco del póster.
+
+Dos límites que no se negocian, de la sección 7.4:
+- La jerarquía se mantiene: el ganador a text-xl solo vale si sigue dominando sobre
+  un nominado de 0.8125rem, y la distinción no puede quedar solo en el color.
+- Vuelve a auditar el contraste: con texto más pequeño, --color-muted no puede
+  apoyarse en la excepción de tamaño grande de WCAG y debe cumplir 4.5:1.
+
+Pruebas:
+- Escenario E13 de la sección 11.5: en 1440 x 900, medir por bounding box que la
+  primera categoría de actuación es visible sin scroll al abrir la 98ª.
+- El equivalente móvil en 390 x 844.
+- La prueba de jerarquía existente sigue en verde con los tamaños nuevos.
+- axe de contraste sobre los nominados en su tamaño reducido.
+- Una categoría no aparece partida entre las dos columnas.
+
+Commit: "Tighten overlay density to surface more info per screen"
+```
+
+#### Paso 34: Pipeline de pósters y cabecera del overlay
+
+```
+Contexto: no hay una sola imagen en el sitio. La cabecera del overlay tiene un div
+vacío con aria-hidden y data-poster-slot, esperando exactamente esto desde el paso
+19. La base histórica ya trae tmdb_id de películas. El paso 28 nunca se aplicó y
+este lo reemplaza.
+
+Objetivo: los 98 pósters de Mejor Película descargados, committeados y consumidos,
+según la sección 4.5 de spec.md.
+
+Tareas:
+1. Crea scripts/fetch-images.ts y el script "images" de la sección 3.4. Descarga el
+   póster del ganador de Mejor Película de cada edición desde TMDB en w342 a
+   public/images/posters/{tmdbId}.webp.
+2. La API key vive en .env.local y se usa SOLO en este script: nunca en el runtime
+   del sitio ni en el build, según la sección 4.5.
+3. Aplica los errores de la sección 10.4: aborta si falta la key; reintenta con
+   backoff 3 veces ante fallo de descarga y luego omite esa imagen sin romper el
+   resto; omite las imágenes que ya existen en disco, de modo que reejecutar sea
+   idempotente y barato.
+4. Añade posterPath a Movie en src/lib/schemas.ts y rellénalo en normalize.ts. Los
+   tipos se infieren de los esquemas, así que el esquema es lo único que se edita.
+5. Extiende data:check con las comprobaciones D16 y D17 de la sección 11.1: toda
+   ruta de imagen apunta a un archivo real, y public/images/ se mantiene bajo el
+   presupuesto de 4 MB. Según la sección 10.1 ambas FALLAN el build: una imagen
+   rota es peor que ninguna.
+6. Consume el póster en dos lugares: el hueco data-poster-slot de la cabecera del
+   overlay, a 144 px con --radius-inner y marco dorado, y la capa de póster al 8 %
+   del telón de hover del paso 31.
+7. Usa next/image con width y height declarados. Cero desplazamiento de layout.
+8. Degradación obligatoria, y no es hipotética: las ediciones 97ª y 98ª vienen de
+   la fuente oficial y NO tienen tmdb_id, así que no tendrán póster. Son las dos
+   ediciones más visitadas del sitio. Muestra el marcador tipográfico con el título
+   de la sección 10.3 en una caja de las mismas dimensiones que la imagen.
+
+Pruebas:
+- El script omite sin fallar las ediciones sin tmdb_id.
+- Reejecutarlo no vuelve a descargar lo que ya existe.
+- Una descarga fallida no rompe el resto.
+- data:check falla si una ruta de imagen no existe en disco.
+- data:check falla si public/images/ excede el presupuesto.
+- La cabecera de la 96ª muestra el póster; la de la 98ª, el fallback.
+- Lighthouse y CLS en verde con los pósters activos: CLS 0,02 o menos.
+
+Commit: "Download and render Best Picture posters"
+```
+
+#### Paso 35: Retratos de ganadores y monograma de fallback
+
+```
+Contexto: los pósters ya funcionan y fueron la parte fácil, porque su tmdb_id venía
+en los datos. Los retratos no: la base histórica no trae ningún id de persona, y
+una foto equivocada junto a un ganador es exactamente el error que este producto no
+puede permitirse. El procedimiento de resolución está en la sección 4.5 de spec.md.
+
+Objetivo: el retrato del ganador junto a su nombre en dirección y actuación, con
+identidad verificada y un fallback que sea parte del diseño y no un parche.
+
+Tareas:
+1. Extiende fetch-images.ts con la resolución de personas de la sección 4.5:
+   buscar el nombre en /search/person y DESAMBIGUAR exigiendo que el candidato
+   aparezca en los créditos de la película con la que ganó. Sin coincidencia de
+   crédito no hay retrato. Nunca escribas un id a ciegas.
+2. Escribe el resultado en data/people.json con el tipo PersonLink de la sección
+   5.1: nombre, id o null, y la película que sirvió de prueba. Committeado y
+   editable a mano. Es el ÚNICO artefacto de datos que admite corrección manual, y
+   normalize.ts lo respeta en lugar de regenerarlo. Un nombre ya resuelto no se
+   re-resuelve en silencio, y un null no se reintenta.
+3. Aplica el resto de la sección 10.4: si varios candidatos tienen crédito en la
+   misma película, aborta ese nombre e imprime los candidatos para resolución
+   manual; si la persona no tiene foto en TMDB, guarda el id y omite la descarga.
+4. Descarga en w185 reescalado a 132 px de ancho a public/images/people/{tmdbId}.webp.
+   Alcance máximo: los ganadores de dirección y de las 4 categorías de actuación,
+   5 por edición. Ni una imagen más: el presupuesto de 4 MB es compartido con los
+   pósters.
+5. Añade portraitPath a Entry en schemas.ts y rellénalo en normalize.ts solo en esas
+   categorías.
+6. Renderiza el retrato según la sección 7.1: miniatura de 56 px, recorte cuadrado
+   con object-position: top porque un recorte centrado decapita a la gente,
+   --radius-inner, marco dorado de 1 px, a la izquierda del nombre y compartiendo
+   su línea base.
+7. Crea UNA sola pieza de fallback reutilizable, el monograma tipográfico de la
+   sección 8.7: las iniciales en Playfair en la misma caja y el mismo radio que la
+   imagen que sustituye. Úsala también para el póster del paso 34. La caja mide
+   igual con foto y sin foto, así que el layout nunca salta.
+8. Las imágenes son decorativas respecto al dato: el nombre del ganador no depende
+   de que carguen, y el alt no repite el nombre que ya está escrito al lado.
+   loading="lazy" salvo en el bloque destacado, que entra en la primera pantalla.
+9. Añade D18 y D19 de la sección 11.1 a la suite de integridad: people.json no
+   mapea un nombre a dos ids ni un id a dos nombres, y no hay portraitPath fuera de
+   dirección y actuación.
+10. NO adviertas por los retratos que faltan. Según la sección 10.1 es el caso
+    esperado en la mayoría de ediciones, y advertir 300 veces entrena a ignorar las
+    advertencias.
+
+Pruebas:
+- Un nombre sin coincidencia de crédito no produce id.
+- Un homónimo no se resuelve al candidato equivocado, con un caso de prueba real.
+- Un people.json editado a mano se respeta y no se sobrescribe.
+- D18 y D19 en verde.
+- El retrato ausente renderiza el monograma con las iniciales correctas.
+- Un nombre de una sola palabra y otro de tres producen monogramas válidos.
+- La caja del retrato mide lo mismo con imagen y con monograma.
+- Los empates con varios ganadores renderizan un retrato por ganador.
+- axe en 0 violaciones con los retratos activos.
+
+Commit: "Add verified winner portraits with monogram fallback"
+```
+
+#### Paso 36: CLI, runbook anual y re-auditoría de presupuestos
+
+```
+Contexto: la fase 3 está implementada. Falta cerrar lo que quedó pendiente del paso
+28 y verificar que el sitio con relieve, telón e imágenes sigue cumpliendo sus
+presupuestos, que es donde esta fase podría haberse pagado en rendimiento sin que
+nadie lo note.
+
+Objetivo: dejar el proyecto medido y listo para la 99ª ceremonia de 2027.
+
+Tareas:
+1. Pule el CLI sync:oscars con el diff legible de la sección 10.2 de spec.md.
+2. Escribe en el README el runbook anual de la sección 14, con la secuencia exacta
+   de comandos, incluido npm run images en lugar del antiguo npm run posters, y la
+   advertencia de que cada año hay que añadir a mano la fecha de la nueva ceremonia
+   en CEREMONY_DATES. Es el único dato que se escribe a mano.
+3. Documenta que si la ceremonia introduce una categoría nueva el build fallará a
+   propósito con el nombre exacto sin mapear, y que esa es la señal para añadirla al
+   diccionario con su grupo y su orden.
+4. Documenta el procedimiento de retratos para los nuevos ganadores, incluido que
+   las ediciones que vienen de la fuente oficial no traen tmdb_id y que puede haber
+   que completar data/people.json a mano.
+5. Re-auditoría completa de la sección 11.6 CON el relieve, el telón y las imágenes
+   activos: Lighthouse en móvil con Rendimiento 95 o más, Accesibilidad 100 y SEO 95
+   o más; CLS de 0,02 o menos en el grid y en el overlay; axe con el contraste de
+   los nominados en su tamaño reducido y sobre el telón de hover; y el peso de
+   public/images/ bajo presupuesto comprobado en CI, no solo en local.
+6. Vuelve a correr la prueba de temporizadores: hacer hover sobre muchos recuadros
+   en secuencia no puede dejar ninguno vivo. Con el telón añadido, esta regresión es
+   más fácil de introducir que antes.
+7. Actualiza la sección 15 de spec.md con el estado real al cerrar la fase.
+
+Pruebas:
+- Una prueba de documentación: el runbook del README menciona CEREMONY_DATES y
+  npm run images.
+- El presupuesto de peso de imágenes se verifica en CI.
+- Los umbrales de Lighthouse y de CLS pasan con todo activo.
+- La suite completa en verde: unitarias, integridad, componentes y end-to-end.
+
+Criterio de aceptación: la fase 3 cierra sin haber degradado ninguna de las
+garantías del MVP. Si algún presupuesto no se cumple, se recorta el efecto visual
+que lo rompe; no se sube el umbral.
+
+Commit: "Polish sync CLI, document annual runbook and re-audit budgets"
+```
+
+#### Paso 37: Resolución de ids de película para las ediciones oficiales
+
+```
+Contexto: las ediciones 97ª y 98ª salieron sin una sola imagen y el paso 36 lo
+documentó como limitación aceptada, a completar a mano en data/people.json. Era un
+diagnóstico incompleto: el problema no está en las personas sino en las películas.
+Sin tmdbId de la película no hay póster que descargar, y tampoco hay lista de
+créditos con la que probar un retrato, así que collectPortraitJobs descartaba en
+silencio a todos los ganadores de esas dos ediciones. Un solo id faltante costaba
+las seis imágenes de la edición.
+
+Objetivo: que las 98 ediciones tengan póster y que los retratos de las ediciones
+oficiales se resuelvan por el mismo camino verificado que el resto, sin bajar el
+estándar de prueba de identidad.
+
+Tareas:
+1. Resuelve los títulos que la fuente oficial no trae con id contra /search/movie,
+   aceptando un resultado solo si el título coincide exacto ignorando mayúsculas,
+   acentos y puntuación, y si el año de estreno es el año de la película o el
+   siguiente. Un estreno de diciembre puede llevar la fecha del año siguiente.
+2. Escribe el par resuelto en data/films.json, committeado y revisable a mano, con
+   el título, el año de la película, el id y la película con su fecha que sirvió de
+   prueba. La clave es título más año, porque los títulos se reutilizan entre
+   décadas.
+3. Con varios candidatos vivos no escribas ningún id: imprime cada uno con su fecha
+   de estreno y sus votos, que es lo que hace falta para decidir a mano. Es el caso
+   de The Brutalist, que comparte título con una entrada sin votos.
+4. Permite que una misma persona tenga dos grafías en people.json declarando
+   aliasOf en la variante. Un id compartido sin declarar sigue fallando, porque eso
+   sí significa que la desambiguación juntó a dos personas distintas.
+5. Haz que data:check avise cuando un ganador de Mejor Película no tenga tmdbId.
+   Este defecto fue invisible durante dos pasos justamente porque nada lo nombraba.
+
+Pruebas:
+- Un título parecido no se acepta; el título original sí, cuando la Academia lo
+  publicó en su idioma.
+- Un estreno del año siguiente se acepta y uno de otra década no.
+- Dos películas con el mismo título dentro de la ventana de año no escriben id.
+- Un films.json editado a mano se respeta y no se sobrescribe.
+- Un id resuelto para otro año de película no se aplica.
+- D20 y D21 en verde, y las 98 ediciones con póster.
+
+Criterio de aceptación: las ediciones 97ª y 98ª muestran póster y los cinco
+retratos, y ninguna prueba afloja la verificación de créditos que protege de
+publicar la foto equivocada.
+
+Commit: "Resolve TMDB film ids so the official-source editions get their images"
+```
+
 ---
 
 ## 7. Notas de ejecución
@@ -1178,4 +1649,25 @@ en silencio, y la de limpieza de temporizadores del paso 18, porque su ausencia
 degrada el rendimiento de forma difícil de diagnosticar.
 
 **El único dato que se escribe a mano cada año** es la fecha de la nueva ceremonia
-en `CEREMONY_DATES`. Todo lo demás se deriva o se importa.
+en `CEREMONY_DATES`. Todo lo demás se deriva o se importa. A partir del paso 35 hay
+una segunda excepción acotada: `data/people.json` admite corrección manual, y es
+deliberado, porque ninguna heurística de desambiguación es mejor que una revisión
+humana cuando el costo del error es publicar la foto de otra persona. El paso 37
+añade la tercera y última: `data/films.json`, por el mismo motivo.
+
+**El paso 34 necesita una API key de TMDB en `.env.local`.** Los pasos 29 a 33 no
+dependen de ninguna red y se pueden entregar sin ella. Si la key no está
+disponible, se avanza hasta el 33 y la fase queda en pausa ahí, no a medias dentro
+de un paso.
+
+**El paso 29 es el que tiene efecto colateral en todo el sitio.** Mover las clases
+propias a `@layer components` cambia qué CSS gana en cada conflicto con Tailwind, y
+el bug de las flechas apiladas a la izquierda es solo el síntoma que se detectó.
+Conviene revisar visualmente el grid, el overlay, el buscador y la página de no
+encontrado antes de hacer el commit, porque la suite de pruebas no atrapa un cambio
+de posición que no rompe el DOM.
+
+**La tentación de esta fase es subir los umbrales.** Sombras, destellos e imágenes
+compiten directamente con el presupuesto Lighthouse de la sección 11.6 de
+`spec.md`, que el MVP ya cumplía. La regla del paso 36 aplica a toda la fase: si un
+efecto no cabe en el presupuesto, se recorta el efecto.

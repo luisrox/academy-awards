@@ -24,7 +24,8 @@
                 {
                   "title": "The Hurt Locker",
                   "tmdbId": 12162,
-                  "imdbId": "tt0887912"
+                  "imdbId": "tt0887912",
+                  "posterPath": "/images/posters/12162.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 12162,
                   "imdbId": "tt0887912"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/14392.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 25196,
                   "imdbId": "tt1263670"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1229.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 22881,
                   "imdbId": "tt0878804"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18277.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 16869,
                   "imdbId": "tt0361748"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/27319.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 25793,
                   "imdbId": "tt0929632"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/60561.webp"
             }
           ],
           "nominees": [

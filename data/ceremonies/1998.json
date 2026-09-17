@@ -24,7 +24,8 @@
                 {
                   "title": "Titanic",
                   "tmdbId": 597,
-                  "imdbId": "tt0120338"
+                  "imdbId": "tt0120338",
+                  "posterPath": "/images/posters/597.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 597,
                   "imdbId": "tt0120338"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2710.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 2898,
                   "imdbId": "tt0119822"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/514.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 2898,
                   "imdbId": "tt0119822"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/9994.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 489,
                   "imdbId": "tt0119217"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2157.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 2118,
                   "imdbId": "tt0119488"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/326.webp"
             }
           ],
           "nominees": [

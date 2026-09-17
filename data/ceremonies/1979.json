@@ -24,7 +24,8 @@
                 {
                   "title": "The Deer Hunter",
                   "tmdbId": 11778,
-                  "imdbId": "tt0077416"
+                  "imdbId": "tt0077416",
+                  "posterPath": "/images/posters/11778.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 11778,
                   "imdbId": "tt0077416"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/12114.webp"
             }
           ],
           "nominees": [
@@ -169,7 +171,8 @@
                   "tmdbId": 31657,
                   "imdbId": "tt0077362"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10127.webp"
             }
           ],
           "nominees": [
@@ -237,7 +240,8 @@
                   "tmdbId": 31657,
                   "imdbId": "tt0077362"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/6352.webp"
             }
           ],
           "nominees": [
@@ -305,7 +309,8 @@
                   "tmdbId": 11778,
                   "imdbId": "tt0077416"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4690.webp"
             }
           ],
           "nominees": [
@@ -373,7 +378,8 @@
                   "tmdbId": 26686,
                   "imdbId": "tt0077289"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10978.webp"
             }
           ],
           "nominees": [

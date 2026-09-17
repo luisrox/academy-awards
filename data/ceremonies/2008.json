@@ -24,7 +24,8 @@
                 {
                   "title": "No Country for Old Men",
                   "tmdbId": 6977,
-                  "imdbId": "tt0477348"
+                  "imdbId": "tt0477348",
+                  "posterPath": "/images/posters/6977.webp"
                 }
               ]
             }
@@ -95,7 +96,8 @@
                   "tmdbId": 6977,
                   "imdbId": "tt0477348"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1223.webp"
             }
           ],
           "nominees": [
@@ -169,7 +171,8 @@
                   "tmdbId": 7345,
                   "imdbId": "tt0469494"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11856.webp"
             }
           ],
           "nominees": [
@@ -237,7 +240,8 @@
                   "tmdbId": 1407,
                   "imdbId": "tt0450188"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8293.webp"
             }
           ],
           "nominees": [
@@ -305,7 +309,8 @@
                   "tmdbId": 6977,
                   "imdbId": "tt0477348"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3810.webp"
             }
           ],
           "nominees": [
@@ -373,7 +378,8 @@
                   "tmdbId": 4566,
                   "imdbId": "tt0465538"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3063.webp"
             }
           ],
           "nominees": [

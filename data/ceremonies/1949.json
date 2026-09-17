@@ -24,7 +24,8 @@
                 {
                   "title": "Hamlet",
                   "tmdbId": 23383,
-                  "imdbId": "tt0040416"
+                  "imdbId": "tt0040416",
+                  "posterPath": "/images/posters/23383.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 3090,
                   "imdbId": "tt0040897"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/6593.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 23383,
                   "imdbId": "tt0040416"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3359.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 62000,
                   "imdbId": "tt0040495"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/20391.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 3090,
                   "imdbId": "tt0040897"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/19020.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 11016,
                   "imdbId": "tt0040506"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/14965.webp"
             }
           ],
           "nominees": [

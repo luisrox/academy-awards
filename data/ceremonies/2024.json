@@ -24,7 +24,8 @@
                 {
                   "title": "Oppenheimer",
                   "tmdbId": 872585,
-                  "imdbId": "tt15398776"
+                  "imdbId": "tt15398776",
+                  "posterPath": "/images/posters/872585.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 872585,
                   "imdbId": "tt15398776"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/525.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 872585,
                   "imdbId": "tt15398776"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2037.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 792307,
                   "imdbId": "tt14230458"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/54693.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 872585,
                   "imdbId": "tt15398776"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3223.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 840430,
                   "imdbId": "tt14849194"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1180099.webp"
             }
           ],
           "nominees": [

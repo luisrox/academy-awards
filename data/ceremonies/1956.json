@@ -24,7 +24,8 @@
                 {
                   "title": "Marty",
                   "tmdbId": 15919,
-                  "imdbId": "tt0048356"
+                  "imdbId": "tt0048356",
+                  "posterPath": "/images/posters/15919.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 15919,
                   "imdbId": "tt0048356"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/67451.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 15919,
                   "imdbId": "tt0048356"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/7502.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 65550,
                   "imdbId": "tt0048563"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4421.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 37853,
                   "imdbId": "tt0048380"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3151.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 220,
                   "imdbId": "tt0048028"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2752.webp"
             }
           ],
           "nominees": [

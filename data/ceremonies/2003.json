@@ -24,7 +24,8 @@
                 {
                   "title": "Chicago",
                   "tmdbId": 1574,
-                  "imdbId": "tt0299658"
+                  "imdbId": "tt0299658",
+                  "posterPath": "/images/posters/1574.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 423,
                   "imdbId": "tt0253474"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3556.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 423,
                   "imdbId": "tt0253474"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3490.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 590,
                   "imdbId": "tt0274558"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2227.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 2757,
                   "imdbId": "tt0268126"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2955.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 1574,
                   "imdbId": "tt0299658"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1922.webp"
             }
           ],
           "nominees": [

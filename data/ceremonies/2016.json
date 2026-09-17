@@ -24,7 +24,8 @@
                 {
                   "title": "Spotlight",
                   "tmdbId": 314365,
-                  "imdbId": "tt1895587"
+                  "imdbId": "tt1895587",
+                  "posterPath": "/images/posters/314365.webp"
                 }
               ]
             }
@@ -130,7 +131,8 @@
                   "tmdbId": 281957,
                   "imdbId": "tt1663202"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/223.webp"
             }
           ],
           "nominees": [
@@ -204,7 +206,8 @@
                   "tmdbId": 281957,
                   "imdbId": "tt1663202"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/6193.webp"
             }
           ],
           "nominees": [
@@ -272,7 +275,8 @@
                   "tmdbId": 264644,
                   "imdbId": "tt3170832"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/60073.webp"
             }
           ],
           "nominees": [
@@ -340,7 +344,8 @@
                   "tmdbId": 296098,
                   "imdbId": "tt3682448"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/40900.webp"
             }
           ],
           "nominees": [
@@ -408,7 +413,8 @@
                   "tmdbId": 306819,
                   "imdbId": "tt0810819"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/227454.webp"
             }
           ],
           "nominees": [

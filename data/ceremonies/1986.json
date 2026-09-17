@@ -24,7 +24,8 @@
                 {
                   "title": "Out of Africa",
                   "tmdbId": 606,
-                  "imdbId": "tt0089755"
+                  "imdbId": "tt0089755",
+                  "posterPath": "/images/posters/606.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 606,
                   "imdbId": "tt0089755"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2226.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 11703,
                   "imdbId": "tt0089424"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/227.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 47908,
                   "imdbId": "tt0090203"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/41283.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 10328,
                   "imdbId": "tt0088933"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18156.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 2075,
                   "imdbId": "tt0089841"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/5657.webp"
             }
           ],
           "nominees": [

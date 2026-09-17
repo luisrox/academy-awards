@@ -24,7 +24,8 @@
                 {
                   "title": "The Life of Emile Zola",
                   "tmdbId": 43278,
-                  "imdbId": "tt0029146"
+                  "imdbId": "tt0029146",
+                  "posterPath": "/images/posters/43278.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 14675,
                   "imdbId": "tt0028597"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/30008.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 16515,
                   "imdbId": "tt0028691"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/12147.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 36652,
                   "imdbId": "tt0028944"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/125482.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 43278,
                   "imdbId": "tt0029146"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/24820.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 78734,
                   "imdbId": "tt0029047"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/125841.webp"
             }
           ],
           "nominees": [

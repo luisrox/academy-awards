@@ -24,7 +24,8 @@
                 {
                   "title": "Platoon",
                   "tmdbId": 792,
-                  "imdbId": "tt0091763"
+                  "imdbId": "tt0091763",
+                  "posterPath": "/images/posters/792.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 792,
                   "imdbId": "tt0091763"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1152.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 11873,
                   "imdbId": "tt0090863"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3636.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 1890,
                   "imdbId": "tt0090830"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/19797.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 5143,
                   "imdbId": "tt0091167"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3895.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 5143,
                   "imdbId": "tt0091167"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1902.webp"
             }
           ],
           "nominees": [

@@ -24,7 +24,8 @@
                 {
                   "title": "Amadeus",
                   "tmdbId": 279,
-                  "imdbId": "tt0086879"
+                  "imdbId": "tt0086879",
+                  "posterPath": "/images/posters/279.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 279,
                   "imdbId": "tt0086879"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3974.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 279,
                   "imdbId": "tt0086879"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1164.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 13681,
                   "imdbId": "tt0087921"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/35.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 625,
                   "imdbId": "tt0087553"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8976.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 15927,
                   "imdbId": "tt0087892"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3672.webp"
             }
           ],
           "nominees": [

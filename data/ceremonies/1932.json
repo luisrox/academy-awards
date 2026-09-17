@@ -24,7 +24,8 @@
                 {
                   "title": "Grand Hotel",
                   "tmdbId": 33680,
-                  "imdbId": "tt0022958"
+                  "imdbId": "tt0022958",
+                  "posterPath": "/images/posters/33680.webp"
                 }
               ]
             }
@@ -130,7 +131,8 @@
                   "tmdbId": 84299,
                   "imdbId": "tt0021635"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/14855.webp"
             }
           ],
           "nominees": [
@@ -180,7 +182,8 @@
                   "tmdbId": 42816,
                   "imdbId": "tt0021730"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/29260.webp"
             },
             {
               "names": [
@@ -192,7 +195,8 @@
                   "tmdbId": 3019,
                   "imdbId": "tt0022835"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/13576.webp"
             }
           ],
           "nominees": [
@@ -224,7 +228,8 @@
                   "tmdbId": 85504,
                   "imdbId": "tt0022386"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/47439.webp"
             }
           ],
           "nominees": [

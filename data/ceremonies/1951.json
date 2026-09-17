@@ -24,7 +24,8 @@
                 {
                   "title": "All About Eve",
                   "tmdbId": 705,
-                  "imdbId": "tt0042192"
+                  "imdbId": "tt0042192",
+                  "posterPath": "/images/posters/705.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 705,
                   "imdbId": "tt0042192"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10601.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 43386,
                   "imdbId": "tt0042367"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/12515.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 24481,
                   "imdbId": "tt0042276"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/85651.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 705,
                   "imdbId": "tt0042192"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3361.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 11787,
                   "imdbId": "tt0042546"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2667.webp"
             }
           ],
           "nominees": [

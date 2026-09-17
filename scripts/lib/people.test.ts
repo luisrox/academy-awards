@@ -209,6 +209,36 @@ describe("peopleMappingErrors", () => {
       ]).length,
     ).toBeGreaterThan(0);
   });
+
+  it("accepts a declared alias sharing the canonical id", () => {
+    expect(
+      peopleMappingErrors([
+        { name: "A", tmdbId: 1, provenBy: "x" },
+        { name: "A. Variant", tmdbId: 1, provenBy: "y", aliasOf: "A" },
+      ]),
+    ).toEqual([]);
+  });
+
+  it("rejects an alias of an unlisted name, of a different id, or of another alias", () => {
+    expect(
+      peopleMappingErrors([
+        { name: "A", tmdbId: 1, provenBy: "x", aliasOf: "Nobody" },
+      ]).length,
+    ).toBeGreaterThan(0);
+    expect(
+      peopleMappingErrors([
+        { name: "A", tmdbId: 1, provenBy: "x" },
+        { name: "B", tmdbId: 2, provenBy: "y", aliasOf: "A" },
+      ]).length,
+    ).toBeGreaterThan(0);
+    expect(
+      peopleMappingErrors([
+        { name: "A", tmdbId: 1, provenBy: "x" },
+        { name: "B", tmdbId: 1, provenBy: "y", aliasOf: "A" },
+        { name: "C", tmdbId: 1, provenBy: "z", aliasOf: "B" },
+      ]).length,
+    ).toBeGreaterThan(0);
+  });
 });
 
 describe("strayPortraitPaths", () => {

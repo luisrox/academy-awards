@@ -24,7 +24,8 @@
                 {
                   "title": "The Lost Weekend",
                   "tmdbId": 28580,
-                  "imdbId": "tt0037884"
+                  "imdbId": "tt0037884",
+                  "posterPath": "/images/posters/28580.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 28580,
                   "imdbId": "tt0037884"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3146.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 28580,
                   "imdbId": "tt0037884"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/7124.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 3309,
                   "imdbId": "tt0037913"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/31550.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 30177,
                   "imdbId": "tt0038190"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/131618.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 17641,
                   "imdbId": "tt0037120"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/7641.webp"
             }
           ],
           "nominees": [

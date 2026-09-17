@@ -24,7 +24,8 @@
                 {
                   "title": "Gladiator",
                   "tmdbId": 98,
-                  "imdbId": "tt0172495"
+                  "imdbId": "tt0172495",
+                  "posterPath": "/images/posters/98.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 1900,
                   "imdbId": "tt0181865"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1884.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 98,
                   "imdbId": "tt0172495"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/934.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 462,
                   "imdbId": "tt0195685"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1204.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 1900,
                   "imdbId": "tt0181865"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1121.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 12509,
                   "imdbId": "tt0183659"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4726.webp"
             }
           ],
           "nominees": [

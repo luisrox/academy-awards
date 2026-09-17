@@ -24,7 +24,8 @@
                 {
                   "title": "Parasite",
                   "tmdbId": 496243,
-                  "imdbId": "tt6751668"
+                  "imdbId": "tt6751668",
+                  "posterPath": "/images/posters/496243.webp"
                 }
               ]
             }
@@ -142,7 +143,8 @@
                   "tmdbId": 496243,
                   "imdbId": "tt6751668"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/21684.webp"
             }
           ],
           "nominees": [
@@ -216,7 +218,8 @@
                   "tmdbId": 475557,
                   "imdbId": "tt7286456"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/73421.webp"
             }
           ],
           "nominees": [
@@ -284,7 +287,8 @@
                   "tmdbId": 491283,
                   "imdbId": "tt7549996"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/9137.webp"
             }
           ],
           "nominees": [
@@ -352,7 +356,8 @@
                   "tmdbId": 466272,
                   "imdbId": "tt7131622"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/287.webp"
             }
           ],
           "nominees": [
@@ -420,7 +425,8 @@
                   "tmdbId": 492188,
                   "imdbId": "tt7653254"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4784.webp"
             }
           ],
           "nominees": [

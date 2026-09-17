@@ -24,7 +24,8 @@
                 {
                   "title": "The Apartment",
                   "tmdbId": 284,
-                  "imdbId": "tt0053604"
+                  "imdbId": "tt0053604",
+                  "posterPath": "/images/posters/284.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 284,
                   "imdbId": "tt0053604"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3146.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 22013,
                   "imdbId": "tt0053793"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/13784.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 23724,
                   "imdbId": "tt0053622"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3635.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 967,
                   "imdbId": "tt0054331"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/14501.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 22013,
                   "imdbId": "tt0053793"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/60158.webp"
             }
           ],
           "nominees": [

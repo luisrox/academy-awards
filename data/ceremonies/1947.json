@@ -24,7 +24,8 @@
                 {
                   "title": "The Best Years of Our Lives",
                   "tmdbId": 887,
-                  "imdbId": "tt0036868"
+                  "imdbId": "tt0036868",
+                  "posterPath": "/images/posters/887.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 887,
                   "imdbId": "tt0036868"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10001.webp"
             }
           ],
           "nominees": [
@@ -236,7 +238,8 @@
                   "tmdbId": 54568,
                   "imdbId": "tt0039040"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8725.webp"
             }
           ],
           "nominees": [
@@ -304,7 +307,8 @@
                   "tmdbId": 887,
                   "imdbId": "tt0036868"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/13580.webp"
             }
           ],
           "nominees": [
@@ -372,7 +376,8 @@
                   "tmdbId": 56135,
                   "imdbId": "tt0038873"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10606.webp"
             }
           ],
           "nominees": [

@@ -24,7 +24,8 @@
                 {
                   "title": "Braveheart",
                   "tmdbId": 197,
-                  "imdbId": "tt0112573"
+                  "imdbId": "tt0112573",
+                  "posterPath": "/images/posters/197.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 197,
                   "imdbId": "tt0112573"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2461.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 451,
                   "imdbId": "tt0113627"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2963.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 687,
                   "imdbId": "tt0112818"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4038.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 629,
                   "imdbId": "tt0114814"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1979.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 11448,
                   "imdbId": "tt0113819"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/23931.webp"
             }
           ],
           "nominees": [

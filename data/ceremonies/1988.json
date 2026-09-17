@@ -24,7 +24,8 @@
                 {
                   "title": "The Last Emperor",
                   "tmdbId": 746,
-                  "imdbId": "tt0093389"
+                  "imdbId": "tt0093389",
+                  "posterPath": "/images/posters/746.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 746,
                   "imdbId": "tt0093389"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4956.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 10673,
                   "imdbId": "tt0094291"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3392.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 2039,
                   "imdbId": "tt0093565"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/38225.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 117,
                   "imdbId": "tt0094226"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/738.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 2039,
                   "imdbId": "tt0093565"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3019.webp"
             }
           ],
           "nominees": [

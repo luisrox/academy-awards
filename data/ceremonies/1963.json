@@ -24,7 +24,8 @@
                 {
                   "title": "Lawrence of Arabia",
                   "tmdbId": 947,
-                  "imdbId": "tt0056172"
+                  "imdbId": "tt0056172",
+                  "posterPath": "/images/posters/947.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 947,
                   "imdbId": "tt0056172"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/12238.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 595,
                   "imdbId": "tt0056592"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8487.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 1162,
                   "imdbId": "tt0056241"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10774.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 33632,
                   "imdbId": "tt0056541"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/39816.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 1162,
                   "imdbId": "tt0056241"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/27446.webp"
             }
           ],
           "nominees": [

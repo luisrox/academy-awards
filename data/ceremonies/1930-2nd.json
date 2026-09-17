@@ -24,7 +24,8 @@
                 {
                   "title": "The Broadway Melody",
                   "tmdbId": 65203,
-                  "imdbId": "tt0019729"
+                  "imdbId": "tt0019729",
+                  "posterPath": "/images/posters/65203.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 104214,
                   "imdbId": "tt0019824"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/72061.webp"
             }
           ],
           "nominees": [
@@ -192,7 +194,8 @@
                   "tmdbId": 83989,
                   "imdbId": "tt0020018"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/29999.webp"
             }
           ],
           "nominees": [
@@ -260,7 +263,8 @@
                   "tmdbId": 85507,
                   "imdbId": "tt0019788"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/100047.webp"
             }
           ],
           "nominees": [

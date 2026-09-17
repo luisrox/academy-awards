@@ -24,7 +24,8 @@
                 {
                   "title": "The Great Ziegfeld",
                   "tmdbId": 43277,
-                  "imdbId": "tt0027698"
+                  "imdbId": "tt0027698",
+                  "posterPath": "/images/posters/43277.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 24807,
                   "imdbId": "tt0027996"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2662.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 74469,
                   "imdbId": "tt0028313"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/13352.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 43277,
                   "imdbId": "tt0027698"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/125482.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 93313,
                   "imdbId": "tt0027459"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4302.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 37658,
                   "imdbId": "tt0027300"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/25173.webp"
             }
           ],
           "nominees": [

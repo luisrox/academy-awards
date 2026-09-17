@@ -24,7 +24,8 @@
                 {
                   "title": "Argo",
                   "tmdbId": 68734,
-                  "imdbId": "tt1024648"
+                  "imdbId": "tt1024648",
+                  "posterPath": "/images/posters/68734.webp"
                 }
               ]
             }
@@ -142,7 +143,8 @@
                   "tmdbId": 87827,
                   "imdbId": "tt0454876"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1614.webp"
             }
           ],
           "nominees": [
@@ -216,7 +218,8 @@
                   "tmdbId": 72976,
                   "imdbId": "tt0443272"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11856.webp"
             }
           ],
           "nominees": [
@@ -284,7 +287,8 @@
                   "tmdbId": 82693,
                   "imdbId": "tt1045658"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/72129.webp"
             }
           ],
           "nominees": [
@@ -352,7 +356,8 @@
                   "tmdbId": 68718,
                   "imdbId": "tt1853728"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/27319.webp"
             }
           ],
           "nominees": [
@@ -420,7 +425,8 @@
                   "tmdbId": 82695,
                   "imdbId": "tt1707386"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1813.webp"
             }
           ],
           "nominees": [

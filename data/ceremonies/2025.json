@@ -22,7 +22,9 @@
               ],
               "movies": [
                 {
-                  "title": "Anora"
+                  "title": "Anora",
+                  "tmdbId": 1064213,
+                  "posterPath": "/images/posters/1064213.webp"
                 }
               ]
             }
@@ -34,7 +36,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             },
@@ -74,7 +77,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -130,9 +134,11 @@
               ],
               "movies": [
                 {
-                  "title": "Anora"
+                  "title": "Anora",
+                  "tmdbId": 1064213
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/118415.webp"
             }
           ],
           "nominees": [
@@ -142,7 +148,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             },
@@ -162,7 +169,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -194,9 +202,11 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3490.webp"
             }
           ],
           "nominees": [
@@ -252,9 +262,11 @@
               ],
               "movies": [
                 {
-                  "title": "Anora"
+                  "title": "Anora",
+                  "tmdbId": 1064213
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1640439.webp"
             }
           ],
           "nominees": [
@@ -274,7 +286,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -310,9 +323,11 @@
               ],
               "movies": [
                 {
-                  "title": "A Real Pain"
+                  "title": "A Real Pain",
+                  "tmdbId": 1013850
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18793.webp"
             }
           ],
           "nominees": [
@@ -322,7 +337,8 @@
               ],
               "movies": [
                 {
-                  "title": "Anora"
+                  "title": "Anora",
+                  "tmdbId": 1064213
                 }
               ]
             },
@@ -342,7 +358,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             },
@@ -368,9 +385,11 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8691.webp"
             }
           ],
           "nominees": [
@@ -400,7 +419,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             },
@@ -432,7 +452,8 @@
               ],
               "movies": [
                 {
-                  "title": "Anora"
+                  "title": "Anora",
+                  "tmdbId": 1064213
                 }
               ]
             }
@@ -445,7 +466,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             },
@@ -455,7 +477,8 @@
               ],
               "movies": [
                 {
-                  "title": "A Real Pain"
+                  "title": "A Real Pain",
+                  "tmdbId": 1013850
                 }
               ]
             },
@@ -517,7 +540,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -634,7 +658,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -744,7 +769,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             }
@@ -766,7 +792,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -802,7 +829,8 @@
               ],
               "movies": [
                 {
-                  "title": "Anora"
+                  "title": "Anora",
+                  "tmdbId": 1064213
                 }
               ]
             }
@@ -814,7 +842,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             },
@@ -834,7 +863,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -872,7 +902,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             },
@@ -1005,7 +1036,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -1151,7 +1183,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -1200,7 +1233,8 @@
               ],
               "movies": [
                 {
-                  "title": "The Brutalist"
+                  "title": "The Brutalist",
+                  "tmdbId": 549509
                 }
               ]
             }
@@ -1223,7 +1257,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },
@@ -1260,7 +1295,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             }
@@ -1292,7 +1328,8 @@
               ],
               "movies": [
                 {
-                  "title": "Emilia Pérez"
+                  "title": "Emilia Pérez",
+                  "tmdbId": 974950
                 }
               ]
             },

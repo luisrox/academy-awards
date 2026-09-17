@@ -6,6 +6,7 @@ import { CATEGORIES, CATEGORY_GROUPS, resolveCategoryId } from "@/data/categorie
 import { CEREMONIES } from "@/data/ceremonies";
 import {
   ceremonyDetailSchema,
+  filmLinkSchema,
   gridEntrySchema,
   parseData,
   personLinkSchema,
@@ -20,10 +21,12 @@ import {
   peopleMappingErrors,
   strayPortraitPaths,
 } from "../../scripts/lib/people";
+import { filmMappingErrors, loadFilms } from "../../scripts/lib/films";
 import {
   IMAGES_BUDGET_BYTES,
   IMAGES_DIR,
   PUBLIC_DIR,
+  bestPictureMovie,
   collectImagePaths,
   directorySizeBytes,
   missingImageFiles,
@@ -49,7 +52,7 @@ import {
 
 /**
  * D1–D6 (ceremony table shape: 98 rows, slugs, 1930/1933, film years)
- * live in src/data/ceremonies.test.ts. This file covers D7–D19 on data/.
+ * live in src/data/ceremonies.test.ts. This file covers D7–D21 on data/.
  */
 
 function entryKey(entry: { names: string[]; movies: { title: string }[] }): string {
@@ -59,7 +62,7 @@ function entryKey(entry: { names: string[]; movies: { title: string }[] }): stri
   });
 }
 
-describe("data integrity D7–D17", () => {
+describe("data integrity D7–D21", () => {
   it("D7: every known slug has a detail file", () => {
     const missing = CEREMONIES.filter(
       (ceremony) => !existsSync(detailPath(ceremony.slug)),
@@ -216,6 +219,23 @@ describe("data integrity D7–D17", () => {
     expect(
       strayPortraitPaths(loadIndex().map((entry) => loadDetail(entry.slug))),
     ).toEqual([]);
+  });
+
+  it("D20: films.json does not map one title and film year to two ids", () => {
+    const films = parseData(
+      z.array(filmLinkSchema),
+      loadFilms(DATA_DIR),
+      "films.json",
+    );
+    expect(filmMappingErrors(films)).toEqual([]);
+  });
+
+  it("D21: every ceremony's Best Picture winner resolves to a TMDB id", () => {
+    const unresolved = loadIndex()
+      .map((entry) => loadDetail(entry.slug))
+      .filter((detail) => bestPictureMovie(detail)?.tmdbId == null)
+      .map((detail) => detail.ceremony.slug);
+    expect(unresolved).toEqual([]);
   });
 
   it("search.json stays under its size budget and only points at real slugs", () => {

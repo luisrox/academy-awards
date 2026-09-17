@@ -24,7 +24,8 @@
                 {
                   "title": "Shakespeare in Love",
                   "tmdbId": 1934,
-                  "imdbId": "tt0138097"
+                  "imdbId": "tt0138097",
+                  "posterPath": "/images/posters/1934.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 857,
                   "imdbId": "tt0120815"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/488.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 637,
                   "imdbId": "tt0118799"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4818.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 1934,
                   "imdbId": "tt0138097"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/12052.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 31662,
                   "imdbId": "tt0118564"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/5563.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 1934,
                   "imdbId": "tt0138097"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/5309.webp"
             }
           ],
           "nominees": [

@@ -24,7 +24,8 @@
                 {
                   "title": "It Happened One Night",
                   "tmdbId": 3078,
-                  "imdbId": "tt0025316"
+                  "imdbId": "tt0025316",
+                  "posterPath": "/images/posters/3078.webp"
                 }
               ]
             }
@@ -178,7 +179,8 @@
                   "tmdbId": 3078,
                   "imdbId": "tt0025316"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2662.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 3078,
                   "imdbId": "tt0025316"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11492.webp"
             }
           ],
           "nominees": [
@@ -272,7 +275,8 @@
                   "tmdbId": 3078,
                   "imdbId": "tt0025316"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/30155.webp"
             }
           ],
           "nominees": [

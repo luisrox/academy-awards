@@ -24,7 +24,8 @@
                 {
                   "title": "CODA",
                   "tmdbId": 776503,
-                  "imdbId": "tt10366460"
+                  "imdbId": "tt10366460",
+                  "posterPath": "/images/posters/776503.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 600583,
                   "imdbId": "tt10293406"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10757.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 614917,
                   "imdbId": "tt9620288"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2888.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 601470,
                   "imdbId": "tt9115530"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/83002.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 776503,
                   "imdbId": "tt10366460"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1571661.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 511809,
                   "imdbId": "tt3581652"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1437491.webp"
             }
           ],
           "nominees": [

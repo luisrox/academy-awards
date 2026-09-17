@@ -24,7 +24,8 @@
                 {
                   "title": "Cavalcade",
                   "tmdbId": 56164,
-                  "imdbId": "tt0023876"
+                  "imdbId": "tt0023876",
+                  "posterPath": "/images/posters/56164.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 56164,
                   "imdbId": "tt0023876"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/72061.webp"
             }
           ],
           "nominees": [
@@ -204,7 +206,8 @@
                   "tmdbId": 43122,
                   "imdbId": "tt0024473"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10921.webp"
             }
           ],
           "nominees": [
@@ -248,7 +251,8 @@
                   "tmdbId": 31777,
                   "imdbId": "tt0024353"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/6598.webp"
             }
           ],
           "nominees": [

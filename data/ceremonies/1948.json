@@ -24,7 +24,8 @@
                 {
                   "title": "Gentleman's Agreement",
                   "tmdbId": 33667,
-                  "imdbId": "tt0039416"
+                  "imdbId": "tt0039416",
+                  "posterPath": "/images/posters/33667.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 33667,
                   "imdbId": "tt0039416"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2746.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 41206,
                   "imdbId": "tt0039335"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/29522.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 43466,
                   "imdbId": "tt0039370"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/85848.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 11881,
                   "imdbId": "tt0039628"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/22600.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 33667,
                   "imdbId": "tt0039416"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10607.webp"
             }
           ],
           "nominees": [

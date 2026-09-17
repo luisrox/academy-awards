@@ -1,1 +1,2013 @@
-[]
+[
+  {
+    "name": "Adrien Brody",
+    "tmdbId": 3490,
+    "provenBy": "The Pianist"
+  },
+  {
+    "name": "Al Pacino",
+    "tmdbId": 1158,
+    "provenBy": "Scent of a Woman"
+  },
+  {
+    "name": "Alan Arkin",
+    "tmdbId": 1903,
+    "provenBy": "Little Miss Sunshine"
+  },
+  {
+    "name": "Alec Guinness",
+    "tmdbId": 12248,
+    "provenBy": "The Bridge on the River Kwai"
+  },
+  {
+    "name": "Alejandro G. Inarritu",
+    "tmdbId": 223,
+    "provenBy": "The Revenant",
+    "aliasOf": "Alejandro Gonzalez Inarritu"
+  },
+  {
+    "name": "Alejandro Gonzalez Inarritu",
+    "tmdbId": 223,
+    "provenBy": "Birdman or (The Unexpected Virtue of Ignorance)"
+  },
+  {
+    "name": "Alfonso Cuaron",
+    "tmdbId": 11218,
+    "provenBy": "Roma"
+  },
+  {
+    "name": "Alice Brady",
+    "tmdbId": 125841,
+    "provenBy": "In Old Chicago"
+  },
+  {
+    "name": "Alicia Vikander",
+    "tmdbId": 227454,
+    "provenBy": "The Danish Girl"
+  },
+  {
+    "name": "Allison Janney",
+    "tmdbId": 19,
+    "provenBy": "I, Tonya"
+  },
+  {
+    "name": "Amy Madigan",
+    "tmdbId": 23882,
+    "provenBy": "Weapons"
+  },
+  {
+    "name": "Ang Lee",
+    "tmdbId": 1614,
+    "provenBy": "Life of Pi"
+  },
+  {
+    "name": "Angelina Jolie",
+    "tmdbId": 11701,
+    "provenBy": "Girl, Interrupted"
+  },
+  {
+    "name": "Anjelica Huston",
+    "tmdbId": 5657,
+    "provenBy": "Prizzi's Honor"
+  },
+  {
+    "name": "Anna Magnani",
+    "tmdbId": 4421,
+    "provenBy": "The Rose Tattoo"
+  },
+  {
+    "name": "Anna Paquin",
+    "tmdbId": 10690,
+    "provenBy": "The Piano"
+  },
+  {
+    "name": "Anne Bancroft",
+    "tmdbId": 10774,
+    "provenBy": "The Miracle Worker"
+  },
+  {
+    "name": "Anne Baxter",
+    "tmdbId": 10606,
+    "provenBy": "The Razor's Edge"
+  },
+  {
+    "name": "Anne Hathaway",
+    "tmdbId": 1813,
+    "provenBy": "Les Misérables"
+  },
+  {
+    "name": "Anne Revere",
+    "tmdbId": 7641,
+    "provenBy": "National Velvet"
+  },
+  {
+    "name": "Anthony Hopkins",
+    "tmdbId": 4173,
+    "provenBy": "The Father"
+  },
+  {
+    "name": "Anthony Minghella",
+    "tmdbId": 2239,
+    "provenBy": "The English Patient"
+  },
+  {
+    "name": "Anthony Quinn",
+    "tmdbId": 5401,
+    "provenBy": "Lust for Life"
+  },
+  {
+    "name": "Ariana DeBose",
+    "tmdbId": 1437491,
+    "provenBy": "West Side Story"
+  },
+  {
+    "name": "Art Carney",
+    "tmdbId": 40176,
+    "provenBy": "Harry and Tonto"
+  },
+  {
+    "name": "Audrey Hepburn",
+    "tmdbId": 1932,
+    "provenBy": "Roman Holiday"
+  },
+  {
+    "name": "Barbra Streisand",
+    "tmdbId": 10400,
+    "provenBy": "Funny Girl"
+  },
+  {
+    "name": "Barry Fitzgerald",
+    "tmdbId": 13820,
+    "provenBy": "Going My Way"
+  },
+  {
+    "name": "Barry Levinson",
+    "tmdbId": 8246,
+    "provenBy": "Rain Man"
+  },
+  {
+    "name": "Beatrice Straight",
+    "tmdbId": 10083,
+    "provenBy": "Network"
+  },
+  {
+    "name": "Ben Johnson",
+    "tmdbId": 8258,
+    "provenBy": "The Last Picture Show"
+  },
+  {
+    "name": "Ben Kingsley",
+    "tmdbId": 2282,
+    "provenBy": "Gandhi"
+  },
+  {
+    "name": "Benicio del Toro",
+    "tmdbId": 1121,
+    "provenBy": "Traffic"
+  },
+  {
+    "name": "Bernardo Bertolucci",
+    "tmdbId": 4956,
+    "provenBy": "The Last Emperor"
+  },
+  {
+    "name": "Bette Davis",
+    "tmdbId": 3380,
+    "provenBy": "Jezebel"
+  },
+  {
+    "name": "Billy Wilder",
+    "tmdbId": 3146,
+    "provenBy": "The Apartment"
+  },
+  {
+    "name": "Bing Crosby",
+    "tmdbId": 24937,
+    "provenBy": "Going My Way"
+  },
+  {
+    "name": "Bob Fosse",
+    "tmdbId": 66777,
+    "provenBy": "Cabaret"
+  },
+  {
+    "name": "Bong Joon-ho",
+    "tmdbId": 21684,
+    "provenBy": "Parasite"
+  },
+  {
+    "name": "Brad Pitt",
+    "tmdbId": 287,
+    "provenBy": "Once Upon a Time... in Hollywood"
+  },
+  {
+    "name": "Brenda Fricker",
+    "tmdbId": 18345,
+    "provenBy": "My Left Foot: The Story of Christy Brown"
+  },
+  {
+    "name": "Brendan Fraser",
+    "tmdbId": 18269,
+    "provenBy": "The Whale"
+  },
+  {
+    "name": "Brie Larson",
+    "tmdbId": 60073,
+    "provenBy": "Room"
+  },
+  {
+    "name": "Broderick Crawford",
+    "tmdbId": 85895,
+    "provenBy": "All the King's Men"
+  },
+  {
+    "name": "Burl Ives",
+    "tmdbId": 2753,
+    "provenBy": "The Big Country"
+  },
+  {
+    "name": "Burt Lancaster",
+    "tmdbId": 13784,
+    "provenBy": "Elmer Gantry"
+  },
+  {
+    "name": "Carol Reed",
+    "tmdbId": 15378,
+    "provenBy": "Oliver!"
+  },
+  {
+    "name": "Casey Affleck",
+    "tmdbId": 1893,
+    "provenBy": "Manchester by the Sea"
+  },
+  {
+    "name": "Cate Blanchett",
+    "tmdbId": 112,
+    "provenBy": "Blue Jasmine"
+  },
+  {
+    "name": "Catherine Zeta-Jones",
+    "tmdbId": 1922,
+    "provenBy": "Chicago"
+  },
+  {
+    "name": "Celeste Holm",
+    "tmdbId": 10607,
+    "provenBy": "Gentleman's Agreement"
+  },
+  {
+    "name": "Charles Coburn",
+    "tmdbId": 11169,
+    "provenBy": "The More the Merrier"
+  },
+  {
+    "name": "Charles Laughton",
+    "tmdbId": 10921,
+    "provenBy": "The Private Life of Henry VIII"
+  },
+  {
+    "name": "Charlize Theron",
+    "tmdbId": 6885,
+    "provenBy": "Monster"
+  },
+  {
+    "name": "Charlton Heston",
+    "tmdbId": 10017,
+    "provenBy": "Ben-Hur"
+  },
+  {
+    "name": "Cher",
+    "tmdbId": 38225,
+    "provenBy": "Moonstruck"
+  },
+  {
+    "name": "Chloe Zhao",
+    "tmdbId": 1395183,
+    "provenBy": "Nomadland"
+  },
+  {
+    "name": "Chris Cooper",
+    "tmdbId": 2955,
+    "provenBy": "Adaptation."
+  },
+  {
+    "name": "Christian Bale",
+    "tmdbId": 3894,
+    "provenBy": "The Fighter"
+  },
+  {
+    "name": "Christoph Waltz",
+    "tmdbId": 27319,
+    "provenBy": "Django Unchained"
+  },
+  {
+    "name": "Christopher Nolan",
+    "tmdbId": 525,
+    "provenBy": "Oppenheimer"
+  },
+  {
+    "name": "Christopher Plummer",
+    "tmdbId": 290,
+    "provenBy": "Beginners"
+  },
+  {
+    "name": "Christopher Walken",
+    "tmdbId": 4690,
+    "provenBy": "The Deer Hunter"
+  },
+  {
+    "name": "Cillian Murphy",
+    "tmdbId": 2037,
+    "provenBy": "Oppenheimer"
+  },
+  {
+    "name": "Claire Trevor",
+    "tmdbId": 14965,
+    "provenBy": "Key Largo"
+  },
+  {
+    "name": "Clark Gable",
+    "tmdbId": 11492,
+    "provenBy": "It Happened One Night"
+  },
+  {
+    "name": "Claudette Colbert",
+    "tmdbId": 30155,
+    "provenBy": "It Happened One Night"
+  },
+  {
+    "name": "Cliff Robertson",
+    "tmdbId": 19153,
+    "provenBy": "Charly"
+  },
+  {
+    "name": "Clint Eastwood",
+    "tmdbId": 190,
+    "provenBy": "Million Dollar Baby"
+  },
+  {
+    "name": "Cloris Leachman",
+    "tmdbId": 9599,
+    "provenBy": "The Last Picture Show"
+  },
+  {
+    "name": "Colin Firth",
+    "tmdbId": 5472,
+    "provenBy": "The King's Speech"
+  },
+  {
+    "name": "Cuba Gooding Jr.",
+    "tmdbId": 9777,
+    "provenBy": "Jerry Maguire"
+  },
+  {
+    "name": "Da'Vine Joy Randolph",
+    "tmdbId": 1180099,
+    "provenBy": "The Holdovers"
+  },
+  {
+    "name": "Damien Chazelle",
+    "tmdbId": 136495,
+    "provenBy": "La La Land"
+  },
+  {
+    "name": "Daniel Day-Lewis",
+    "tmdbId": 11856,
+    "provenBy": "Lincoln"
+  },
+  {
+    "name": "Daniel Kaluuya",
+    "tmdbId": 206919,
+    "provenBy": "Judas and the Black Messiah"
+  },
+  {
+    "name": "Daniel Kwan",
+    "tmdbId": 1383612,
+    "provenBy": "Everything Everywhere All at Once"
+  },
+  {
+    "name": "Daniel Schienert",
+    "tmdbId": null,
+    "provenBy": "Everything Everywhere All at Once"
+  },
+  {
+    "name": "Danny Boyle",
+    "tmdbId": 2034,
+    "provenBy": "Slumdog Millionaire"
+  },
+  {
+    "name": "David Lean",
+    "tmdbId": 12238,
+    "provenBy": "Lawrence of Arabia"
+  },
+  {
+    "name": "David Niven",
+    "tmdbId": 14261,
+    "provenBy": "Separate Tables"
+  },
+  {
+    "name": "Dean Jagger",
+    "tmdbId": 29313,
+    "provenBy": "Twelve O'Clock High"
+  },
+  {
+    "name": "Delbert Mann",
+    "tmdbId": 67451,
+    "provenBy": "Marty"
+  },
+  {
+    "name": "Denzel Washington",
+    "tmdbId": 5292,
+    "provenBy": "Training Day"
+  },
+  {
+    "name": "Diane Keaton",
+    "tmdbId": 3092,
+    "provenBy": "Annie Hall"
+  },
+  {
+    "name": "Dianne Wiest",
+    "tmdbId": 1902,
+    "provenBy": "Bullets Over Broadway"
+  },
+  {
+    "name": "Don Ameche",
+    "tmdbId": 18156,
+    "provenBy": "Cocoon"
+  },
+  {
+    "name": "Donald Crisp",
+    "tmdbId": 8841,
+    "provenBy": "How Green Was My Valley"
+  },
+  {
+    "name": "Donna Reed",
+    "tmdbId": 17752,
+    "provenBy": "From Here to Eternity"
+  },
+  {
+    "name": "Dorothy Malone",
+    "tmdbId": 10487,
+    "provenBy": "Written on the Wind"
+  },
+  {
+    "name": "Dustin Hoffman",
+    "tmdbId": 4483,
+    "provenBy": "Rain Man"
+  },
+  {
+    "name": "Ed Begley",
+    "tmdbId": 39816,
+    "provenBy": "Sweet Bird of Youth"
+  },
+  {
+    "name": "Eddie Redmayne",
+    "tmdbId": 37632,
+    "provenBy": "The Theory of Everything"
+  },
+  {
+    "name": "Edmond O'Brien",
+    "tmdbId": 8254,
+    "provenBy": "The Barefoot Contessa"
+  },
+  {
+    "name": "Edmund Gwenn",
+    "tmdbId": 22600,
+    "provenBy": "Miracle on 34th Street"
+  },
+  {
+    "name": "Eileen Heckart",
+    "tmdbId": 40618,
+    "provenBy": "Butterflies Are Free"
+  },
+  {
+    "name": "Elia Kazan",
+    "tmdbId": 2746,
+    "provenBy": "On the Waterfront"
+  },
+  {
+    "name": "Elizabeth Taylor",
+    "tmdbId": 3635,
+    "provenBy": "Who's Afraid of Virginia Woolf?"
+  },
+  {
+    "name": "Ellen Burstyn",
+    "tmdbId": 9560,
+    "provenBy": "Alice Doesn't Live Here Anymore"
+  },
+  {
+    "name": "Emil Jannings",
+    "tmdbId": 2895,
+    "provenBy": "The Last Command"
+  },
+  {
+    "name": "Emma Stone",
+    "tmdbId": 54693,
+    "provenBy": "Poor Things"
+  },
+  {
+    "name": "Emma Thompson",
+    "tmdbId": 7056,
+    "provenBy": "Howards End"
+  },
+  {
+    "name": "Ernest Borgnine",
+    "tmdbId": 7502,
+    "provenBy": "Marty"
+  },
+  {
+    "name": "Estelle Parsons",
+    "tmdbId": 6461,
+    "provenBy": "Bonnie and Clyde"
+  },
+  {
+    "name": "Ethan Coen",
+    "tmdbId": 1224,
+    "provenBy": "No Country for Old Men"
+  },
+  {
+    "name": "Ethel Barrymore",
+    "tmdbId": 97777,
+    "provenBy": "None But the Lonely Heart"
+  },
+  {
+    "name": "Eva Marie Saint",
+    "tmdbId": 2639,
+    "provenBy": "On the Waterfront"
+  },
+  {
+    "name": "F. Murray Abraham",
+    "tmdbId": 1164,
+    "provenBy": "Amadeus"
+  },
+  {
+    "name": "Fay Bainter",
+    "tmdbId": 20366,
+    "provenBy": "Jezebel"
+  },
+  {
+    "name": "Faye Dunaway",
+    "tmdbId": 6450,
+    "provenBy": "Network"
+  },
+  {
+    "name": "Forest Whitaker",
+    "tmdbId": 2178,
+    "provenBy": "The Last King of Scotland"
+  },
+  {
+    "name": "Frances McDormand",
+    "tmdbId": 3910,
+    "provenBy": "Nomadland"
+  },
+  {
+    "name": "Francis Ford Coppola",
+    "tmdbId": 1776,
+    "provenBy": "The Godfather Part II"
+  },
+  {
+    "name": "Frank Borzage",
+    "tmdbId": 14855,
+    "provenBy": "Bad Girl"
+  },
+  {
+    "name": "Frank Capra",
+    "tmdbId": 2662,
+    "provenBy": "You Can't Take It with You"
+  },
+  {
+    "name": "Frank Lloyd",
+    "tmdbId": 72061,
+    "provenBy": "Cavalcade"
+  },
+  {
+    "name": "Frank Sinatra",
+    "tmdbId": 4347,
+    "provenBy": "From Here to Eternity"
+  },
+  {
+    "name": "Franklin J. Schaffner",
+    "tmdbId": 13265,
+    "provenBy": "Patton"
+  },
+  {
+    "name": "Fred Zinnemann",
+    "tmdbId": 4065,
+    "provenBy": "A Man for All Seasons"
+  },
+  {
+    "name": "Frederic March",
+    "tmdbId": null,
+    "provenBy": "The Best Years of Our Lives"
+  },
+  {
+    "name": "Fredric March",
+    "tmdbId": 13576,
+    "provenBy": "Dr. Jekyll and Mr. Hyde"
+  },
+  {
+    "name": "Gale Sondergaard",
+    "tmdbId": 25173,
+    "provenBy": "Anthony Adverse"
+  },
+  {
+    "name": "Gary Cooper",
+    "tmdbId": 4068,
+    "provenBy": "High Noon"
+  },
+  {
+    "name": "Gary Oldman",
+    "tmdbId": 64,
+    "provenBy": "Darkest Hour"
+  },
+  {
+    "name": "Geena Davis",
+    "tmdbId": 16935,
+    "provenBy": "The Accidental Tourist"
+  },
+  {
+    "name": "Gene Hackman",
+    "tmdbId": 193,
+    "provenBy": "Unforgiven"
+  },
+  {
+    "name": "Geoffrey Rush",
+    "tmdbId": 118,
+    "provenBy": "Shine"
+  },
+  {
+    "name": "George Arliss",
+    "tmdbId": 124309,
+    "provenBy": "Disraeli"
+  },
+  {
+    "name": "George Burns",
+    "tmdbId": 80625,
+    "provenBy": "The Sunshine Boys"
+  },
+  {
+    "name": "George C. Scott",
+    "tmdbId": 862,
+    "provenBy": "Patton"
+  },
+  {
+    "name": "George Chakiris",
+    "tmdbId": 24880,
+    "provenBy": "West Side Story"
+  },
+  {
+    "name": "George Clooney",
+    "tmdbId": 1461,
+    "provenBy": "Syriana"
+  },
+  {
+    "name": "George Cukor",
+    "tmdbId": 14674,
+    "provenBy": "My Fair Lady"
+  },
+  {
+    "name": "George Kennedy",
+    "tmdbId": 12950,
+    "provenBy": "Cool Hand Luke"
+  },
+  {
+    "name": "George Roy Hill",
+    "tmdbId": 9577,
+    "provenBy": "The Sting"
+  },
+  {
+    "name": "George Sanders",
+    "tmdbId": 3361,
+    "provenBy": "All About Eve"
+  },
+  {
+    "name": "George Stevens",
+    "tmdbId": 18738,
+    "provenBy": "Giant"
+  },
+  {
+    "name": "Geraldine Page",
+    "tmdbId": 41283,
+    "provenBy": "The Trip to Bountiful"
+  },
+  {
+    "name": "Gig Young",
+    "tmdbId": 70985,
+    "provenBy": "They Shoot Horses, Don't They?"
+  },
+  {
+    "name": "Ginger Rogers",
+    "tmdbId": 30003,
+    "provenBy": "Kitty Foyle"
+  },
+  {
+    "name": "Glenda Jackson",
+    "tmdbId": 115573,
+    "provenBy": "A Touch of Class"
+  },
+  {
+    "name": "Gloria Grahame",
+    "tmdbId": 77081,
+    "provenBy": "The Bad and the Beautiful"
+  },
+  {
+    "name": "Goldie Hawn",
+    "tmdbId": 18892,
+    "provenBy": "Cactus Flower"
+  },
+  {
+    "name": "Grace Kelly",
+    "tmdbId": 4070,
+    "provenBy": "The Country Girl"
+  },
+  {
+    "name": "Greer Garson",
+    "tmdbId": 93805,
+    "provenBy": "Mrs. Miniver"
+  },
+  {
+    "name": "Gregory Peck",
+    "tmdbId": 8487,
+    "provenBy": "To Kill a Mockingbird"
+  },
+  {
+    "name": "Guillermo del Toro",
+    "tmdbId": 10828,
+    "provenBy": "The Shape of Water"
+  },
+  {
+    "name": "Gwyneth Paltrow",
+    "tmdbId": 12052,
+    "provenBy": "Shakespeare in Love"
+  },
+  {
+    "name": "Haing S. Ngor",
+    "tmdbId": 8976,
+    "provenBy": "The Killing Fields"
+  },
+  {
+    "name": "Halle Berry",
+    "tmdbId": 4587,
+    "provenBy": "Monster's Ball"
+  },
+  {
+    "name": "Harold Russell",
+    "tmdbId": 13580,
+    "provenBy": "The Best Years of Our Lives"
+  },
+  {
+    "name": "Hattie McDaniel",
+    "tmdbId": 11498,
+    "provenBy": "Gone with the Wind"
+  },
+  {
+    "name": "Heath Ledger",
+    "tmdbId": 1810,
+    "provenBy": "The Dark Knight"
+  },
+  {
+    "name": "Helen Hayes",
+    "tmdbId": 47439,
+    "provenBy": "Airport"
+  },
+  {
+    "name": "Helen Hunt",
+    "tmdbId": 9994,
+    "provenBy": "As Good as It Gets"
+  },
+  {
+    "name": "Helen Mirren",
+    "tmdbId": 15735,
+    "provenBy": "The Queen"
+  },
+  {
+    "name": "Henry Fonda",
+    "tmdbId": 4958,
+    "provenBy": "On Golden Pond"
+  },
+  {
+    "name": "Hilary Swank",
+    "tmdbId": 448,
+    "provenBy": "Million Dollar Baby"
+  },
+  {
+    "name": "Holly Hunter",
+    "tmdbId": 18686,
+    "provenBy": "The Piano"
+  },
+  {
+    "name": "Hugh Griffith",
+    "tmdbId": 10021,
+    "provenBy": "Ben-Hur"
+  },
+  {
+    "name": "Humphrey Bogart",
+    "tmdbId": 4110,
+    "provenBy": "The African Queen"
+  },
+  {
+    "name": "Ingrid Bergman",
+    "tmdbId": 4111,
+    "provenBy": "Murder on the Orient Express"
+  },
+  {
+    "name": "J. K. Simmons",
+    "tmdbId": 18999,
+    "provenBy": "Whiplash"
+  },
+  {
+    "name": "Jack Albertson",
+    "tmdbId": 3461,
+    "provenBy": "The Subject Was Roses"
+  },
+  {
+    "name": "Jack Lemmon",
+    "tmdbId": 3151,
+    "provenBy": "Save the Tiger"
+  },
+  {
+    "name": "Jack Nicholson",
+    "tmdbId": 514,
+    "provenBy": "As Good as It Gets"
+  },
+  {
+    "name": "Jack Palance",
+    "tmdbId": 3785,
+    "provenBy": "City Slickers"
+  },
+  {
+    "name": "James Cagney",
+    "tmdbId": 5788,
+    "provenBy": "Yankee Doodle Dandy"
+  },
+  {
+    "name": "James Cameron",
+    "tmdbId": 2710,
+    "provenBy": "Titanic"
+  },
+  {
+    "name": "James Coburn",
+    "tmdbId": 5563,
+    "provenBy": "Affliction"
+  },
+  {
+    "name": "James Dunn",
+    "tmdbId": 131618,
+    "provenBy": "A Tree Grows in Brooklyn"
+  },
+  {
+    "name": "James L. Brooks",
+    "tmdbId": 3388,
+    "provenBy": "Terms of Endearment"
+  },
+  {
+    "name": "James Stewart",
+    "tmdbId": 854,
+    "provenBy": "The Philadelphia Story"
+  },
+  {
+    "name": "Jamie Foxx",
+    "tmdbId": 134,
+    "provenBy": "Ray"
+  },
+  {
+    "name": "Jamie Lee Curtis",
+    "tmdbId": 8944,
+    "provenBy": "Everything Everywhere All at Once"
+  },
+  {
+    "name": "Jane Campion",
+    "tmdbId": 10757,
+    "provenBy": "The Power of the Dog"
+  },
+  {
+    "name": "Jane Darwell",
+    "tmdbId": 8515,
+    "provenBy": "The Grapes of Wrath"
+  },
+  {
+    "name": "Jane Fonda",
+    "tmdbId": 6352,
+    "provenBy": "Coming Home"
+  },
+  {
+    "name": "Jane Wyman",
+    "tmdbId": 20391,
+    "provenBy": "Johnny Belinda"
+  },
+  {
+    "name": "Janet Gaynor",
+    "tmdbId": 9088,
+    "provenBy": "7th Heaven"
+  },
+  {
+    "name": "Jared Leto",
+    "tmdbId": 7499,
+    "provenBy": "Dallas Buyers Club"
+  },
+  {
+    "name": "Jason Robards",
+    "tmdbId": 4765,
+    "provenBy": "Julia"
+  },
+  {
+    "name": "Javier Bardem",
+    "tmdbId": 3810,
+    "provenBy": "No Country for Old Men"
+  },
+  {
+    "name": "Jean Dujardin",
+    "tmdbId": 56024,
+    "provenBy": "The Artist"
+  },
+  {
+    "name": "Jeff Bridges",
+    "tmdbId": 1229,
+    "provenBy": "Crazy Heart"
+  },
+  {
+    "name": "Jennifer Connelly",
+    "tmdbId": 6161,
+    "provenBy": "A Beautiful Mind"
+  },
+  {
+    "name": "Jennifer Hudson",
+    "tmdbId": 15565,
+    "provenBy": "Dreamgirls"
+  },
+  {
+    "name": "Jennifer Jones",
+    "tmdbId": 39554,
+    "provenBy": "The Song of Bernadette"
+  },
+  {
+    "name": "Jennifer Lawrence",
+    "tmdbId": 72129,
+    "provenBy": "Silver Linings Playbook"
+  },
+  {
+    "name": "Jeremy Irons",
+    "tmdbId": 16940,
+    "provenBy": "Reversal of Fortune"
+  },
+  {
+    "name": "Jerome Robbins",
+    "tmdbId": 18868,
+    "provenBy": "West Side Story"
+  },
+  {
+    "name": "Jessica Chastain",
+    "tmdbId": 83002,
+    "provenBy": "The Eyes of Tammy Faye"
+  },
+  {
+    "name": "Jessica Lange",
+    "tmdbId": 4431,
+    "provenBy": "Blue Sky"
+  },
+  {
+    "name": "Jessica Tandy",
+    "tmdbId": 5698,
+    "provenBy": "Driving Miss Daisy"
+  },
+  {
+    "name": "Jessie Buckley",
+    "tmdbId": 1498158,
+    "provenBy": "Hamnet"
+  },
+  {
+    "name": "Jim Broadbent",
+    "tmdbId": 388,
+    "provenBy": "Iris"
+  },
+  {
+    "name": "Jo Van Fleet",
+    "tmdbId": 2752,
+    "provenBy": "East of Eden"
+  },
+  {
+    "name": "Joan Crawford",
+    "tmdbId": 31550,
+    "provenBy": "Mildred Pierce"
+  },
+  {
+    "name": "Joan Fontaine",
+    "tmdbId": 3360,
+    "provenBy": "Suspicion"
+  },
+  {
+    "name": "Joanne Woodward",
+    "tmdbId": 109410,
+    "provenBy": "The Three Faces of Eve"
+  },
+  {
+    "name": "Joaquin Phoenix",
+    "tmdbId": 73421,
+    "provenBy": "Joker"
+  },
+  {
+    "name": "Jodie Foster",
+    "tmdbId": 1038,
+    "provenBy": "The Silence of the Lambs"
+  },
+  {
+    "name": "Joe Pesci",
+    "tmdbId": 4517,
+    "provenBy": "GoodFellas"
+  },
+  {
+    "name": "Joel",
+    "tmdbId": 1223,
+    "provenBy": "No Country for Old Men"
+  },
+  {
+    "name": "Joel Grey",
+    "tmdbId": 6748,
+    "provenBy": "Cabaret"
+  },
+  {
+    "name": "John Ford",
+    "tmdbId": 8500,
+    "provenBy": "The Quiet Man"
+  },
+  {
+    "name": "John G. Avildsen",
+    "tmdbId": 16513,
+    "provenBy": "Rocky"
+  },
+  {
+    "name": "John Gielgud",
+    "tmdbId": 11857,
+    "provenBy": "Arthur"
+  },
+  {
+    "name": "John Houseman",
+    "tmdbId": 11783,
+    "provenBy": "The Paper Chase"
+  },
+  {
+    "name": "John Huston",
+    "tmdbId": 6593,
+    "provenBy": "The Treasure of the Sierra Madre"
+  },
+  {
+    "name": "John Mills",
+    "tmdbId": 11859,
+    "provenBy": "Ryan's Daughter"
+  },
+  {
+    "name": "John Schlesinger",
+    "tmdbId": 19304,
+    "provenBy": "Midnight Cowboy"
+  },
+  {
+    "name": "John Wayne",
+    "tmdbId": 4165,
+    "provenBy": "True Grit"
+  },
+  {
+    "name": "Jon Voight",
+    "tmdbId": 10127,
+    "provenBy": "Coming Home"
+  },
+  {
+    "name": "Jonathan Demme",
+    "tmdbId": 16294,
+    "provenBy": "The Silence of the Lambs"
+  },
+  {
+    "name": "Jose Ferrer",
+    "tmdbId": 12515,
+    "provenBy": "Cyrano de Bergerac"
+  },
+  {
+    "name": "Joseph L. Mankiewicz",
+    "tmdbId": 10601,
+    "provenBy": "All About Eve"
+  },
+  {
+    "name": "Joseph Schildkraut",
+    "tmdbId": 24820,
+    "provenBy": "The Life of Emile Zola"
+  },
+  {
+    "name": "Josephine Hull",
+    "tmdbId": 2667,
+    "provenBy": "Harvey"
+  },
+  {
+    "name": "Judi Dench",
+    "tmdbId": 5309,
+    "provenBy": "Shakespeare in Love"
+  },
+  {
+    "name": "Judy Holliday",
+    "tmdbId": 85651,
+    "provenBy": "Born Yesterday"
+  },
+  {
+    "name": "Julia Roberts",
+    "tmdbId": 1204,
+    "provenBy": "Erin Brockovich"
+  },
+  {
+    "name": "Julianne Moore",
+    "tmdbId": 1231,
+    "provenBy": "Still Alice"
+  },
+  {
+    "name": "Julie Andrews",
+    "tmdbId": 5823,
+    "provenBy": "Mary Poppins"
+  },
+  {
+    "name": "Julie Christie",
+    "tmdbId": 1666,
+    "provenBy": "Darling"
+  },
+  {
+    "name": "Juliette Binoche",
+    "tmdbId": 1137,
+    "provenBy": "The English Patient"
+  },
+  {
+    "name": "Karl Malden",
+    "tmdbId": 9857,
+    "provenBy": "A Streetcar Named Desire"
+  },
+  {
+    "name": "Kate Winslet",
+    "tmdbId": 204,
+    "provenBy": "The Reader"
+  },
+  {
+    "name": "Katharine Hepburn",
+    "tmdbId": 6598,
+    "provenBy": "On Golden Pond"
+  },
+  {
+    "name": "Kathryn Bigelow",
+    "tmdbId": 14392,
+    "provenBy": "The Hurt Locker"
+  },
+  {
+    "name": "Kathy Bates",
+    "tmdbId": 8534,
+    "provenBy": "Misery"
+  },
+  {
+    "name": "Katina Paxinou",
+    "tmdbId": 54905,
+    "provenBy": "For Whom the Bell Tolls"
+  },
+  {
+    "name": "Ke Huy Quan",
+    "tmdbId": 690,
+    "provenBy": "Everything Everywhere All at Once"
+  },
+  {
+    "name": "Kevin Costner",
+    "tmdbId": 1269,
+    "provenBy": "Dances with Wolves"
+  },
+  {
+    "name": "Kevin Kline",
+    "tmdbId": 8945,
+    "provenBy": "A Fish Called Wanda"
+  },
+  {
+    "name": "Kevin Spacey",
+    "tmdbId": 1979,
+    "provenBy": "American Beauty"
+  },
+  {
+    "name": "Kieran Culkin",
+    "tmdbId": 18793,
+    "provenBy": "A Real Pain"
+  },
+  {
+    "name": "Kim Basinger",
+    "tmdbId": 326,
+    "provenBy": "L.A. Confidential"
+  },
+  {
+    "name": "Kim Hunter",
+    "tmdbId": 10539,
+    "provenBy": "A Streetcar Named Desire"
+  },
+  {
+    "name": "Laura Dern",
+    "tmdbId": 4784,
+    "provenBy": "Marriage Story"
+  },
+  {
+    "name": "Laurence Olivier",
+    "tmdbId": 3359,
+    "provenBy": "Hamlet"
+  },
+  {
+    "name": "Lee Grant",
+    "tmdbId": 30123,
+    "provenBy": "Shampoo"
+  },
+  {
+    "name": "Lee Marvin",
+    "tmdbId": 18391,
+    "provenBy": "Cat Ballou"
+  },
+  {
+    "name": "Leo McCarey",
+    "tmdbId": 30008,
+    "provenBy": "Going My Way"
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "tmdbId": 6193,
+    "provenBy": "The Revenant"
+  },
+  {
+    "name": "Lewis Milestone",
+    "tmdbId": 2000,
+    "provenBy": "All Quiet on the Western Front"
+  },
+  {
+    "name": "Lila Kedrova",
+    "tmdbId": 45523,
+    "provenBy": "Zorba the Greek"
+  },
+  {
+    "name": "Linda Hunt",
+    "tmdbId": 12516,
+    "provenBy": "The Year of Living Dangerously"
+  },
+  {
+    "name": "Lionel Barrymore",
+    "tmdbId": 17753,
+    "provenBy": "A Free Soul"
+  },
+  {
+    "name": "Liza Minnelli",
+    "tmdbId": 66776,
+    "provenBy": "Cabaret"
+  },
+  {
+    "name": "Loretta Young",
+    "tmdbId": 85848,
+    "provenBy": "The Farmer's Daughter"
+  },
+  {
+    "name": "Louis Gossett Jr.",
+    "tmdbId": 20959,
+    "provenBy": "An Officer and a Gentleman"
+  },
+  {
+    "name": "Louise Fletcher",
+    "tmdbId": 7071,
+    "provenBy": "One Flew Over the Cuckoo's Nest"
+  },
+  {
+    "name": "Luise Rainer",
+    "tmdbId": 125482,
+    "provenBy": "The Good Earth"
+  },
+  {
+    "name": "Lupita Nyong'o",
+    "tmdbId": 1267329,
+    "provenBy": "12 Years a Slave"
+  },
+  {
+    "name": "Maggie Smith",
+    "tmdbId": 10978,
+    "provenBy": "California Suite"
+  },
+  {
+    "name": "Mahershala Ali",
+    "tmdbId": 932967,
+    "provenBy": "Green Book"
+  },
+  {
+    "name": "Marcia Gay Harden",
+    "tmdbId": 4726,
+    "provenBy": "Pollock"
+  },
+  {
+    "name": "Margaret Rutherford",
+    "tmdbId": 11127,
+    "provenBy": "The V.I.P.s"
+  },
+  {
+    "name": "Marie Dressler",
+    "tmdbId": 89610,
+    "provenBy": "Min and Bill"
+  },
+  {
+    "name": "Marion Cotillard",
+    "tmdbId": 8293,
+    "provenBy": "La Vie en Rose"
+  },
+  {
+    "name": "Marisa Tomei",
+    "tmdbId": 3141,
+    "provenBy": "My Cousin Vinny"
+  },
+  {
+    "name": "Mark Rylance",
+    "tmdbId": 40900,
+    "provenBy": "Bridge of Spies"
+  },
+  {
+    "name": "Marlee Matlin",
+    "tmdbId": 19797,
+    "provenBy": "Children of a Lesser God"
+  },
+  {
+    "name": "Marlon Brando",
+    "tmdbId": 3084,
+    "provenBy": "The Godfather"
+  },
+  {
+    "name": "Martin Balsam",
+    "tmdbId": 1936,
+    "provenBy": "A Thousand Clowns"
+  },
+  {
+    "name": "Martin Landau",
+    "tmdbId": 2641,
+    "provenBy": "Ed Wood"
+  },
+  {
+    "name": "Martin Scorsese",
+    "tmdbId": 1032,
+    "provenBy": "The Departed"
+  },
+  {
+    "name": "Mary Astor",
+    "tmdbId": 13992,
+    "provenBy": "The Great Lie"
+  },
+  {
+    "name": "Mary Pickford",
+    "tmdbId": 100047,
+    "provenBy": "Coquette"
+  },
+  {
+    "name": "Mary Steenburgen",
+    "tmdbId": 2453,
+    "provenBy": "Melvin and Howard"
+  },
+  {
+    "name": "Matthew McConaughey",
+    "tmdbId": 10297,
+    "provenBy": "Dallas Buyers Club"
+  },
+  {
+    "name": "Maureen Stapleton",
+    "tmdbId": 21151,
+    "provenBy": "Reds"
+  },
+  {
+    "name": "Maximilian Schell",
+    "tmdbId": 12150,
+    "provenBy": "Judgment at Nuremberg"
+  },
+  {
+    "name": "Mel Gibson",
+    "tmdbId": 2461,
+    "provenBy": "Braveheart"
+  },
+  {
+    "name": "Melissa Leo",
+    "tmdbId": 6832,
+    "provenBy": "The Fighter"
+  },
+  {
+    "name": "Melvyn Douglas",
+    "tmdbId": 19550,
+    "provenBy": "Being There"
+  },
+  {
+    "name": "Mercedes McCambridge",
+    "tmdbId": 18737,
+    "provenBy": "All the King's Men"
+  },
+  {
+    "name": "Mercedes Ruehl",
+    "tmdbId": 2167,
+    "provenBy": "The Fisher King"
+  },
+  {
+    "name": "Meryl Streep",
+    "tmdbId": 5064,
+    "provenBy": "The Iron Lady"
+  },
+  {
+    "name": "Michael B. Jordan",
+    "tmdbId": 135651,
+    "provenBy": "Sinners"
+  },
+  {
+    "name": "Michael Caine",
+    "tmdbId": 3895,
+    "provenBy": "The Cider House Rules"
+  },
+  {
+    "name": "Michael Cimino",
+    "tmdbId": 12114,
+    "provenBy": "The Deer Hunter"
+  },
+  {
+    "name": "Michael Curtiz",
+    "tmdbId": 4109,
+    "provenBy": "Casablanca"
+  },
+  {
+    "name": "Michael Douglas",
+    "tmdbId": 3392,
+    "provenBy": "Wall Street"
+  },
+  {
+    "name": "Michel Hazanavicius",
+    "tmdbId": 67717,
+    "provenBy": "The Artist"
+  },
+  {
+    "name": "Michelle Yeoh",
+    "tmdbId": 1620,
+    "provenBy": "Everything Everywhere All at Once"
+  },
+  {
+    "name": "Mike Nichols",
+    "tmdbId": 5342,
+    "provenBy": "The Graduate"
+  },
+  {
+    "name": "Mikey Madison",
+    "tmdbId": 1640439,
+    "provenBy": "Anora"
+  },
+  {
+    "name": "Milos Forman",
+    "tmdbId": 3974,
+    "provenBy": "Amadeus"
+  },
+  {
+    "name": "Mira Sorvino",
+    "tmdbId": 23931,
+    "provenBy": "Mighty Aphrodite"
+  },
+  {
+    "name": "Miyoshi Umeki",
+    "tmdbId": 124933,
+    "provenBy": "Sayonara"
+  },
+  {
+    "name": "Mo'Nique",
+    "tmdbId": 60561,
+    "provenBy": "Precious"
+  },
+  {
+    "name": "Morgan Freeman",
+    "tmdbId": 192,
+    "provenBy": "Million Dollar Baby"
+  },
+  {
+    "name": "Natalie Portman",
+    "tmdbId": 524,
+    "provenBy": "Black Swan"
+  },
+  {
+    "name": "Nicolas Cage",
+    "tmdbId": 2963,
+    "provenBy": "Leaving Las Vegas"
+  },
+  {
+    "name": "Nicole Kidman",
+    "tmdbId": 2227,
+    "provenBy": "The Hours"
+  },
+  {
+    "name": "Norma Shearer",
+    "tmdbId": 88867,
+    "provenBy": "The Divorcee"
+  },
+  {
+    "name": "Norman Taurog",
+    "tmdbId": 82800,
+    "provenBy": "Skippy"
+  },
+  {
+    "name": "Octavia Spencer",
+    "tmdbId": 6944,
+    "provenBy": "The Help"
+  },
+  {
+    "name": "Oliver Stone",
+    "tmdbId": 1152,
+    "provenBy": "Born on the Fourth of July"
+  },
+  {
+    "name": "Olivia Colman",
+    "tmdbId": 39187,
+    "provenBy": "The Favourite"
+  },
+  {
+    "name": "Olivia de Havilland",
+    "tmdbId": 8725,
+    "provenBy": "The Heiress"
+  },
+  {
+    "name": "Olympia Dukakis",
+    "tmdbId": 3019,
+    "provenBy": "Moonstruck"
+  },
+  {
+    "name": "Patricia Arquette",
+    "tmdbId": 4687,
+    "provenBy": "Boyhood"
+  },
+  {
+    "name": "Patricia Neal",
+    "tmdbId": 1934,
+    "provenBy": "Hud"
+  },
+  {
+    "name": "Patty Duke",
+    "tmdbId": 27446,
+    "provenBy": "The Miracle Worker"
+  },
+  {
+    "name": "Paul Lukas",
+    "tmdbId": 2092,
+    "provenBy": "Watch on the Rhine"
+  },
+  {
+    "name": "Paul Muni",
+    "tmdbId": 13352,
+    "provenBy": "The Story of Louis Pasteur"
+  },
+  {
+    "name": "Paul Newman",
+    "tmdbId": 3636,
+    "provenBy": "The Color of Money"
+  },
+  {
+    "name": "Paul Scofield",
+    "tmdbId": 13324,
+    "provenBy": "A Man for All Seasons"
+  },
+  {
+    "name": "Paul Thomas Anderson",
+    "tmdbId": 4762,
+    "provenBy": "One Battle after Another"
+  },
+  {
+    "name": "Peggy Ashcroft",
+    "tmdbId": 3672,
+    "provenBy": "A Passage to India"
+  },
+  {
+    "name": "Penelope Cruz",
+    "tmdbId": 955,
+    "provenBy": "Vicky Cristina Barcelona"
+  },
+  {
+    "name": "Peter Finch",
+    "tmdbId": 29903,
+    "provenBy": "Network"
+  },
+  {
+    "name": "Peter Jackson",
+    "tmdbId": 108,
+    "provenBy": "The Lord of the Rings: The Return of the King"
+  },
+  {
+    "name": "Peter Ustinov",
+    "tmdbId": 14501,
+    "provenBy": "Topkapi"
+  },
+  {
+    "name": "Philip Seymour Hoffman",
+    "tmdbId": 1233,
+    "provenBy": "Capote"
+  },
+  {
+    "name": "Rachel Weisz",
+    "tmdbId": 3293,
+    "provenBy": "The Constant Gardener"
+  },
+  {
+    "name": "Rami Malek",
+    "tmdbId": 17838,
+    "provenBy": "Bohemian Rhapsody"
+  },
+  {
+    "name": "Ray Milland",
+    "tmdbId": 7124,
+    "provenBy": "The Lost Weekend"
+  },
+  {
+    "name": "Red Buttons",
+    "tmdbId": 7503,
+    "provenBy": "Sayonara"
+  },
+  {
+    "name": "Reese Witherspoon",
+    "tmdbId": 368,
+    "provenBy": "Walk the Line"
+  },
+  {
+    "name": "Regina King",
+    "tmdbId": 9788,
+    "provenBy": "If Beale Street Could Talk"
+  },
+  {
+    "name": "Renee Zellweger",
+    "tmdbId": 9137,
+    "provenBy": "Judy"
+  },
+  {
+    "name": "Rex Harrison",
+    "tmdbId": 35321,
+    "provenBy": "My Fair Lady"
+  },
+  {
+    "name": "Richard Attenborough",
+    "tmdbId": 4786,
+    "provenBy": "Gandhi"
+  },
+  {
+    "name": "Richard Dreyfuss",
+    "tmdbId": 3037,
+    "provenBy": "The Goodbye Girl"
+  },
+  {
+    "name": "Rita Moreno",
+    "tmdbId": 13299,
+    "provenBy": "West Side Story"
+  },
+  {
+    "name": "Robert Benton",
+    "tmdbId": 6729,
+    "provenBy": "Kramer vs. Kramer"
+  },
+  {
+    "name": "Robert De Niro",
+    "tmdbId": 380,
+    "provenBy": "Raging Bull"
+  },
+  {
+    "name": "Robert Donat",
+    "tmdbId": 3609,
+    "provenBy": "Goodbye, Mr. Chips"
+  },
+  {
+    "name": "Robert Downey Jr.",
+    "tmdbId": 3223,
+    "provenBy": "Oppenheimer"
+  },
+  {
+    "name": "Robert Duvall",
+    "tmdbId": 3087,
+    "provenBy": "Tender Mercies"
+  },
+  {
+    "name": "Robert Redford",
+    "tmdbId": 4135,
+    "provenBy": "Ordinary People"
+  },
+  {
+    "name": "Robert Wise",
+    "tmdbId": 1744,
+    "provenBy": "The Sound of Music"
+  },
+  {
+    "name": "Robert Zemeckis",
+    "tmdbId": 24,
+    "provenBy": "Forrest Gump"
+  },
+  {
+    "name": "Roberto Benigni",
+    "tmdbId": 4818,
+    "provenBy": "Life Is Beautiful"
+  },
+  {
+    "name": "Robin Williams",
+    "tmdbId": 2157,
+    "provenBy": "Good Will Hunting"
+  },
+  {
+    "name": "Rod Steiger",
+    "tmdbId": 522,
+    "provenBy": "In the Heat of the Night"
+  },
+  {
+    "name": "Roman Polanski",
+    "tmdbId": 3556,
+    "provenBy": "The Pianist"
+  },
+  {
+    "name": "Ron Howard",
+    "tmdbId": 6159,
+    "provenBy": "A Beautiful Mind"
+  },
+  {
+    "name": "Ronald Colman",
+    "tmdbId": 29522,
+    "provenBy": "A Double Life"
+  },
+  {
+    "name": "Russell Crowe",
+    "tmdbId": 934,
+    "provenBy": "Gladiator"
+  },
+  {
+    "name": "Ruth Gordon",
+    "tmdbId": 4970,
+    "provenBy": "Rosemary's Baby"
+  },
+  {
+    "name": "Sally Field",
+    "tmdbId": 35,
+    "provenBy": "Places in the Heart"
+  },
+  {
+    "name": "Sam Mendes",
+    "tmdbId": 39,
+    "provenBy": "American Beauty"
+  },
+  {
+    "name": "Sam Rockwell",
+    "tmdbId": 6807,
+    "provenBy": "Three Billboards Outside Ebbing, Missouri"
+  },
+  {
+    "name": "Sandra Bullock",
+    "tmdbId": 18277,
+    "provenBy": "The Blind Side"
+  },
+  {
+    "name": "Sandy Dennis",
+    "tmdbId": 18365,
+    "provenBy": "Who's Afraid of Virginia Woolf?"
+  },
+  {
+    "name": "Sean Baker",
+    "tmdbId": 118415,
+    "provenBy": "Anora"
+  },
+  {
+    "name": "Sean Connery",
+    "tmdbId": 738,
+    "provenBy": "The Untouchables"
+  },
+  {
+    "name": "Sean Penn",
+    "tmdbId": 2228,
+    "provenBy": "Milk"
+  },
+  {
+    "name": "Shelley Winters",
+    "tmdbId": 7632,
+    "provenBy": "A Patch of Blue"
+  },
+  {
+    "name": "Shirley Booth",
+    "tmdbId": 113284,
+    "provenBy": "Come Back, Little Sheba"
+  },
+  {
+    "name": "Shirley Jones",
+    "tmdbId": 60158,
+    "provenBy": "Elmer Gantry"
+  },
+  {
+    "name": "Shirley MacLaine",
+    "tmdbId": 4090,
+    "provenBy": "Terms of Endearment"
+  },
+  {
+    "name": "Sidney Poitier",
+    "tmdbId": 16897,
+    "provenBy": "Lilies of the Field"
+  },
+  {
+    "name": "Simone Signoret",
+    "tmdbId": 12266,
+    "provenBy": "Room at the Top"
+  },
+  {
+    "name": "Sissy Spacek",
+    "tmdbId": 5606,
+    "provenBy": "Coal Miner's Daughter"
+  },
+  {
+    "name": "Sophia Loren",
+    "tmdbId": 16757,
+    "provenBy": "Two Women"
+  },
+  {
+    "name": "Spencer Tracy",
+    "tmdbId": 12147,
+    "provenBy": "Boys Town"
+  },
+  {
+    "name": "Steven Soderbergh",
+    "tmdbId": 1884,
+    "provenBy": "Traffic"
+  },
+  {
+    "name": "Steven Spielberg",
+    "tmdbId": 488,
+    "provenBy": "Saving Private Ryan"
+  },
+  {
+    "name": "Susan Hayward",
+    "tmdbId": 30124,
+    "provenBy": "I Want to Live!"
+  },
+  {
+    "name": "Susan Sarandon",
+    "tmdbId": 4038,
+    "provenBy": "Dead Man Walking"
+  },
+  {
+    "name": "Sydney Pollack",
+    "tmdbId": 2226,
+    "provenBy": "Out of Africa"
+  },
+  {
+    "name": "Tatum O'Neal",
+    "tmdbId": 68890,
+    "provenBy": "Paper Moon"
+  },
+  {
+    "name": "Teresa Wright",
+    "tmdbId": 7663,
+    "provenBy": "Mrs. Miniver"
+  },
+  {
+    "name": "Thomas Mitchell",
+    "tmdbId": 3383,
+    "provenBy": "Stagecoach"
+  },
+  {
+    "name": "Tilda Swinton",
+    "tmdbId": 3063,
+    "provenBy": "Michael Clayton"
+  },
+  {
+    "name": "Tim Robbins",
+    "tmdbId": 504,
+    "provenBy": "Mystic River"
+  },
+  {
+    "name": "Timothy Hutton",
+    "tmdbId": 16327,
+    "provenBy": "Ordinary People"
+  },
+  {
+    "name": "Tom Hanks",
+    "tmdbId": 31,
+    "provenBy": "Forrest Gump"
+  },
+  {
+    "name": "Tom Hooper",
+    "tmdbId": 70500,
+    "provenBy": "The King's Speech"
+  },
+  {
+    "name": "Tommy Lee Jones",
+    "tmdbId": 2176,
+    "provenBy": "The Fugitive"
+  },
+  {
+    "name": "Tony Richardson",
+    "tmdbId": 32765,
+    "provenBy": "Tom Jones"
+  },
+  {
+    "name": "Troy Kotsur",
+    "tmdbId": 1571661,
+    "provenBy": "CODA"
+  },
+  {
+    "name": "Van Heflin",
+    "tmdbId": 18803,
+    "provenBy": "Johnny Eager"
+  },
+  {
+    "name": "Vanessa Redgrave",
+    "tmdbId": 13333,
+    "provenBy": "Julia"
+  },
+  {
+    "name": "Victor Fleming",
+    "tmdbId": 9049,
+    "provenBy": "Gone with the Wind"
+  },
+  {
+    "name": "Victor McLaglen",
+    "tmdbId": 30495,
+    "provenBy": "The Informer"
+  },
+  {
+    "name": "Vincente Minnelli",
+    "tmdbId": 13980,
+    "provenBy": "Gigi"
+  },
+  {
+    "name": "Viola Davis",
+    "tmdbId": 19492,
+    "provenBy": "Fences"
+  },
+  {
+    "name": "Vivien Leigh",
+    "tmdbId": 10538,
+    "provenBy": "A Streetcar Named Desire"
+  },
+  {
+    "name": "Wallace Beery",
+    "tmdbId": 29260,
+    "provenBy": "The Champ"
+  },
+  {
+    "name": "Walter Brennan",
+    "tmdbId": 4302,
+    "provenBy": "The Westerner"
+  },
+  {
+    "name": "Walter Huston",
+    "tmdbId": 19020,
+    "provenBy": "The Treasure of the Sierra Madre"
+  },
+  {
+    "name": "Walter Matthau",
+    "tmdbId": 6837,
+    "provenBy": "The Fortune Cookie"
+  },
+  {
+    "name": "Warner Baxter",
+    "tmdbId": 29999,
+    "provenBy": "In Old Arizona"
+  },
+  {
+    "name": "Warren Beatty",
+    "tmdbId": 6449,
+    "provenBy": "Reds"
+  },
+  {
+    "name": "Wendy Hiller",
+    "tmdbId": 13325,
+    "provenBy": "Separate Tables"
+  },
+  {
+    "name": "Whoopi Goldberg",
+    "tmdbId": 2395,
+    "provenBy": "Ghost"
+  },
+  {
+    "name": "Will Smith",
+    "tmdbId": 2888,
+    "provenBy": "King Richard"
+  },
+  {
+    "name": "William Friedkin",
+    "tmdbId": 15175,
+    "provenBy": "The French Connection"
+  },
+  {
+    "name": "William Holden",
+    "tmdbId": 8252,
+    "provenBy": "Stalag 17"
+  },
+  {
+    "name": "William Hurt",
+    "tmdbId": 227,
+    "provenBy": "Kiss of the Spider Woman"
+  },
+  {
+    "name": "William Wyler",
+    "tmdbId": 10001,
+    "provenBy": "Ben-Hur"
+  },
+  {
+    "name": "Woody Allen",
+    "tmdbId": 1243,
+    "provenBy": "Annie Hall"
+  },
+  {
+    "name": "Youn Yuh-jung",
+    "tmdbId": 1080935,
+    "provenBy": "Minari"
+  },
+  {
+    "name": "Yul Brynner",
+    "tmdbId": 14528,
+    "provenBy": "The King and I"
+  },
+  {
+    "name": "Zoe Saldaña",
+    "tmdbId": 8691,
+    "provenBy": "Emilia Pérez"
+  }
+]

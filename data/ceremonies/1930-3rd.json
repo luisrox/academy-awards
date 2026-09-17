@@ -24,7 +24,8 @@
                 {
                   "title": "All Quiet on the Western Front",
                   "tmdbId": 143,
-                  "imdbId": "tt0020629"
+                  "imdbId": "tt0020629",
+                  "posterPath": "/images/posters/143.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 143,
                   "imdbId": "tt0020629"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2000.webp"
             }
           ],
           "nominees": [
@@ -180,7 +182,8 @@
                   "tmdbId": 84274,
                   "imdbId": "tt0019823"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/124309.webp"
             }
           ],
           "nominees": [
@@ -284,7 +287,8 @@
                   "tmdbId": 80708,
                   "imdbId": "tt0020827"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/88867.webp"
             }
           ],
           "nominees": [

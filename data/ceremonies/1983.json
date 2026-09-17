@@ -24,7 +24,8 @@
                 {
                   "title": "Gandhi",
                   "tmdbId": 783,
-                  "imdbId": "tt0083987"
+                  "imdbId": "tt0083987",
+                  "posterPath": "/images/posters/783.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 783,
                   "imdbId": "tt0083987"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4786.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 783,
                   "imdbId": "tt0083987"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2282.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 15764,
                   "imdbId": "tt0084707"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/5064.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 2623,
                   "imdbId": "tt0084434"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/20959.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 9576,
                   "imdbId": "tt0084805"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4431.webp"
             }
           ],
           "nominees": [

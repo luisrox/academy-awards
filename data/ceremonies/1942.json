@@ -24,7 +24,8 @@
                 {
                   "title": "How Green Was My Valley",
                   "tmdbId": 43266,
-                  "imdbId": "tt0033729"
+                  "imdbId": "tt0033729",
+                  "posterPath": "/images/posters/43266.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 43266,
                   "imdbId": "tt0033729"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8500.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 16442,
                   "imdbId": "tt0034167"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4068.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 11462,
                   "imdbId": "tt0034248"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3360.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 43266,
                   "imdbId": "tt0033729"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8841.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 43705,
                   "imdbId": "tt0033677"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/13992.webp"
             }
           ],
           "nominees": [

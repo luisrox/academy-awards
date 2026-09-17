@@ -24,7 +24,8 @@
                 {
                   "title": "Million Dollar Baby",
                   "tmdbId": 70,
-                  "imdbId": "tt0405159"
+                  "imdbId": "tt0405159",
+                  "posterPath": "/images/posters/70.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 70,
                   "imdbId": "tt0405159"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/190.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 1677,
                   "imdbId": "tt0350258"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/134.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 70,
                   "imdbId": "tt0405159"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/448.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 70,
                   "imdbId": "tt0405159"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/192.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 2567,
                   "imdbId": "tt0338751"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/112.webp"
             }
           ],
           "nominees": [

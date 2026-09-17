@@ -104,6 +104,20 @@ export const personLinkSchema = z.object({
   name: z.string().min(1),
   tmdbId: z.number().int().nullable(),
   provenBy: z.string().min(1),
+  /** Set when the sources spell one person two ways and this row is the variant. */
+  aliasOf: z.string().min(1).optional(),
+});
+
+/**
+ * data/films.json: title -> TMDB movie resolution, hand editable.
+ * Only needed for editions scraped from the Academy, whose HTML carries titles
+ * but no ids. The historical feed already ships tmdb_id.
+ */
+export const filmLinkSchema = z.object({
+  title: z.string().min(1),
+  filmYear: z.number().int(),
+  tmdbId: z.number().int().nullable(),
+  provenBy: z.string().min(1),
 });
 
 export type CategoryGroup = z.infer<typeof categoryGroupSchema>;
@@ -120,6 +134,7 @@ export type GridEntry = z.infer<typeof gridEntrySchema>;
 export type SearchKind = z.infer<typeof searchKindSchema>;
 export type SearchDoc = z.infer<typeof searchDocSchema>;
 export type PersonLink = z.infer<typeof personLinkSchema>;
+export type FilmLink = z.infer<typeof filmLinkSchema>;
 
 /** Joins Zod issue paths so a nested failure names the exact field. */
 export function formatZodIssues(error: z.ZodError): string {

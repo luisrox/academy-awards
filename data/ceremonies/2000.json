@@ -24,7 +24,8 @@
                 {
                   "title": "American Beauty",
                   "tmdbId": 14,
-                  "imdbId": "tt0169547"
+                  "imdbId": "tt0169547",
+                  "posterPath": "/images/posters/14.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 14,
                   "imdbId": "tt0169547"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/39.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 14,
                   "imdbId": "tt0169547"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1979.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 226,
                   "imdbId": "tt0171804"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/448.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 1715,
                   "imdbId": "tt0124315"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3895.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 3558,
                   "imdbId": "tt0172493"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11701.webp"
             }
           ],
           "nominees": [

@@ -24,7 +24,8 @@
                 {
                   "title": "Gone with the Wind",
                   "tmdbId": 770,
-                  "imdbId": "tt0031381"
+                  "imdbId": "tt0031381",
+                  "posterPath": "/images/posters/770.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 770,
                   "imdbId": "tt0031381"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/9049.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 42852,
                   "imdbId": "tt0031385"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3609.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 770,
                   "imdbId": "tt0031381"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10538.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 995,
                   "imdbId": "tt0031971"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3383.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 770,
                   "imdbId": "tt0031381"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11498.webp"
             }
           ],
           "nominees": [

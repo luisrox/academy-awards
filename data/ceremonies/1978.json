@@ -24,7 +24,8 @@
                 {
                   "title": "Annie Hall",
                   "tmdbId": 703,
-                  "imdbId": "tt0075686"
+                  "imdbId": "tt0075686",
+                  "posterPath": "/images/posters/703.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 703,
                   "imdbId": "tt0075686"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1243.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 14741,
                   "imdbId": "tt0076095"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3037.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 703,
                   "imdbId": "tt0075686"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3092.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 42222,
                   "imdbId": "tt0076245"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4765.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 42222,
                   "imdbId": "tt0076245"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/13333.webp"
             }
           ],
           "nominees": [

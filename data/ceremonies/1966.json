@@ -24,7 +24,8 @@
                 {
                   "title": "The Sound of Music",
                   "tmdbId": 15121,
-                  "imdbId": "tt0059742"
+                  "imdbId": "tt0059742",
+                  "posterPath": "/images/posters/15121.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 15121,
                   "imdbId": "tt0059742"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1744.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 11694,
                   "imdbId": "tt0059017"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18391.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 24134,
                   "imdbId": "tt0059084"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1666.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 42731,
                   "imdbId": "tt0059798"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1936.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 33364,
                   "imdbId": "tt0059573"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/7632.webp"
             }
           ],
           "nominees": [

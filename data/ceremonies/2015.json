@@ -24,7 +24,8 @@
                 {
                   "title": "Birdman or (The Unexpected Virtue of Ignorance)",
                   "tmdbId": 194662,
-                  "imdbId": "tt2562232"
+                  "imdbId": "tt2562232",
+                  "posterPath": "/images/posters/194662.webp"
                 }
               ]
             }
@@ -130,7 +131,8 @@
                   "tmdbId": 194662,
                   "imdbId": "tt2562232"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/223.webp"
             }
           ],
           "nominees": [
@@ -204,7 +206,8 @@
                   "tmdbId": 266856,
                   "imdbId": "tt2980516"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/37632.webp"
             }
           ],
           "nominees": [
@@ -272,7 +275,8 @@
                   "tmdbId": 284293,
                   "imdbId": "tt3316960"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1231.webp"
             }
           ],
           "nominees": [
@@ -340,7 +344,8 @@
                   "tmdbId": 244786,
                   "imdbId": "tt2582802"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18999.webp"
             }
           ],
           "nominees": [
@@ -408,7 +413,8 @@
                   "tmdbId": 85350,
                   "imdbId": "tt1065073"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4687.webp"
             }
           ],
           "nominees": [

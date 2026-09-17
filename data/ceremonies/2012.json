@@ -24,7 +24,8 @@
                 {
                   "title": "The Artist",
                   "tmdbId": 74643,
-                  "imdbId": "tt1655442"
+                  "imdbId": "tt1655442",
+                  "posterPath": "/images/posters/74643.webp"
                 }
               ]
             }
@@ -142,7 +143,8 @@
                   "tmdbId": 74643,
                   "imdbId": "tt1655442"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/67717.webp"
             }
           ],
           "nominees": [
@@ -216,7 +218,8 @@
                   "tmdbId": 74643,
                   "imdbId": "tt1655442"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/56024.webp"
             }
           ],
           "nominees": [
@@ -284,7 +287,8 @@
                   "tmdbId": 71688,
                   "imdbId": "tt1007029"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/5064.webp"
             }
           ],
           "nominees": [
@@ -352,7 +356,8 @@
                   "tmdbId": 55347,
                   "imdbId": "tt1532503"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/290.webp"
             }
           ],
           "nominees": [
@@ -420,7 +425,8 @@
                   "tmdbId": 50014,
                   "imdbId": "tt1454029"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/6944.webp"
             }
           ],
           "nominees": [

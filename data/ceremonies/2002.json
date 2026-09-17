@@ -24,7 +24,8 @@
                 {
                   "title": "A Beautiful Mind",
                   "tmdbId": 453,
-                  "imdbId": "tt0268978"
+                  "imdbId": "tt0268978",
+                  "posterPath": "/images/posters/453.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 453,
                   "imdbId": "tt0268978"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/6159.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 2034,
                   "imdbId": "tt0139654"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/5292.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 1365,
                   "imdbId": "tt0285742"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4587.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 11889,
                   "imdbId": "tt0280778"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/388.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 453,
                   "imdbId": "tt0268978"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/6161.webp"
             }
           ],
           "nominees": [

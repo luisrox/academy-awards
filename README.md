@@ -32,16 +32,20 @@ git diff data/               # review the final artifacts
 
 If the ceremony introduces a new category, the build **fails on purpose** with the exact unmapped name. That is the signal to add it to the dictionary in `src/data/categories.ts` with its group and sort order, then run `npm run data:build` again.
 
-### Portraits for new winners
+### Posters and portraits for new winners
 
-`npm run images` searches TMDB for directing and acting winners and keeps an id only when that person appears in the winning film's credits. Results go to `data/people.json`, which is the only data file that may be edited by hand. A name already listed there — including `tmdbId: null` — is never re-resolved.
+`npm run images` searches TMDB for directing and acting winners and keeps an id only when that person appears in the winning film's credits. Results go to `data/people.json`. A name already listed there — including `tmdbId: null` — is never re-resolved.
 
-Editions that come from the official database (97th onward) have **no `tmdb_id`** on films. Without a film id the script cannot disambiguate a person, so those portraits will not download on their own. Fill `data/people.json` by hand (name, TMDB person id, film used as proof), then re-run `npm run images` to fetch the files. If several credited candidates share the name, the script prints them and leaves the row for you.
+Editions that come from the official database (97th onward) have **no `tmdb_id`** on films, because the Academy HTML lists titles only. There is no poster to download and no credit list to check a person against until the title itself is resolved, so `npm run images` looks up the Best Picture winner and the directing and acting winners' films first and writes them to `data/films.json`. A title is accepted only when the name matches exactly (ignoring case, accents and punctuation) and the release year is the film year or the one after it.
+
+`data/people.json` and `data/films.json` are the only data files that may be edited by hand; `normalize.ts` reads them instead of regenerating them. When more than one candidate survives, the script writes nothing and prints each candidate with its release date and vote count so the row can be settled by hand — that is how `The Brutalist` is pinned in `films.json`. When the sources spell one person two ways, keep both rows and point the variant at the canonical name with `aliasOf`.
+
+`data:check` warns when a Best Picture winner still has no TMDB id, since that one gap silently costs the whole edition its images.
 
 ## Checks
 
 ```bash
-npm test          # unit, component, and data integrity (D1–D19)
+npm test          # unit, component, and data integrity (D1–D21)
 npm run test:e2e  # journeys, axe, Lighthouse, CLS
 npm run data:check
 ```

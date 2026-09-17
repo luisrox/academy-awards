@@ -26,7 +26,8 @@
         "winner": "Jessie Buckley",
         "movie": "Hamnet"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1054867.webp"
   },
   {
     "slug": "2025",
@@ -55,7 +56,8 @@
         "winner": "Mikey Madison",
         "movie": "Anora"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1064213.webp"
   },
   {
     "slug": "2024",
@@ -84,7 +86,8 @@
         "winner": "Emma Stone",
         "movie": "Poor Things"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/872585.webp"
   },
   {
     "slug": "2023",
@@ -113,7 +116,8 @@
         "winner": "Michelle Yeoh",
         "movie": "Everything Everywhere All at Once"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/545611.webp"
   },
   {
     "slug": "2022",
@@ -142,7 +146,8 @@
         "winner": "Jessica Chastain",
         "movie": "The Eyes of Tammy Faye"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/776503.webp"
   },
   {
     "slug": "2021",
@@ -171,7 +176,8 @@
         "winner": "Frances McDormand",
         "movie": "Nomadland"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/581734.webp"
   },
   {
     "slug": "2020",
@@ -200,7 +206,8 @@
         "winner": "Renee Zellweger",
         "movie": "Judy"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/496243.webp"
   },
   {
     "slug": "2019",
@@ -229,7 +236,8 @@
         "winner": "Olivia Colman",
         "movie": "The Favourite"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/490132.webp"
   },
   {
     "slug": "2018",
@@ -258,7 +266,8 @@
         "winner": "Frances McDormand",
         "movie": "Three Billboards Outside Ebbing, Missouri"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/399055.webp"
   },
   {
     "slug": "2017",
@@ -287,7 +296,8 @@
         "winner": "Emma Stone",
         "movie": "La La Land"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/376867.webp"
   },
   {
     "slug": "2016",
@@ -316,7 +326,8 @@
         "winner": "Brie Larson",
         "movie": "Room"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/314365.webp"
   },
   {
     "slug": "2015",
@@ -345,7 +356,8 @@
         "winner": "Julianne Moore",
         "movie": "Still Alice"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/194662.webp"
   },
   {
     "slug": "2014",
@@ -374,7 +386,8 @@
         "winner": "Cate Blanchett",
         "movie": "Blue Jasmine"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/76203.webp"
   },
   {
     "slug": "2013",
@@ -403,7 +416,8 @@
         "winner": "Jennifer Lawrence",
         "movie": "Silver Linings Playbook"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/68734.webp"
   },
   {
     "slug": "2012",
@@ -432,7 +446,8 @@
         "winner": "Meryl Streep",
         "movie": "The Iron Lady"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/74643.webp"
   },
   {
     "slug": "2011",
@@ -461,7 +476,8 @@
         "winner": "Natalie Portman",
         "movie": "Black Swan"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/45269.webp"
   },
   {
     "slug": "2010",
@@ -490,7 +506,8 @@
         "winner": "Sandra Bullock",
         "movie": "The Blind Side"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/12162.webp"
   },
   {
     "slug": "2009",
@@ -519,7 +536,8 @@
         "winner": "Kate Winslet",
         "movie": "The Reader"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/12405.webp"
   },
   {
     "slug": "2008",
@@ -548,7 +566,8 @@
         "winner": "Marion Cotillard",
         "movie": "La Vie en Rose"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/6977.webp"
   },
   {
     "slug": "2007",
@@ -577,7 +596,8 @@
         "winner": "Helen Mirren",
         "movie": "The Queen"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1422.webp"
   },
   {
     "slug": "2006",
@@ -606,7 +626,8 @@
         "winner": "Reese Witherspoon",
         "movie": "Walk the Line"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1640.webp"
   },
   {
     "slug": "2005",
@@ -635,7 +656,8 @@
         "winner": "Hilary Swank",
         "movie": "Million Dollar Baby"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/70.webp"
   },
   {
     "slug": "2004",
@@ -664,7 +686,8 @@
         "winner": "Charlize Theron",
         "movie": "Monster"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/122.webp"
   },
   {
     "slug": "2003",
@@ -693,7 +716,8 @@
         "winner": "Nicole Kidman",
         "movie": "The Hours"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1574.webp"
   },
   {
     "slug": "2002",
@@ -722,7 +746,8 @@
         "winner": "Halle Berry",
         "movie": "Monster's Ball"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/453.webp"
   },
   {
     "slug": "2001",
@@ -751,7 +776,8 @@
         "winner": "Julia Roberts",
         "movie": "Erin Brockovich"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/98.webp"
   },
   {
     "slug": "2000",
@@ -780,7 +806,8 @@
         "winner": "Hilary Swank",
         "movie": "Boys Don't Cry"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/14.webp"
   },
   {
     "slug": "1999",
@@ -809,7 +836,8 @@
         "winner": "Gwyneth Paltrow",
         "movie": "Shakespeare in Love"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1934.webp"
   },
   {
     "slug": "1998",
@@ -838,7 +866,8 @@
         "winner": "Helen Hunt",
         "movie": "As Good as It Gets"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/597.webp"
   },
   {
     "slug": "1997",
@@ -867,7 +896,8 @@
         "winner": "Frances McDormand",
         "movie": "Fargo"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/409.webp"
   },
   {
     "slug": "1996",
@@ -896,7 +926,8 @@
         "winner": "Susan Sarandon",
         "movie": "Dead Man Walking"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/197.webp"
   },
   {
     "slug": "1995",
@@ -925,7 +956,8 @@
         "winner": "Jessica Lange",
         "movie": "Blue Sky"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/13.webp"
   },
   {
     "slug": "1994",
@@ -954,7 +986,8 @@
         "winner": "Holly Hunter",
         "movie": "The Piano"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/424.webp"
   },
   {
     "slug": "1993",
@@ -983,7 +1016,8 @@
         "winner": "Emma Thompson",
         "movie": "Howards End"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/33.webp"
   },
   {
     "slug": "1992",
@@ -1012,7 +1046,8 @@
         "winner": "Jodie Foster",
         "movie": "The Silence of the Lambs"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/274.webp"
   },
   {
     "slug": "1991",
@@ -1041,7 +1076,8 @@
         "winner": "Kathy Bates",
         "movie": "Misery"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/581.webp"
   },
   {
     "slug": "1990",
@@ -1070,7 +1106,8 @@
         "winner": "Jessica Tandy",
         "movie": "Driving Miss Daisy"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/403.webp"
   },
   {
     "slug": "1989",
@@ -1099,7 +1136,8 @@
         "winner": "Jodie Foster",
         "movie": "The Accused"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/380.webp"
   },
   {
     "slug": "1988",
@@ -1128,7 +1166,8 @@
         "winner": "Cher",
         "movie": "Moonstruck"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/746.webp"
   },
   {
     "slug": "1987",
@@ -1157,7 +1196,8 @@
         "winner": "Marlee Matlin",
         "movie": "Children of a Lesser God"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/792.webp"
   },
   {
     "slug": "1986",
@@ -1186,7 +1226,8 @@
         "winner": "Geraldine Page",
         "movie": "The Trip to Bountiful"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/606.webp"
   },
   {
     "slug": "1985",
@@ -1215,7 +1256,8 @@
         "winner": "Sally Field",
         "movie": "Places in the Heart"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/279.webp"
   },
   {
     "slug": "1984",
@@ -1244,7 +1286,8 @@
         "winner": "Shirley MacLaine",
         "movie": "Terms of Endearment"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/11050.webp"
   },
   {
     "slug": "1983",
@@ -1273,7 +1316,8 @@
         "winner": "Meryl Streep",
         "movie": "Sophie's Choice"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/783.webp"
   },
   {
     "slug": "1982",
@@ -1302,7 +1346,8 @@
         "winner": "Katharine Hepburn",
         "movie": "On Golden Pond"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/9443.webp"
   },
   {
     "slug": "1981",
@@ -1331,7 +1376,8 @@
         "winner": "Sissy Spacek",
         "movie": "Coal Miner's Daughter"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/16619.webp"
   },
   {
     "slug": "1980",
@@ -1360,7 +1406,8 @@
         "winner": "Sally Field",
         "movie": "Norma Rae"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/12102.webp"
   },
   {
     "slug": "1979",
@@ -1389,7 +1436,8 @@
         "winner": "Jane Fonda",
         "movie": "Coming Home"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/11778.webp"
   },
   {
     "slug": "1978",
@@ -1418,7 +1466,8 @@
         "winner": "Diane Keaton",
         "movie": "Annie Hall"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/703.webp"
   },
   {
     "slug": "1977",
@@ -1447,7 +1496,8 @@
         "winner": "Faye Dunaway",
         "movie": "Network"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1366.webp"
   },
   {
     "slug": "1976",
@@ -1476,7 +1526,8 @@
         "winner": "Louise Fletcher",
         "movie": "One Flew Over the Cuckoo's Nest"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/510.webp"
   },
   {
     "slug": "1975",
@@ -1505,7 +1556,8 @@
         "winner": "Ellen Burstyn",
         "movie": "Alice Doesn't Live Here Anymore"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/240.webp"
   },
   {
     "slug": "1974",
@@ -1534,7 +1586,8 @@
         "winner": "Glenda Jackson",
         "movie": "A Touch of Class"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/9277.webp"
   },
   {
     "slug": "1973",
@@ -1563,7 +1616,8 @@
         "winner": "Liza Minnelli",
         "movie": "Cabaret"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/238.webp"
   },
   {
     "slug": "1972",
@@ -1592,7 +1646,8 @@
         "winner": "Jane Fonda",
         "movie": "Klute"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1051.webp"
   },
   {
     "slug": "1971",
@@ -1621,7 +1676,8 @@
         "winner": "Glenda Jackson",
         "movie": "Women in Love"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/11202.webp"
   },
   {
     "slug": "1970",
@@ -1650,7 +1706,8 @@
         "winner": "Maggie Smith",
         "movie": "The Prime of Miss Jean Brodie"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/3116.webp"
   },
   {
     "slug": "1969",
@@ -1679,7 +1736,8 @@
         "winner": "Katharine Hepburn",
         "movie": "The Lion in Winter"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/17917.webp"
   },
   {
     "slug": "1968",
@@ -1708,7 +1766,8 @@
         "winner": "Katharine Hepburn",
         "movie": "Guess Who's Coming to Dinner"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/10633.webp"
   },
   {
     "slug": "1967",
@@ -1737,7 +1796,8 @@
         "winner": "Elizabeth Taylor",
         "movie": "Who's Afraid of Virginia Woolf?"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/874.webp"
   },
   {
     "slug": "1966",
@@ -1766,7 +1826,8 @@
         "winner": "Julie Christie",
         "movie": "Darling"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/15121.webp"
   },
   {
     "slug": "1965",
@@ -1795,7 +1856,8 @@
         "winner": "Julie Andrews",
         "movie": "Mary Poppins"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/11113.webp"
   },
   {
     "slug": "1964",
@@ -1824,7 +1886,8 @@
         "winner": "Patricia Neal",
         "movie": "Hud"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/5769.webp"
   },
   {
     "slug": "1963",
@@ -1853,7 +1916,8 @@
         "winner": "Anne Bancroft",
         "movie": "The Miracle Worker"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/947.webp"
   },
   {
     "slug": "1962",
@@ -1882,7 +1946,8 @@
         "winner": "Sophia Loren",
         "movie": "Two Women"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/1725.webp"
   },
   {
     "slug": "1961",
@@ -1911,7 +1976,8 @@
         "winner": "Elizabeth Taylor",
         "movie": "BUtterfield 8"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/284.webp"
   },
   {
     "slug": "1960",
@@ -1940,7 +2006,8 @@
         "winner": "Simone Signoret",
         "movie": "Room at the Top"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/665.webp"
   },
   {
     "slug": "1959",
@@ -1969,7 +2036,8 @@
         "winner": "Susan Hayward",
         "movie": "I Want to Live!"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/17281.webp"
   },
   {
     "slug": "1958",
@@ -1998,7 +2066,8 @@
         "winner": "Joanne Woodward",
         "movie": "The Three Faces of Eve"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/826.webp"
   },
   {
     "slug": "1957",
@@ -2027,7 +2096,8 @@
         "winner": "Ingrid Bergman",
         "movie": "Anastasia"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/2897.webp"
   },
   {
     "slug": "1956",
@@ -2056,7 +2126,8 @@
         "winner": "Anna Magnani",
         "movie": "The Rose Tattoo"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/15919.webp"
   },
   {
     "slug": "1955",
@@ -2085,7 +2156,8 @@
         "winner": "Grace Kelly",
         "movie": "The Country Girl"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/654.webp"
   },
   {
     "slug": "1954",
@@ -2114,7 +2186,8 @@
         "winner": "Audrey Hepburn",
         "movie": "Roman Holiday"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/11426.webp"
   },
   {
     "slug": "1953",
@@ -2143,7 +2216,8 @@
         "winner": "Shirley Booth",
         "movie": "Come Back, Little Sheba"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/27191.webp"
   },
   {
     "slug": "1952",
@@ -2172,7 +2246,8 @@
         "winner": "Vivien Leigh",
         "movie": "A Streetcar Named Desire"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/2769.webp"
   },
   {
     "slug": "1951",
@@ -2201,7 +2276,8 @@
         "winner": "Judy Holliday",
         "movie": "Born Yesterday"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/705.webp"
   },
   {
     "slug": "1950",
@@ -2230,7 +2306,8 @@
         "winner": "Olivia de Havilland",
         "movie": "The Heiress"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/25430.webp"
   },
   {
     "slug": "1949",
@@ -2259,7 +2336,8 @@
         "winner": "Jane Wyman",
         "movie": "Johnny Belinda"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/23383.webp"
   },
   {
     "slug": "1948",
@@ -2288,7 +2366,8 @@
         "winner": "Loretta Young",
         "movie": "The Farmer's Daughter"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/33667.webp"
   },
   {
     "slug": "1947",
@@ -2317,7 +2396,8 @@
         "winner": "Olivia de Havilland",
         "movie": "To Each His Own"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/887.webp"
   },
   {
     "slug": "1946",
@@ -2346,7 +2426,8 @@
         "winner": "Joan Crawford",
         "movie": "Mildred Pierce"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/28580.webp"
   },
   {
     "slug": "1945",
@@ -2375,7 +2456,8 @@
         "winner": "Ingrid Bergman",
         "movie": "Gaslight"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/17661.webp"
   },
   {
     "slug": "1944",
@@ -2404,7 +2486,8 @@
         "winner": "Jennifer Jones",
         "movie": "The Song of Bernadette"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/289.webp"
   },
   {
     "slug": "1943",
@@ -2433,7 +2516,8 @@
         "winner": "Greer Garson",
         "movie": "Mrs. Miniver"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/27367.webp"
   },
   {
     "slug": "1942",
@@ -2462,7 +2546,8 @@
         "winner": "Joan Fontaine",
         "movie": "Suspicion"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/43266.webp"
   },
   {
     "slug": "1941",
@@ -2491,7 +2576,8 @@
         "winner": "Ginger Rogers",
         "movie": "Kitty Foyle"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/223.webp"
   },
   {
     "slug": "1940",
@@ -2520,7 +2606,8 @@
         "winner": "Vivien Leigh",
         "movie": "Gone with the Wind"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/770.webp"
   },
   {
     "slug": "1939",
@@ -2549,7 +2636,8 @@
         "winner": "Bette Davis",
         "movie": "Jezebel"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/34106.webp"
   },
   {
     "slug": "1938",
@@ -2578,7 +2666,8 @@
         "winner": "Luise Rainer",
         "movie": "The Good Earth"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/43278.webp"
   },
   {
     "slug": "1937",
@@ -2607,7 +2696,8 @@
         "winner": "Luise Rainer",
         "movie": "The Great Ziegfeld"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/43277.webp"
   },
   {
     "slug": "1936",
@@ -2636,7 +2726,8 @@
         "winner": "Bette Davis",
         "movie": "Dangerous"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/12311.webp"
   },
   {
     "slug": "1935",
@@ -2665,7 +2756,8 @@
         "winner": "Claudette Colbert",
         "movie": "It Happened One Night"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/3078.webp"
   },
   {
     "slug": "1934",
@@ -2694,7 +2786,8 @@
         "winner": "Katharine Hepburn",
         "movie": "Morning Glory"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/56164.webp"
   },
   {
     "slug": "1932",
@@ -2723,7 +2816,8 @@
         "winner": "Helen Hayes",
         "movie": "The Sin of Madelon Claudet"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/33680.webp"
   },
   {
     "slug": "1931",
@@ -2752,7 +2846,8 @@
         "winner": "Marie Dressler",
         "movie": "Min and Bill"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/42861.webp"
   },
   {
     "slug": "1930-3rd",
@@ -2781,7 +2876,8 @@
         "winner": "Norma Shearer",
         "movie": "The Divorcee"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/143.webp"
   },
   {
     "slug": "1930-2nd",
@@ -2810,7 +2906,8 @@
         "winner": "Mary Pickford",
         "movie": "Coquette"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/65203.webp"
   },
   {
     "slug": "1929",
@@ -2839,6 +2936,7 @@
         "winner": "Janet Gaynor",
         "movie": "7th Heaven"
       }
-    ]
+    ],
+    "posterPath": "/images/posters/28966.webp"
   }
 ]

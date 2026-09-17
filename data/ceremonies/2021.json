@@ -24,7 +24,8 @@
                 {
                   "title": "Nomadland",
                   "tmdbId": 581734,
-                  "imdbId": "tt9770150"
+                  "imdbId": "tt9770150",
+                  "posterPath": "/images/posters/581734.webp"
                 }
               ]
             }
@@ -130,7 +131,8 @@
                   "tmdbId": 581734,
                   "imdbId": "tt9770150"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1395183.webp"
             }
           ],
           "nominees": [
@@ -204,7 +206,8 @@
                   "tmdbId": 600354,
                   "imdbId": "tt10272386"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4173.webp"
             }
           ],
           "nominees": [
@@ -272,7 +275,8 @@
                   "tmdbId": 581734,
                   "imdbId": "tt9770150"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3910.webp"
             }
           ],
           "nominees": [
@@ -340,7 +344,8 @@
                   "tmdbId": 583406,
                   "imdbId": "tt9784798"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/206919.webp"
             }
           ],
           "nominees": [
@@ -408,7 +413,8 @@
                   "tmdbId": 615643,
                   "imdbId": "tt10633456"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1080935.webp"
             }
           ],
           "nominees": [

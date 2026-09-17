@@ -107,7 +107,7 @@ describe("CeremonyOverlay", () => {
     expect(document.querySelector("[data-poster-slot]")).toBeTruthy();
   });
 
-  it("shows the Best Picture poster in the 96th header and the fallback in the 98th", () => {
+  it("shows the Best Picture poster when there is one and a monogram when there is not", () => {
     const ninetySixth = getCeremonyDetail("2024");
     if (!ninetySixth) throw new Error("missing 2024 fixture");
     const withPoster = structuredClone(ninetySixth);
@@ -126,10 +126,11 @@ describe("CeremonyOverlay", () => {
     expect(img).toHaveAttribute("height", "216");
     unmount();
 
-    render(<CeremonyOverlay detail={getCeremonyDetail("2026")!} />);
+    delete movie.posterPath;
+    render(<CeremonyOverlay detail={withPoster} />);
     const fallback = document.querySelector("[data-poster-slot]");
     expect(fallback?.querySelector("img")).toBeNull();
-    expect(fallback?.textContent).toMatch(/^OB$/);
+    expect(fallback?.textContent).toMatch(/^OP$/);
   });
 
   it("renders a typographic monogram when a directing or acting winner has no portrait", () => {
@@ -458,13 +459,13 @@ describe("CeremonyOverlay", () => {
     const ceremony = ceremonyBySlug("2024");
     if (!ceremony) throw new Error("missing 2024");
     render(<CeremonyOverlay detail={fixture({ ceremony })} />);
-    const panel = document.querySelector("[data-overlay-panel]");
-    if (!panel) throw new Error("missing overlay panel");
+    const scroller = document.querySelector("[data-overlay-scroll]");
+    if (!scroller) throw new Error("missing overlay scroller");
 
-    fireEvent.touchStart(panel, {
+    fireEvent.touchStart(scroller, {
       changedTouches: [{ clientX: 200, clientY: 80 }],
     });
-    fireEvent.touchEnd(panel, {
+    fireEvent.touchEnd(scroller, {
       changedTouches: [{ clientX: 80, clientY: 80 }],
     });
     expect(mockPush).toHaveBeenCalledWith("/2025", { scroll: false });
@@ -501,6 +502,9 @@ describe("CeremonyOverlay", () => {
     expect(previous).toHaveClass("h-10", "w-10", "rounded-pill", "absolute");
     expect(previous).not.toHaveClass("deco-frame");
     expect(next).not.toHaveClass("deco-frame");
+    expect(panel?.className).toMatch(/overflow-hidden/);
+    expect(panel?.className).not.toMatch(/overflow-y-auto/);
+    expect(dialog.querySelector("[data-overlay-scroll]")).toBeTruthy();
   });
 
   it("does not close the overlay when clicking an edition arrow", () => {

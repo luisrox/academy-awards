@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 import { z } from "zod";
 import {
   ceremonyDetailSchema,
+  filmLinkSchema,
   gridEntrySchema,
   parseData,
   personLinkSchema,
@@ -13,6 +14,7 @@ import {
   type GridEntry,
 } from "@/lib/schemas";
 import { DATA_DIR } from "./lib/cache";
+import { filmMappingErrors, loadFilms } from "./lib/films";
 import { loadPeople, peopleMappingErrors, strayPortraitPaths } from "./lib/people";
 import {
   IMAGES_BUDGET_BYTES,
@@ -75,6 +77,13 @@ export function dataWarnings(args: {
     if (movie?.tmdbId != null && !movie.posterPath) {
       warnings.push(
         `Missing Best Picture poster for ${detail.ceremony.ordinal} (${detail.ceremony.slug}) tmdb ${movie.tmdbId}`,
+      );
+    }
+    // Without an id there is no poster to fetch and no credit list to prove a
+    // portrait, so an unresolved title costs the edition every image it has.
+    if (movie !== undefined && movie.tmdbId == null) {
+      warnings.push(
+        `Best Picture film "${movie.title}" for ${detail.ceremony.ordinal} (${detail.ceremony.slug}) has no TMDB id; run npm run images to resolve it into data/films.json`,
       );
     }
   }
@@ -169,6 +178,12 @@ export async function checkDataDir(
   const mappingErrors = peopleMappingErrors(people);
   if (mappingErrors.length > 0) {
     throw new Error(mappingErrors.join("; "));
+  }
+  const films = loadFilms(dataDir);
+  parseData(z.array(filmLinkSchema), films, "films.json");
+  const filmErrors = filmMappingErrors(films);
+  if (filmErrors.length > 0) {
+    throw new Error(filmErrors.join("; "));
   }
   const stray = strayPortraitPaths(details);
   if (stray.length > 0) {

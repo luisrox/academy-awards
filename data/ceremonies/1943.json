@@ -24,7 +24,8 @@
                 {
                   "title": "Mrs. Miniver",
                   "tmdbId": 27367,
-                  "imdbId": "tt0035093"
+                  "imdbId": "tt0035093",
+                  "posterPath": "/images/posters/27367.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 27367,
                   "imdbId": "tt0035093"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10001.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 3087,
                   "imdbId": "tt0035575"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/5788.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 27367,
                   "imdbId": "tt0035093"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/93805.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 41495,
                   "imdbId": "tt0033774"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/18803.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 27367,
                   "imdbId": "tt0035093"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/7663.webp"
             }
           ],
           "nominees": [

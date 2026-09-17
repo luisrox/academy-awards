@@ -24,7 +24,8 @@
                 {
                   "title": "Rebecca",
                   "tmdbId": 223,
-                  "imdbId": "tt0032976"
+                  "imdbId": "tt0032976",
+                  "posterPath": "/images/posters/223.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 596,
                   "imdbId": "tt0032551"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8500.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 981,
                   "imdbId": "tt0032904"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/854.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 77744,
                   "imdbId": "tt0032671"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/30003.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 14710,
                   "imdbId": "tt0033253"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4302.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 596,
                   "imdbId": "tt0032551"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/8515.webp"
             }
           ],
           "nominees": [

@@ -24,7 +24,8 @@
                 {
                   "title": "12 Years a Slave",
                   "tmdbId": 76203,
-                  "imdbId": "tt2024544"
+                  "imdbId": "tt2024544",
+                  "posterPath": "/images/posters/76203.webp"
                 }
               ]
             }
@@ -142,7 +143,8 @@
                   "tmdbId": 49047,
                   "imdbId": "tt1454468"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/11218.webp"
             }
           ],
           "nominees": [
@@ -216,7 +218,8 @@
                   "tmdbId": 152532,
                   "imdbId": "tt0790636"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/10297.webp"
             }
           ],
           "nominees": [
@@ -284,7 +287,8 @@
                   "tmdbId": 160588,
                   "imdbId": "tt2334873"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/112.webp"
             }
           ],
           "nominees": [
@@ -352,7 +356,8 @@
                   "tmdbId": 152532,
                   "imdbId": "tt0790636"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/7499.webp"
             }
           ],
           "nominees": [
@@ -420,7 +425,8 @@
                   "tmdbId": 76203,
                   "imdbId": "tt2024544"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1267329.webp"
             }
           ],
           "nominees": [

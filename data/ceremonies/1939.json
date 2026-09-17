@@ -24,7 +24,8 @@
                 {
                   "title": "You Can't Take It with You",
                   "tmdbId": 34106,
-                  "imdbId": "tt0030993"
+                  "imdbId": "tt0030993",
+                  "posterPath": "/images/posters/34106.webp"
                 }
               ]
             }
@@ -154,7 +155,8 @@
                   "tmdbId": 34106,
                   "imdbId": "tt0030993"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/2662.webp"
             }
           ],
           "nominees": [
@@ -228,7 +230,8 @@
                   "tmdbId": 42390,
                   "imdbId": "tt0029942"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/12147.webp"
             }
           ],
           "nominees": [
@@ -296,7 +299,8 @@
                   "tmdbId": 1976,
                   "imdbId": "tt0030287"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3380.webp"
             }
           ],
           "nominees": [
@@ -364,7 +368,8 @@
                   "tmdbId": 118889,
                   "imdbId": "tt0030317"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/4302.webp"
             }
           ],
           "nominees": [
@@ -432,7 +437,8 @@
                   "tmdbId": 1976,
                   "imdbId": "tt0030287"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/20366.webp"
             }
           ],
           "nominees": [

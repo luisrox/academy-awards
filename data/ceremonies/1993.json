@@ -24,7 +24,8 @@
                 {
                   "title": "Unforgiven",
                   "tmdbId": 33,
-                  "imdbId": "tt0105695"
+                  "imdbId": "tt0105695",
+                  "posterPath": "/images/posters/33.webp"
                 }
               ]
             }
@@ -94,7 +95,8 @@
                   "tmdbId": 33,
                   "imdbId": "tt0105695"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/190.webp"
             }
           ],
           "nominees": [
@@ -168,7 +170,8 @@
                   "tmdbId": 9475,
                   "imdbId": "tt0105323"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/1158.webp"
             }
           ],
           "nominees": [
@@ -236,7 +239,8 @@
                   "tmdbId": 8293,
                   "imdbId": "tt0104454"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/7056.webp"
             }
           ],
           "nominees": [
@@ -304,7 +308,8 @@
                   "tmdbId": 33,
                   "imdbId": "tt0105695"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/193.webp"
             }
           ],
           "nominees": [
@@ -372,7 +377,8 @@
                   "tmdbId": 10377,
                   "imdbId": "tt0104952"
                 }
-              ]
+              ],
+              "portraitPath": "/images/people/3141.webp"
             }
           ],
           "nominees": [
